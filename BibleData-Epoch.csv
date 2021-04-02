@@ -1,0 +1,1992 @@
+﻿epoch_id,epoch_name,epoch_description,epoch_type,person_id,start_year_ah,end_year_ah,period_length,start_year_calculation,start_year_offset,start_year_reference_id,end_year_calculation,end_year_reference_id,period_length_reference_id,epoch_notes
+Creation,The Creation,All of Creation was formed by G-d's spoken word. (GEN 1:1-31),Unique,G-d_1,1,,,,,,,,,Seven days of creation (GEN 2:2)
+Life_Adam_1,The Life of Adam,"God created man in His own image, in the image of God He created him; male and female He created them. (GEN 1:27)
+God saw all that He had made, and behold, it was very good. And there was evening and there was morning, the sixth day. (GEN 1:31)
+[Adam was created (not born) on the 6th day.]
+
+So all the days that Adam lived were nine hundred and thirty years, and he died. (GEN 5:5)",Life,Adam_1,1,931,930,,,GEN 1:27,Adam_1 birth year (1) + Adam_1 age at death (930) = 931,,GEN 5:5,
+Life_Seth_1,The Life of Seth,"When Adam had lived one hundred and thirty years, he became the father of a son in his own likeness, according to his image, and named him Seth. (GEN 5:3)
+
+So all the days of Seth were nine hundred and twelve years, and he died. (GEN 5:5)",Life,Seth_1,131,1043,912,Birth year of father (1) + age of father at son's birth (130) = 131,130,GEN 5:3,Seth_1 birth year (131) + Seth_1 age at death (912) = 1043,,GEN 5:8,
+Life_Enosh_1,The Life of Enosh,"Seth lived one hundred and five years, and became the father of Enosh. (GEN 5:6)
+ 
+So all the days of Enosh were nine hundred and five years, and he died. (GEN 5:11)",Life,Enosh_1,236,1141,905,Birth year of father (131) + age of father at son's birth (105) = 236,105,GEN 5:6,Enosh_1 birth year (236) + Enosh_1 age at death (905) = 1141,,GEN 5:11,
+Life_Kenan_1,The Life of Kenan,"Enosh lived ninety years, and became the father of Kenan. (GEN 5:9)
+ 
+So all the days of Kenan were nine hundred and ten years, and he died. (GEN 5:14)",Life,Kenan_1,326,1236,910,Birth year of father (236) + age of father at son's birth (90) = 326,90,GEN 5:9,Kenan_1 birth year (326) + Kenan_1 age at death (910) = 1236,,GEN 5:14,
+Life_Mahalalel_1,The Life of Mahalalel,"Kenan lived seventy years, and became the father of Mahalalel. (GEN 5:12)
+
+So all the days of Mahalalel were eight hundred and ninety-five years, and he died. (GEN 5:17)",Life,Mahalalel_1,396,1291,895,Birth year of father (326) + age of father at son's birth (70) = 396,70,GEN 5:12,Mahalalel_1 birth year (396) + Mahalalel_1 age at death (895) = 1291,,GEN 5:17,
+Life_Jared_1,The Life of Jared,"Mahalalel lived sixty-five years, and became the father of Jared. (GEN 5:15)
+
+So all the days of Jared were nine hundred and sixty-two years, and he died. (GEN 5:20)",Life,Jared_1,461,1423,962,Birth year of father (396) + age of father at son's birth (65) = 461,65,GEN 5:15,Jared_1 birth year (461) + Jared_1 age at death (962) = 1423,,GEN 5:20,
+Life_Enoch_2,The Life of Enoch,"Jared lived one hundred and sixty-two years, and became the father of Enoch. (GEN 5:18)
+
+So all the days of Enoch were three hundred and sixty-five years. (GEN 5:23)
+Enoch walked with God; and he was not, for God took him. (GEN 5:24)
+
+[Note that Enoch did not die but was ""taken"".]
+ ",Life,Enoch_2,623,988,365,Birth year of father (461) + age of father at son's birth (162) = 623,162,GEN 5:18,Enoch_2 birth year (623) + Enoch_2 age at death (365) = 988,,GEN 5:23,
+Life_Methuselah_1,The Life of Methuselah,"Enoch lived sixty-five years, and became the father of Methuselah. (GEN 5:21)
+ 
+So all the days of Methuselah were nine hundred and sixty-nine years, and he died. (GEN 5:27)
+[Methuselah lived 969 years, longer than any other person born.  
+Methuselah died just before the time of the Flood.]
+ ",Life,Methuselah_1,688,1657,969,Birth year of father (623) + age of father at son's birth (65) = 688,65,GEN 5:21,Methuselah_1 birth year (688) + Methuselah_1 age at death (969) = 1657,,GEN 5:27,
+Life_Lamech_2,The Life of Lamech,"Methuselah lived one hundred and eighty-seven years, and became the father of Lamech. (GEN 5:25)
+ 
+So all the days of Lamech were seven hundred and seventy-seven years, and he died. (GEN 5:31)",Life,Lamech_2,875,1652,777,Birth year of father (688) + age of father at son's birth (187) = 875,187,GEN 5:25,Lamech_2 birth year (875) + Lamech_2 age at death (777) = 1652,,GEN 5:31,
+Life_Noah_1,The Life of Noah,"Lamech lived one hundred and eighty-two years, and became the father of a son. Now he called his name Noah, saying, ""This one will give us rest from our work and from the toil of our hands arising from the ground which the LORD has cursed."" (GEN 5:28-29)
+ 
+Noah lived three hundred and fifty years after the flood. (GEN 9:28)
+[The Flood occurred in the 600th year of Noah's life
+  600 years
++350 years
+=950 years]",Life,Noah_1,1057,2007,950,Birth year of father (875) + age of father at son's birth (182) = 1057,182,GEN 5:28,Noah_1 birth year (1057) + Noah_1 age at death (950) = 2007,,GEN 9:28,
+Life_Shem_1,The Life of Shem,"Noah was five hundred years old, and Noah became the father of Shem, Ham, and Japheth. (GEN 5:32)
+[Which son was born first?  Ham is the youngest (GEN 9:22, 24) and Shem is called the older brother of Japheth (GEN 10:21), so Shem is the oldest born to Noah when he was 500... or 500-ish.]
+
+In the six hundredth year of Noah’s life, in the second month, on the seventeenth day of the month, on the same day all bthe fountains of the great deep burst open, and the floodgates of the sky were opened. (GEN 7:11)
+These are the records of the generations of Shem. Shem was one hundred years old, and became the father of Arpachshad two years after the flood. (GEN 11:10)
+[Two years after the Flood, Shem is 100 years old.  Two years after the Flood started, Noah would have been 602.  This means that Shem was born 100 years prior, in the 502nd year of Noah's life.]
+ 
+and Shem lived five hundred years, after he became the father of Arpachshad, and he had other sons and daughters. (GEN 11:11)
+[  100 years up to Arpachshad's birth (GEN 11:10)
+ +500 years after Arpachshad's birth (GEN 11:11)
+ =600 years]",Life,Shem_1,1559,2159,600,Birth year of father (1057) + age of father at son's birth (502) = 1559,502,GEN 5:32,Shem_1 birth year (1559) + Shem_1 age at death (600) = 2159,,GEN 11:11,"The Flood began when Noah was 600 (GEN 7:11). 
+Two years after the Flood began, Noah was 602 years old. (math)
+Two years after the Flood began, Shem is 100 years old and sires Arpachshad (GEN 11:10).
+This means that Shem was born 100 years prior, in the 502nd year of Noah's life."
+The_Flood,The Flood,"In the six hundredth year of Noah's life, in the second month, on the seventeenth day of the month, on the same day all the fountains of the great deep burst open, and the floodgates of the sky were opened. The rain fell upon the earth for forty days and forty nights. (GEN 7:11-12)
+ 
+Now it came about in the six hundred and first year, in the first month, on the first of the month, the water was dried up from the earth. Then Noah removed the covering of the ark, and looked, and behold, the surface of the ground was dried up. (GEN 8:13)",Unique,,1657,1658,1,Birth year of Noah (1057) + Noah's age at the time of the Flood (600) = 1657,600,GEN 7:11,Flood start year (1657) + 1 elapsed year at end = 1658,,GEN 8:13,
+Life_Arpachshad_1,The Life of Arpachshad,"These are the records of the generations of Shem. Shem was one hundred years old, and became the father of Arpachshad two years after the flood; (GEN 11:10)
+[Shem was 100 years old when Arpachshad was born... two years after the Flood.]
+ 
+Arpachshad lived thirty-five years, and became the father of Shelah; and Arpachshad lived four hundred and three years after he became the father of Shelah, and he had other sons and daughters. (GEN 11:12-13)
+ [     35 years 
+ +403 years 
+ =438 years]",Life,Arpachshad_1,1659,2097,438,Birth year of father (1559) + age of father at son's birth (100) = 1659,100,GEN 11:10,Arpachshad_1 birth year (1659) + Arpachshad_1 age at death (438) = 2097,,GEN 11:13,
+Life_Shelah_1,The Life of Shelah,"Arpachshad lived thirty-five years, and became the father of Shelah; (GEN 11:12)
+ 
+Shelah lived thirty years, and became the father of Eber; and Shelah lived four hundred and three years after he became the father of Eber, and he had other sons and daughters. (GEN 11:14-15)
+[    30 years 
+ +403 years 
+ =433 years]",Life,Shelah_1,1694,2127,433,Birth year of father (1659) + age of father at son's birth (35) = 1694,35,GEN 11:12,Shelah_1 birth year (1694) + Shelah_1 age at death (433) = 2127,,GEN 11:15,
+Life_Eber_1,The Life of Eber,"Shelah lived thirty years, and became the father of Eber; (GEN 11:14)
+ 
+Eber lived thirty-four years, and became the father of Peleg; and Eber lived four hundred and thirty years after he became the father of Peleg, and he had other sons and daughters. (GEN 11:16-17)
+[    34 years 
+ +430 years 
+ =464 years]",Life,Eber_1,1724,2188,464,Birth year of father (1694) + age of father at son's birth (30) = 1724,30,GEN 11:14,Eber_1 birth year (1724) + Eber_1 age at death (464) = 2188,,GEN 11:16,
+Life_Peleg_1,The Life of Peleg,"Eber lived thirty-four years, and became the father of Peleg; (GEN 11:16)
+ 
+Peleg lived thirty years, and became the father of Reu; and Peleg lived two hundred and nine years after he became the father of Reu, and he had other sons and daughters. (GEN 11:18-19)
+[    30 years 
+ +209 years 
+ =239 years]",Life,Peleg_1,1758,1997,239,Birth year of father (1724) + age of father at son's birth (34) = 1758,34,GEN 11:16,Peleg_1 birth year (1758) + Peleg_1 age at death (239) = 1997,,GEN 11:19,
+Life_Reu_1,The Life of Reu,"Peleg lived thirty years, and became the father of Reu; (GEN 11:18)
+ 
+Reu lived thirty-two years, and became the father of Serug; and Reu lived two hundred and seven years after he became the father of Serug, and he had other sons and daughters. (GEN 11:20)
+ 
+[    32 years 
+ +207 years 
+ =239 years]",Life,Reu_1,1788,2027,239,Birth year of father (1758) + age of father at son's birth (30) = 1788,30,GEN 11:18,Reu_1 birth year (1788) + Reu_1 age at death (239) = 2027,,GEN 11:21,
+Life_Serug_1,The Life of Serug,"Reu lived thirty-two years, and became the father of Serug; (GEN 11:20)
+
+Serug lived thirty years, and became the father of Nahor; and Serug lived two hundred and seven years after he became the father of Nahor, and he had other sons and daughters. (GEN 11:22)
+[    30 years 
+ +200 years 
+ =230 years]",Life,Serug_1,1820,2050,230,Birth year of father (1788) + age of father at son's birth (32) = 1820,32,GEN 11:20,Serug_1 birth year (1820) + Serug_1 age at death (230) = 2050,,GEN 11:23,
+Life_Nahor_1,The Life of Nahor,"Serug lived thirty years, and became the father of Nahor; (GEN 11:22)
+
+Nahor lived twenty-nine years, and became the father of Terah; and Nahor lived one hundred and nineteen years after he became the father of Terah, and he had other sons and daughters. (GEN 11:24)
+[    29 years 
+ +119 years 
+ =148 years]",Life,Nahor_1,1850,1998,148,Birth year of father (1820) + age of father at son's birth (30) = 1850,30,GEN 11:22,Nahor_1 birth year (1850) + Nahor_1 age at death (148) = 1998,,GEN 11:25,"Terah lived seventy years, and became the father of Abram, Nahor and Haran. (GEN 11:26)
+Terah was at least 70 years old when Abram was born.
+The days of Terah were two hundred and five years; and Terah died in Haran. (GEN 11:32)
+Terah died in Haran at the age of 205 in Haran.
+Now Abram was seventy-five years old when he departed from Haran. (GEN 12:4)
+Terah was 205 when he died in Haran and Abram (aged 75) left Haran when Terah died (Acts 7:4). This means Terah was 130 when Abram was born."
+Life_Terah_1,The Life of Terah,"Nahor lived twenty-nine years, and became the father of Terah; (GEN 11:24)
+
+The days of Terah were two hundred and five years and Terah died in Haran. (GEN 11:32)",Life,Terah_1,1879,2084,205,Birth year of father (1850) + age of father at son's birth (29) = 1879,29,GEN 11:24,Terah_1 birth year (1879) + Terah_1 age at death (205) = 2084,,GEN 11:32,
+Life_Abram_1,The Life of Abraham,"Terah lived seventy years, and became the father of Abram, Nahor and Haran. (GEN 11:26)
+[Who was born first?  Terah was at least 70 years old when Abram was born.]
+ 
+The days of Terah were two hundred and five years; and Terah died in Haran. (GEN 11:32)
+[Terah died in Haran at the age of 205 in Haran.]
+ 
+Now Abram was seventy-five years old when he departed from Haran. (GEN 12:4)
+[Terah was 205 when he died in Haran and Abram (aged 75) left Haran when Terah died (Acts 7:4).
+This means Terah was 130 when Abram was born.]
+ 
+These are all the years of Abraham's life that he lived, one hundred and seventy-five years.  (GEN 25:7)",Life,Abram_1,2009,2184,175,Birth year of father (1879) + age of father at son's birth (130) = 2009,130,GEN 12:4,Abram_1 birth year (2009) + Abram_1 age at death (175) = 2184,,GEN 25:7,
+Life_Sarai_1,The Life of Sarah,"Then Abraham fell on his face and laughed, and said in his heart, “Will a child be born to a man one hundred years old? And will Sarah, who is ninety years old, bear a child?” (GEN 17:17)
+[Sarah was 90 when Abraham was 100 so Sarah was 10 years younger than Abraham.]
+ 
+Now Sarah lived one hundred and twenty-seven years; these were the years of the life of Sarah. (GEN 23:1)",Life,Sarai_1,2019,2146,127,Birth year of Abram_1 (2009) + age diff between him and Sarai_1 (10) = 2019,10,GEN 17:17,Sarai_1 birth year (2019) + Sarai_1 age at death (127) = 2146,,GEN 23:1,Sarah was 10 years younger than Abraham (GEN 17:17)
+Between_Promise_and_Covenant,The 430 years between the Promise and the Covenant,"Now the promises were spoken to Abraham and to his seed. He does not say, ""And to seeds,"" as referring to many, but rather to one, ""And to your seed,"" that is, Christ. What I am saying is this: the Law, which came four hundred and thirty years later, does not invalidate a covenant previously ratified by God, so as to nullify the promise.  (GAL 3:16-17)
+
+[The giving of the Law at Mt. Sinai (51 days after the Exodus from Egypt) was 430 years after the giving of the promise to Abram.]",Unique,,2025,2455,430,Year of the Promise (2025)† + years to the Exodus (430) = 2455,,,Year of the Exodus (2455),,GAL 3:17,
+Life_Ishmael_1,The Life of Ishmael,"Abram was eighty-six years old when Hagar bore Ishmael to him. (GEN 16:16)
+
+These are the years of the life of Ishmael, one hundred and thirty-seven years; and he breathed his last and died, and was gathered to his people.  (GEN 25:17)",Life,Ishmael_1,2095,2232,137,Birth year of father (2009) + age of father at son's birth (86) = 2095,86,GEN 16:16,Ishmael_1 birth year (2095) + Ishmael_1 age at death (137) = 2232,,GEN 25:17,
+Life_Isaac_1,The Life of Isaac,"Now Abraham was one hundred years old when his son Isaac was born to him. (GEN 21:5)
+
+Now the days of Isaac were one hundred and eighty years.  (GEN 35:28)
+ ",Life,Isaac_1,2119,2299,180,Birth year of father (2019) + age of father at son's birth (100) = 2119,100,GEN 21:5,Isaac_1 birth year (2119) + Isaac_1 age at death (180) = 2299,,GEN 35:28,
+Shem_alive_during_Isaacs_life,Shem's life during Isaac's lifetime,"[Isaac was born when Shem was 550 years old and Shem lived to an age of 600 years.
+ 
+Abraham and Isaac could have heard about the Flood first-hand from Shem!]
+ ",Period,Shem_1,2119,2159,40,Birth year of Isaac (2119),,GEN 21:5,death year of Shem (2159),GEN 11:11,,
+Period_oppression_slavery,The period of oppression and slavery,"God said to Abram, ""Know for certain that your descendants will be strangers in a land that is not theirs, where they will be enslaved and oppressed four hundred years.  (GEN 15:13)
+[From his birth, Isaac was a stranger in a land that was not his.
+Ishmael oppressed and mocked him from the time he was weaned (GEN 21:9-10).]
+ ",Period,,2055,2455,400,Year of the Exodus (2455) + years back to the start of the prophecy (-400) = 2055,-400,,Year of the Exodus (2455),,GEN 15:13,
+Life_Jacob_1,The Life of Jacob,"Now the first came forth red, all over like a hairy garment; and they named him Esau. Afterward his brother came forth with his hand holding on to Esau's heel, so his name was called Jacob; and Isaac was sixty years old when she gave birth to them. (GEN 25:25-26)
+
+Jacob lived in the land of Egypt seventeen years; so the length of Jacob's life was one hundred and forty-seven years.  (GEN 47:28)",Life,Jacob_1,2179,2326,147,Birth year of father (2119) + age of father at son's birth (60) = 2179,60,GEN 25:26,Jacob_1 birth year (2179) + Jacob_1 age at death (147) = 2326,,GEN 47:28,
+Life_Levi_1,The Life of Levi*,"She conceived again and bore a son and said, “Now this time my husband will become attached to me, because I have borne him three sons.” Therefore he was named Levi. (GEN 29:34)
+[Eliezer Shulman's ""The Sequence of Events in the Old Testament"" (page 28) places Levi's birth in the year 2195 AM, 3 years after Leah is given to Jacob in marriage.
+ *This date is oral history informed by logic.]
+
+These are the names of the sons of Levi according to their generations: Gershon and Kohath and Merari; and the length of Levi's life was one hundred and thirty-seven years.  (EXO 6:16)",Life,Levi_1,2197,2334,137,Jacob and Leah married (2194)† + 3 years to Levi's birth,3,GEN 29:34,Levi_1 birth year (2197) + Levi_1 age at death (137) = 2334,,EXO 6:16,
+Life_Joseph_1,The Life of Joseph,"She named him Joseph, saying, “May the LORD give me another son.” (GEN 30:24)
+Now Joseph was thirty years old when he stood before Pharaoh, king of Egypt. And Joseph went out from the presence of Pharaoh and went through all the land of Egypt. (GEN 41:46)
+[Joseph is made Pharoah at age 30.
+ Joseph would have been 37 at the end of the seven years of plenty. (by math)]
+ 
+For the famine has been in the land these two years, and there are still five years in which there will be neither plowing nor harvesting. (GEN 45:6)
+[Jacob goes to Egypt two years into the seven years of famine.
+ Joseph would have been 39 (math).]
+ 
+So Jacob said to Pharaoh, “The years of my sojourning are one hundred and thirty; few and unpleasant have been the years of my life, nor have they attained the years that my fathers lived during the days of their sojourning.” (GEN 47:9)
+[Jacob was 130 when he entered the land and Joseph was 39. Therefore, Jacob was 91 when Joseph was born.]
+ 
+So Joseph died at the age of one hundred and ten years; and he was embalmed and placed in a coffin in Egypt.  (GEN 50:26)",Life,Joseph_1,2270,2380,110,Birth year of father (2179) + age of father at son's birth (91) = 2270,91,GEN 30:24,Joseph_1 birth year (2270) + Joseph_1 age at death (110) = 2380,,GEN 50:26,
+Time_of_plenty,Seven years of plenty,"During the seven years of plenty the land brought forth abundantly. (GEN 41:47)
+[This assumes the seven years of plenty began the same year Joseph was made viceroy.]
+ ",Period,,2231,2238,7,Year that Joseph was made viceroy (2231)†,,GEN 41:47,Period of plenty begins (2231) + 7 years for the period,,,
+Time_of_famine,Seven years of famine,"When the seven years of plenty which had been in the land of Egypt came to an end, and the seven years of famine began to come, just as Joseph had said, then there was famine in all the lands, but in all the land of Egypt there was bread. (GEN 41:53-54)
+[This assumes the seven years of plenty began the same year Joseph was made viceroy and the seven years of famine began the year after.]
+ ",Period,,2238,2245,7,Year the period of famine ended (2238),,GEN 41:53,Period of famine begins (2238) + 7 years for the period,,,
+Israel_sojourns_in_Egypt,Israelites sojourned in Egypt*,"[They left Egypt in the month Xanthicus, on the fifteenth day of the lunar month; four hundred and thirty years after our forefather Abraham came into Canaan, but two hundred and fifteen years only after Jacob removed into Egypt. (Josephus' Antiquities, Book 2, Chapter 15, 2)
+ 
+Josephus says the Hebrews left Egypt 215 years after Jacob moved there.
+Josephus' statement (along with similar statements in the Septuagint and the Samaritan Pentateuch) often causes confusion but simply reflects the 215-year period of time between when Jacob went down to Egypt in the second year of the seven-year famine and the Exodus.
+ ",Period,,2240,2455,215,Year Jacob moves to Egypt during the famine (2240)† + 215 years to the Exodus = 2455,,,,,,
+Life_Kohath_1,The Life of Kohath*,"Now these are the names of the sons of Israel, Jacob and his sons, who went to Egypt: Reuben, Jacob's firstborn... The sons of Levi: Gershon, Kohath, and Merari. (GEN 46:8, 11) 
+[Kohath was already born when the Israelites went down to Egypt.
+Eliezer Shulman's ""The Sequence of Events in the Old Testament"" (page 41) places Kohath's birth in the year 2238AM, when Levi is 43 years old.]
+ 
+The sons of Kohath: Amram and Izhar and Hebron and Uzziel; and the length of Kohath’s life was one hundred and thirty-three years. (EXO 6:18)
+ ",Life,Kohath_1,2240,2373,133,Birth year of father (2197) + age of father at son's birth (43) = 2240,43,GEN 46:11,Kohath_1 birth year (2240) + Kohath_1 age at death (133) = 2373,,EXO 6:18,
+Life_Amram_1,The Life of Amram*,"The sons of Kohath: Amram and Izhar and Hebron and Uzziel; and the length of Kohath’s life was one hundred and thirty-three years. (EXO 6:18)
+[Amram is not counted among the Israelites who travel down to Egypt with the 70 so he was born AFTER that event.
+Eliezer Shulman's ""The Sequence of Events in the Old Testament"" (page 44) places Kohath's birth in the year 2255AM (his date for Jacob's death) and Kohath was 17 years(???) old.]
+ 
+Amram married his father’s sister Jochebed, and she bore him Aaron and Moses; and the length of Amram’s life was one hundred and thirty-seven years. (EXO 6:20)
+ ",Life,Amram_1,2326,2463,137,Year of Jacob's death (2326),,,Amram_1 birth year (2326) + Amram_1 age at death (137) = 2463,,EXO 6:20,
+Life_Aaron_1,The Life of Aaron,"Moses was eighty years old and Aaron eighty-three, when they spoke to Pharaoh. (EXO 7:7)
+[Aaron was 83 when they spoke with Pharoah at the time of the Exodus so Aaron was born 83 years BEFORE the Exodus.]
+ 
+Aaron was one hundred twenty-three years old when he died on Mount Hor.  (NUM 33:39)",Life,Aaron_1,2372,2495,123,Year of the Exodus (2455)† -83 years back to his birth = 2372,-83,EXO 7:7,Aaron_1 birth year (2372) + Aaron_1 age at death (123) = 2495,,,
+Life_Moses_1,The Life of Moses,"The child grew, and she brought him to Pharaoh’s daughter and he became her son. And she named him Moses, and said, “Because I drew him out of the water.” (EXO 2:10)
+Moses was eighty years old and Aaron eighty-three, when they spoke to Pharaoh. (EXO 7:7)
+[Moses was 80 when they spoke with Pharoah at the time of the Exodus so Moses was born 80 years before the Exodus.]
+ 
+Although Moses was one hundred and twenty years old when he died, his eye was not dim, nor his vigor abated.  (DEU 34:7)
+ ",Life,Moses_1,2375,2495,120,Year of the Exodus (2455)† -80 years back to his birth = 2375,-80,EXO 2:10,Moses_1 birth year (2375) + Moses_1 age at death (120) = 2495,,DEU 34:7,
+Life_Joshua_1,The Life of Joshua*,"It came about after these things that Joshua the son of Nun, the servant of the LORD, died, being one hundred and ten years old.  (JOS 24:29)
+[*Joshua's birth date was calculated by working backward 110 years from Joshua's estimated death date.]",Life,Joshua_1,,,,,,,,,,
+Life_Caleb_1,The Life of Caleb*,"I was forty years old when Moses the servant of the LORD sent me from Kadesh-barnea to spy out the land, and I brought word back to him as it was in my heart.  (JOS 14:7)
+[Caleb was 40 years old when he was sent to spy out the Land.
+ * We have estimated his age at death at 110 (similar to Joshua's).]",Life,Caleb_1,,,,,,,,,,
+Wandering_wilderness,Israel's wandering in the wilderness,"The sons of Israel ate the manna forty years, until they came to an inhabited land; they ate the manna until they came to the border of the land of Canaan.  (EXO 16:35)
+'Your sons shall be shepherds for forty years in the wilderness, and they will suffer for your unfaithfulness, until your corpses lie in the wilderness. 'According to the number of days which you spied out the land, forty days, for every day you shall bear your guilt a year, even forty years, and you will know My opposition.  (NUM 14:33-34)
+""So the LORD'S anger burned against Israel, and He made them wander in the wilderness forty years, until the entire generation of those who had done evil in the sight of the LORD was destroyed.  (NUM 32:13)
+For the sons of Israel walked forty years in the wilderness, until all the nation, that is, the men of war who came out of Egypt, perished because they did not listen to the voice of the LORD, to whom the LORD had sworn that He would not let them see the land which the LORD had sworn to their fathers to give us, a land flowing with milk and honey.  (JOS 5:6)
+[40 years after the Exodus and 38 years after they left Sinai, the Israelites entered the Land.]
+ ",Travel,,,,,,,,,,,
+Exodus_to_Temple,Exodus to the start of Solomon's Temple,"Now it came about in the four hundred and eightieth year after the sons of Israel came out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month of Ziv which is the second month, that he began to build the house of the LORD.  (1KI 6:1)
+ 
+ 480 years after the Exodus, Solomon began to build the Temple.
+ ",Period,,2455,,,,,,,,,
+Heshbon_to_Jair,From Heshbon to Jair,"While Israel lived in Heshbon and its villages, and in Aroer and its villages, and in all the cities that are on the banks of the Arnon, three hundred years, why did you not recover them within that time? (JDG 11:26)
+[When did Israel take these cities and villages?]
+ 
+Israel took all these cities and Israel lived in all the cities of the Amorites, in Heshbon, and in all her villages. (NUM 21:25) 
+""Ataroth, Dibon, Jazer, Nimrah, Heshbon, Elealeh, Sebam, Nebo and Beon, the land which the LORD conquered before the congregation of Israel, is a land for livestock, and your servants have livestock."" (NUM 32:3-4)
+Israel captured Heshbon and Aroer (east of the Jordan) the year before they entered the Land. Israel began a new year and celebrated Passover only a few days later. (JOS 5:10)
+[Jephthah made this statement in the first year of Jair's judgeship at the beginning of the Amorites affliction of Gilead. (JDG 10:8)]
+ ",Period,,,,,,,,,,,
+Conquest_of_the_Land,The Conquest of the Land,"Now behold, the LORD has let me live, just as He spoke, these forty-five years, from the time that the LORD spoke this word to Moses, when Israel walked in the wilderness; and now behold, I am eighty-five years old today. (JOS 14:10)
+[Caleb is 85 years old at the end of the conquest when the Israelites are apportioning the Land and he is 78 when the Israelites enter the Land and begin the conquest. The conquest of the Land took 7 years (math).
+Eliezer Shulman's ""The Sequence of Events in the Old Testament"" (page 107).]",Unique,,,,,,,,,,,
+Apportioning_the_Land,Apportioning the Land,"Apportioning the Land- The Sequence of Events in the Old Testament, Shulman, p107.
+ ",Unique,,,,,,,,,,,
+850_year_period,850 years until the destruction of the first temple,"850 years from the time Israel entered the Land until the destruction of the 1st temple.
+ Seder Olam, p116
+ ",Period,,,,,,,,,,,
+Joshua_leads_Israel,Joshua leads Israel,"Joshua led the nation of Israel for 13 years after the conquest of the Land (a total of 20 years)
+ 
+ The Seder Olam has Joshua leading the nation of Israel for 28 years. p121.
+ ",Period,,,,,,,,,,,
+Israel_bondage_Cushan,Israel in bondage to Cushan,"And they buried him [Joshua] in the territory of his inheritance in Timnath-heres, in the hill country of Ephraim, north of Mount Gaash. All that generation also were gathered to their fathers; and there arose another generation after them who did not know the LORD, nor yet the work which He had done for Israel. (JDG 2:9-10)
+ 
+ This does not say a generation later but that another generation arose to power.
+ Joshua died and another generation came to power.
+ 
+ Then the anger of the LORD was kindled against Israel, so that He sold them into the hands of Cushan-rishathaim king of Mesopotamia; and the sons of Israel served Cushan-rishathaim eight years. (JOS 3:8)
+ ",Bondage,,,,,,,,,,,
+Othniel_judges,Othniel judges,"When the sons of Israel cried to the LORD, the LORD raised up a deliverer for the sons of Israel to deliver them, Othniel the son of Kenaz, Caleb's younger brother.  (JDG 3:9)
+ 
+ Then the land had rest forty years. And Othniel the son of Kenaz died.  (JDG 3:11)
+ Shulman, p110
+ ",Judge,,,,,,,,,,,
+Israel_bondage_Eglon,Israel in bondage to Eglon," Now the sons of Israel again did evil in the sight of the LORD. So the LORD strengthened Eglon the king of Moab against Israel, because they had done evil in the sight of the LORD. And he gathered to himself the sons of Ammon and Amalek; and he went and defeated Israel, and they possessed the city of the palm trees.  (JDG 3:12-13)
+ 
+ Eglon defeated Israel.
+ 
+  The sons of Israel served Eglon the king of Moab eighteen years. (JDG 3:14)
+ ",Bondage,,,,,,,,,,,
+Ehud_judges,Ehud judges,"But when the sons of Israel cried to the LORD, the LORD raised up a deliverer for them, Ehud the son of Gera, the Benjamite, a left-handed man. And the sons of Israel sent tribute by him to Eglon the king of Moab.  (JDG 3:15)
+ 
+ So Moab was subdued that day under the hand of Israel. And the land was undisturbed for eighty years.  (JDG 3:30)
+ Shulman, p110
+ ",Judge,,,,,,,,,,,
+Israel_bondage_Jabin,Israel in bondage to Jabin/Sisera,"Then the sons of Israel again did evil in the sight of the LORD, after Ehud died. And the LORD sold them into the hand of Jabin king of Canaan, who reigned in Hazor; and the commander of his army was Sisera, who lived in Harosheth-hagoyim.  (JDG 4:1-2)
+ 
+ Jabin/Sisera ruled over Israel.
+ 
+ The sons of Israel cried to the LORD; for he had nine hundred iron chariots, and he oppressed the sons of Israel severely for twenty years.  (JDG 4:3)
+ ",Bondage,,,,,,,,,,,
+Deborah_judges,Deborah judges,"Now Deborah, a prophetess, the wife of Lappidoth, was judging Israel at that time.  (JDG 4:4)
+  And behold, as Barak pursued Sisera, Jael came out to meet him and said to him, ""Come, and I will show you the man whom you are seeking."" And he entered with her, and behold Sisera was lying dead with the tent peg in his temple.  (JDG 4:22)
+ So God subdued on that day Jabin the king of Canaan before the sons of Israel.  (JDG 4:23)
+ 
+ ""Thus let all Your enemies perish, O LORD; But let those who love Him be like the rising of the sun in its might."" And the land was undisturbed for forty years.  (JDG 3:30)
+ Shulman, p110
+ ",Judge,,,,,,,,,,,
+Israel_bondage_Midian,Israel in bondage to Midian,"Then the sons of Israel did what was evil in the sight of the LORD; and the LORD gave them into the hands of Midian seven years.  (JDG 6:1)
+ ",Bondage,,,,,,,,,,,
+Gideon_judges,Gideon judges,"Then the angel of the LORD came and sat under the oak that was in Ophrah, which belonged to Joash the Abiezrite as his son Gideon was beating out wheat in the wine press in order to save it from the Midianites.  (JDG 6:11)
+ 
+ So Midian was subdued before the sons of Israel, and they did not lift up their heads anymore. And the land was undisturbed for forty years in the days of Gideon.  (JDG 8:28)
+ 
+ Shulman, p110
+ ",Judge,,,,,,,,,,,
+Abimelech_rules,Abimelech rules,"And Abimelech the son of Jerubbaal [i.e. Gideon] went to Shechem to his mother's relatives, and spoke to them and to the whole clan of the household of his mother's father, saying, ""Speak, now, in the hearing of all the leaders of Shechem, 'Which is better for you, that seventy men, all the sons of Jerubbaal, rule over you, or that one man rule over you?' Also, remember that I am your bone and your flesh.""  (JDG 9:1-2)
+ 
+ Now Abimelech ruled over Israel three years.  (JDG 9:22)
+ He killed the other seventy sons of his father in order to rule.
+ 
+ When the men of Israel saw that Abimelech was dead, each departed to his home. Thus God repaid the wickedness of Abimelech, which he had done to his father in killing his seventy brothers. (JDG 9:55-56)
+ 
+ Abimelech was the first ""ruler"" of Israel.
+ 
+ Shulman, p110
+ ",Reign,,,,,,,,,,,
+Tola_judges,Tola judges,"Now after Abimelech died, Tola the son of Puah, the son of Dodo, a man of Issachar, arose to save Israel; and he lived in Shamir in the hill country of Ephraim. He judged Israel twenty-three years. Then he died and was buried in Shamir.  (JDG 10:1-2)
+ 
+ Shulman, p110
+ ",Judge,,,,,,,,,,,
+Jair_judges,Jair judges,"After him, Jair the Gileadite arose and judged Israel twenty-two years.  (JDG 10:3)
+ 
+ Shulman, p110
+ ",Judge,,,,,,,,,,,
+Israel_bondage_Ammonites,Israel in bondage to Ammonites,"Then the sons of Israel again did evil in the sight of the LORD, served the Baals and the Ashtaroth, the gods of Aram, the gods of Sidon, the gods of Moab, the gods of the sons of Ammon, and the gods of the Philistines; thus they forsook the LORD and did not serve Him. The anger of the LORD burned against Israel, and He sold them into the hands of the Philistines and into the hands of the sons of Ammon.  (JDG 10:6-7)
+ 
+ They afflicted and crushed the sons of Israel that year; for eighteen years they afflicted all the sons of Israel who were beyond the Jordan in Gilead in the land of the Amorites.  (JDG 10:8)
+ 
+ So Jephthah crossed over to the sons of Ammon to fight against them; and the LORD gave them into his hand. He struck them with a very great slaughter from Aroer to the entrance of Minnith, twenty cities, and as far as Abel-keramim. So the sons of Ammon were subdued before the sons of Israel.  (JDG 11:32-33)
+ ",Bondage,,,,,,,,,,,
+Jephthah_judges,Jephthah judges,"When the sons of Ammon fought against Israel, the elders of Gilead went to get Jephthah from the land of Tob; and they said to Jephthah, ""Come and be our chief that we may fight against the sons of Ammon.""  (JDG 11:5-6)
+ 
+ Jephthah judged Israel six years . Then Jephthah the Gileadite died and was buried in one of the cities of Gilead.  (JDG 12:7)
+ Shulman, p110
+ ",Judge,,,,,,,,,,,
+Ibzan_judges,Ibzan judges,"Jephthah judged Israel six years. Then Jephthah the Gileadite died and was buried in one of the cities of Gilead. Now Ibzan of Bethlehem judged Israel after him.  (JDG 12:7-8)
+ 
+ Now Ibzan of Bethlehem judged Israel after him. He had thirty sons, and thirty daughters whom he gave in marriage outside the family, and he brought in thirty daughters from outside for his sons. And he judged Israel seven years. Then Ibzan died and was buried in Bethlehem.  (JDG 12:8-10)
+ 
+ Shulman, p110
+ ",Judge,,,,,,,,,,,
+Elon_judges,Elon judges,"Then Ibzan died and was buried in Bethlehem. Now Elon the Zebulunite judged Israel after him; and he judged Israel ten years.  (JDG 12:10-11) 
+ 
+ Shulman, p110
+ ",Judge,,,,,,,,,,,
+Abdon_judges,Abdon judges,"Then Elon the Zebulunite died and was buried at Aijalon in the land of Zebulun. Now Abdon the son of Hillel the Pirathonite judged Israel after him.  (JDG 12:12-13) 
+ 
+ Now Abdon the son of Hillel the Pirathonite judged Israel after him. He had forty sons and thirty grandsons who rode on seventy donkeys; and he judged Israel eight years.  (JDG 12:13-14) 
+ Shulman, p110
+ ",Judge,,,,,,,,,,,
+Israel_bondage_Philistines,Israel in bondage to Philistines,"Now the sons of Israel again did evil in the sight of the LORD, so that the LORD gave them into the hands of the Philistines forty years.  (JDG 13:1)
+ ",Bondage,,,,,,,,,,,
+Samson_judges,Samson judges,"Then the woman gave birth to a son and named him Samson; and the child grew up and the LORD blessed him.  (JDG 13:24) 
+ 
+ So he judged Israel twenty years in the days of the Philistines.  (JDG 15:20) 
+ 
+ Shulman, p110
+ ",Judge,,,,,,,,,,,
+Life_Saul_1,The Life of Saul,"Saul was 59 when he began to reign for 2 years (Shulman).
+ 
+ Saul reigns in 1042 BCE.
+ 1042 BCE - 59 years = 1101 BCE.
+ Calculating backwards from the date of Saul's reign.
+ 
+ Saul's reign ended when he died in battle.
+ 
+ 2884 AM (Shulman)- 1040 BCE
+ 
+ Saul lived 61 years: 1101-1040 BCE",Life,,,,,,,,,,,
+Eli_judges,Eli judges,"When he mentioned the ark of God, Eli fell off the seat backward beside the gate, and his neck was broken and he died, for he was old and heavy. Thus he judged Israel forty years.  (1SA 4:18) 
+ 
+ Shulman, p110
+ ",Judge,,,,,,,,,,,
+Life_David_1,The Life of David,"David was thirty years old when he became king, and he reigned forty years.  (2SA 5:4) 
+ 
+ David takes the throne in 1040.
+ 1040 BCE -30 years = 1070 BCE.
+ David was born in 1070 BCE.
+ 
+ Shulman, p114
+ 
+ David lived 70 years: 1070-1000 BCE",Life,,,,,,,,,,,
+Ark_at_Kiriath-Jearim,The Ark is at Kiriath-Jearim,"And the men of Kiriath-jearim came and took the ark of the LORD and brought it into the house of Abinadab on the hill, and consecrated Eleazar his son to keep the ark of the LORD. From the day that the ark remained at Kiriath-jearim, the time was long, for it was twenty years; and all the house of Israel lamented after the LORD.  (1SA 7:1-2) 
+ 
+ Shulman, p110
+ ",Travel,,,,,,,,,,,
+Samuel_judges,Samuel judges,"Shulman, p110
+ 
+ Samuel judges 13 years: 1052-1039 BCE",Judge,,,,,,,,,,,
+Reign_of_Saul,The Reign of Saul,"A son of a year is Saul in his reigning, even lt;strong>two years 
+ he has reigned over Israel.  (1SA 13:1) 
+ 
+ Saul reigned for 2 years: 1042-1040 BCE
+ 
+ Shulman, p114",Reign,,,,,,,,,,,
+Reign_of_David,The Reign of David,"David was thirty years old when he became king, and he 
+ reigned forty years.  (2SA 5:4) 
+ 
+ David reigns 40 years: 1040-1000 BCE
+ 
+ Shulman, p114",Reign,,,,,,,,,,,
+David_reigns_in_Hebron,David reigns in Hebron,"The days that David reigned over Israel were forty years: seven years 
+ he reigned in Hebron and thirty-three years he reigned in Jerusalem.  (1KI 2:11) 
+ 
+ David reigned for 7 years in Hebron: 1040-1033 BCE",Reign,,,,,,,,,,,
+David_reigns_in_Jerusalem,David reigns in Jerusalem,"The days that David reigned over Israel were forty years: seven years he reigned in 
+ Hebron and thirty-three years he reigned in Jerusalem.  (1KI 2:11) 
+ 
+ David reigned for 33 years in Jerusalem: 1033-1000 BCE",Reign,,,,,,,,,,,
+Life_Solomon_1,The Life of Solomon,"Ancient tradition teaches that Solomon took the throne at 12 years of age.
+ 
+ Solomon took the throne the year David died (1000 BCE).
+ 1000 BCE - 12 years = 1012 BCE.
+ 
+ Solomon was born in 1012 BCE.
+ 
+ Solomon lived 70 years: 1012-961 BCE",Life,,,,,,,,,,,
+Reign_of_Solomon,The Reign of Solomon,"Now it came about in the four hundred and eightieth year 
+ after the sons of Israel came out of the land of Egypt, in the fourth year
+ of Solomon's reign over Israel, in the month of Ziv which is the second month, that he began 
+ to build the house of the LORD.  (1KI 6:1) 
+ 
+ The Exodus occurred in 1476 BCE.
+ 1476BC + 480 years = 996 BCE.
+ The fourth year of Solomon's reign was in 996 BCE.
+ 996 BCE - 4 years= 1000 BCE.
+ 
+ Solomon began to reign in 1000 BCE.
+ 
+ Thus the time that Solomon reigned in Jerusalem over all Israel was lt;strong>forty
+ year.  (1KI 11:42) 
+ 
+ Solomon reigned for 40 years: 1000-960 BCE
+ 
+ Shulman, p115",Reign,,,,,,,,,,,
+First_Temple_constructed,First Temple constructed,"Now it came about in the four hundred and eightieth year 
+ after the sons of Israel came out of the land of Egypt, in the fourth 
+ year of Solomon's reign over Israel, in the month of Ziv which is the second 
+ month, that he began to build the house of the LORD.  (1KI 6:1) 
+ 
+ The Exodus occurred in 1476 BCE.
+ 1476BC + 480 years = 996 BCE.
+ The fourth year of Solomon's reign when construction began on the Temple was in 996 BCE.
+ 
+  In the eleventh year, in the month of Bul, which is the eighth month, the house was 
+ finished throughout all its parts and according to all its plans. So he was seven 
+ years in building it.  (1KI 6:38) 
+ 
+ Solomon's temple took 7 years to construct.
+ 
+ First Temple constructed in 7 years: 996-989 BCE
+ 
+ Shulman, p115",Construction,,,,,,,,,,,
+Reign_of_Jereboam,The Reign of Jereboam,"It came about when all Israel heard that Jeroboam had returned, that they sent 
+ and called him to the assembly and made him king over all Israel. None but the tribe of 
+ Judah followed the house of David.  (1KI 12:20) 
+ 
+ Upon returning from exile, Jereboam reigned in Israel after Solomon. 
+ 
+ The time that Jeroboam reigned was twenty-two years; 
+ and he slept with his fathers, and Nadab his son reigned in his place.  (1KI 14:20) 
+ 
+ Jereboam reigned in Israel for 22 years: 961-940 BCE
+ 
+ Shulman, p121",Reign,,,,,,,,,,,
+Reign_of_Rehoboam,The Reign of Rehoboam,"Thus the time that Solomon reigned in Jerusalem over all Israel was forty years. And 
+ Solomon slept with his fathers and was buried in the city of his father David, and his son 
+ Rehoboam reigned in his place.  (1KI 11:42-43) 
+ 
+ Rehoboam reigned after Solomon. 
+ 
+ Now Rehoboam the son of Solomon reigned in Judah. Rehoboam was forty-one years old 
+ when he became king, and he reigned seventeen years in Jerusalem, 
+ the city which the LORD had chosen from all the tribes of Israel to put His name there. And 
+ his mother's name was Naamah the Ammonitess.  (1KI 14:21) 
+ 
+ Rehoboam reigned in Judah for 17 years: 961-944 BCE
+ 
+ Shulman, p121",Reign,,,,,,,,,,,
+Ahijah_prophesies,Ahijah prophesies,"1KI 4:3 
+ 1KI 11:29-30 
+ 1KI 12:15 
+ 1KI 14:1-18 
+ 
+ Ahijah prophesies 22 years: 961-939 BCE
+ 
+ Shulman, p83",Prophet,,,,,,,,,,,
+Reign_of_Abijam,The Reign of Abijam,"And Rehoboam slept with his fathers and was buried with his fathers in the city of 
+ David; and his mother's name was Naamah the Ammonitess. And Abijam his son became king in his 
+ place.  (1KI 14:31) 
+ 
+ Now in the eighteenth year of King Jeroboam, the son of 
+ Nebat, Abijam became king over Judah.  (1KI 14:31) 
+ 
+ Abijam reigned in Judah after Rehoboam in the 18th year of Jereboam's reign. 
+ 
+  He reigned three years in Jerusalem; and his mother's 
+ name was Maacah the daughter of Abishalom.  (1KI 15:2) 
+ 
+ Abijam reigned in Judah for 3 years: 944-941 BCE
+ 
+ Shulman, p121",Reign,,,,,,,,,,,
+Reign_of_Asa,The Reign of Asa,"And Abijam slept with his fathers and they buried him in the city of David; and Asa 
+ his son became king in his place.  (1KI 15:8) 
+ 
+ Asa reigned in Judah after Abijam. 
+ 
+  He reigned forty-one years in Jerusalem; and his 
+ mother's name was Maacah the daughter of Abishalom.  (1KI 15:10) 
+ 
+ Asa reigned in Judah for 41 years: 941-901 BCE 
+ 
+ Shulman, p121",Reign,,,,,,,,,,,
+Reign_of_Nadab,The Reign of Nadab,"The time that Jeroboam reigned was twenty-two years; and he slept with his fathers, and Nadab his son reigned in his place.  (1KI 14:20) 
+ 
+ Now Nadab the son of Jeroboam became king over Israel in the second year of Asa king of Judah, and he reigned over Israel two years.  (1KI 15:25) 
+ 
+ Nadab reigned in Israel after Jereboam. 
+ 
+ Now Nadab the son of Jeroboam became king over Israel in the second year of Asa king of Judah, and he reigned over Israel two years.  (1KI 15:25) 
+ 
+ Nadab reigned in Israel for 2 years: 940-938 BCE 
+ 
+ Shulman, p121",Reign,,,,,,,,,,,
+Reign_of_Baasha,The Reign of Baasha,"Then Baasha the son of Ahijah of the house of Issachar conspired against him, and Baasha struck him down at Gibbethon, which belonged to the Philistines, while Nadab and all Israel were laying siege to Gibbethon. So Baasha killed him in the third year of Asa king of Judah and reigned in his place.  (1KI 15:27-28) 
+ 
+ Baasha took the throne and reigned in Israel in the third year of Asa. 
+ 
+  In the third year of Asa king of Judah, Baasha the son of Ahijah became king over all Israel at Tirzah, and reigned twenty-four years.  (1KI 15:33) 
+ 
+ Baasha reigned in Israel for 24 years: 938-915 BCE 
+ 
+ Shulman, p121",Reign,,,,,,,,,,,
+Jehu_prophesies,Jehu prophesies,"1KI 16:1-7 
+ 1KI 19:15-18 
+ 
+ Jehu prophesies 23 years: 938-915 BCE
+ 
+ Shulman, p83",Prophet,,,,,,,,,,,
+Reign_of_Elah,The Reign of Elah,"And Baasha slept with his fathers and was buried in Tirzah, and Elah his son became king in his place.  (1KI 16:6) 
+ 
+ In the twenty-sixth year of Asa king of Judah, Elah the son of Baasha became king over Israel at Tirzah, and reigned two years.  (1KI 16:8) 
+ 
+ Elah took the throne after Baasha and reigned in Israel in the twenty-sixth year of Asa. 
+ 
+ In the twenty-sixth year of Asa king of Judah, Elah the son of Baasha became king over Israel at Tirzah, and reigned two years.  (1KI 16:8) 
+ 
+ Elah reigned in Israel for 2 years: 916-914 BCE 
+ 
+ Shulman, p121",Reign,,,,,,,,,,,
+Reign_of_Zimri,The Reign of Zimri,"His [Elah's] servant Zimri, commander of half his chariots, conspired against him. Now he was at Tirzah drinking himself drunk in the house of Arza, who was over the household at Tirzah. Then Zimri went in and struck him and put him to death in the twenty-seventh year of Asa king of Judah, and became king in his place.  (1KI 15:9-10) 
+ 
+ Zimri took the throne of Israel in the twenty-seventh year of Asa. 
+ 
+ In the twenty-seventh year of Asa king of Judah, Zimri reigned seven days at Tirzah. Now the people were camped against Gibbethon, which belonged to the Philistines. The people who were camped heard it said, ""Zimri has conspired and has also struck down the king."" Therefore all Israel made Omri, the commander of the army, king over Israel that day in the camp. Then Omri and all Israel with him went up from Gibbethon and besieged Tirzah.
+ 
+ When Zimri saw that the city was taken, he went into the citadel of the king's house and burned the king's house over him with fire, and died, because of his sins which he sinned, doing evil in the sight of the LORD, walking in the way of Jeroboam, and in his sin which he did, making Israel sin.  (1KI 16:15-19) 
+ 
+ Zimri reigned in Israel for 7 days: 914 BCE 
+ 
+ Shulman, p121",Reign,,,,,,,,,,,
+Reign_of_Tibni,The Reign of Tibni,"Then the people of Israel were divided into two parts: half of the people followed Tibni the son of Ginath, to make him king; the other half followed Omri.  (1KI 16:21) 
+ 
+ Tibni and Omri ruled at the same time 
+ 
+ But the people who followed Omri prevailed over the people who followed Tibni the son of Ginath. And Tibni died and Omri became king.  (1KI 16:22) 
+ 
+ The Hebrew phrasing of 1KI 16:23 indicates that Omri reigned alone in the 31st year of of Asa indicating that is when Tibni died. 
+ 
+ Tibni reigns in Israel 5 years: 914-911 BCE 
+ 
+ Shulman, p121",Reign,,,,,,,,,,,
+Reign_of_Omri,The Reign of Omri,"Then the people of Israel were divided into two parts: half of the people followed Tibni the son of Ginath, to make him king; the other half followed Omri.  (1KI 16:21) 
+ 
+ Tibni and Omri ruled at the same time 
+ 
+ But the people who followed Omri prevailed over the people who followed Tibni the son of Ginath. And Tibni died and Omri became king. 
+ In the thirty-first year of Asa king of Judah, Omri became king over Israel and reigned twelve years; he reigned six years at Tirzah.  (1KI 16:22-23) 
+ 
+ Omri reigns in Israel 12 years: 914-903 BCE 
+ 
+ Shulman, p121",Reign,,,,,,,,,,,
+Reign_of_Ahab,The Reign of Ahab,"So Omri slept with his fathers and was buried in Samaria; and Ahab his son became king in his place. 
+ Now Ahab the son of Omri became king over Israel in the thirty-eighth year of Asa king of Judah, and Ahab the son of Omri reigned over Israel in Samaria twenty-two years.  (1KI 16:28-29) 
+ 
+ Ahab began to reign in the 38th year of Asa's reign. 
+ 
+ Now Ahab the son of Omri became king over Israel in the thirty-eighth year of Asa king of Judah, and Ahab the son of Omri reigned over Israel in Samaria twenty-two years.  (1KI 16:29) 
+ 
+ Ahab reigned in Israel for 22 years: 904-882 BCE 
+ 
+ Shulman, p121",Reign,,,,,,,,,,,
+Reign_of_Jehoshaphat,The Reign of Jehoshaphat,"Now Jehoshaphat the son of Asa became king over Judah in the fourth 
+ year of Ahab king of Israel.  (1KI 22:41) 
+ 
+ Jehoshaphat became king in the 4th year of Ahab's reign.
+ 
+ Jehoshaphat was thirty-five years old when he became king, and he reigned 
+ twenty-five years in Jerusalem. And his mother's name was Azubah 
+ the daughter of Shilhi.  (1KI 22:42) 
+ 
+ Jehoshaphat reigned in Judah for 25 years: 900-875 BCE 
+ 
+ Shulman, p122",Reign,,,,,,,,,,,
+Elijah_prophesies,Elijah prophesies,"1KI 17-21 
+ 
+ Elijah prophesies 9 years: 890-881 BCE
+ 
+ Shulman, p83",Prophet,,,,,,,,,,,
+Micaiah_prophesies,Micaiah prophesies,"1KI 22 
+ 
+ Micaiah prophesies 1 year: 882-881 BCE
+ 
+ Shulman, p83",Prophet,,,,,,,,,,,
+Elisha_prophesies,Elisha prophesies,"1KI 19:15-21 
+ 2KI 2-13 
+ 
+ Elisha prophesies 65 years: 881-816 BCE
+ 
+ Shulman, p83",Prophet,,,,,,,,,,,
+Reign_of_Ahaziah,The Reign of Ahaziah,"Ahaziah the son of Ahab became king over Israel in Samaria in the seventeenth year of Jehoshaphat king of Judah, and he reigned two years over Israel.  (1KI 22:51) 
+ 
+ Ahaziah began to reign in the 17th year of Jehoshaphat's reign. 
+ 
+ Ahaziah the son of Ahab became king over Israel in Samaria in the seventeenth year of Jehoshaphat king of Judah, and he reigned two years over Israel.  (1KI 22:51) 
+ 
+ Ahaziah reigned in Israel for 2 years: 883-882 BCE 
+ 
+ Shulman, p122",Reign,,,,,,,,,,,
+Reign_of_Jehoram,The Reign of Jehoram,"Now Jehoram the son of Ahab became king over Israel at Samaria in the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years.  (2KI 3:1) 
+ 
+ Jehoram began to reign in the 18th year of Jehoshaphat's reign. 
+ 
+ Now Jehoram the son of Ahab became king over Israel at Samaria in the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years.  (2KI 3:1) 
+ 
+ Jehoram reigned in Israel for 12 years. 
+ 
+ Shulman, p122",Reign,,,,,,,,,,,
+Reign_of_Joram,The Reign of Joram,"Now in the fifth year of J[eh]oram the son of Ahab king of Israel, Jehoshaphat being 
+ then the king of Judah, Jehoram the son of Jehoshaphat king of Judah became king.  (2KI 8:16) 
+ 
+ Joram (son of Jehoshaphat) became king in the 5th year of Jehoram (son of Ahab).
+ 
+ ""In the eleventh year."" That is to say, after the eleventh year, for he became king 
+ in the twelfth year, as we read above: (2KI 8:25): ""In the twelfth year of King Joram..."" 
+ For his father Joram became king in the fifth year of Joram son of Ahab, and he reigned for 
+ eight incomplete years, ending in the twelfth year of Joram son of Ahab, when Ahaziah became 
+ king. 
+ (Mezudat David) 
+ 
+ Joram reigned in Judah for 8 years: 877-869 BCE
+ 
+ Joram co-reigned with Jehoshaphat two years (877-875 BCE).
+ 
+ Shulman, p122",Reign,,,,,,,,,,,
+Reign_of_Ahaziah,The Reign of Ahaziah,"In the twelfth year of Joram the son of Ahab king of 
+ Israel, Ahaziah the son of Jehoram king of Judah began to reign.  (2KI 8:25) 
+ 
+ Ahaziah (son of Jehoshaphat) became king in the 12th year of Jehoram (son of Ahab).
+ 
+ Ahaziah was twenty-two years old when he became king, and 
+ he reigned one year in Jerusalem. And his mother's name was Athaliah
+ the granddaughter of Omri king of Israel.  (2KI 8:26) 
+ 
+ Ahaziah reigned in Judah for 1 year: 869-868 BCE
+ 
+ Shulman, p123",Reign,,,,,,,,,,,
+Reign_of_Jehu,The Reign of Jehu,"Then Jehu rode in a chariot and went to Jezreel, for Joram was lying there. Ahaziah king of Judah had come down to see Joram.  (2KI 9:16) 
+ 
+  And Jehu drew his bow with his full strength and shot Joram between his arms; and the arrow went through his heart and he sank in his chariot.  (2KI 9:24) 
+ 
+ Jehu killed Jehoram (Joram) and became king. 
+ 
+ Now the time which Jehu reigned over Israel in Samaria was twenty-eight years.  (2KI 10:36) 
+ 
+ Jehu reigned in Israel for 28 years: 869-841 BCE 
+ 
+ Shulman, p123",Reign,,,,,,,,,,,
+Reign_of_Athaliah,The Reign of Athaliah,"When Athaliah the mother of Ahaziah saw that her son was dead, she rose and destroyed 
+ all the royal offspring. But Jehosheba, the daughter of King Joram, sister of Ahaziah, took 
+ Joash the son of Ahaziah and stole him from among the king's sons who were being put to death, 
+ and placed him and his nurse in the bedroom. So they hid him from Athaliah, and he was not put 
+ to death. So he was hidden with her in the house of the LORD six years, while Athaliah was 
+ reigning over the land.  (2KI 11:1-3) 
+ 
+ Athaliah became queen when her son Ahaziah died.
+ 
+ So he was hidden with her in the house of the LORD six years,
+ while Athaliah was reigning over the land.  (2KI 11:3) 
+ 
+ Athaliah reigned in Judah for 6 years: 868-862 BCE 
+ 
+ Shulman, p123",Reign,,,,,,,,,,,
+Reign_of_Jehoash,The Reign of Jehoash,"In the seventh year of Jehu, Jehoash became king, and he 
+ reigned forty years in Jerusalem; and his mother's name was Zibiah of Beersheba.  (2KI 12:1) 
+ 
+ Jehoash became king in the 7th year of Jehu's reign.
+ 
+ In the seventh year of Jehu, Jehoash became king, and he reigned forty 
+ years in Jerusalem; and his mother's name was Zibiah of Beersheba.  (2KI 12:1) 
+ 
+ Jehoash reigned in Judah for 40 years: 862-823 BCE 
+ 
+ Shulman, p123",Reign,,,,,,,,,,,
+Reign_of_Jehoahaz,The Reign of Jehoahaz,"And Jehu slept with his fathers, and they buried him in Samaria. And Jehoahaz his son became king in his place.  (2KI 10:35) 
+ 
+ Jehoahaz became king after his father died. 
+ 
+  In the twenty-third year of Joash the son of Ahaziah, king of Judah, Jehoahaz the son of Jehu became king over Israel at Samaria, and he reigned seventeen years.  (2KI 13:1) 
+ 
+ Jehoahaz reigned in Israel for 17 years: 841-824 BCE 
+ 
+ Shulman, p123",Reign,,,,,,,,,,,
+Reign_of_Jehoash,The Reign of Jehoash,"In the thirty-seventh year of Joash king of Judah, Jehoash the son of Jehoahaz became king over Israel in Samaria, and reigned sixteen years.  (2KI 13:10) 
+ 
+ Jehoash began to rule Israel in the 37th year of Joash, king of Judah. 
+ 
+  In the thirty-seventh year of Joash king of Judah, Jehoash the son of Jehoahaz became king over Israel in Samaria, and reigned sixteen years.  (2KI 13:10) 
+ 
+ Jehoash reigned in Israel for 16 years: 825-809 BCE 
+ 
+ Shulman, p124",Reign,,,,,,,,,,,
+Reign_of_Amaziah,The Reign of Amaziah,"In the second year of Joash son of Joahaz king of Israel, 
+ Amaziah the son of Joash king of Judah became king.  (2KI 14:1) 
+ 
+ Amaziah became king in the 2nd year of Joash's reign.
+ 
+ He was twenty-five years old when he became king, and he reigned 
+ twenty-nine years in Jerusalem. And his mother's name was Jehoaddin 
+ of Jerusalem.  (2KI 14:2) 
+ 
+ Amaziah reigned in Judah for 29 years: 825-796 BCE 
+ 
+ Amaziah co-reigned with Jehoash for 2 years (825-823 BCE). 
+ 
+ Shulman, p124",Reign,,,,,,,,,,,
+Reign_of_Jeroboam,The Reign of Jeroboam,"So J[eh]oash slept with his fathers, and Jeroboam sat on his throne; and Joash was buried in Samaria with the kings of Israel.  (2KI 13:13) 
+ 
+ Jeroboam began to rule Israel after the death of J[eh]oash, king of Israel. 
+ 
+ In the fifteenth year of Amaziah the son of Joash king of Judah, Jeroboam the son of Joash king of Israel became king in Samaria, and reigned forty-one years.  (2KI 14:23) 
+ 
+ Jeroboam reigned in Israel for 41 years: 813-772 BCE 
+ 
+ Shulman, p124",Reign,,,,,,,,,,,
+Reign_of_Uzziah_Azariah,The Reign of Uzziah (Azariah),"Amaziah the son of Joash king of Judah lived fifteen years after the death of Jehoash 
+ son of Jehoahaz king of Israel.  (2KI 14:17) 
+ 
+ They conspired against him [Amaziah] in Jerusalem, and he fled to Lachish; but they 
+ sent after him to Lachish and killed him there.  (2KI 14:19) 
+ 
+ All the people of Judah took Azariah, who was sixteen years old, and made him king 
+ in the place of his father Amaziah.  (2KI 14:21) 
+ 
+ Azariah (also called Uzziah) became king when his father fled as a result of a conspiracy.
+ 
+ He was sixteen years old when he became king, and he reigned fifty-two 
+ years in Jerusalem. And his mother's name was Jecoliah of Jerusalem.  (2KI 15:2) 
+ 
+ Uzziah reigned in Judah for 52 years: 810-758 BCE 
+ 
+ Uzziah co-reigned with Amaziah for 15 years (810-796 BCE). 
+ 
+ Shulman, p124",Reign,,,,,,,,,,,
+Jonah_prophesies,Jonah prophesies,"2KI 14:25 
+ Jonah 1-4 
+ 
+ Jonah prophesies 37 years: 809-772 BCE
+ 
+ Shulman, p83",Prophet,,,,,,,,,,,
+Reign_of_Zechariah,The Reign of Zechariah,"In the thirty-eighth year of Azariah king of Judah, Zechariah the son of Jeroboam became king over Israel in Samaria for six months.  (2KI 15:8) 
+ 
+ Zechariah began to rule Israel in the 38th year of Azariah. 
+ 
+ Zechariah reigned in Israel for 6 months: 772 BCE 
+ 
+ Shulman, p125",Reign,,,,,,,,,,,
+Reign_of_Shallum,The Reign of Shallum,"Shallum son of Jabesh became king in the thirty-ninth year of Uzziah king of Judah, and he reigned one month in Samaria.  (2KI 15:13) 
+ 
+ Shallum began to rule Israel in the 39th year of Uzziah. 
+ 
+ Shallum reigned in Israel for 1 month: 771 BCE 
+ 
+ Shulman, p125",Reign,,,,,,,,,,,
+Reign_of_Menahem,The Reign of Menahem,"Then Menahem son of Gadi went up from Tirzah and came to Samaria, and struck Shallum son of Jabesh in Samaria, and killed him and became king in his place.  (2KI 15:14) 
+ 
+ Menahem reigned after Shallum. 
+ 
+ In the thirty-ninth year of Azariah king of Judah, Menahem son of Gadi became king over Israel and reigned ten years in Samaria.  (2KI 15:17) 
+ 
+ Menahem reigned in Israel for 10 years: 771-761 BCE 
+ 
+ Shulman, p125",Reign,,,,,,,,,,,
+Amos_prophesies,Amos prophesies,"The entire book of Amos
+ 
+ The words of Amos, who was among the sheepherders from Tekoa, which he envisioned in visions concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam son of Joash, king of Israel, two years before the earthquake. 
+ (Amos 1:1) 
+ 
+ Amos prophesies 1 year: 771 BCE
+ 
+ Shulman, p83",Prophet,,,,,,,,,,,
+Hosea_prophesies,Hosea prophesies,"The entire book of Hosea
+ 
+ The word of the LORD which came to Hosea the son of Beeri, during the days of Uzziah, Jotham, Ahaz and Hezekiah, kings of Judah, and during the days of Jeroboam the son of Joash, king of Israel. 
+ (Hosea 1:1) 
+ 
+ Hosea prophesies 12 years: 771-759 BCE
+ Shulman, p83",Prophet,,,,,,,,,,,
+Reign_of_Pekahiah,The Reign of Pekahiah,"And Menahem slept with his fathers, and Pekahiah his son became king in his place.  (2KI 15:22) 
+ 
+ Pekahiah reigned after his father Menahem. 
+ 
+ In the fiftieth year of Azariah king of Judah, Pekahiah son of Menahem became king over Israel in Samaria, and reigned two years.  (2KI 15:23) 
+ 
+ Pekahiah reigned in Israel for 2 years: 761-759 BCE 
+ 
+ Shulman, p125",Reign,,,,,,,,,,,
+Reign_of_Pekah,The Reign of Pekah,"Then Pekah son of Remaliah, his officer, conspired against him [Pekahiah] and struck him in Samaria, in the castle of the king's house with Argob and Arieh; and with him were fifty men of the Gileadites, and he killed him and became king in his place.  (2KI 15:25) 
+ 
+ Pekah reigned after his father Menahem. 
+ 
+ In the fifty-second year of Azariah king of Judah, Pekah son of Remaliah became king over Israel in Samaria, and reigned twenty years.  (2KI 15:27) 
+ 
+ Pekah reigned in Israel for 20 years: 759-739 BCE 
+ 
+ Shulman, p125",Reign,,,,,,,,,,,
+Reign_of_Jotham,The Reign of Jotham,"And Azariah slept with his fathers, and they buried him with his fathers in the 
+ city of David, and Jotham his son became king in his place.  (2KI 15:7) 
+ 
+ In the second year of Pekah the son of Remaliah king of Israel, Jotham the son of 
+ Uzziah king of Judah became king.  (2KI 15:32) 
+ 
+ Jotham became king after his father died... in the 2nd year of Pekah's reign.
+ 
+ He was twenty-five years old when he became king, and he reigned 
+ sixteen years in Jerusalem; and his mother's name was Jerusha 
+ the daughter of Zadok.  (2KI 15:33) 
+ 
+ Jotham reigned in Judah for 16 years: 758-742 BCE
+ 
+ Shulman, p125",Reign,,,,,,,,,,,
+Isaiah_prophesies,Isaiah prophesies,"Isaiah 1:1 
+ 
+ Isaiah prophesies 45 years: 757-712 BCE
+ 
+ Shulman, p83, 170-171",Prophet,,,,,,,,,,,
+Micah_prophesies,Micah prophesies,"The book of Micah
+ 
+ The word of the LORD which came to Micah of Moresheth in the days of Jotham, Ahaz 
+ and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem. 
+ (Micah 1:1) 
+ 
+ Micah prophesies ~ 17 years: c743-727 BCE 
+ 
+ Shulman, p83 says he prophesied 1 year?",Prophet,,,,,,,,,,,
+Reign_of_Ahaz,The Reign of Ahaz,"And Jotham slept with his fathers, and he was buried with his fathers in the city of David his father; and Ahaz his son became king in his place.  (2KI 15:38) 
+ 
+ Ahaz became king after his father Jotham died.
+ 
+ Ahaz was twenty years old when he became king, and he reigned sixteen years in Jerusalem; and he did not do what was right in the sight of the LORD his God, as his father David had done.  (2KI 16:2) 
+ 
+ Ahaz reigned in Judah for 16 years: 742-726 BCE
+ 
+ Shulman, p125",Reign,,,,,,,,,,,
+Reign_of_Hoshea,The Reign of Hoshea,"And Hoshea the son of Elah made a conspiracy against Pekah the son of Remaliah, and struck him and put him to death and became king in his place, in the twentieth year of Jotham the son of Uzziah.  (2KI 15:30) 
+ 
+ Hoshea took the throne in the 20th year of Jotham. 
+ 
+ In the twelfth year of Ahaz king of Judah, Hoshea the son of Elah became king over Israel in Samaria, and reigned nine years.  (2KI 17:1) 
+ 
+ Hoshea reigned in Israel for 9 years before the rebellion: 739-730 BCE.
+ Afterwards he was restored as king for another 10 years under Assyrian authority. 
+ 
+ Shulman, p125",Reign,,,,,,,,,,,
+Assyrian_Captivity,Assyrian Captivity,"Now in the fourth year of King Hezekiah, which was the seventh year of Hoshea son of Elah king of Israel, Shalmaneser king of Assyria came up against Samaria and besieged it. 
+ At the end of three years they captured it; in the sixth year of Hezekiah, which was the ninth 
+ year of Hoshea king of Israel, Samaria was captured. Then the king of Assyria carried Israel 
+ away into exile to Assyria, and put them in Halah and on the Habor, the river of Gozan, and 
+ in the cities of the Medes, because they did not obey the voice of the LORD their God, but 
+ transgressed His covenant, even all that Moses the servant of the LORD commanded; they would 
+ neither listen nor do it.  (2KI 18:9-12) 
+ 
+  Shalmaneser king of Assyria captured Samaria and carried Israel (the northern tribes) away into exile: 730 BCE.
+ ",Captivity,,,,,,,,,,,
+Reign_of_Hoshea_as_vassal,The Reign of Hoshea as vassal,"In the twelfth year of Ahaz king of Judah, Hoshea the son of Elah became king over Israel in Samaria, and reigned nine years.  (2KI 17:1) 
+ 
+ Hoshea took the throne in the 20th year of Jotham. 
+ 
+ Hoshea reigns in Israel 10 years after the rebellion as a vassal: 730-720 BCE
+ 
+ Shulman, p125",Reign,,,,,,,,,,,
+Reign_of_Hezekiah,The Reign of Hezekiah,"So Ahaz slept with his fathers, and was buried with his fathers in the city of David; and his son Hezekiah reigned in his place.  (2KI 16:20) 
+ 
+ Hezekiah became king after his father Ahaz died.
+ 
+ Now it came about in the third year of Hoshea, the son of Elah king of Israel, that Hezekiah the son of Ahaz king of Judah became king. He was twenty-five years old when he became king, and he reigned twenty-nine years in Jerusalem; and his mother's name was Abi the daughter of Zechariah.  (2KI 18:1-2) 
+ 
+ Hezekiah reigned in Judah for 29 years: 726-697 BCE
+ 
+ Shulman, p125",Reign,,,,,,,,,,,
+Reign_of_Manasseh,The Reign of Manasseh,"So Hezekiah slept with his fathers, and Manasseh his son became king in his place.  (2KI 20:21) 
+ 
+ Manasseh became king after his father Hezekiah died.
+ 
+ Manasseh was twelve years old when he became king, and he reigned fifty-five years in Jerusalem; and his mother's name was Hephzibah.  (2KI 21:1) 
+ 
+ Manasseh reigned in Judah for 55 years: 697-642 BCE 
+ 
+ Shulman, p126",Reign,,,,,,,,,,,
+Nahum_prophesies,Nahum prophesies,"Nahum 1:1 
+ 
+ Nahum prophesies: 694 BCE
+ 
+ Shulman, p83",Prophet,,,,,,,,,,,
+Reign_of_Amon,The Reign of Amon,"And Manasseh slept with his fathers and was buried in the garden of his own house, in the garden of Uzza, and Amon his son became king in his place.  (2KI 21:18) 
+ 
+ Amon became king after his father Manasseh died.
+ 
+ Amon was twenty-two years old when he became king, and he reigned two years in Jerusalem; and his mother's name was Meshullemeth the daughter of Haruz of Jotbah.  (2KI 21:19) 
+ 
+ Amon reigned in Judah for 2 years: 642-640 BCE.
+ 
+ Shulman, p126",Reign,,,,,,,,,,,
+Reign_of_Josiah,The Reign of Josiah,"The servants of Amon conspired against him and killed the king in his own house. Then the people of the land killed all those who had conspired against King Amon, and the people of the land made Josiah his son king in his place.  (2KI 21:23-24) 
+ 
+ Josiah succeeded his father Amon.
+ 
+ Josiah was eight years old when he became king, and he reigned 
+ thirty-one years in Jerusalem; and his mother's name was Jedidah 
+ the daughter of Adaiah of Bozkath. He did right in the sight of the LORD and walked in all the 
+ way of his father David, nor did he turn aside to the right or to the left. (2KI 22:1-2) 
+ 
+ Josiah reigned in Judah for 31 years: 640-609 BCE.
+ 
+ Shulman, p126",Reign,,,,,,,,,,,
+Zephaniah_prophesies,Zephaniah prophesies,"The entire book of Zephaniah
+ 
+ The word of the LORD which came to Zephaniah son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah, in the days of Josiah son of Amon, king of Judah... 
+ (Zephaniah 1:1) 
+ 
+ Zephaniah prophesies 1 year between 641-621 BCE
+ 
+ Shulman, p83
+ 
+ Zondervan NIV Study Bible, p1594",Prophet,,,,,,,,,,,
+Jeremiah_prophesies,Jeremiah prophesies,"The words of Jeremiah the son of Hilkiah, of the priests who were in Anathoth in 
+ the land of Benjamin, to whom the word of the LORD came in the days of Josiah the son of Amon, 
+ king of Judah, in the thirteenth year of his reign. 
+ (Jeremiah 1:1-2) 
+ 
+ Jeremiah prophesies 40 years: 626-586 BCE
+ 
+ Shulman, p83",Prophet,,,,,,,,,,,
+Reign_of_Jehoahaz,The Reign of Jehoahaz,"His [Josiah's] servants drove his body in a chariot from Megiddo, and brought him to Jerusalem and buried him in his own tomb. Then the people of the land took Jehoahaz the son of Josiah and anointed him and made him king in place of his father.  (2KI 23:30) 
+ 
+ Jehoahaz succeeded his father Josiah.
+ 
+ Jehoahaz was twenty-three years old when he became king, and he reigned three months in Jerusalem; and his mother's name was Hamutal the daughter of Jeremiah of Libnah.  (2KI 23:31) 
+ 
+ Jehoahaz reigned in Judah for 3 months: 609 BCE
+ 
+ Shulman, p126",Reign,,,,,,,,,,,
+Reign_of_Jehoiakim,The Reign of Jehoiakim,"Pharaoh Neco made Eliakim the son of Josiah king in the place of Josiah his father, and changed his name to Jehoiakim. But he took Jehoahaz away and brought him to Egypt, and he died there.  (2KI 23:34) 
+ 
+ Eliakim (Jehoiakim) succeeded his father Josiah.
+ 
+ Jehoiakim was twenty-five years old when he became king, and he reigned eleven years in Jerusalem; and his mother's name was Zebidah the daughter of Pedaiah of Rumah.  (2KI 23:36) 
+ 
+ Jehoiakim reigned in Judah for 11 years: 609-598 BCE
+ 
+ Shulman, p126",Reign,,,,,,,,,,,
+Habakkuk_prophesies,Habakkuk prophesies,"There is not enough evidence from the book of Habakkuk to narrow down its date specifically.
+ The reference to the rise and advance of the Chaldeas in Habakkuk 1:6-1 likely puts 
+ him around the end of the 7th century.
+ 
+ Habakkuk prophesies: c609 BCE 
+ ",Prophet,,,,,,,,,,,
+Reign_of_Nebuchadnezzar,The Reign of Nebuchadnezzar,"The word that came to Jeremiah concerning all the people of Judah, in the fourth year of Jehoiakim the son of Josiah, king of Judah (that was the first year of Nebuchadnezzar king of Babylon)... 
+ (Jeremiah 25:1) 
+ 
+ Nebuchadnezzar reigned from the fourth year of Jehoiakim for 45 years: 606-561 BCE 
+ 
+ Shulman, p144-5.",Reign,,,,,,,,,,,
+Nebuchadnezzar_attacks_Judah,Nebuchadnezzar attacks Judah,"The word that came to Jeremiah concerning all the people of Judah, in the <b>fourth year</b> of Jehoiakim the son of Josiah, king of Judah (that was the first year of Nebuchadnezzar king of Babylon), 
+ (Jeremiah 25:1) 
+ 
+ Nebuchadnezzar attacked Judah in the fourth year of Jehoiakim's reign (and the second of Nebuchadnezzar's reign).
+ 
+ Nebuchadnezzar attacks Judah: 605 BCE
+ 
+ Shulman, p145.",Battle,,,,,,,,,,,
+Reign_of_Jehoiakim_as_vassal,The Reign of Jehoiakim as vassal,"In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant for three years; then he turned and rebelled against him.  (2KI 24:1) 
+ 
+ In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it. 
+ (Daniel 1:1) 
+ 
+ Jehoiakim was a vassal for three years and then rebelled against Nebuchadnezzar: 604-602 BCE ",Reign,,,,,,,,,,,
+Jehoiakim_rebels,Jehoiakim rebels,"Jehoiakim rebels against Nebuchadnezzar (2KI 24:1) and fights for the last 3 years of his reign. 
+ 
+ Jehoiakim rebels 3 years: 604-602 BCE",Rebellion,,,,,,,,,,,
+Nebuchadnezzar_attacks_Jerusalem,Nebuchadnezzar attacks Jerusalem,"In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it. 
+ (Daniel 1:1) 
+ 
+ Nebuchadnezzar attacked Jerusalem in the third year of Jehoiakim's reign as Nebuchadnezzar's vassal: 598 BCE 
+ 
+ Shulman, p144-5.",Battle,,,,,,,,,,,
+Reign_of_Jehoiachin,The Reign of Jehoiachin,"Jehoiachin was eighteen years old when he became king, and he reigned three months in Jerusalem; and his mother's name was Nehushta the daughter of Elnathan of Jerusalem.  (2KI 24:8) 
+ 
+ Jehoiachin reigned in Judah for 3 months and was then exiled: 598 BCE 
+ 
+ Shulman, p126",Reign,,,,,,,,,,,
+Jehoiachin_in_exile,Jehoiachin in exile,"Now it came about in the thirty-seventh year of the exile of Jehoiachin king of Judah, in the twelfth month, on the twenty-seventh day of the month, that Evil-merodach king of Babylon, in the year that he became king, released Jehoiachin king of Judah from prison;  (2KI 25:27) 
+ Now it came about in the thirty-seventh year of the exile of Jehoiachin king of Judah, in the twelfth month, on the twenty-fifth of the month, that Evil-merodach king of Babylon, in the first year of his reign, showed favor to Jehoiachin king of Judah and brought him out of prison. 
+ (Jeremiah 52:31) 
+ 
+ Jehoiachin was exiled 37 years until Evil-merodah became king of Babylon: 598-561 BCE. ",Exile,,,,,,,,,,,
+Reign_of_Zedekiah,The Reign of Zedekiah,"Zedekiah was twenty-one years old when he became king, and he reigned eleven years in Jerusalem; and his mother's name was Hamutal the daughter of Jeremiah of Libnah.  (2KI 24:18) 
+ 
+ Zedekiah reigned in Judah for 11 years: 598-587 BCE
+ 
+ Shulman, p126",Reign,,,,,,,,,,,
+Daniel_in_Shinar,Daniel in Shinar,"In the <b>third year</b> of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it. 
+ The Lord gave Jehoiakim king of Judah into his hand, along with some of the vessels of the house of God; and he brought them to the land of Shinar, to the house of his god, and he brought the vessels into the treasury of his god.
+ Then the king ordered Ashpenaz, the chief of his officials, to bring in some of the sons of Israel, including some of the royal family and of the nobles, 
+ youths in whom was no defect, who were good-looking, showing intelligence in every branch of wisdom, endowed with understanding and discerning knowledge, and who had ability for serving in the king's court; and he ordered him to teach them the literature and language of the Chaldeans.
+ Now among them from the sons of Judah were Daniel, Hananiah, Mishael and Azariah. 
+ 
+ (Dan 1:1-4, 5) 
+ 
+ Nebuchadnezzar attacked Jerusalem in the third year of Jehoiakim's reign [as vassal to Nebuchadnezzar] and Daniel is carried off with others into Babylon: 598 BCE
+ 
+ And Daniel continued until the first year of Cyrus the king.
+ 
+ (Dan 1:21) 
+ 
+ Daniel in Shinar: 598-534 BCE 
+ 
+ Shulman, p145.",Exile,,,,,,,,,,,
+Ezekiel_prophesies,Ezekiel prophesies,"Now it came about in the thirtieth year, on the fifth 
+ day of the fourth month, while I was by the river Chebar among the exiles, the heavens were 
+ opened and I saw visions of God. (On the fifth of the month in the fifth year
+ of King Jehoiachin's exile, the word of the LORD came expressly to Ezekiel the priest, son 
+ of Buzi, in the land of the Chaldeans by the river Chebar; and there the hand of the LORD 
+ came upon him.) 
+ (Ezekiel 1:1-3) 
+ 
+ King Jehoiachin was exiled in late 598 BCE.
+ 598 BCE + 5 years = 593 into 592
+ 
+ Ezekiel prophesies 20 years: 592-572 BCE
+ 
+ Shulman, p83",Prophet,,,,,,,,,,,
+Obadiah_prophesies,Obadiah prophesies,"There is not enough evidence from the book of Obadiah to narrow down its date.
+ Some scholars date it as early as the 9th century BCE (making Obadiah of the book a 
+ contemporary of Elijah- see 1KI 18:7-8) while others date it closer to the time of
+ Jeremiah (c600 BCE). Obadiah 1-9 appear to parallel Jeremiah 49:7-22 and based on these
+ similarities, many scholars hold this position.
+ 
+ Obadiah prophesies: c590 BCE 
+ ",Prophet,,,,,,,,,,,
+First_Temple_Destroyed,First Temple Destroyed," 'But because our fathers had provoked the God of heaven to wrath, He gave them into the hand of Nebuchadnezzar king of Babylon, the Chaldean, who destroyed this temple and deported the people to Babylon. 
+ (Ezra 5:12) 
+ 
+ Nebuchadnezzar destroyed the Temple: 586 BCE 
+ 
+ Shulman, p174
+ For the '586 BCE vs 422 BCE- the missing years' question see: 
+ <a href='http://en.wikipedia.org/wiki/Missing_years_%28Jewish_calendar%29' target='_blank'>Missing years<a> ",Destruction,,,,,,,,,,,
+Babylonian_Captivity,Babylonian Captivity,"But because our fathers had provoked the God of heaven to wrath, He gave them into the hand of Nebuchadnezzar king of Babylon, the Chaldean, who destroyed this temple and deported the people to Babylon. 
+ (Ezra 5:12) 
+ 
+ For thus says the LORD, 'When seventy years have been completed for Babylon, I will visit you and fulfill My good word to you, to bring you back to this place. . 
+ (Jeremiah 29:10) 
+ 
+ Babylonian Captivity (70 years): 586-516 BCE.
+ 
+ Shulman, p174
+ For the '586 BCE vs 422 BCE- the missing years' question see: 
+ <a href='http://en.wikipedia.org/wiki/Missing_years_%28Jewish_calendar%29' target='_blank'>Missing years<a> ",Captivity,,,,,,,,,,,
+Reign_of_Evil-merodach,The Reign of Evil-merodach,Evil-merodach reigned after Nebuchadnezzar for 23 years: 560-538 BCE.,Reign,,,,,,,,,,,
+Reign_of_Belshazzar,The Reign of Belshazzar,"Daniel 5
+ 
+ Belshazzar reigned after Evil-merodach for 3 years: 538-535 BCE.",Reign,,,,,,,,,,,
+Daniel's_first_dream,Daniel's first dream,"In the first year of Belshazzar king of Babylon Daniel saw a dream and visions in his mind as he lay on his bed; then he wrote the dream down and related the following summary of it. 
+ 
+ (Daniel 7:1) 
+ 
+ Daniel's first dream: 538 BCE 
+ ",Vision,,,,,,,,,,,
+Daniel's_first_vision,Daniel's first vision,"In the third year of the reign of Belshazzar the king a vision appeared to me, Daniel, subsequent to the one which appeared to me previously. 
+ 
+ (Daniel 8:1) 
+ 
+ Daniel's first vision: 535 
+ ",Vision,,,,,,,,,,,
+Reign_of_Darius,The Reign of Darius,Darius (the First) reigned after Belshazzar for 1 year: 535-534 BCE.,Reign,,,,,,,,,,,
+Reign_of_Cyrus,The Reign of Cyrus,Cyrus reigned after Darius for 3 years: 534-531 BCE.,Reign,,,,,,,,,,,
+Cyrus'_Decree,Cyrus' Decree,"Now in the first year of Cyrus king of Persia, in 
+ order to fulfill the word of the LORD by the mouth of Jeremiah, the LORD stirred up the 
+ spirit of Cyrus king of Persia, so that he sent a proclamation throughout all his kingdom, 
+ and also put it in writing, saying: ""Thus says Cyrus king of Persia, 'The LORD, the God of 
+ heaven, has given me all the kingdoms of the earth and He has appointed me to build Him a 
+ house in Jerusalem, which is in Judah. 
+ (Ezra 1:1-2) 
+ 
+ Cyrus took the throne in 534 BCE.
+ 
+ Cyrus' Decree to rebuild the Temple: 534 BCE.",Message,,,,,,,,,,,
+Second_Temple_foundation_laid,Second Temple foundation laid,"Now in the second year of their coming to the house 
+ of God at Jerusalem in the second month, Zerubbabel the son of Shealtiel and Jeshua the 
+ son of Jozadak and the rest of their brothers the priests and the Levites, and all who came 
+ from the captivity to Jerusalem, began the work and appointed the Levites from twenty years 
+ and older to oversee the work of the house of the LORD. Then Jeshua with his sons and 
+ brothers stood united with Kadmiel and his sons, the sons of Judah and the sons of Henadad 
+ with their sons and brothers the Levites, to oversee the workmen in the temple of God. Now 
+ when the builders had laid the foundation of the temple of 
+ the LORD, the priests stood in their apparel with trumpets, and the Levites, the sons of 
+ Asaph, with cymbals, to praise the LORD according to the directions of King David of Israel. 
+ (Ezra 3:8-10) 
+ 
+ The first year of the Israelites returning to the Land was 534 BCE.
+ The second year of the Israelites returning to the Land was 533 BCE.
+ 
+ Second Temple foundation laid: 533 BCE.",Construction,,,,,,,,,,,
+Reign_of_Ahasuerus,The Reign of Ahasuerus,Ahasuerus reigned after Cyrus for 14 years: 532-519 BCE.,Reign,,,,,,,,,,,
+Esther_chosen_as_queen,Esther chosen as queen,"So Esther was taken to King Ahasuerus to his royal palace in the tenth month which 
+ is the month Tebeth, in the seventh year of his reign. 
+ The king loved Esther more than all the women, and she found favor and kindness with him more 
+ than all the virgins, so that he set the royal crown on her head and made her queen instead 
+ of Vashti.  (Esther 2:16-17) 
+ 
+ Ahasuerus took the throne in 532 BCE.
+ 532 BCE + 7 years = 525 BCE.
+ 
+ Esther chosen as queen (Esther 2): 525 BCE.",Reign,,,,,,,,,,,
+Reign_of_Darius_II,The Reign of Darius II,"In the first year of Darius the son of Ahasuerus, of 
+ Median descent, who was made king over the kingdom of the Chaldeans...
+ (Daniel 9:1) 
+ 
+ Darius II reigns after Ahasuerus 20 years: 519-499 BCE.",Reign,,,,,,,,,,,
+Haggai_prophesies,Haggai prophesies,"In the second year of Darius the king, on the first day 
+ of the sixth month, the word of the LORD came by the prophet Haggai to Zerubbabel the son of 
+ Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest, saying, 
+ ""Thus says the LORD of hosts, 'This people says, ""The time has not come, even the time for 
+ the house of the LORD to be rebuilt.""'"" 
+ (Haggai 1:1-2) 
+ 
+ Darius' reign began in 519 BCE.
+ 519 BCE + 2 years = 517 BCE
+ 
+ Haggai prophesies 2 years: 517-516 BCE
+ 
+ Shulman, p83",Prophet,,,,,,,,,,,
+Zechariah_prophesies,Zechariah prophesies,"In the eighth month of the second year of Darius, the 
+ word of the LORD came to Zechariah the prophet, the son of Berechiah, the son of Iddo 
+ saying... 
+ (Zechariah 1:1) 
+ 
+ Darius' reign began in 519 BCE.
+ 519 BCE + 2 years and 8 months = 516 BCE
+ 
+ Zechariah prophesies 2 years: 516-514 BCE
+ 
+ Shulman, p83",Prophet,,,,,,,,,,,
+Joel_prophesies,Joel prophesies,"There is not enough evidence from the book of Joel to narrow down its date.
+ Some scholars date it as early as the 9th century BCE (during the reign of Joash) 
+ while others date it closer to the decades around 400 BCE. This is usually based
+ on similarities to the writings of other prophets (e.g. Ezekiel) or linguistic details.
+ 
+ Joel prophesies: c450 BCE.",Prophet,,,,,,,,,,,
+Malachi_prophesies,Malachi prophesies,"The whole book of Malachi
+ 
+ Malachi prophesies: 430 BCE
+ 
+ Shulman, p83
+ 
+ NIV Study Bible, p1627",Prophet,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,

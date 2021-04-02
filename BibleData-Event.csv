@@ -1,0 +1,1390 @@
+﻿event_id,event_name,event_description,event_type,person_id,event_year_ah,person_age_at_event,event_year_offset,event_reference_id,event_year_calculation,event_location,event_location_reference_id,event_notes,,,,,,,,,,,,,,
+Creation,The Creation,All of Creation was formed by G-d's spoken word. (GEN 1:1-31),Unique,G-d_1,1,,,,,,,Seven days of creation (GEN 2:2),,,,,,,,,,,,,,
+Birth_Adam_1,Birth of Adam,"God created man in His own image, in the image of God He created him; male and female He created them. (GEN 1:27)
+God saw all that He had made, and behold, it was very good. And there was evening and there was morning, THE SIXTH DAY. (GEN 1:31)
+[Adam was created (not born) on the 6th day.]",Birth,Adam_1,1,0,,GEN 1:27,,West of Eden,GEN 2:8,,,,,,,,,,,,,,,
+Birth_Seth_1,Birth of Seth,"When Adam had lived ONE HUNDRED AND THIRTY YEARS, he became the father of a son in his own likeness, according to his image, and named him Seth. (GEN 5:3)",Birth,Seth_1,131,0,130,GEN 5:3,Birth year of father (1) + age of father at son's birth (130) = 131,,,,,,,,,,,,,,,,,
+Birth_Enosh_1,Birth of Enosh,"Seth lived ONE HUNDRED AND FIVE YEARS, and became the father of Enosh. (GEN 5:6)",Birth,Enosh_1,236,0,105,GEN 5:6,Birth year of father (131) + age of father at son's birth (105) = 236,,,,,,,,,,,,,,,,,
+Birth_Kenan_1,Birth of Kenan,"Enosh lived NINETY YEARS, and became the father of Kenan. (GEN 5:9)",Birth,Kenan_1,326,0,90,GEN 5:9,Birth year of father (236) + age of father at son's birth (90) = 326,,,,,,,,,,,,,,,,,
+Birth_Mahalalel_1,Birth of Mahalalel,"Kenan lived SEVENTY YEARS, and became the father of Mahalalel. (GEN 5:12)",Birth,Mahalalel_1,396,0,70,GEN 5:12,Birth year of father (326) + age of father at son's birth (70) = 396,,,,,,,,,,,,,,,,,
+Birth_Jared_1,Birth of Jared,"Mahalalel lived SIXTY-FIVE YEARS, and became the father of Jared. (GEN 5:15)",Birth,Jared_1,461,0,65,GEN 5:15,Birth year of father (396) + age of father at son's birth (65) = 461,,,,,,,,,,,,,,,,,
+Birth_Enoch_2,Birth of Enoch,"Jared lived ONE HUNDRED AND SIXTY-TWO YEARS, and became the father of Enoch. (GEN 5:18)",Birth,Enoch_2,623,0,162,GEN 5:18,Birth year of father (461) + age of father at son's birth (162) = 623,,,,,,,,,,,,,,,,,
+Birth_Methuselah_1,Birth of Methuselah,"Enoch lived SIXTY-FIVE YEARS, and became the father of Methuselah. (GEN 5:21)",Birth,Methuselah_1,688,0,65,GEN 5:21,Birth year of father (623) + age of father at son's birth (65) = 688,,,,,,,,,,,,,,,,,
+Birth_Lamech_2,Birth of Lamech,"Methuselah lived ONE HUNDRED AND EIGHTY-SEVEN YEARS, and became the father of Lamech. (GEN 5:25)",Birth,Lamech_2,875,0,187,GEN 5:25,Birth year of father (688) + age of father at son's birth (187) = 875,,,,,,,,,,,,,,,,,
+Death_Adam_1,Death of Adam,"So all the days that Adam lived were NINE HUNDRED AND THIRTY YEARS, and he died. (GEN 5:5)",Death,Adam_1,931,930,930,GEN 5:5,Adam_1's birth year (1) + Adam_1's age at death (930) = 931,,,,,,,,,,,,,,,,,
+Death_Enoch_2,Death of Enoch,"So all the days of Enoch were THREE HUNDRED AND SIXTY-FIVE YEARS. (GEN 5:23)
+Enoch walked with God; and he was not, for God took him. (GEN 5:24)
+[Note: Enoch did not die but was ""taken"".]",Death,Enoch_2,988,365,365,GEN 5:23,Enoch_2's birth year (623) + Enoch_2's age at death (365) = 988,,,,,,,,,,,,,,,,,
+Death_Seth_1,Death of Seth,"So all the days of Seth were NINE HUNDRED AND TWELVE YEARS, and he died. (GEN 5:8)",Death,Seth_1,1043,912,912,GEN 5:8,Seth_1's birth year (131) + Seth_1's age at death (912) = 1043,,,,,,,,,,,,,,,,,
+Birth_Noah_1,Birth of Noah,"Lamech lived ONE HUNDRED AND EIGHTY-TWO YEARS, and became the father of a son. Now he called his name Noah, saying, ""This one will give us rest from our work and from the toil of our hands arising from the ground which the LORD has cursed."" (GEN 5:28-29)",Birth,Noah_1,1057,0,182,GEN 5:28,Birth year of father (875) + age of father at son's birth (182) = 1057,,,,,,,,,,,,,,,,,
+Death_Enosh_1,Death of Enosh,"So all the days of Enosh were NINE HUNDRED AND FIVE YEARS, and he died. (GEN 5:11)",Death,Enosh_1,1141,905,905,GEN 5:11,Enosh_1's birth year (236) + Enosh_1's age at death (905) = 1141,,,,,,,,,,,,,,,,,
+Death_Kenan_1,Death of Kenan,"So all the days of Kenan were NINE HUNDRED AND TEN YEARS, and he died. (GEN 5:14)",Death,Kenan_1,1236,910,910,GEN 5:14,Kenan_1's birth year (326) + Kenan_1's age at death (910) = 1236,,,,,,,,,,,,,,,,,
+Death_Mahalalel_1,Death of Mahalalel,"So all the days of Mahalalel were EIGHT HUNDRED AND NINETY-FIVE YEARS, and he died. (GEN 5:17)",Death,Mahalalel_1,1291,895,895,GEN 5:17,Mahalalel_1's birth year (396) + Mahalalel_1's age at death (895) = 1291,,,,,,,,,,,,,,,,,
+Death_Jared_1,Death of Jared,"So all the days of Jared were NINE HUNDRED AND SIXTY-TWO YEARS, and he died. (GEN 5:20)",Death,Jared_1,1423,962,962,GEN 5:20,Jared_1's birth year (461) + Jared_1's age at death (962) = 1423,,,,,,,,,,,,,,,,,
+Birth_Shem_1,Birth of Shem,"Noah was FIVE HUNDRED YEARS OLD, and Noah became the father of Shem, Ham, and Japheth. (GEN 5:32)
+[Which was born first? Ham is the youngest (GEN 9:22, 24) and Shem is called the older brother of Japheth (GEN 10:21), so Shem is the oldest born to Noah when he was 500... or 500-ish.]
+ 
+In the SIX HUNDREDTH YEAR of Noah’s life, in the second month, on the seventeenth day of the month, on the same day all bthe fountains of the great deep burst open, and the floodgates of the sky were opened. (GEN 7:11)
+[The Flood started when Noah was 600.]
+
+Now it came about in the SIX HUNDRED AND FIRST YEAR, in the first month, on the first of the month, the water was dried up from the earth. Then Noah removed the covering of the ark, and looked, and behold, the surface of the ground was dried up. (GEN 8:13)
+[The Flood ended when Noah was 601.]
+
+These are the records of the generations of Shem. Shem was ONE HUNDRED YEARS old, and became the father of Arpachshad TWO YEARS after the flood. (GEN 11:10)
+[Two years after the Flood, Shem is 100 years old (Gen 11:10) and Noah is 603 (math). This means that Shem was born 100 years prior, in the 503rd year of Noah's life.]",Birth,Shem_1,1560,0,503,GEN 5:32,Birth year of father (1057) + age of father at son's birth (503) = 1560,,,"The Flood began when Noah was 600 (GEN 7:11). 
+Two years after the Flood began, Noah was 602 years old. (math)
+Two years after the Flood began, Shem is 100 years old and sires Arpachshad (GEN 11:10).
+This means that Shem was born 100 years prior, in the 502nd year of Noah's life.",,,,,,,,,,,,,,
+Death_Lamech_2,Death of Lamech,"So all the days of Lamech were SEVEN HUNDRED AND SEVENTY-SEVEN YEARS, and he died. (GEN 5:31)",Death,Lamech_2,1652,777,777,GEN 5:31,Lamech_2's birth year (875) + Lamech_2's age at death (777) = 1652,,,,,,,,,,,,,,,,,
+Death_Methuselah_1,Death of Methuselah,"So all the days of Methuselah were NINE HUNDRED AND SIXTY-NINE YEARS, and he died. (GEN 5:27)
+[Methuselah lived 969 years, longer than any other person ever born.
+Methuselah died just before the time of the Flood.]",Death,Methuselah_1,1657,969,969,GEN 5:27,Methuselah_1's birth year (688) + Methuselah_1's age at death (969) = 1657,,,,,,,,,,,,,,,,,
+Begin_Flood,The Flood Begins,"In the SIX HUNDREDTH YEAR of Noah's life, in the second month, on the seventeenth day of the month, on the same day all the fountains of the great deep burst open, and the floodgates of the sky were opened. The rain fell upon the earth for forty days and forty nights. (GEN 7:11-12)",Begin,Noah_1,1657,600,600,GEN 7:11,Birth year of Noah (1057) + age of Noah at Flood begins (600) = 1657,,,,,,,,,,,,,,,,,
+End_Flood,The Flood Ends,"Now it came about in the SIX HUNDRED AND FIRST YEAR, in the first month, on the first of the month, the water was dried up from the earth. Then Noah removed the covering of the ark, and looked, and behold, the surface of the ground was dried up. (GEN 8:13)",End,Noah_1,1658,601,601,GEN 8:13,Birth year of Noah (1057) + age of Noah at Flood end (601) = 1658,,,"The Flood began on the 17th day of the 2nd month during Noah's 600th year of life (GEN 7:11).
+Noah's birth date could have fallen on ANY date after that up to the 1st day of the 1st month the following year since the Flood ended in the 601st year of Noah's life (GEN 8:13).",,,,,,,,,,,,,,
+Birth_Arpachshad_1,Birth of Arpachshad,"These are the records of the generations of Shem. Shem was ONE HUNDRED YEARS OLD, and became the father of Arpachshad TWO YEARS after the flood; (GEN 11:10)
+[Shem was 100 years old when Arpachshad was born... two years after the Flood.]",Birth,Arpachshad_1,1660,0,100,GEN 11:10,Birth year of father (1560) + age of father at son's birth (100) = 1660 AND 2 years after the Flood (1658+2) = 1660,,,,,,,,,,,,,,,,,
+Birth_Shelah_1,Birth of Shelah,"Arpachshad lived THIRTY-FIVE YEARS, and became the father of Shelah; (GEN 11:12)",Birth,Shelah_1,1695,0,35,GEN 11:12,Birth year of father (1660) + age of father at son's birth (35) = 1695,,,,,,,,,,,,,,,,,
+Birth_Eber_1,Birth of Eber,"Shelah lived THIRTY YEARS, and became the father of Eber; (GEN 11:14)",Birth,Eber_1,1725,0,30,GEN 11:14,Birth year of father (1695) + age of father at son's birth (30) = 1725,,,,,,,,,,,,,,,,,
+Birth_Peleg_1,Birth of Peleg,"Eber lived THIRTY-FOUR YEARS, and became the father of Peleg; (GEN 11:16)",Birth,Peleg_1,1759,0,34,GEN 11:16,Birth year of father (1725) + age of father at son's birth (34) = 1759,,,,,,,,,,,,,,,,,
+Birth_Reu_1,Birth of Reu,"Peleg lived THIRTY YEARS, and became the father of Reu; (GEN 11:18)",Birth,Reu_1,1789,0,30,GEN 11:18,Birth year of father (1759) + age of father at son's birth (30) = 1789,,,,,,,,,,,,,,,,,
+Birth_Serug_1,Birth of Serug,"Reu lived THIRTY-TWO YEARS, and became the father of Serug; (GEN 11:20)",Birth,Serug_1,1821,0,32,GEN 11:20,Birth year of father (1789) + age of father at son's birth (32) = 1821,,,,,,,,,,,,,,,,,
+Birth_Nahor_1,Birth of Nahor,"Serug lived THIRTY YEARS, and became the father of Nahor; (GEN 11:22)",Birth,Nahor_1,1851,0,30,GEN 11:22,Birth year of father (1821) + age of father at son's birth (30) = 1851,,,,,,,,,,,,,,,,,
+Birth_Terah_1,Birth of Terah,"Nahor lived TWENTY-NINE YEARS, and became the father of Terah; (GEN 11:24)",Birth,Terah_1,1880,0,29,GEN 11:24,Birth year of father (1851) + age of father at son's birth (29) = 1880,,,,,,,,,,,,,,,,,
+Birth_Haran_1,Birth of Haran*,"Terah lived SEVENTY YEARS, and became the father of Abram, Nahor and Haran. (GEN 11:26)
+[Terah was at least 70 years old when Abram was born.]
+ 
+The days of Terah were TWO HUNDRED AND FIVE YEARS; and Terah died in Haran. (GEN 11:32)
+Now Abram was SEVENTY-FIVE YEARS old when he departed from Haran. (GEN 12:4)
+[Terah was 205 when he died in Haran and Abram was 75 left Haran when Terah died (Acts 7:4).
+This means Terah was 130 when Abram was born so either Nahor or Haran was born when Terah was 70.]",Birth,Haran_1,1950,0,70,GEN 11:26,Birth year of father (1880) + age of father at son's birth (70) = 1950,Ur of the Chaldeans,GEN 11:28,,,,,,,,,,,,,,,
+Death_Peleg_1,Death of Peleg,"Peleg lived thirty years, and became the father of Reu; and Peleg lived TWO HUNDRED AND NINE YEARS after he became the father of Reu, and he had other sons and daughters. (GEN 11:18-19)
+[  30 years 
+ +209 years 
+ =239 years total]
+ ",Death,Peleg_1,1998,239,209,GEN 11:19,Reu_1's birth year (1789) + Peleg_1's lifetime after his son's birth (209) = 1998,,,,,,,,,,,,,,,,,
+First_post_Flood_death,The first death after the Flood,"The first death after the Flood was Peleg, a man born AFTER the Flood.",Death,Peleg_1,1998,239,,GEN 11:19,,,,,,,,,,,,,,,,,,
+Death_Nahor_1,Death of Nahor,"Nahor lived twenty-nine years, and became the father of Terah; and Nahor lived ONE HUNDRED AND NINETEEN YEARS after he became the father of Terah, and he had other sons and daughters. (GEN 11:24)
+[  29 years
+ +119 years
+ =148 years total]",Death,Nahor_1,1999,148,119,GEN 11:25,Terah_1's birth year (1880) + Nahor_1's lifetime after his son's birth (119) = 1999,,,,,,,,,,,,,,,,,
+Second_post_Flood_death,The second death after the Flood,"The second death after the Flood was Nahor, a man born AFTER the Flood.",Death,Nahor_1,1999,148,,GEN 11:25,,,,,,,,,,,,,,,,,,
+Death_Noah_1,Death of Noah,"Noah lived THREE HUNDRED AND FIFTY YEARS after the flood. (GEN 9:28)
+[The Flood concluded in the 601st year of Noah's life:
+601 years
++350 years
+=951 years]",Death,Noah_1,2008,951,350,GEN 9:29,The end year of the Flood (1658) + Noah_1 age after the Flood (350) = 2008,,,,,,,,,,,,,,,,,
+Third_post_Flood_death,The third death after the Flood,The third death after the Flood was Noah.,Death,Noah_1,2008,951,,GEN 9:29,,,,,,,,,,,,,,,,,,
+Birth_Abram_1,Birth of Abram,"Terah lived SEVENTY YEARS, and became the father of Abram, Nahor and Haran. (GEN 11:26)
+[Terah was at least 70 years old when Abram was born.]
+ 
+The days of Terah were TWO HUNDRED AND FIVE YEARS; and Terah died in Haran. (GEN 11:32)
+Now Abram was SEVENTY-FIVE YEARS old when he departed from Haran. (GEN 12:4)
+[Terah was 205 when he died in Haran and Abram was 75 left Haran when Terah died (Acts 7:4).
+This means Terah was 130 when Abram was born.]",Birth,Abram_1,2010,0,130,GEN 12:4,Birth year of father (1880) + age of father at son's birth (130) = 2010,,,"Terah lived seventy years, and became the father of Abram, Nahor and Haran. (GEN 11:26)
+Terah was at least 70 years old when Abram was born.
+The days of Terah were two hundred and five years; and Terah died in Haran. (GEN 11:32)
+Terah died in Haran at the age of 205 in Haran.
+Now Abram was seventy-five years old when he departed from Haran. (GEN 12:4)
+Terah was 205 when he died in Haran and Abram (aged 75) left Haran when Terah died (Acts 7:4). This means Terah was 130 when Abram was born.",,,,,,,,,,,,,,
+Birth_Sarai_1,Birth of Sarai,"Then Abraham fell on his face and laughed, and said in his heart, “Will a child be born to a man ONE HUNDRED YEARS old? And will Sarah, who is NINETY YEARS old, bear a child?” (GEN 17:17)
+ [Sarah was 90 when Abraham was 100 so Sarah was 10 years younger than Abraham.]
+ ",Birth,Sarai_1,2020,0,10,GEN 17:17,Birth year of Abram (2010) + age difference between Abram and Sarai (10) years = 2020,,,Sarah was 10 years younger than Abraham (GEN 17:17),,,,,,,,,,,,,,
+Death_Reu_1,Death of Reu,"Reu lived thirty-two years, and became the father of Serug; and Reu lived TWO HUNDRED AND SEVEN YEARS after he became the father of Serug, and he had other sons and daughters. (GEN 11:20)
+[  32 years 
+ +207 years 
+ =239 years total]
+ ",Death,Reu_1,2028,239,207,GEN 11:21,Serug_1's birth year (1821) + Reu_1's lifetime after his son's birth (207) = 2028,,,,,,,,,,,,,,,,,
+Death_Serug_1,Death of Serug,"Serug lived thirty years, and became the father of Nahor; and Serug lived TWO HUNDRED AND SEVEN YEARS after he became the father of Nahor, and he had other sons and daughters. (GEN 11:22)
+[  30 years
+ +200 years
+ =230 years total]",Death,Serug_1,2058,237,207,GEN 11:23,Nahor_1's birth year (1851) + Serug_1's lifetime after his son's birth (207) = 2058,,,,,,,,,,,,,,,,,
+Death_Haran_1,Death of Haran*,"Haran died in the presence of his father Terah in the land of his birth, in Ur of the Chaldeans. (GEN 11:28)
+[Haran's death may have prompted Terah and his family to leave Ur.]",Death,Haran_1,2080,130,,GEN 11:28,The year Terah and Abram depart Ur (2080),Ur of the Chaldeans,GEN 11:28,,,,,,,,,,,,,,,
+Abram_departs_Ur,Abram Departs Ur*,"Terah took Abram his son, and Lot the son of Haran, his grandson, and Sarai his daughter-in-law, his son Abram’s wife; and they went out together from Ur of the Chaldeans in order to enter the land of Canaan; and they went as far as Haran, and settled there. (GEN 11:31)
+[The oral history of Israel recounts that Abram Departs Ur when he is 70 years old.]
+",Travel,Abram_1,2080,70,70,GEN 11:31,Birth year of Abram (2010) + age at departure (70) = 2080,,,See Genesis Rabbah 38 and Tanna debe Eliyahu 2:25 (probably a portion of Pirke Rabbi Eliezer).,,,,,,,,,,,,,,
+Abram_meets_Melchizedek,Abram Meets Melchizedek,"And Melchizedek king of Salem brought out bread and wine; now he was a priest of God Most High. (GEN 14:18) 
+After these things the word of the LORD came to Abram in a vision, saying, ""Do not fear, Abram, I am a shield to you; Your reward shall be very great."" (GEN 15:1)
+[Abram's meeting with Melchizedek occurred just prior to the Promise.]",Meeting,Abram_1,2084,74,-1,GEN 14:18,The year of the Promise to Abram (2085) - (1) year = 2084,,,,,,,,,,,,,,,,,
+Abram_departs_Haran,Abram Departs Haran,"So Abram went forth as the LORD had spoken to him; and Lot went with him. Now Abram was SEVENTY-FIVE YEARS old when he departed from Haran. (GEN 12:4)
+",Travel,Abram_1,2085,75,75,GEN 12:4,Birth year of Abram (2010) + age at departure (75) = 2085,Haran,GEN 12:4,,,,,,,,,,,,,,,
+Death_Terah_1,Death of Terah,"The days of Terah were TWO HUNDRED AND FIVE YEARS and Terah died in Haran. (GEN 11:32)
+ ",Death,Terah_1,2085,205,205,GEN 11:32,Terah_1's birth year (1880) + Terah_1's age at death (205) = 2085,Haran,GEN 11:32,,,,,,,,,,,,,,,
+Promise_to_Abram_1,The Promise to Abram,"After these things the word of the LORD came to Abram in a vision, saying, ""Do not fear, Abram, I am a shield to you; Your reward shall be very great."" (GEN 15:1)
+Then behold, the word of the LORD came to him, saying, “This man will not be your heir; abut one who will come forth from your own body, he shall be your heir.” (GEN 15:4)
+
+Now the promises were spoken to Abraham and to his seed. He does not say, ""And to seeds,"" as referring to many, but rather to one, ""And to your seed,"" that is, Christ.  What I am saying is this: the Law, which came FOUR HUNDRED AND THIRTY YEARS later, does not invalidate a covenant previously ratified by God, so as to nullify the promise. (GAL 3:16-17)
+[The giving of the Law at Mt. Sinai (51 days after the Exodus from Egypt) was 430 years after the giving of the promise to Abram.]",Unique,Abram_1,2085,75,-430,GEN 15:1,The Covenant at Sinai (2515) - the period between the covenant and the promise (-430) = 2085,,,,,,,,,,,,,,,,,
+Abram_marries_Hagar,Abram marries Hagar,"After Abram had lived TEN YEARS in the land of Canaan, Abram’s wife Sarai took Hagar the Egyptian, her maid, and gave her to her husband Abram as his wife. (GEN 16:3)
+[Abram marries Hagar 10 years after leaving Haran and entering Canaan.]
+ ",Marriage,Abram_1,2095,85,10,GEN 16:3,The year Abram leaves Haran (2085) + time passed in the land of Canaan (10) = 2095,,,,,,,,,,,,,,,,,
+Birth_Ishmael_1,Birth of Ishmael,"Abram was EIGHT-SIX YEARS old when Hagar bore Ishmael to him. (GEN 16:16)
+ ",Birth,Ishmael_1,2096,0,86,GEN 16:16,Birth year of father (2010) + age of father at son's birth (86) =2096,Canaan,GEN 16:3,,,,,,,,,,,,,,,
+Death_Arpachshad_1,Death of Arpachshad,"Arpachshad lived thirty-five years, and became the father of Shelah; and Arpachshad lived FOUR HUNDRED AND THREE YEARS after he became the father of Shelah, and he had other sons and daughters. (GEN 11:12-13)
+[  35 years 
+ +403 years 
+ =438 years total]",Death,Arpachshad_1,2098,438,403,GEN 11:13,Shelah_1's birth year (1695) + Arpachshad_1's lifetime after his son's birth (403) = 2098,,,,,,,,,,,,,,,,,
+Abraham_circumcised,Abraham and all his household circumcised,"Then Abraham took Ishmael his son, and all the servants who were born in his house and all who were bought with his money, every male among the men of Abraham's household, and circumcised the flesh of their foreskin in the very same day, as God had said to him. Now Abraham was NINETY-NINE YEARS old when he was circumcised in the flesh of his foreskin. And Ishmael his son was THIRTEEN YEARS old when he was circumcised in the flesh of his foreskin. In the very same day Abraham was circumcised, and Ishmael his son. All the men of his household, who were born in the house or bought with money from a foreigner, were circumcised with him. (GEN 17:23-27)
+ 
+[Abraham was circumcised when he was 99 years old... the same year Sodom and Gomorrah were destroyed.]",Unique,Abram_1,2109,99,99,GEN 17:24,Birth year of Abram (2010) + age at circumcision (99) = 2109,,,,,,,,,,,,,,,,,
+Sodom_destroyed,Sodom and Gomorrah Destroyed,"""I will surely return to you at this time next year; and behold, Sarah your wife will have a son."" And Sarah was listening at the tent door, which was behind him. (GEN 18:10)
+ 
+ Then the men rose up from there, and looked down toward Sodom; and Abraham was walking with them to send them off. (GEN 18:16)
+ 
+ Then the men turned away from there and went toward Sodom, while Abraham was still standing before the LORD. (GEN 18:22)
+ 
+ Then the LORD rained on Sodom and Gomorrah brimstone and fire from the LORD out of heaven, and He overthrew those cities, and all the valley, and all the inhabitants of the cities, and what grew on the ground. (GEN 19:24-25)
+ 
+ The destruction of Sodom and Gomorrah was 1 year before Isaac was born.
+ 
+ Sodom and Gomorrah were destroyed 451 years after the Flood.",Destruction,,2109,,-1,GEN 18:10,Birth year of Isaac (2110) - a single year (1) = 2109,,,,,,,,,,,,,,,,,
+Birth_Moab_1,Birth of Moab*,"The firstborn bore a son, and called his name Moab; he is the father of the Moabites to this day. (GEN 19:37)
+[Moab would have been born ~ 9 months after the destruction of Sodom and Gomorrah and Lot's flight from there.]",Birth,Moab_1,2110,0,1,GEN 19:37,The year Sodom was destroyed (2109) + approximately one year (1) = 2110,Cave near Zoar,GEN 19:30,,,,,,,,,,,,,,,
+Birth_Ben-ammi_1,Birth of Ben-ammi*,"As for the younger, she also bore a son, and called his name Ben-ammi; he is the father of the sons of Ammon to this day. (GEN 19:38)
+[Ben-ammi would have been born ~ 9 months after the destruction of Sodom and Gomorrah and Lot's flight from there.]",Birth,Ben-ammi_1,2110,0,1,GEN 19:38,The year Sodom was destroyed (2109) + approximately one year (1) = 2110,Cave near Zoar,GEN 19:30,,,,,,,,,,,,,,,
+Birth_Isaac_1,Birth of Isaac,Now Abraham was ONE HUNDRED YEARS old when his son Isaac was born to him. (GEN 21:5),Birth,Isaac_1,2110,0,100,GEN 21:5,Birth year of father (2010) + age of father at son's birth (100) = 2110,,,,,,,,,,,,,,,,,
+Death_Shelah_1,Death of Shelah,"Shelah lived thirty years, and became the father of Eber; and Shelah lived FOUR HUNDRED AND THREE YEARS after he became the father of Eber, and he had other sons and daughters. (GEN 11:14-15)
+[  30 years 
+ +403 years 
+ =433 years total]",Death,Shelah_1,2128,433,403,GEN 11:15,Eber_1's birth year (1725) + Shelah_1's lifetime after his son's birth (403) = 2128,,,,,,,,,,,,,,,,,
+Death_Sarai_1,Death of Sarai,Now Sarah lived ONE HUNDRED AND TWENTY-SEVEN YEARS; these were the years of the life of Sarah. (GEN 23:1),Death,Sarai_1,2147,127,127,GEN 23:1,Sarai_1's birth year (2020) + Sarai_1's age at death (127) = 2147,Hebron,GEN 23:2,,,,,,,,,,,,,,,
+Sacrifice_of_Isaac,Sacrifice of Isaac*,"He said, ""Take now your son, your only son, whom you love, Isaac, and go to the land of Moriah, and offer him there as a burnt offering on one of the mountains of which I will tell you."" (GEN 22:2)
+Now Sarah lived ONE HUNDRED AND TWENTY-SEVEN YEARS; these were the years of the life of Sarah. (GEN 23:1)
+[The oral history of Israel recounts that Sarah died when she heard Isaac had been offered as a sacrifice. She was 90 years old when Isaac was born (GEN 17:17) and 127 years old when she died (GEN 23:1), 37 years after Isaac's birth.  Isaac was offered as a sacrifice when he was 37 years old.]
+",Unique,Isaac_1,2147,37,37,GEN 22:2,Isaac's birth year (2110) + Isaac's age when sacrificed (37) = 2147,,,,,,,,,,,,,,,,,
+Isaac_marries_Rebekah,Isaac marries Rebekah,"and Isaac was FORTY YEARS OLD when he took Rebekah, the daughter of Bethuel the Aramean of Paddan-aram, the sister of Laban the Aramean, to be his wife. (GEN 25:20)
+ ",Marriage,Isaac_1,2150,40,40,GEN 25:20,Isaac_1's birth year (2110) + Isaac_1's age at marriage (40) = 2150,,,,,,,,,,,,,,,,,
+Death_Shem_1,Death of Shem,"These are the records of the generations of Shem. Shem was ONE HUNDRED YEARS old, and became the father of Arpachshad two years after the flood. (GEN 11:10)
+and Shem lived FIVE HUNDRED YEARS, after he became the father of Arpachshad, and he had other sons and daughters. (GEN 11:11)
+[ 100 years up to Arpachshad's birth (GEN 11:10)
+ +500 years after Arpachshad's birth (GEN 11:11)
+ =600 years total]",Death,Shem_1,2160,600,500,GEN 11:11,Arpachshad_1's birth year (1660) + Shem_1's life after his son's birth (500) = 2160,,,,,,,,,,,,,,,,,
+Birth_Esau_1,Birth of Esau,"Now the first came forth red, all over like a hairy garment; and they named him Esau. Afterward his brother came forth with his hand holding on to Esau's heel, so his name was called Jacob; and Isaac was SIXTY YEARS old when she gave birth to them. (GEN 25:25-26)",Birth,Esau_1,2170,0,60,GEN 25:26,Birth year of father (2110) + age of father at son's birth (60) = 2170,,,,,,,,,,,,,,,,,
+Birth_Jacob_1,Birth of Jacob,"Now the first came forth red, all over like a hairy garment; and they named him Esau. Afterward his brother came forth with his hand holding on to Esau's heel, so his name was called Jacob; and Isaac was SIXTY YEARS old when she gave birth to them. (GEN 25:25-26)",Birth,Jacob_1,2170,0,60,GEN 25:26,Birth year of father (2110) + age of father at son's birth (60) = 2170,,,,,,,,,,,,,,,,,
+Death_Abram_1,Death of Abram,"These are all the years of Abraham's life that he lived, ONE HUNDRED AND SEVENTY-FIVE YEARS. (GEN 25:7)
+ ",Death,Abram_1,2185,175,175,GEN 25:7,Abram_1's birth year (2010) + Abram_1's age at death (175) = 2185,Cave of Machpelah,GEN 25:9,,,,,,,,,,,,,,,
+Death_Eber_1,Death of Eber,"Eber lived thirty-four years, and became the father of Peleg; and Eber lived FOUR HUNDRED AND THIRTY YEARS after he became the father of Peleg, and he had other sons and daughters. (GEN 11:16-17)
+[  34 years 
+ +430 years 
+ =464 years total]
+ ",Death,Eber_1,2189,464,430,GEN 11:16,Peleg_1's birth year (1759) + Eber_1's lifetime after his son's birth (430) = 2189,,,,,,,,,,,,,,,,,
+Death_Ishmael_1,Death of Ishmael,"These are the years of the life of Ishmael, ONE HUNDRED AND THIRTY-SEVEN YEARS; and he breathed his last and died, and was gathered to his people. (GEN 25:17)",Death,Ishmael_1,2233,137,137,GEN 25:17,Ishmael_1's birth year (2096) + Ishmael_1's age at death (137) = 2233,,,,,,,,,,,,,,,,,
+Jacob_departs_Haran,Jacob departs to Haran,"Now Joseph was THIRTY YEARS old when he stood before Pharaoh, king of Egypt. And Joseph went out from the presence of Pharaoh and went through all the land of Egypt. (GEN 41:46)
+[Joseph is made viceroy at age 30 and would have been 37 at the end of the seven years of plenty. (math)]
+ 
+For the famine has been in the land these TWO YEARS, and there are still five years in which there will be neither plowing nor harvesting. (GEN 45:6)
+[Jacob goes to Egypt in the second of the seven years of famine so Joseph would have been 39 (math).]
+ 
+So Jacob said to Pharaoh, “The years of my sojourning are ONE HUNDRED AND THIRTY; few and unpleasant have been the years of my life, nor have they attained the years that my fathers lived during the days of their sojourning.” (GEN 47:9)
+[Jacob was 130 when he entered the land and Joseph was 39. Therefore, Jacob was 91 when Joseph was born.
+Jacob had served Laban for 14 years when Joseph was born (he told Laban he wanted to return to his country- GEN 30:25) and must have completed his 7 years of service for Leah and 7 years of service for Rachel. Jacob was 91 years old when Joseph was born - Jacob's 14 years of service to Laban = Jacob was 77 years old when he left home for Padan Aram.]",Travel,Jacob_1,2247,77,14,GEN 28:5,Joseph_1's birth year (2261) - the years Jacob served Laban (14) = 2247,,,,,,,,,,,,,,,,,
+Jacob_marries_Leah_Rachel,Jacob marries Leah and Rachel,"So Jacob served SEVEN YEARS for Rachel and they seemed to him but a few days because of his love for her. (GEN 29:20)
+[Jacob served Laban for 7 years before his marriage to Leah (GEN 29:23). A week later (GEN 29:27-28) he married Rachel and then served Laben another 7 years after their marriage.]
+ ",Marriage,Jacob_1,2254,84,7,GEN 29:20,Joseph_1's age when he departed for Haran (2247) + the years Jacob served for Rachel (7) = 2254,,,,,,,,,,,,,,,,,
+Birth_Reuben_1,Birth of Reuben*,"Leah conceived and bore a son and named him Reuben, for she said, “Because the LORD has seen my affliction; surely now my husband will love me.” (GEN 29:32)
+[Eliezer Shulman's ""The Sequence of Events in the Old Testament"" (page 28) places Reuben's birth in the year 2193 AM, 1 year after Leah is given to Jacob in marriage.]",Birth,Reuben_1,2255,0,1,GEN 29:32,Jacob_1's marriage to Leah_1 (2254) + time to conceive and bear a son (1) = 2255,Paddan-aram,"GEN 35:26, GEN 46:15",,,,,,,,,,,,,,,
+Birth_Simeon_1,Birth of Simeon*,"Then she conceived again and bore a son and said, “Because the LORD has heard that I am unloved, He has therefore given me this son also.” So she named him Simeon. (GEN 29:33)
+[Eliezer Shulman's ""The Sequence of Events in the Old Testament"" (page 28) places Simeon's birth in the year 2194 AM, 2 years after Leah is given to Jacob in marriage.]",Birth,Simeon_1,2256,0,2,GEN 29:33,Jacob_1's marriage to Leah_1 (2254) + time to conceive and bear two sons (2) = 2256,Paddan-aram,"GEN 35:26, GEN 46:15",,,,,,,,,,,,,,,
+Birth_Levi_1,Birth of Levi*,"She conceived again and bore a son and said, “Now this time my husband will become attached to me, because I have borne him three sons.” Therefore he was named Levi. (GEN 29:34)
+[Eliezer Shulman's ""The Sequence of Events in the Old Testament"" (page 28) places Levi's birth in the year 2195 AM, 3 years after Leah is given to Jacob in marriage.]",Birth,Levi_1,2257,0,3,GEN 29:34,Jacob_1's marriage to Leah_1 (2254) + time to conceive and bear three sons (3) = 2257,Paddan-aram,"GEN 35:26, GEN 46:15",,,,,,,,,,,,,,,
+Birth_Judah_1,Birth of Judah*,"And she conceived again and bore a son and said, “This time I will praise the LORD.” Therefore she named him Judah. Then she stopped bearing. (GEN 29:35)
+[Eliezer Shulman's ""The Sequence of Events in the Old Testament"" (page 28) places Judah's birth in the year 2196 AM, 4 years after Leah is given to Jacob in marriage.]",Birth,Judah_1,2258,0,4,GEN 29:35,Jacob_1's marriage to Leah_1 (2254) + time to conceive and bear four sons (4) = 2258,Paddan-aram,GEN 35:26,,,,,,,,,,,,,,,
+Birth_Dan_1,Birth of Dan*,"Then Rachel said, “God has vindicated me, and has indeed heard my voice and has given me a son.” Therefore she named him Dan. (GEN 30:6)
+[Eliezer Shulman's ""The Sequence of Events in the Old Testament"" (page 28) places Dan's birth in the year 2196 AM, 4 years after Rachel is given to Jacob in marriage and 9 months after Rachel gives Bilhah to Jacob.]",Birth,Dan_1,2258,0,4,GEN 30:6,Jacob_1's marriage to Rachel_1 (2254) + time for Bilhah to conceive a son (4) = 2258,Paddan-aram,GEN 35:26,,,,,,,,,,,,,,,
+Birth_Naphtali_1,Birth of Naphtali*,"Rachel’s maid Bilhah conceived again and bore Jacob a second son. So Rachel said, “With 1mighty wrestlings I have 2wrestled with my sister, and I have indeed prevailed.” And she named him Naphtali. (GEN 30:7-8)
+[Eliezer Shulman's ""The Sequence of Events in the Old Testament"" (page 28) places Naphtali's birth in the year 2197 AM, 5 years after Rachel is given to Jacob in marriage and 2 years after Rachel gives Bilhah to Jacob.]",Birth,Naphtali_1,2259,0,5,GEN 30:8,Jacob_1's marriage to Rachel_1 (2254) + time for Bilhah to conceive a second son (5) = 2259,Paddan-aram,GEN 35:26,,,,,,,,,,,,,,,
+Birth_Gad_1,Birth of Gad*,"When Leah saw that she had stopped bearing, she took her maid Zilpah and gave her to Jacob as a wife. Leah’s maid Zilpah bore Jacob a son. Then Leah said, “How fortunate!” So she named him Gad. (GEN 30:9-11)
+[Eliezer Shulman's ""The Sequence of Events in the Old Testament"" (page 28) places Gad's birth in the year 2197 AM, 5 years after Leah is given to Jacob in marriage and 9 months after Leah gives Zilpah to Jacob.]",Birth,Gad_1,2259,0,5,GEN 30:11,Jacob_1's marriage to Leah_1 (2254) + time to for Zilpah conceive and bear a son (5) = 2259,Paddan-aram,GEN 35:26,,,,,,,,,,,,,,,
+Birth_Asher_1,Birth of Asher*,"Leah’s maid Zilpah bore Jacob a second son. Then Leah said, “Happy am I! For women will call me happy.” So she named him Asher. (GEN 30:12-13) 
+[Eliezer Shulman's ""The Sequence of Events in the Old Testament"" (page 28) places Asher's birth in the year 2198 AM, 6 years after Leah is given to Jacob in marriage and 21 months after Leah gives Zilpah to Jacob.]",Birth,Asher_1,2260,0,6,GEN 30:13,Jacob_1's marriage to Leah_1 (2254) + time to for Zilpah conceive and bear a second son (6) = 2260,Paddan-aram,GEN 35:26,,,,,,,,,,,,,,,
+Birth_Issachar_1,Birth of Issachar*,"Then Leah said, “God has given me my wages because I gave my maid to my husband.” So she named him Issachar. (GEN 30:18)
+[Eliezer Shulman's ""The Sequence of Events in the Old Testament"" (page 28) places Issachar's birth in the year 2198 AM, 6 years after Leah is given to Jacob in marriage.]",Birth,Issachar_1,2260,0,6,GEN 30:18,Jacob_1's marriage to Leah_1 (2254) + time to conceive and bear another son (6) = 2260,Paddan-aram,GEN 35:26,,,,,,,,,,,,,,,
+Birth_Zebulun_1,Birth of Zebulun*,"Leah conceived again and bore a sixth son to Jacob. Then Leah said, “God has endowed me with a good gift; now my husband will dwell with me, because I have borne him six sons.” So she named him Zebulun. (GEN 30:19-20)
+[Eliezer Shulman's ""The Sequence of Events in the Old Testament"" (page 28) places Zebulun's birth in the year 2199 AM, 7 years after Leah is given to Jacob in marriage.]",Birth,Zebulun_1,2261,0,7,GEN 30:20,Jacob_1's marriage to Leah_1 (2254) + time to conceive and bear another son (7) = 2261,Paddan-aram,GEN 35:26,,,,,,,,,,,,,,,
+Birth_Dinah_1,Birth of Dinah*,"Afterward she bore a daughter and named her Dinah. (GEN 30:21)
+[Eliezer Shulman's ""The Sequence of Events in the Old Testament"" (page 28) places Dinah's birth in the year 2199 AM as a twin of Zebulun, 7 years after Leah is given to Jacob in marriage.  ""Afterward"" in GEN 30:21 is taken to mean minutes afterward.]",Birth,Dinah_1,2261,0,7,GEN 30:21,Jacob_1's marriage to Leah_1 (2254) + time to conceive and bear a daughter (7) thought to be the twin of Zebulun = 2261,Paddan-aram,GEN 35:26,,,,,,,,,,,,,,,
+Birth_Joseph_1,Birth of Joseph,"She named him Joseph, saying, “May the LORD give me another son.” (GEN 30:24)
+Now Joseph was THIRTY YEARS old when he stood before Pharaoh, king of Egypt. And Joseph went out from the presence of Pharaoh and went through all the land of Egypt. (GEN 41:46)
+[Joseph is made viceroy at age 30 and would have been 37 at the end of the seven years of plenty. (math)]
+ 
+For the famine has been in the land these TWO YEARS, and there are still five years in which there will be neither plowing nor harvesting. (GEN 45:6)
+[Jacob goes to Egypt in the second of the seven years of famine so Joseph would have been 39 (math).]
+ 
+So Jacob said to Pharaoh, “The years of my sojourning are ONE HUNDRED AND THIRTY; few and unpleasant have been the years of my life, nor have they attained the years that my fathers lived during the days of their sojourning.” (GEN 47:9)
+[Jacob was 130 when he entered Egypt and Joseph was 39, therefore Jacob was 91 when Joseph was born.]",Birth,Joseph_1,2261,0,91,GEN 30:24,Birth year of father (2170) + age of father at son's birth (91) = 2261,Paddan-aram,GEN 35:26,,,,,,,,,,,,,,,
+Jacob_returns_to_Canaan,Jacob (and family) return to Canaan,"These TWENTY YEARS I have been in your house; I served you fourteen years for your two daughters and six years for your flock, and you changed my wages ten times. (GEN 31:41)
+",Travel,Jacob_1,2267,97,20,GEN 31:41,Jacob_1's arrival in Haran (2247) + the time he spent there (20) = 2267,Canaan,GEN 33:18,,,,,,,,,,,,,,,
+Death_Deborah_1,Death of Deborah*,"Now Deborah, Rebekah’s nurse, died, and she was buried below Bethel under the oak; it was named Allon-bacuth. (GEN 35:8)",Death,Deborah_1,2268,,1,GEN 35:8,Death of Rachel (2269) - ~1 year = 2268,Bethel,GEN 35:8,,,,,,,,,,,,,,,
+Death_Rachel_1,Death of Rachel*,"It came about as her soul was departing (for she died), that she named him Ben-oni; but his father called him Benjamin. So Rachel died and was buried on the way to Ephrath (that is, Bethlehem). (GEN 35:18-19)
+[This occurred after Jacob left Laban (GEN 31:55), after Jacob wrestled with the man (GEN 32:24), after Jacob met his brother Esau (GEN 33:16), and after the incident at Shechem (GEN 34), but before he arrived in Bethlehem.  The appearance is within a year or two of Jacob's departure from Laban.]",Death,Rachel_1,2269,,,GEN 35:18,Jacob's departure from Laben (2267) + ~2 years = 2269,Bethlehem,GEN 35:19,,,,,,,,,,,,,,,
+Birth_Benjamin_1,Birth of Benjamin*,"It came about as her soul was departing (for she died), that she named him Ben-oni; but his father called him Benjamin. So Rachel died and was buried on the way to Ephrath (that is, Bethlehem). (GEN 35:18-19)
+[This occurred after Jacob left Laban (GEN 31:55), after Jacob wrestled with the man (GEN 32:24), after Jacob met his brother Esau (GEN 33:16), and after the incident at Shechem (GEN 34), but before he arrived in Bethlehem.  The appearance is within a year or two of Jacob's departure from Laban.]",Birth,Benjamin_1,2269,0,2,GEN 35:18,Jacob's departure from Laben (2267) + ~2 years = 2269,Bethlehem,GEN 35:19,,,,,,,,,,,,,,,
+Josephs_dream,Joseph's dream,"These are the records of the generations of Jacob. Joseph, when SEVENTEEN YEARS of age, was pasturing the flock with his brothers while he was still a youth, along with the sons of Bilhah and the sons of Zilpah, his father's wives. And Joseph brought back a bad report about them to their father. Now Israel loved Joseph more than all his sons, because he was the son of his old age; and he made him a varicolored tunic. His brothers saw that their father loved him more than all his brothers; and so they hated him and could not speak to him on friendly terms. Then Joseph had a dream, and when he told it to his brothers, they hated him even more. (GEN 37:2-5)",Unique,Joseph_1,2278,17,17,GEN 37:2,Joseph_1's birth year (2261) + Joseph_1's age at the time of the vision (17) = 2278,Hebron,GEN 37:14,,,,,,,,,,,,,,,
+Death_Isaac_1,Death of Isaac,"Now the days of Isaac were ONE HUNDRED AND EIGHTY YEARS. (GEN 35:28)
+ ",Death,Isaac_1,2290,180,180,GEN 35:28,Isaac_1's birth year (2110) + Isaac_1's age at death (180) = 2290,,,,,,,,,,,,,,,,,
+Joseph_made_viceroy,Joseph made viceroy,"So Pharaoh said to Joseph, ""Since God has informed you of all this, there is no one so discerning and wise as you are. You shall be over my house, and according to your command all my people shall do homage; only in the throne I will be greater than you."" Pharaoh said to Joseph, ""See, I have set you over all the land of Egypt."" Then Pharaoh took off his signet ring from his hand and put it on Joseph's hand, and clothed him in garments of fine linen and put the gold necklace around his neck. He had him ride in his second chariot; and they proclaimed before him, ""Bow the knee!"" And he set him over all the land of Egypt. Moreover, Pharaoh said to Joseph, ""Though I am Pharaoh, yet without your permission no one shall raise his hand or foot in all the land of Egypt."" Then Pharaoh named Joseph Zaphenath-paneah; and he gave him Asenath, the daughter of Potiphera priest of On, as his wife. And Joseph went forth over the land of Egypt. Now Joseph was THIRTY YEARS OLD when he stood before Pharaoh, king of Egypt. And Joseph went out from the presence of Pharaoh and went through all the land of Egypt. (GEN 41:39-46)",Reign,Joseph_1,2291,30,30,GEN 41:46,Joseph_1's birth year (2261) + Joseph_1's age when he became viceroy (30) = 2291,Egypt,GEN 39:1,,,,,,,,,,,,,,,
+Birth_Manasseh_1,Birth of Manasseh,"Now before the year of famine came, two sons were born to Joseph, whom Asenath, the daughter of Potiphera priest of On, bore to him. (GEN 41:50)
+Joseph named the firstborn Manasseh, “For,” he said, “God has made me forget all my trouble and all my father’s household.” (GEN 41:51)",Birth,Manasseh_1,2297,0,6,GEN 41:50,Joseph_1 made viceroy (2291) + time before the famine (6) = 2297,,,,,,,,,,,,,,,,,
+Birth_Ephraim_1,Birth of Ephraim,"Now before the year of famine came, two sons were born to Joseph, whom Asenath, the daughter of Potiphera priest of On, bore to him. (GEN 41:50)
+He named the second Ephraim, “For,” he said, “God has made me fruitful in the land of my affliction.” (GEN 41:52)",Birth,Ephraim_1,2297,0,6,GEN 41:50,Joseph_1 made viceroy (2291) + time before the famine (6) = 2297,,,,,,,,,,,,,,,,,
+Jacob_goes_to_Egypt,Jacob goes to Egypt,"They took their livestock and their property, which they had acquired in the land of Canaan, and came to Egypt, Jacob and all his descendants with him: (GEN 46:6)
+So Jacob said to Pharaoh, ""The years of my sojourning are ONE HUNDRED AND THIRTY; few and unpleasant have been the years of my life, nor have they attained the years that my fathers lived during the days of their sojourning."" (GEN 47:9) 
+[Jacob was 130 years old when he arrived in Egypt and spoke with Pharoah.]
+ 
+Jacob went to Egypt in the SECOND YEAR of the famine. (GEN 45:6-9)
+Jacob lived in the land of Egypt SEVENTEEN YEARS; so the length of Jacob's life was ONE HUNDRED AND FORTY-SEVEN YEARS. (GEN 47:28) 
+ 
+[Jacob lived to be 147 years old and arrived 17 years earlier = 130 years old.
+Both passages tell us that Jacob was 130 years old. 
+** This date is critical to calculating Joseph's birth.**]",Travel,Jacob_1,2300,130,130,GEN 47:9,Jacob_1's birth year (2170) + Jacob_1's age when he arrives in Egypt and speaks to Pharaoh (130) = 2300,Goshen,GEN 46:28,,,,,,,,,,,,,,,
+Birth_Kohath_1,Birth of Kohath*,"Now these are the names of the sons of Israel, Jacob and his sons, who went to Egypt: Reuben, Jacob's firstborn... The sons of Levi: Gershon, Kohath, and Merari. (GEN 46:8, 11) 
+[Kohath was already born when the Israelites went down to Egypt.
+Eliezer Shulman's ""The Sequence of Events in the Old Testament"" (page 41) places Kohath's birth in the year 2238AM, when Levi is 43 years old.]
+ ",Birth,Kohath_1,2300,0,43,GEN 46:11,Birth year of father (2257) + age of father at son's birth (43) = 2300,Canaan,GEN 46:6,,,,,,,,,,,,,,,
+Death_Jacob_1,Death of Jacob,Jacob lived in the land of Egypt seventeen years; so the length of Jacob's life was ONE HUNDRED AND FORTY-SEVEN YEARS. (GEN 47:28),Death,Jacob_1,2317,147,147,GEN 47:28,Jacob_1's birth year (2170) + Jacob_1's age at death (147) = 2317,"Goshen, Egypt","GEN 47:27, GEN 49:33",,,,,,,,,,,,,,,
+Birth_Amram_1,Birth of Amram*,"The sons of Kohath: Amram and Izhar and Hebron and Uzziel; and the length of Kohath’s life was one hundred and thirty-three years. (EXO 6:18)
+[Amram is not counted among the Israelites who travel down to Egypt with the 70 so he was born after that event.
+Eliezer Shulman's ""The Sequence of Events in the Old Testament"" (page 44) places Kohath's birth in the year 2255AM (his date for Jacob's death) and Kohath was 17 years(???) old.]",Birth,Amram_1,2317,0,17,EXO 6:18,Birth year of father (2300) + age of father at son's birth (17) = 2317,Egypt,,,,,,,,,,,,,,,,
+Death_Joseph_1,Death of Joseph,So Joseph died at the age of ONE HUNDRED AND TEN YEARS; and he was embalmed and placed in a coffin in Egypt. (GEN 50:26),Death,Joseph_1,2371,110,110,GEN 50:26,Joseph_1's birth year (2261) + Joseph_1's age at death (110) = 2371,Egypt,GEN 50:26,,,,,,,,,,,,,,,
+Death_Levi_1,Death of Levi,These are the names of the sons of Levi according to their generations: Gershon and Kohath and Merari; and the length of Levi's life was ONE HUNDRED AND THIRTY-SEVEN YEARS. (EXO 6:16),Death,Levi_1,2394,137,137,EXO 6:16,Levi_1's birth year (2257) + Levi_1's age at death (137) = 2394,Egypt,,,,,,,,,,,,,,,,
+Birth_Aaron_1,Birth of Aaron,"Moses was eighty years old and Aaron EIGHTY-THREE, when they spoke to Pharaoh. (EXO 7:7)
+[Aaron was 83 when they spoke with Pharoah at the time of the Exodus so Aaron was born 83 years before the Exodus.]
+ ",Birth,Aaron_1,2432,0,83,EXO 7:7,The year of the Exodus (2515) - Aaron_1's age when he spoke with Pharaoh before the Exodus (83) = 2432,Egypt,,,,,,,,,,,,,,,,
+Death_Kohath_1,Death of Kohath,The sons of Kohath: Amram and Izhar and Hebron and Uzziel; and the length of Kohath’s life was ONE HUNDRED AND THIRTY-THREE YEARS. (EXO 6:18),Death,Kohath_1,2433,133,133,EXO 6:18,Kohath_1's birth year (2300) + Kohath_1's age at death (133) = 2433,Egypt,,,,,,,,,,,,,,,,
+Birth_Moses_1,Birth of Moses,"The child grew, and she brought him to Pharaoh’s daughter and he became her son. And she named him Moses, and said, “Because I drew him out of the water.” (EXO 2:10)
+Moses was EIGHTY YEARS old and Aaron eighty-three, when they spoke to Pharaoh. (EXO 7:7)
+[Moses was 80 when they spoke with Pharoah at the time of the Exodus so Moses was born 80 years before the Exodus.]",Birth,Moses_1,2435,0,80,EXO 7:7,The year of the Exodus (2515) - Moses_1's age when he spoke with Pharaoh before the Exodus (80) = 2435,Egypt,EXO 2:3,,,,,,,,,,,,,,,
+Death_Amram_1,Death of Amram,"Amram married his father’s sister Jochebed, and she bore him Aaron and Moses; and the length of Amram’s life was ONE HUNDRED AND THIRTY-SEVEN YEARS. (Exodus 6:20)",Death,Amram_1,2454,137,137,EXO 6:20,Amram_1's birth year (2317) + Amram_1's age at death (137) = 2454,Egypt,,,,,,,,,,,,,,,,
+Birth_Joshua_1,Birth of Joshua*,"[Eliezer Shulman's ""The Sequence of Events in the Old Testament"" (page 107) places Joshua's birth in the year 2406 AM by working backwards from Joshua's death 14 years (judging while the Tent of Meeting was in Shiloh), 14 years (conquering and apportioning the Land), 40 years (wandering in the wilderness) to the Exodus in 2448 AM when Joshua was 42 years old.]",Birth,Joshua_1,2473,0,42,JOS 24:29,The year of the Exodus (2515) - Joshua_1's age at the time of the Exodus (42) = 2515,Egypt,,,,,,,,,,,,,,,,
+Moses_flees_from_Pharoah,Moses flees from Pharoah,"Now it came about in those days, when Moses had grown up, that he went out to his brethren and looked on their hard labors; and he saw an Egyptian beating a Hebrew, one of his brethren. When Pharaoh heard of this matter, he tried to kill Moses. But Moses fled from the presence of Pharaoh and settled in the land of Midian, and he sat down by a well. (EXO 2:11, 15)
+But when he was approaching the age of FORTY, it entered his mind to visit his brethren, the sons of Israel. And when he saw one of them being treated unjustly, he defended him and took vengeance for the oppressed by striking down the Egyptian. (ACT 7:23-24)
+[Moses was almost 40 when he fled Egypt.]",Travel,Moses_1,2475,40,40,ACT 7:23,Moses_1's birth year (2435) + Moses_1's age when he fled (40) = 2475,Midian,EXO 2:15,,,,,,,,,,,,,,,
+Birth_Caleb_1,Birth of Caleb*,"I was FORTY YEARS old when Moses the servant of the LORD sent me from Kadesh-barnea to spy out the land, and I brought word back to him as it was in my heart. (JOS 14:7)
+[Caleb was 40 years old when he was sent to spy out the Land, two years after the Exodus.]",Birth,Caleb_1,2477,0,40,JOS 14:7,The year the twelve spies were sent into the Land (2517) - Caleb_1's age at the time of the Exodus (40) = 2477,Egypt,,,,,,,,,,,,,,,,
+The_Exodus,The Exodus,"Now the time that the sons of Israel lived in Egypt was FOUR HUNDRED AND THIRTY YEARS.  And at the end of four hundred and thirty years, to the very day, all the hosts of the LORD went out from the land of Egypt. (EXO 12:40-41)
+[The Israelites (descendants of Abraham) were in Egypt AND THE LAND OF CANAAN for 430 years (Rahlf's Septuaginta and the Samaritan Pentateuch agree on this language in Exodus 12:40.)
+ This date has to match the 400 years of oppression noted in Abram's promise. (GEN 15:13)
+ This date also has to match the 430 years between the Promise to Abram and the Covenant at Sinai (as Paul notes in Galatians 3:16-17)
+ ** This date is critical to calculating several other dates.**]
+ ",Unique,,2515,,430,EXO 12:40,The year of Abram was called (2085) + the years before the covenant (430) = 2515,Egypt,EXO 12:41,,,,,,,,,,,,,,,
+Sinai_Covenant,The Covenant at Sinai,"‘Now then, if you will indeed obey My voice and keep My covenant, then you shall be My own possession among all the peoples, for all the earth is Mine; and you shall be to Me a kingdom of priests and a holy nation.’ These are the words that you shall speak to the sons of Israel.” So Moses came and called the elders of the people, and set before them all these words which the LORD had commanded him. All the people answered together and said, “All that the LORD has spoken we will do!” And Moses brought back the words of the people to the LORD. (EXO 19:5-8)",Covenant,,2515,,400,EXO 19:5,Isaac_1's birth year (2110) + years until he was weaned (5) + years of oppression (400) = 2515,Mount Sinai,EXO 19:1,,,,,,,,,,,,,,,
+Tabernacle_Constructed,Tabernacle first constructed,"Now in the first month of the SECOND year, on the first day of the month, the tabernacle was erected. (EXO 40:17) ",Construction,,2517,,2,EXO 40:17,The year of the Exodus (2515) + years at Sinai (2) = 2517,Mount Sinai,EXO 40:17,Israel had not departed Sinai until the second month of the second year (NUM 10:11),,,,,,,,,,,,,,
+Israel_Leaves_Sinai,Israel departs Sinai,"Now in the SECOND year, in the second month, on the twentieth of the month, the cloud was lifted from over the tabernacle of the testimony; and the sons of Israel set out on their journeys from the wilderness of Sinai. Then the cloud settled down in the wilderness of Paran. (NUM 10:11-12)",Travel,,2517,,2,NUM 10:11,The year of the Exodus (2515) + years at Sinai (2) = 2517,Paran,NUM 10:11,,,,,,,,,,,,,,,
+Twelve_Spies,Twelve men sent to spy out the Land,"Send out for yourself men so that they may spy out the land of Canaan, which I am going to give to the sons of Israel; you shall send a man from each of their fathers’ tribes, every one a leader among them. (NUM 13:2)",Unique,,2517,,2,NUM 13:2,The year of the Exodus (2515) + years at Sinai (2) = 2517,Paran,NUM 12:16,,,,,,,,,,,,,,,
+Begin_Wandering_Wilderness,Israel's begins wandering in the wilderness,"The sons of Israel ate the manna FORTY YEARS, until they came to an inhabited land; they ate the manna until they came to the border of the land of Canaan. (EXO 16:35)
+ 
+'Your sons shall be shepherds for forty years in the wilderness, and they will suffer for your unfaithfulness, until your corpses lie in the wilderness. 'According to the number of days which you spied out the land, forty days, for every day you shall bear your guilt a year, even forty years, and you will know My opposition. (NUM 14:33-34)
+ 
+""So the LORD'S anger burned against Israel, and He made them wander in the wilderness forty years, until the entire generation of those who had done evil in the sight of the LORD was destroyed. (NUM 32:13)
+ 
+For the sons of Israel walked forty years in the wilderness, until all the nation, that is, the men of war who came out of Egypt, perished because they did not listen to the voice of the LORD, to whom the LORD had sworn that He would not let them see the land which the LORD had sworn to their fathers to give us, a land flowing with milk and honey.(JOS 5:6)
+ ",Travel,,2517,,2,NUM 14:33,The year of the Exodus (2515) + years at Sinai (2) = 2517,Paran,NUM 14:33,,,,,,,,,,,,,,,
+Israel_Enters_the_Land,Israel enters the Land,"Now it came about after the death of Moses the servant of the LORD, that the LORD spoke to Joshua the son of Nun, Moses' servant, saying, ""Moses My servant is dead; now therefore arise, cross this Jordan, you and all this people, to the land which I am giving to them, to the sons of Israel. (JOS 1:1-2)
+[The Israelites went into the land the year Moses died.]
+
+""Then in the FOURTH GENERATION they will return here, for the iniquity of the Amorite is not yet complete."" (GEN 15:16)
+[Four generations from Israel's entry into Egypt, Israel returned to the Land:
+ Levi- entered Egypt
+ Kohath- 1st generation
+ Amram- 2nd generation
+ Moses- 3rd generation
+ Joshua- 4th generation (note: Joshua was of tribe of Ephraim, not Levi)]",Travel,,2555,,,JOS 1:1,The year of Moses_1's death (2555) is the year Israel entered the Land,Jericho,JOS 3:16,,,,,,,,,,,,,,,
+Death_Moses_1,Death of Moses,"Although Moses was ONE HUNDRED AND TWENTY YEARS old when he died, his eye was not dim, nor his vigor abated. (DEU 34:7)
+",Death,Moses_1,2555,120,120,DEU 34:7,Moses_1's birth year (2435) + Moses_1's age at death (120) = 2555,Mount Nebo,DEU 34:1,,,,,,,,,,,,,,,
+Death_Aaron_1,Death of Aaron,Aaron was ONE HUNDRED TWENTY-THREE YEARS old when he died on Mount Hor. (NUM 33:39),Death,Aaron_1,2555,123,123,NUM 33:39,Aaron_1's birth year (2432) + Aaron_1's age at death (123) = 2555,Mount Hor,NUM 33:39,,,,,,,,,,,,,,,
+Death_Caleb_1,Death of Caleb*,"“Now behold, the LORD has let me live, just as He spoke, these forty-five years, from the time that the LORD spoke this word to Moses, when Israel walked in the wilderness; and now behold, I am EIGHTY-FIVE YEARS old today."" (JOS 14:10)
+[*estimated]",Death,Caleb_1,2562,85,85,JOS 14:10,Caleb_1's birth year (2477) + Caleb_1's age* at death (85) = 2562,Hebron,JOS 14:13,,,,,,,,,,,,,,,
+Start_Jubilee_Counting,Start of Jubilees and Land-Sabbaths*,The year to begin counting Land Sabbaths and Jubilees after Israel conquers the Land (7 years) and apportions it (7 years).,Unique,,2569,,14,,The year Israel enters the Land (2555) + years of conquest (7) + years of apportioning (7) = 2569,,,,,,,,,,,,,,,,,
+Death_Joshua_1,Death of Joshua*,"It came about after these things that Joshua the son of Nun, the servant of the LORD, died, being ONE HUNDRED AND TEN YEARS old. (JOS 24:29)
+[*Joshua's birth date calculated by working backward 110 years from Joshua's estimated death date.]",Death,Joshua_1,2583,110,110,JOS 24:29,Joshua_1's birth year (2473) + Joshua_1's age at death (110) = 2583,Shechem,JOS 24:25,,,,,,,,,,,,,,,
+Jubilee_1,Jubilee #1,Jubilee #1,Jubilee,,2619,,50,,Start of the Jubilee counting (2569) + a Jubilee period of years (50) = 2619,,,,,,,,,,,,,,,,,
+Jubilee_2,Jubilee #2,Jubilee #2,Jubilee,,2669,,50,,The previous Jubilee year (2619) + a Jubilee period of years (50) = 2669,,,,,,,,,,,,,,,,,
+Jubilee_3,Jubilee #3,Jubilee #3,Jubilee,,2719,,50,,The previous Jubilee year (2669) + a Jubilee period of years (50) = 2719,,,,,,,,,,,,,,,,,
+Jubilee_4,Jubilee #4,Jubilee #4,Jubilee,,2769,,50,,The previous Jubilee year (2719) + a Jubilee period of years (50) = 2769,,,,,,,,,,,,,,,,,
+Jubilee_5,Jubilee #5,Jubilee #5,Jubilee,,2819,,50,,The previous Jubilee year (2769) + a Jubilee period of years (50) = 2819,,,,,,,,,,,,,,,,,
+Jubilee_6,Jubilee #6,Jubilee #6,Jubilee,,2869,,50,,The previous Jubilee year (2819) + a Jubilee period of years (50) = 2869,,,,,,,,,,,,,,,,,
+Birth_Saul_1,Birth of Saul,"Saul was 59 when he began to reign for 2 years (Shulman).
+ 
+ Saul reigns in 1042 BCE.
+ 1042 BCE - 59 years = 1101 BCE.
+ Calculating backwards from the date of Saul's reign.
+ 
+ Saul's reign ended when he died in battle.
+ 
+ 2884 AM (Shulman)- 1040 BCE
+ 
+ Saul lived 61 years: 1101-1040 BCE",Birth,Saul_1,,0,,,,,,,,,,,,,,,,,,,,
+Death_Saul_1,Death of Saul,,Death,Saul_1,,,,,Saul_1's birth year () + Saul_1's age at death () = 0,,,,,,,,,,,,,,,,,
+Jubilee_7,Jubilee #7,Jubilee #7,Jubilee,,2919,,50,,The previous Jubilee year (2869) + a Jubilee period of years (50) = 2919,,,,,,,,,,,,,,,,,
+Birth_David_1,Birth of David,"David was thirty years old when he became king, and he reigned forty years. (2 Samuel 5:4) 
+ 
+ David takes the throne in 1040.
+ 1040 BCE -30 years = 1070 BCE.
+ David was born in 1070 BCE.
+ 
+ Shulman, p114
+ 
+ David lived 70 years: 1070-1000 BCE",Birth,David_1,,0,,,,,,,,,,,,,,,,,,,,
+Death_David_1,Death of David,,Death,David_1,,,,,David_1's birth year () + David_1's age at death () = 0,,,,,,,,,,,,,,,,,
+Jubilee_8,Jubilee #8,Jubilee #8,Jubilee,,2969,,50,,The previous Jubilee year (2919) + a Jubilee period of years (50) = 2969,,,,,,,,,,,,,,,,,
+Birth_Amnon_1,Birth of Amnon,,Birth,Amnon_1,,0,,,,Hebron,1CH 3:1,,,,,,,,,,,,,,,
+Birth_Chileab_1,Birth of Chileab,,Birth,Chileab_1,,0,,,,Hebron,1CH 3:1,,,,,,,,,,,,,,,
+Birth_Absalom_1,Birth of Absalom,,Birth,Absalom_1,,0,,,,Hebron,1CH 3:1,,,,,,,,,,,,,,,
+Birth_Adonijah_1,Birth of Adonijah,,Birth,Adonijah_1,,0,,,,Hebron,1CH 3:1,,,,,,,,,,,,,,,
+Birth_Shephatiah_1,Birth of Shephatiah,,Birth,Shephatiah_1,,0,,,,Hebron,1CH 3:1,,,,,,,,,,,,,,,
+Birth_Ithream_1,Birth of Ithream,,Birth,Ithream_1,,0,,,,Hebron,1CH 3:1,,,,,,,,,,,,,,,
+Birth_Shammua_2,Birth of Shammua,,Birth,Shammua_2,,0,,,,Jerusalem,1CH 3:1,,,,,,,,,,,,,,,
+Birth_Shobab_1,Birth of Shobab,,Birth,Shobab_1,,0,,,,Jerusalem,1CH 3:1,,,,,,,,,,,,,,,
+Birth_Nathan_1,Birth of Nathan,,Birth,Nathan_1,,0,,,,Jerusalem,1CH 3:1,,,,,,,,,,,,,,,
+Birth_Solomon_1,Birth of Solomon,"Ancient tradition teaches that Solomon took the throne at 12 years of age.
+ 
+ Solomon took the throne the year David died (1000 BCE).
+ 1000 BCE - 12 years = 1012 BCE.
+ 
+ Solomon was born in 1012 BCE.
+ 
+ Solomon lived 70 years: 1012-961 BCE",Birth,Solomon_1,,0,,,,Jerusalem,1CH 3:1,,,,,,,,,,,,,,,
+Death_Solomon_1,Death of Solomon,,Death,Solomon_1,,,,,Solomon_1's birth year () + Solomon_1's age at death () = 0,,,,,,,,,,,,,,,,,
+First_Temple_construction_begins,First Temple construction begins,"Now it came about in the four hundred and eightieth year after the sons of Israel came out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month of Ziv which is the second month, that he began to build the house of the LORD. (1 KI 6:1)
+[Shulman, p115]",Construction,Solomon_1,,,,,,,,,,,,,,,,,,,,,,
+First_Temple_construction_ends,First Temple construction ends,"In the eleventh year [of Solomon's reign], in the month of Bul, which is the eighth month, the house was finished throughout all its parts and according to all its plans. So he was seven years in building it. (1 KI 6:38) 
+[Solomon's temple took 7 years to construct.
+Shulman, p115]",Construction,Solomon_1,,,,,,,,,,,,,,,,,,,,,,
+Jubilee_9,Jubilee #9,Jubilee #9,Jubilee,,3019,,50,,The previous Jubilee year (2969) + a Jubilee period of years (50) = 3019,,,,,,,,,,,,,,,,,
+Jubilee_10,Jubilee #10,Jubilee #10,Jubilee,,3069,,50,,The previous Jubilee year (3019) + a Jubilee period of years (50) = 3069,,,,,,,,,,,,,,,,,
+Elijahs_Letter,Jehoram receives Elijah's letter,"Then a letter came to him from Elijah the prophet saying, ""Thus says the LORD God of your father David, 'Because you have not walked in the ways of Jehoshaphat your father and the ways of Asa king of Judah, but have walked in the way of the kings of Israel, and have caused Judah and the inhabitants of Jerusalem to play the harlot as the house of Ahab played the harlot, and you have also killed your brothers, your own family, who were better than you, behold, the LORD is going to strike your people, your sons, your wives and all your possessions with a great calamity; and you will suffer severe sickness, a disease of your bowels, until your bowels come out because of the sickness, day by day.'""",Message,,,,,,,,,,,,,,,,,,,,,,,
+Jubilee_11,Jubilee #11,Jubilee #11,Jubilee,,3119,,50,,The previous Jubilee year (3069) + a Jubilee period of years (50) = 3119,,,,,,,,,,,,,,,,,
+Jubilee_12,Jubilee #12,Jubilee #12,Jubilee,,3169,,50,,The previous Jubilee year (3119) + a Jubilee period of years (50) = 3169,,,,,,,,,,,,,,,,,
+Jubilee_13,Jubilee #13,Jubilee #13,Jubilee,,3219,,50,,The previous Jubilee year (3169) + a Jubilee period of years (50) = 3219,,,,,,,,,,,,,,,,,
+Jubilee_14,Jubilee #14,Jubilee #14,Jubilee,,3269,,50,,The previous Jubilee year (3219) + a Jubilee period of years (50) = 3269,,,,,,,,,,,,,,,,,
+Jubilee_15,Jubilee #15,Jubilee #15,Jubilee,,3319,,50,,The previous Jubilee year (3269) + a Jubilee period of years (50) = 3319,,,,,,,,,,,,,,,,,
+Jubilee_16,Jubilee #16,Jubilee #16,Jubilee,,3369,,50,,The previous Jubilee year (3319) + a Jubilee period of years (50) = 3369,,,,,,,,,,,,,,,,,
+Nebuchadnezzar_attacks_Judah,Nebuchadnezzar attacks Judah,"The word that came to Jeremiah concerning all the people of Judah, in the FOURTH YEAR of Jehoiakim the son of Josiah, king of Judah (that was the first year of Nebuchadnezzar king of Babylon), (JER 25:1)
+[Shulman, p145]",Battle,,,,,,,,,,,,,,,,,,,,,,,
+Nebuchadnezzars_dream,Nebuchadnezzar's dream and Daniel's interpretation,"Now in the second year of the reign of Nebuchadnezzar, Nebuchadnezzar had dreams; and his spirit was troubled and his sleep left him.
+ 
+ So the decree went forth that the wise men should be slain; and they looked for Daniel and his friends to kill them.
+ (Daniel 2:1, 13) 
+ 
+ Nebuchadnezzar's dream and Daniel's interpretation: 596 BCE 
+ ",Vision,,,,,,,,,,,,,,,,,,,,,,,
+Ezekiels_vision,Ezekiel's vision by the river,"Now it came about in the thirtieth year, on the fifth 
+ day of the fourth month, while I was by the river Chebar among the exiles, the heavens were 
+ opened and I saw visions of God. (On the fifth of the month in the fifth year
+ of King Jehoiachin's exile, the word of the LORD came expressly to Ezekiel the priest, son 
+ of Buzi, in the land of the Chaldeans by the river Chebar; and there the hand of the LORD 
+ came upon him.) 
+ (Ezekiel 1:1-3) 
+ 
+ King Jehoiachin was exiled in late 598 BCE.
+ 598 BCE + 5 years = 593 into 592
+ 
+ Ezekiel prophesies 20 years: 592-572 BCE
+ 
+ Shulman, p83",Prophet,,,,,,,,,,,,,,,,,,,,,,,
+Nebuchadnezzar_attacks_Jerusalem,Nebuchadnezzar attacks Jerusalem,"Now it came about in the ninth year of his reign, on 
+ the tenth day of the tenth month, that Nebuchadnezzar king of Babylon came, he and all his 
+ army, against Jerusalem, camped against it and built a siege wall all around it. So the 
+ city was under siege until the eleventh year of King Zedekiah. 
+ On the ninth day of the fourth month the famine was so severe in the city that there was no 
+ food for the people of the land. Then the city was broken into, and all the men of war fled 
+ and went forth from the city at night by way of the gate between the two walls which was 
+ by the king's garden, though the Chaldeans were all around the city. And they went by way 
+ of the Arabah. 
+ (Jeremiah 52:4-7) 
+ 
+ Nebuchadnezzar attacked Jerusalem for the last 2 years of Zedekiah's reign: 589-587 BCE",Battle,,,,,,,,,,,,,,,,,,,,,,,
+First_Temple_Destroyed,First Temple Destroyed,"But because our fathers had provoked the God of heaven to wrath, He gave them into the hand of Nebuchadnezzar king of Babylon, the Chaldean, who destroyed this temple and deported the people to Babylon. (EZR 5:12)
+[Nebuchadnezzar destroyed the Temple: 586 BCE 
+ Shulman, p174
+ For the '586 BCE vs 422 BCE- the missing years' question see http://en.wikipedia.org/wiki/Missing_years_%28Jewish_calendar%29]",Destruction,,,,,,,,,,,,,,,,,,,,,,,
+Jubilee_17,Jubilee #17,Jubilee #17,Jubilee,,3419,,50,,The previous Jubilee year (3369) + a Jubilee period of years (50) = 3419,,,,,,,,,,,,,,,,,
+Daniel's_first_dream,Daniel's first dream,"In the first year of Belshazzar king of Babylon Daniel saw a dream and visions in his mind as he lay on his bed; then he wrote the dream down and related the following summary of it. 
+ 
+ (Daniel 7:1) 
+ 
+ Daniel's first dream: 538 BCE 
+ ",Vision,,,,,,,,,,,,,,,,,,,,,,,
+Daniel's_first_vision,Daniel's first vision,"In the third year of the reign of Belshazzar the king a vision appeared to me, Daniel, subsequent to the one which appeared to me previously. 
+ 
+ (Daniel 8:1) 
+ 
+ Daniel's first vision: 535 
+ ",Vision,,,,,,,,,,,,,,,,,,,,,,,
+Cyrus'_Decree,Cyrus' Decree,"Now in the first year of Cyrus king of Persia, in 
+ order to fulfill the word of the LORD by the mouth of Jeremiah, the LORD stirred up the 
+ spirit of Cyrus king of Persia, so that he sent a proclamation throughout all his kingdom, 
+ and also put it in writing, saying: ""Thus says Cyrus king of Persia, 'The LORD, the God of 
+ heaven, has given me all the kingdoms of the earth and He has appointed me to build Him a 
+ house in Jerusalem, which is in Judah. 
+ (Ezra 1:1-2) 
+ 
+ Cyrus took the throne in 534 BCE.
+ 
+ Cyrus' Decree to rebuild the Temple: 534 BCE.",Message,,,,,,,,,,,,,,,,,,,,,,,
+Second_Temple_foundation_laid,Second Temple foundation laid,"Now in the second year of their coming to the house 
+ of God at Jerusalem in the second month, Zerubbabel the son of Shealtiel and Jeshua the 
+ son of Jozadak and the rest of their brothers the priests and the Levites, and all who came 
+ from the captivity to Jerusalem, began the work and appointed the Levites from twenty years 
+ and older to oversee the work of the house of the LORD. Then Jeshua with his sons and 
+ brothers stood united with Kadmiel and his sons, the sons of Judah and the sons of Henadad 
+ with their sons and brothers the Levites, to oversee the workmen in the temple of God. Now 
+ when the builders had laid the foundation of the temple of 
+ the LORD, the priests stood in their apparel with trumpets, and the Levites, the sons of 
+ Asaph, with cymbals, to praise the LORD according to the directions of King David of Israel. 
+ (Ezra 3:8-10) 
+ 
+ The first year of the Israelites returning to the Land was 534 BCE.
+ The second year of the Israelites returning to the Land was 533 BCE.
+ 
+ Second Temple foundation laid: 533 BCE.",Construction,,,,,,,,,,,,,,,,,,,,,,,
+Vashti_banished,Vashti banished,"Now it took place in the days of Ahasuerus, the Ahasuerus who reigned from India 
+ to Ethiopia over 127 provinces, in those days as King Ahasuerus sat on his royal throne 
+ which was at the citadel in Susa, in the third year of his 
+ reign he gave a banquet for all his princes and attendants, the army officers of Persia 
+ and Media, the nobles and the princes of his provinces being in his presence. (Esther 1:1-3) 
+ 
+ Ahasuerus took the throne in 532 BCE.
+ 532 BCE + 3 years = 529 BCE.
+ 
+ Queen Vashti is banished (Esther 1): 529 BCE.",Travel,,,,,,,,,,,,,,,,,,,,,,,
+Esther_chosen_as_queen,Esther chosen as queen,"So Esther was taken to King Ahasuerus to his royal palace in the tenth month which 
+ is the month Tebeth, in the seventh year of his reign. 
+ The king loved Esther more than all the women, and she found favor and kindness with him more 
+ than all the virgins, so that he set the royal crown on her head and made her queen instead 
+ of Vashti. (Esther 2:16-17) 
+ 
+ Ahasuerus took the throne in 532 BCE.
+ 532 BCE + 7 years = 525 BCE.
+ 
+ Esther chosen as queen (Esther 2): 525 BCE.",Reign,,,,,,,,,,,,,,,,,,,,,,,
+Purim_deliverance,Purim- Esther's deliverance,"In the first month, which is the month Nisan, in the twelfth year 
+ of King Ahasuerus, Pur, that is the lot, was cast before Haman from day to day and from month 
+ to month, until the twelfth month, that is the month Adar. (Esther 3:7) 
+ 
+ Ahasuerus took the throne in 532 BCE.
+ 532 BCE + 12 years = late 521 or early 520 BCE.
+ 
+ Purim- Esther's deliverance: 521 BCE.
+ 
+ 521 BCE was also a Jubilee year (the year captives are set free).",Unique,,,,,,,,,,,,,,,,,,,,,,,
+Jubilee_18,Jubilee #18,Jubilee #18,Jubilee,,3469,,50,,The previous Jubilee year (3419) + a Jubilee period of years (50) = 3469,,,,,,,,,,,,,,,,,
+Gabriels_message_to_Daniel,Gabriel's message to Daniel,"In the first year of Darius the son of Ahasuerus, of Median descent, who was made king over the kingdom of the Chaldeans-- 
+ in the first year of his reign, I, Daniel, observed in the books the number of the years which was revealed as the word of the LORD to Jeremiah the prophet for the completion of the desolations of Jerusalem, namely, seventy years. 
+ 
+ (Daniel 9:1-2) 
+ 
+ Darius II began his reign in 519 BCE 
+ 
+ Gabriel's message to Daniel: 519 BCE 
+ ",Message,,,,,,,,,,,,,,,,,,,,,,,
+The_Word_to_Haggai,The Word to Haggai,"In the second year of Darius the king, on the first day 
+ of the sixth month, the word of the LORD came by the prophet Haggai to Zerubbabel the son of 
+ Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest, saying, 
+ ""Thus says the LORD of hosts, 'This people says, ""The time has not come, even the time for 
+ the house of the LORD to be rebuilt.""'"" 
+ (Haggai 1:1-2) 
+ 
+ Darius' reign began in 519 BCE.
+ 519 BCE + 2 years = 517 BCE
+ 
+ Haggai prophesies 2 years: 517-516 BCE
+ 
+ Shulman, p83",Prophet,,,,,,,,,,,,,,,,,,,,,,,
+Temple_construction_resumes,Second Temple construction resumes,"In the second year of Darius the king, on the first day 
+ of the sixth month, the word of the LORD came by the prophet Haggai to Zerubbabel the son of 
+ Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest, saying... 
+ (Haggai 1:1) 
+ 
+ On the twenty-first of the seventh month, the word of the LORD came by Haggai the 
+ prophet saying, ""Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to 
+ Joshua the son of Jehozadak, the high priest, and to the remnant of the people saying, 'Who 
+ is left among you who saw this temple in its former glory? And how do you see it now? Does 
+ it not seem to you like nothing in comparison? 'But now take courage, Zerubbabel,' declares 
+ the LORD, 'take courage also, Joshua son of Jehozadak, the high priest, and all you people 
+ of the land take courage,' declares the LORD, 'and work; for I am with you,' declares the 
+ LORD of hosts. 
+ (Haggai 2:1-4) 
+ 
+ When the prophets, Haggai the prophet and Zechariah the son of Iddo, prophesied to 
+ the Jews who were in Judah and Jerusalem in the name of the God of Israel, who was over them, 
+ then Zerubbabel the son of Shealtiel and Jeshua the son of Jozadak arose and 
+ began to rebuild the house of God which is in Jerusalem; and 
+ the prophets of God were with them supporting them. 
+ 
+ Darius II took the throne in 519 BCE.
+ 519 BCE + 2 years = 517 BCE.
+ Second Temple construction resumes: 517 BCE.",Construction,,,,,,,,,,,,,,,,,,,,,,,
+The_Word_to_Zechariah,The Word to Zechariah,"In the eighth month of the second year of Darius, the 
+ word of the LORD came to Zechariah the prophet, the son of Berechiah, the son of Iddo 
+ saying... 
+ (Zechariah 1:1) 
+ 
+ Darius' reign began in 519 BCE.
+ 519 BCE + 2 years and 8 months = 516 BCE
+ 
+ Zechariah prophesies 2 years: 516-514 BCE
+ 
+ Shulman, p83",Prophet,,,,,,,,,,,,,,,,,,,,,,,
+Second_temple_construction_complete,Second Temple construction complete,"This temple was completed on the third day of the month Adar; it was the 
+ sixth year of the reign of King Darius. 
+ (Ezra 6:15) 
+ 
+ Darius II took the throne in 519 BCE.
+ 519 BCE + 6 years = 513 BCE.
+ Second Temple construction complete: 513 BCE.",Construction,,,,,,,,,,,,,,,,,,,,,,,
+Nehemiahs_first_return,Nehemiah's first return to Jerusalem,"The words of Nehemiah the son of Hacaliah. Now it happened in the month Chislev, 
+ in the twentieth year, while I was in Susa the capitol, that 
+ Hanani, one of my brothers, and some men from Judah came; and I asked them concerning the 
+ Jews who had escaped and had survived the captivity, and about Jerusalem. 
+ (Nehemiah 1:1) 
+ 
+ Darius II took the throne in 519 BCE.
+ 519 BCE + 20 years = 499 BCE.
+ 
+ So I came to Jerusalem and was there three days. 
+ (Nehemiah 2:11) 
+ 
+ Nehemiah's first return to Jerusalem: 499 BCE.",Travel,,,,,,,,,,,,,,,,,,,,,,,
+Nehemiahs_second_return,Nehemiah's second return to Jerusalem,"But during all this time I was not in Jerusalem, for in the 
+ thirty-second year of Artaxerxes king of Babylon I had gone 
+ to the king. After some time, however, I asked leave from the king, and I came to 
+ Jerusalem and learned about the evil that Eliashib had done for Tobiah, by preparing a 
+ room for him in the courts of the house of God. 
+ (Nehemiah 13:6-7) 
+ 
+ Darius II (Artaxerxes) took the throne in 519 BCE.
+ 519 BCE + 32 years = 487 BCE.
+ 
+ Nehemiah's second return to Jerusalem: 487 BCE.",Travel,,,,,,,,,,,,,,,,,,,,,,,
+Jubilee_19,Jubilee #19,Jubilee #19,Jubilee,,3519,,50,,The previous Jubilee year (3469) + a Jubilee period of years (50) = 3519,,,,,,,,,,,,,,,,,
+Jubilee_20,Jubilee #20,Jubilee #20,Jubilee,,3569,,50,,The previous Jubilee year (3519) + a Jubilee period of years (50) = 3569,,,,,,,,,,,,,,,,,
+Jubilee_21,Jubilee #21,Jubilee #21,Jubilee,,3619,,50,,The previous Jubilee year (3569) + a Jubilee period of years (50) = 3619,,,,,,,,,,,,,,,,,
+Jubilee_22,Jubilee #22,Jubilee #22,Jubilee,,3669,,50,,The previous Jubilee year (3619) + a Jubilee period of years (50) = 3669,,,,,,,,,,,,,,,,,
+Jubilee_23,Jubilee #23,Jubilee #23,Jubilee,,3719,,50,,The previous Jubilee year (3669) + a Jubilee period of years (50) = 3719,,,,,,,,,,,,,,,,,
+Jubilee_24,Jubilee #24,Jubilee #24,Jubilee,,3769,,50,,The previous Jubilee year (3719) + a Jubilee period of years (50) = 3769,,,,,,,,,,,,,,,,,
+Jubilee_25,Jubilee #25,Jubilee #25,Jubilee,,3819,,50,,The previous Jubilee year (3769) + a Jubilee period of years (50) = 3819,,,,,,,,,,,,,,,,,
+Jubilee_26,Jubilee #26,Jubilee #26,Jubilee,,3869,,50,,The previous Jubilee year (3819) + a Jubilee period of years (50) = 3869,,,,,,,,,,,,,,,,,
+Jubilee_27,Jubilee #27,Jubilee #27,Jubilee,,3919,,50,,The previous Jubilee year (3869) + a Jubilee period of years (50) = 3919,,,,,,,,,,,,,,,,,
+Jubilee_28,Jubilee #28,Jubilee #28,Jubilee,,3969,,50,,The previous Jubilee year (3919) + a Jubilee period of years (50) = 3969,,,,,,,,,,,,,,,,,
+Jubilee_29,Jubilee #29,Jubilee #29,Jubilee,,4019,,50,,The previous Jubilee year (3969) + a Jubilee period of years (50) = 4019,,,,,,,,,,,,,,,,,
+Jubilee_30,Jubilee #30,Jubilee #30,Jubilee,,4069,,50,,The previous Jubilee year (4019) + a Jubilee period of years (50) = 4069,,,,,,,,,,,,,,,,,
+Jubilee_31,Jubilee #31,Jubilee #31,Jubilee,,4119,,50,,The previous Jubilee year (4069) + a Jubilee period of years (50) = 4119,,,,,,,,,,,,,,,,,
+Jubilee_32,Jubilee #32,Jubilee #32,Jubilee,,4169,,50,,The previous Jubilee year (4119) + a Jubilee period of years (50) = 4169,,,,,,,,,,,,,,,,,
+Jubilee_33,Jubilee #33,Jubilee #33,Jubilee,,4219,,50,,The previous Jubilee year (4169) + a Jubilee period of years (50) = 4219,,,,,,,,,,,,,,,,,
+Jubilee_34,Jubilee #34,Jubilee #34,Jubilee,,4269,,50,,The previous Jubilee year (4219) + a Jubilee period of years (50) = 4269,,,,,,,,,,,,,,,,,
+Jubilee_35,Jubilee #35,Jubilee #35,Jubilee,,4319,,50,,The previous Jubilee year (4269) + a Jubilee period of years (50) = 4319,,,,,,,,,,,,,,,,,
+Jubilee_36,Jubilee #36,Jubilee #36,Jubilee,,4369,,50,,The previous Jubilee year (4319) + a Jubilee period of years (50) = 4369,,,,,,,,,,,,,,,,,
+Jubilee_37,Jubilee #37,Jubilee #37,Jubilee,,4419,,50,,The previous Jubilee year (4369) + a Jubilee period of years (50) = 4419,,,,,,,,,,,,,,,,,
+Jubilee_38,Jubilee #38,Jubilee #38,Jubilee,,4469,,50,,The previous Jubilee year (4419) + a Jubilee period of years (50) = 4469,,,,,,,,,,,,,,,,,
+Jubilee_39,Jubilee #39,Jubilee #39,Jubilee,,4519,,50,,The previous Jubilee year (4469) + a Jubilee period of years (50) = 4519,,,,,,,,,,,,,,,,,
+Jubilee_40,Jubilee #40,Jubilee #40,Jubilee,,4569,,50,,The previous Jubilee year (4519) + a Jubilee period of years (50) = 4569,,,,,,,,,,,,,,,,,
+Jubilee_41,Jubilee #41,Jubilee #41,Jubilee,,4619,,50,,The previous Jubilee year (4569) + a Jubilee period of years (50) = 4619,,,,,,,,,,,,,,,,,
+Jubilee_42,Jubilee #42,Jubilee #42,Jubilee,,4669,,50,,The previous Jubilee year (4619) + a Jubilee period of years (50) = 4669,,,,,,,,,,,,,,,,,
+Jubilee_43,Jubilee #43,Jubilee #43,Jubilee,,4719,,50,,The previous Jubilee year (4669) + a Jubilee period of years (50) = 4719,,,,,,,,,,,,,,,,,
+Jubilee_44,Jubilee #44,Jubilee #44,Jubilee,,4769,,50,,The previous Jubilee year (4719) + a Jubilee period of years (50) = 4769,,,,,,,,,,,,,,,,,
+Jubilee_45,Jubilee #45,Jubilee #45,Jubilee,,4819,,50,,The previous Jubilee year (4769) + a Jubilee period of years (50) = 4819,,,,,,,,,,,,,,,,,
+Jubilee_46,Jubilee #46,Jubilee #46,Jubilee,,4869,,50,,The previous Jubilee year (4819) + a Jubilee period of years (50) = 4869,,,,,,,,,,,,,,,,,
+Jubilee_47,Jubilee #47,Jubilee #47,Jubilee,,4919,,50,,The previous Jubilee year (4869) + a Jubilee period of years (50) = 4919,,,,,,,,,,,,,,,,,
+Jubilee_48,Jubilee #48,Jubilee #48,Jubilee,,4969,,50,,The previous Jubilee year (4919) + a Jubilee period of years (50) = 4969,,,,,,,,,,,,,,,,,
+Jubilee_49,Jubilee #49,Jubilee #49,Jubilee,,5019,,50,,The previous Jubilee year (4969) + a Jubilee period of years (50) = 5019,,,,,,,,,,,,,,,,,
+Jubilee_50,Jubilee #50,Jubilee #50,Jubilee,,5069,,50,,The previous Jubilee year (5019) + a Jubilee period of years (50) = 5069,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
