@@ -1,8 +1,8 @@
 # bible-data
 Information from the Bible as structured data
 
-These datasets are actively maintained and available at the data.world website 
-at https://data.world/bradys
+These datasets are also available via the data.world website at 
+https://data.world/bradys
 
 # SUMMARY
 Read by students, scholars, critics, and the curious for millennia, the Holy 
@@ -74,5 +74,5 @@ these (and more!) possible.
 -  Brady Stephenson  BibleData-Event.csv                     4/1/2021
 -  Brady Stephenson  BibleData-Epoch.csv                     4/1/2021
 -  Brady Stephenson  NavesTopicalDictionary.csv              4/1/2021
--  Brady Stephenson  HitchcocksBibleNamesDictionary.csv  4/1/2021
+-  Brady Stephenson  HitchcocksBibleNamesDictionary.csv      4/1/2021
 -  Brady Stephenson  The Alamo Polyglot.csv                  4/1/2021
