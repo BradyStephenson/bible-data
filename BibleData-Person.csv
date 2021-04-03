@@ -112,7 +112,7 @@ Pharaoh_1,Pharaoh,,who took Sarai (GEN 12:15),male,,,1,110
 Amraphel_1,Amraphel,,King of Shinar (GEN 14:1),male,,,1,111
 Arioch_1,Arioch,,King of Ellasar (GEN 14:1),male,,,1,112
 Chedorlaomer_1,Chedorlaomer,,King of Elam (GEN 14:1),male,,,1,113
-Tidal_1,Tidal,,King of Goim (GEN 14:1),male,,,1,114
+Tidal_1,Tidal,,King of Goiim (GEN 14:1),male,,,1,114
 Bera_1,Bera,,King of Sodom (GEN 14:2),male,,,1,115
 Birsha_1,Birsha,,King of Gomorrah (GEN 14:2),male,,,1,116
 Shinab_1,Shinab,,King of Admah (GEN 14:2),male,,,1,117
@@ -366,7 +366,7 @@ Zichri_1,Zichri,,son of Izhar (EXO 6:21) ,male,Levi,,1,364
 Mishael_1,Mishael,,son of Uzziel (EXO 6:22),male,Levi,,1,365
 Elzaphan_1,Elzaphan,,son of Uzziel (EXO 6:22),male,Levi,,1,366
 Sithri_1,Sithri,,son of Uzziel (EXO 6:22),male,Levi,,1,367
-Elisheba_1,Elisheba,,wife of Aaron and daughter of Amminadab (EXO 6:23),female,Levi,,1,368
+Elisheba_1,Elisheba,,wife of Aaron and daughter of Amminadab (EXO 6:23),female,Judah,,1,368
 Amminadab_1,Amminadab,,father of Elisheba (EXO 6:23),male,Judah,,1,369
 Nahshon_1,Nahshon,,"son of Amminadab and brother of Elisheba (EXO 6:23), head of the tribe of Judah during the census (NUM 1:7)",male,Judah,leader of Judah during the Exodus (Num 1:7),1,370
 Nadab_1,Nadab,,"son of Aaron (EXO 6:23), died for offering strange fire to the LORD (NUM 3:4)",male,Levi,,1,371
@@ -878,12 +878,12 @@ Joash_2,Joash,,"King Ahab's son (1KI 22:26, 2CH 18:25)",male,,,2,876
 Ahaziah_1,Ahaziah,,King of Israel and son of Ahab (1KI 22:40),male,,,1,877
 Azubah_1,Azubah,,mother of King Jehoshaphat (1KI 22:42),female,,,1,878
 Shilhi_1,Shilhi,,father of Azubah (1KI 22:42),male,,,1,879
-Jehoram_1,Jehoram,,"King of Judah and son of Jehoshaphat (1KI 22:50), married to Ahab's daughter and did evil in the sight of the LORD (2KI 8:18)",male,,,1,880
+Jehoram_1,Jehoram,,"King of Judah and son of Jehoshaphat (1KI 22:50), married to Ahab's daughter and did evil in the sight of the LORD (2KI 8:18)",male,Judah,,1,880
 Jehoram_2,Jehoram,,King of Israel (2KI 1:17) and son of Ahab (2KI 3:1),male,,,2,881
 Mesha_1,Mesha,,King of Moab (2KI 3:4),male,,,1,882
 Gehazi_1,Gehazi,,"servant of Elisha (2KI 4:12), who became leprous (2KI 5:27)",male,,,1,883
 Naaman_2,Naaman,,captain of the army of the king of Aram (2KI 5:1),male,,,2,884
-Ahaziah_2,Ahaziah,,"King of Judah, youngest (2CH 21:17) son of Jehoram (2KI 8:24) son of Jehoshapat",male,,,2,885
+Ahaziah_2,Ahaziah,,"King of Judah, youngest (2CH 21:17) son of Jehoram (2KI 8:24) son of Jehoshapat",male,Judah,,2,885
 Athaliah_1,Athaliah,,"daughter of Ahab and grandaughter of Omri (2KI 8:26, 2CH 22:2))",female,,,1,886
 Jehoshaphat_4,Jehoshaphat,,"son of Nimshi, father of Jehu (2KI 9:2)",male,,,4,887
 Bidkar_1,Bidkar,,officer of Jehu's army (2KI 9:25),male,,,1,888
@@ -891,7 +891,7 @@ Jehonadab_1,Jehonadab,,son of Rechab (2KI 10:15),male,,,1,889
 Rechab_2,Rechab,,father of Jehonadab (2KI 10:15),male,,,2,890
 Jehoahaz_1,Jehoahaz,,"King of Israel, son of Jehu (2KI 10:35)",male,,,1,891
 Jehosheba_1,Jehosheba,,"daughter of King Joram [of Judah], sister of Ahaziah (2KI 11:2)",female,,,1,892
-Joash_3,Joash,,"King of Judah (2KI 11:21), son of Ahaziah (2KI 11:2)",male,,,3,893
+Joash_3,Joash,,"King of Judah (2KI 11:21), son of Ahaziah (2KI 11:2)",male,Judah,,3,893
 Jehoiada_2,Jehoiada,,the priest (2KI 11:9),male,,,2,894
 Mattan_1,Mattan,,priest of Baal (2KI 11:18),male,,,1,895
 Zibiah_1,Zibiah,,"of Beersheba, mother of King Jehoash (2KI 12:1)",male,,,1,896
@@ -899,19 +899,19 @@ Jozacar_1,Jozacar,,killed King Joash (2KI 12:21),male,,,1,897
 Shimeath_1,Shimeath,,father of Jozacar (2KI 12:21),male,,,1,898
 Jehozabad_1,Jehozabad,,killed King Joash (2KI 12:21),male,,,1,899
 Shomer_1,Shomer,,father of Jehozabad (2KI 12:21),male,,,1,900
-Amaziah_1,Amaziah,,"King of Judah, son of Joash (2KI 12:21)",male,,,1,901
+Amaziah_1,Amaziah,,"King of Judah, son of Joash (2KI 12:21)",male,Judah,,1,901
 Joash_4,Joash,,"King of Israel, son of Jehoahaz (2KI 13:9)",male,,,4,902
 Jeroboam_2,Jeroboam,,"King of Israel (2KI 13:13), son of Joash [Jehoash] (2KI 14:16)",male,,,2,903
 Jehoaddin_1,Jehoaddin,,"of Jerusalem, mother of Amaziah (2KI 14:2)",female,,,1,904
-Azariah_3,Azariah,,"King of Judah, son of Amaziah (2KI 14:21)",male,,,3,905
+Azariah_3,Azariah,,"King of Judah, son of Amaziah (2KI 14:21)",male,Judah,,3,905
 Jonah_1,Jonah,,"the prophet, son of Amittai, from Gath-hepher (2KI 14:25)",male,,,1,906
 Amittai_1,Amittai,,"father of Jonah, the prophet (2KI 14:25)",male,,,1,907
 Zechariah_1,Zechariah,,"King of Israel, son of Jeroboam (2KI 14:29)",male,,,1,908
 Jecoliah_1,Jecoliah,,mother of Azariah (2KI 15:2),female,,,1,909
-Jotham_2,Jotham,,"King of Judah (2KI 15:7), son of Azariah (2KI 15:5)",male,,,2,910
+Jotham_2,Jotham,,"King of Judah (2KI 15:7), son of Azariah (2KI 15:5)",male,Judah,,2,910
 Shallum_1,Shallum,,conspired against King Zechariah and became king of Israel in his place (2KI 15:10),male,,,1,911
 Jabesh_1,Jabesh,,father of Shallum (2KI 15:10),male,,,1,912
-Uzziah_1,Uzziah,,King of Judah (2KI 15:13),male,,,1,913
+Uzziah_1,Uzziah,,"King of Judah (2KI 15:13), son of Amaziah (2CH 26:1)",male,Judah,,1,913
 Menachem_1,Menachem,,King of Israel (2KI 15:14),male,,,1,914
 Gadi_1,Gadi,,father of Menachem (2KI 15:14),male,,,1,915
 Pul_1,Pul,,King of Assyria (2KI 15:19),male,,,1,916
@@ -923,11 +923,11 @@ Arieh_1,Arieh,,conspired with Pekah against Pekahiah (2KI 15:25),male,,,1,921
 Tiglath-pileser_1,Tiglath-pileser,,King of Assyria (2KI 15:29),male,,,1,922
 Hoshea_1,Hoshea,,son of Elah who killed King Pekah and became King of Israel in his place (2KI 15:30),male,,,1,923
 Elah_3,Elah,,"father of Hoshea, King of Israel (2KI 15:30)",male,,,3,924
-Jotham_3,Jotham,,"King of Judah, son of King Uzziah (2KI 15:30)",male,,,3,925
+Jotham_3,Jotham,,"King of Judah, son of King Uzziah (2KI 15:30)",male,Judah,,3,925
 Jerusha_1,Jerusha,,"mother of Jotham, King of Israel (2KI 15:33)",female,,,1,926
 Zadok_2,Zadok,,father of Jerusha (2KI 15:33),male,,,2,927
 Rezin_1,Rezin,,King of Aram (2KI 15:37),male,,,1,928
-Ahaz_1,Ahaz,,"King of Judah, son of Jotham (2KI 15:38)",male,,,1,929
+Ahaz_1,Ahaz,,"King of Judah, son of Jotham (2KI 15:38)",male,Judah,,1,929
 Urijah_1,Urijah,,priest who built an altar in the pattern seen in Damascus (2KI 16:10),male,,,1,930
 Hezekiah_1,Hezekiah,,"King of Judah, son of Ahaz (2KI 16:20) who trusted in the LORD, the God of israel (2KI 18:5)",male,,,1,931
 Shalmaneser_1,Shalmaneser,,King of Assyria (2KI 17:3),male,,,1,932
@@ -1264,7 +1264,7 @@ Micah_2,Micah,,"son of Shimei (1CH 5:5), Reubenite (1CH 5:3)",male,Reuben,,2,126
 Reaiah_2,Reaiah,,"son of Micah (1CH 5:5), Reubenite (1CH 5:3)",male,Reuben,,2,1263
 Baal_1,Baal,,"son of Reaiah (1CH 5:5), Reubenite (1CH 5:3)",male,Reuben,,1,1264
 Beerah_1,Beerah,,"son of Baal.  Tilgath-pilneser carried him away into exile, leader of Reubenites (1CH 5:6)",male,Reuben,,1,1265
-Tilgath-pilneser_1,Tilgath-pilneser,,King of Assyria (1CH 5:6),male,Reuben,,1,1266
+Tilgath-pilneser_1,Tilgath-pilneser,,King of Assyria (1CH 5:6),male,,,1,1266
 Jeiel_1,Jeiel,,"son of Zechariah (?) (1CH 5:7), Reubenite (1CH 5:3)",male,Reuben,,1,1267
 Zechariah_3,Zechariah,,"son of Bela (?) (1CH 5:7), Reubenite (1CH 5:3)",male,Reuben,,3,1268
 Bela_3,Bela,,"son of Azaz (1CH 5:8), Reubenite (1CH 5:3)",male,Reuben,,3,1269
@@ -1953,23 +1953,3 @@ Reuel_4,Reuel,,son of Dedan in Rahlf's Septuaginta (GEN 25:3),male,,name is not 
 Tema_2,Tema,,son of Jokshan in Rahlf's Septuaginta (GEN 25:3),male,,name is not present in the BHS Hebrew text but is present in Rahlfs Septuaginta,2,
 Elishah_2,Elishah,,son of Japheth in Rahlf's Septuaginta (GEN 10:2),male,,name is not present in the BHS Hebrew text but is present in Rahlfs Septuaginta,2,
 Zaboud_1,Zaboud,,son of Hammuel and father of Zaccur (1CH 4:26),male,,name is not present in the BHS Hebrew text but is present in Rahlfs Septuaginta,1,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
