@@ -1011,7 +1011,7 @@ Jecoliah_1_1,Jecoliah_1,Jecoliah,יְכָלְיָ֖הוּ,yəkhaləyahu,Yahweh is
 Jotham_2_1,Jotham_2,Jotham,יוֹתָם,yotam,Yahweh will complete,H3147,Ιωαθαμ,Iōatham,,G2488,2KI 15:5,proper name,,,1,1010
 Shallum_1_1,Shallum_1,Shallum,שַׁלּוּם,shalum,"peace, well-being, prosperity",H7967,Σελλουμ,Selloum,,none,2KI 15:10,proper name,,,1,1011
 Jabesh_1_1,Jabesh_1,Jabesh,יָבֵשׁ,yabesh,dry,H3003,Ιαβις,Iabis,,none,2KI 15:10,proper name,,,1,1012
-Uzziah_1_1,Uzziah_1,Uzziah,עֻזִּיָּה,uziyah,Yahweh is [my] strength,H5818,Αζαρια,Azaria,,none,2KI 15:13,proper name,,,1,1013
+Azariah_3_2,Azariah_3,Uzziah,עֻזִּיָּה,uziyah,Yahweh is [my] strength,H5818,Αζαρια,Azaria,,none,2KI 15:13,proper name,,,2,1013
 Menachem_1_1,Menachem_1,Menachem,מְנַחֵם,mənachem,comforter,H4505,Μαναημ,Manaēm,,none,2KI 15:14,proper name,,,1,1014
 Gadi_1_1,Gadi_1,Gadi,גָּדִי,gadiy,my fortune,H1424,Γαδδι,Gaddi,,none,2KI 15:14,proper name,,,1,1015
 Pul_1_1,Pul_1,Pul,פּוּל,pul,,H6322,Φουλ,Phoul,,none,2KI 15:19,proper name,,,1,1016
@@ -2126,22 +2126,40 @@ Azaryahu_1_1,Azaryahu_1,Azaryahu,עֲזַרְיָהוּ,azarəiyahu,Yahweh has he
 Michael_7_1,Michael_7,Michael,מִיכָאֵֽל,miykael,Who is like God [El]?,H4317,Μιχαηλ,Mixaēl,,G3413,2CH 21:2,proper name,,,1,2125
 Sephatiah_1_1,Sephatiah_1,Sephatiah,שְׁפַטְיָהוּ,shəphatəyahu,Yahweh has judged,H8203,Σαφατιας,Saphatias,,none,2CH 21:2,proper name,,,1,2126
 Ahaziah_2_2,Ahaziah_2,Jehoahaz,יְהוֹאָחָז,yəhoachaz,Yahweh holds,H3059,Οχοζιας,Oxozias,,none,2CH 21:17,proper name,,"The name found in Rahlfs' Septuaginta (Οχοζιας: Oxozias), matches the name of this person given in 2CH 22:1 (Ahaziah).",2,2127
-_0,,,,,,,,,,,,,,,0,2128
-_0,,,,,,,,,,,,,,,0,2129
-_0,,,,,,,,,,,,,,,0,2130
-_0,,,,,,,,,,,,,,,0,2131
-_0,,,,,,,,,,,,,,,0,2132
-_0,,,,,,,,,,,,,,,0,2133
-_0,,,,,,,,,,,,,,,0,2134
-_0,,,,,,,,,,,,,,,0,2135
-_0,,,,,,,,,,,,,,,0,2136
-_0,,,,,,,,,,,,,,,0,2137
-_0,,,,,,,,,,,,,,,0,2138
-_0,,,,,,,,,,,,,,,0,2139
-_0,,,,,,,,,,,,,,,0,2140
-_0,,,,,,,,,,,,,,,0,2141
-_0,,,,,,,,,,,,,,,0,2142
-_,,,,,,,,,,,,,,,,
+Ahaziah_2_3,Ahaziah_2,Azariah,עֲזַרְיָהוּ,azarəyahu,Yahweh has helped,H5838,Οχοζιας,Oxozias,,none,2CH 22:6,proper name,,"The name found in the BHS is עֲזַרְיָהוּ (Azariah) however, the NASB follows Rahlfs' Septuaginta (Οχοζιας: Oxozias) which matches the name of this person given in 2CH 21:17 (Ahaziah).",3,2128
+Jehosheba_1_2,Jehosheba_1,Jehoshabeath,יְהוֹשֶׁבַע,yəhosheva,"Yahweh is an oath; Yahweh gives plenty, satisfies",H3089,Ιωσαβεθ,Iōsabeth,,none,2CH 22:11,proper name,,,2,2129
+Azariah_11_1,Azariah_11,Azariah,עֲזַרְיָהוּ,azarəiyahu,Yahweh has helped,H5838,Αζαριαν,Azarian,,none,2CH 23:1,proper name,,,1,2130
+Jeroham_7_1,Jeroham_7,Jeroham,יְרֹחָ֧ם,yərocham,he will be compassionate,H3395,Ιωραμ,Iōram,,G2496,2CH 23:1,proper name,,,1,2131
+Ishmael_5_1,Ishmael_5,Ishmael,יִשְׁמָעֵ֔אל,yishəmael,God [El] he heard,H3458,Ισμαηλ,Ismaēl,,none,2CH 23:1,proper name,,,1,2132
+Johanan_8_1,Johanan_8,Johanan,יְהוֹחָנָן,yəhochanan,Yahweh has been gracious,H3076,Ιωαναν,Iōanan,,G2490a,2CH 23:1,proper name,,,1,2133
+Azariah_12_1,Azariah_12,Azariah,עֲזַרְיָהוּ,azarəiyahu,Yahweh has helped,H5838,Αζαριαν,Azarian,,none,2CH 23:1,proper name,,,1,2134
+Obed_5_1,Obed_5,Obed,עוֹבֵ֔ד,obed,servant [worshiper],H5744,Ωβηδ,Ōbēd,,G5601,2CH 23:1,proper name,,,1,2135
+Maaseiah_2_1,Maaseiah_2,Maaseiah,מַעֲשֵׂיָהוּ,maəseyahu,Yahweh is a refuge,H4641,Μαασαιαν,Maasaian,,none,2CH 23:1,proper name,,,1,2136
+Adaiah_5_1,Adaiah_5,Adaiah,עֲדָיָהוּ,adayahu,adornment of Yahweh,H5718,Αδαια,Adaia,,none,2CH 23:1,proper name,,,1,2137
+Elishaphat_1_1,Elishaphat_1,Elishaphat,אֱלִישָׁפָט,eliyshaphat,God [El] is [my] judge,H478,Ελισαφαν,Elisaphan,,none,2CH 23:1,proper name,,,1,2138
+Zichri_9_1,Zichri_9,Zichri,זִכְרִי,zikhəriy,Yahweh remembers,H2147,Ζαχαρια,Zaxaria,,none,2CH 23:1,proper name,,,1,2139
+Zechariah_12_1,Zechariah_12,Zechariah,זְכַרְיָה,zəcharəyah,Yahweh remembers,H2148,Αζαριαν,Azarian,,none,2CH 24:20,proper name,,,1,2140
+King of Damascus_1_1,King of Damascus_1,King of Damascus,מֶלֶךְ דַּרְמֶשֶׂק,meleq darəmeseq,king [of] Damascus,"H4428, H1834",βασιλεῖ Δαμασκοῦ,basileî Damaskoû,king [of] Damascus,"G935, G1154",2CH 24:23,title,,,1,2141
+Jozacar_1_2,Jozacar_1,Zabad,זָבַד,zavad,he bestows,H2066,Ζαβεδ,Zabed,,none,2CH 24:26,proper name,,,2,2142
+Shomer_1_2,Shomer_1,Shimrith,שִׁמְרִית,shiməriyt,"guardianess, watch woman",H8116,Σομαρωθ,Somarōth,,none,2CH 24:26,proper name,,,2,2143
+Jehoaddin_1_2,Jehoaddin_1,Jehoaddan,יְהוֹעַדָּן,yəhoadan,[prob.] Yahweh is delight,H3086,Ιωαδεν,Iōaden,,none,2CH 25:1,proper name,,,2,2144
+Jecoliah_1_2,Jecoliah_1,Jechiliah,יְכָלְיָה,yəkhaləyah,Yahweh is able,H3203,Χαλια,Xalia,,none,2CH 26:3,proper name,,,2,2145
+Jeiel_5_1,Jeiel_5,Jeiel,יְעִיאֵל,yəiyel,God [El] has preserved,H3273,Ιιηλ,Iiēl,,none,2CH 26:11,proper name,,,1,2146
+Maaseiah_3_1,Maaseiah_3,Maaseiah,מַעֲשֵׂיָהוּ,maəseyahu,Yahweh is a refuge,H4641,Μαασαιου,Maasaiou,,none,2CH 26:11,proper name,,,1,2147
+Hananiah_4_1,Hananiah_4,Hananiah,חֲנַנְיָהוּ,chananəyahu,Yahweh is gracious,H2608,Ανανιου,Ananiou,,G367,2CH 26:11,proper name,,,1,2148
+Jerusha_1_2,Jerusha_1,Jeruashah,יְרוּשָׁ֖ה,yərushah,possession,H3388,Ιερουσα,Ierousa,,none,2CH 27:1,proper name,,,2,2149
+King of the Ammonites_1_1,King of the Ammonites_1,King of the Ammonites,מֶלֶךְ בְּנֵי־עַמּוֹן,melekh bəney amon,king [of the] sons [of] Ammon,"H4428, H1121, H5983",βασιλέα υἱῶν Αμμων,basiléa hyiō̂n Ammōn,king [of the] sons [of] Ammon,"G935, G5207, none",2CH 27:5,title,,,1,2150
+King of Aram_1_1,King of Aram_1,King of Aram,מֶלֶךְ אֲרָם,melekh aram,king [of] Aram,"H4428, H0758",βασιλέως Συρίας,basiléōs Syrías,king [of] Syria,"G935, G4947",2CH 28:5,title,,,1,2151
+Zichri_10_1,Zichri_10,Zichri,זִכְרִי,zikhəriy,Yahweh remembers,H2147,Εζεκρι,Ezekri,,none,2CH 28:7,proper name,,,1,2152
+Maaseiah_4_1,Maaseiah_4,Maaseiah,מַעֲשֵׂיָהוּ,maəseyahu,Yahweh is a refuge,H4641,Μαασαιαν,Maasaian,,none,2CH 28:7,proper name,,,1,2153
+Azrikam_4_1,Azrikam_4,Azrikam,עַזְרִיקָם,azəriyqam,[my] help arises,H5840,Εσδρικαμ,Esdrikam,,none,2CH 28:7,proper name,,,1,2154
+Elkanah_9_1,Elkanah_9,Elkanah,אֶלְקָנָה,eləqanah,God [El] has possessed,H511,Ελκανα,Elkana,,none,2CH 28:7,proper name,,,1,2155
+_0,,,,,,,,,,,,,,,0,2156
+_0,,,,,,,,,,,,,,,0,2157
+_0,,,,,,,,,,,,,,,0,2158
+_0,,,,,,,,,,,,,,,0,2159
+_0,,,,,,,,,,,,,,,0,2160
+_0,,,,,,,,,,,,,,,0,2161
 Shallum_7_4,Shallum_7,Meshullam,מְשֻׁלָּם,məshulam,restitution,H4918,[none],,,,NEH 12:25,proper name,,This name is missing from the equivalent passage in Rahlfs' Septuaginta.,4,
 _0,,,,,,,,,,,,,,,0,
 Elishah_2_1,Elishah_2,Elishah,,,,,Ελισα,Elisa,,none,GEN 10:2,proper name,,Elisa/Elisha is not present in the Hebrew text.  Perhaps a scribal copy error from Gen 10:4?,1,
@@ -2156,10 +2174,13 @@ Ozias_1_1,Ozias_1,Ozias,,,,,Οζιας,Ozias,,none,1CH 15:18,proper name,,This n
 ,,,,,,,,,,,,,,,0,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
-,Jahaziel_3,Jahaziel,,,,,,,,,,,,,,
-,Zechariah_10,Zechariah,,,,,,,,,,,,,,
-,Benaiah_5,Benaiah,,,,,,,,,,,,,,
-,Jeiel_4,Jeiel,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,

@@ -117,7 +117,7 @@ Bera_1,Bera,,King of Sodom (GEN 14:2),male,,,1,115
 Birsha_1,Birsha,,King of Gomorrah (GEN 14:2),male,,,1,116
 Shinab_1,Shinab,,King of Admah (GEN 14:2),male,,,1,117
 Shemeber_1,Shemeber,,King of Zeboiim (GEN 14:2),male,,,1,118
-King of Bela_1,King of Bela,,"King of Bela (that is, Zoar) (GEN14:2)",male,,,1,119
+King of Bela_1,King of Bela,,"King of Bela (that is, Zoar) (GEN 14:2)",male,,,1,119
 Mamre_1,Mamre,,the Amorite (GEN 14:13),male,Amorite,,1,120
 Eschol_1,Eschol,,the Amorite (GEN 14:13),male,Amorite,,1,121
 Aner_1,Aner,,the Amorite (GEN 14:13),male,Amorite,,1,122
@@ -892,1060 +892,1070 @@ Rechab_2,Rechab,,father of Jehonadab (2KI 10:15),male,,,2,890
 Jehoahaz_1,Jehoahaz,,"King of Israel, son of Jehu (2KI 10:35)",male,,,1,891
 Jehosheba_1,Jehosheba,,"daughter of King Joram [of Judah], sister of Ahaziah (2KI 11:2)",female,,,1,892
 Joash_3,Joash,,"King of Judah (2KI 11:21), son of Ahaziah (2KI 11:2)",male,Judah,,3,893
-Jehoiada_2,Jehoiada,,the priest (2KI 11:9),male,,,2,894
-Mattan_1,Mattan,,priest of Baal (2KI 11:18),male,,,1,895
-Zibiah_1,Zibiah,,"of Beersheba, mother of King Jehoash (2KI 12:1)",male,,,1,896
+Jehoiada_2,Jehoiada,,the priest (2KI 11:9),male,Levi,,2,894
+Mattan_1,Mattan,,"priest of Baal (2KI 11:18, 2CH 23:17)",male,,,1,895
+Zibiah_1,Zibiah,,"of Beersheba, mother of King Jehoash (2KI 12:1, 2CH 24:1) ['Joash' in 2KI 11:2] ",male,,,1,896
 Jozacar_1,Jozacar,,killed King Joash (2KI 12:21),male,,,1,897
-Shimeath_1,Shimeath,,father of Jozacar (2KI 12:21),male,,,1,898
+Shimeath_1,Shimeath,,mother of Jozacar (2KI 12:21) an Ammonitess (2CH 24:26),female,,,1,898
 Jehozabad_1,Jehozabad,,killed King Joash (2KI 12:21),male,,,1,899
-Shomer_1,Shomer,,father of Jehozabad (2KI 12:21),male,,,1,900
-Amaziah_1,Amaziah,,"King of Judah, son of Joash (2KI 12:21)",male,Judah,,1,901
+Shomer_1,Shomer,,"mother of Jehozabad (2KI 12:21), a Moabitess (2CH 24:26)",female,,,1,900
+Amaziah_1,Amaziah,,"King of Judah, son of Joash (2KI 12:21)",male,Judah,"He did right in the sight of the LORD, yet not with a whole heart. (2CH 25:2)",1,901
 Joash_4,Joash,,"King of Israel, son of Jehoahaz (2KI 13:9)",male,,,4,902
 Jeroboam_2,Jeroboam,,"King of Israel (2KI 13:13), son of Joash [Jehoash] (2KI 14:16)",male,,,2,903
 Jehoaddin_1,Jehoaddin,,"of Jerusalem, mother of Amaziah (2KI 14:2)",female,,,1,904
-Azariah_3,Azariah,,"King of Judah, son of Amaziah (2KI 14:21)",male,Judah,,3,905
+Azariah_3,Azariah,,"[Uzziah] King of Judah, son of Amaziah (2KI 14:21)",male,Judah,He did right in the sight of the LORD according to all that his father Amaziah had done. (2CH 26:4),3,905
 Jonah_1,Jonah,,"the prophet, son of Amittai, from Gath-hepher (2KI 14:25)",male,,,1,906
 Amittai_1,Amittai,,"father of Jonah, the prophet (2KI 14:25)",male,,,1,907
 Zechariah_1,Zechariah,,"King of Israel, son of Jeroboam (2KI 14:29)",male,,,1,908
 Jecoliah_1,Jecoliah,,mother of Azariah (2KI 15:2),female,,,1,909
-Jotham_2,Jotham,,"King of Judah (2KI 15:7), son of Azariah (2KI 15:5)",male,Judah,,2,910
+Jotham_2,Jotham,,"King of Judah (2KI 15:7), son of Azariah (2KI 15:5)",male,Judah,"He did right in the sight of the LORD, according to all that his father Uzziah had done;",2,910
 Shallum_1,Shallum,,conspired against King Zechariah and became king of Israel in his place (2KI 15:10),male,,,1,911
 Jabesh_1,Jabesh,,father of Shallum (2KI 15:10),male,,,1,912
-Uzziah_1,Uzziah,,"King of Judah (2KI 15:13), son of Amaziah (2CH 26:1)",male,Judah,,1,913
-Menachem_1,Menachem,,King of Israel (2KI 15:14),male,,,1,914
-Gadi_1,Gadi,,father of Menachem (2KI 15:14),male,,,1,915
-Pul_1,Pul,,King of Assyria (2KI 15:19),male,,,1,916
-Pekahiah_1,Pekahiah,,son of Menachem and King of Israel (2KI 15:22),male,,,1,917
-Pekah_1,Pekah,,son of Remaliah who killed King Pekahiah and became King of Israel in his place (2KI 15:25),male,,,1,918
-Remaliah_1,Remaliah,,father of Pekah (2KI 15:25),male,,,1,919
-Argob_1,Argob,,conspired with Pekah against Pekahiah (2KI 15:25),male,,,1,920
-Arieh_1,Arieh,,conspired with Pekah against Pekahiah (2KI 15:25),male,,,1,921
-Tiglath-pileser_1,Tiglath-pileser,,King of Assyria (2KI 15:29),male,,,1,922
-Hoshea_1,Hoshea,,son of Elah who killed King Pekah and became King of Israel in his place (2KI 15:30),male,,,1,923
-Elah_3,Elah,,"father of Hoshea, King of Israel (2KI 15:30)",male,,,3,924
-Jotham_3,Jotham,,"King of Judah, son of King Uzziah (2KI 15:30)",male,Judah,,3,925
-Jerusha_1,Jerusha,,"mother of Jotham, King of Israel (2KI 15:33)",female,,,1,926
-Zadok_2,Zadok,,father of Jerusha (2KI 15:33),male,,,2,927
-Rezin_1,Rezin,,King of Aram (2KI 15:37),male,,,1,928
-Ahaz_1,Ahaz,,"King of Judah, son of Jotham (2KI 15:38)",male,Judah,,1,929
-Urijah_1,Urijah,,priest who built an altar in the pattern seen in Damascus (2KI 16:10),male,,,1,930
-Hezekiah_1,Hezekiah,,"King of Judah, son of Ahaz (2KI 16:20) who trusted in the LORD, the God of israel (2KI 18:5)",male,,,1,931
-Shalmaneser_1,Shalmaneser,,King of Assyria (2KI 17:3),male,,,1,932
-So_1,So,,King of Egypt (2KI 17:4),male,,,1,933
-Abi_1,Abi,,mother of Hezekiah (2KI 18:2),female,,,1,934
-Zechariah_2,Zechariah,,"father of Abi, mother of Hezekiah (2KI 18:2)",male,,,2,935
-Sennacherib_1,Sennacherib,,King of Assyria (2KI 18:13),male,,,1,936
-Tartan_1,Tartan,,messenger from Sennacherib to Hezekiah (2KI 18:17),male,,,1,937
-Rab-saris_1,Rab-saris,,messenger from Sennacherib to Hezekiah (2KI 18:17),male,,,1,938
-Rabshakeh_1,Rabshakeh,,messenger from Sennacherib to Hezekiah (2KI 18:17),male,,,1,939
-Eliakim_1,Eliakim,,over the household of Hezekiah (2KI 18:18),male,,,1,940
-Hilkiah_1,Hilkiah,,father of Eliakim (2KI 18:18),male,,,1,941
-Shebnah_1,Shebnah,,Hezekiah's scribe (2KI 18:18),male,,,1,942
-Joah_1,Joah,,Hezekiah's recorder (2KI 18:18),male,,,1,943
-Asaph_1,Asaph,,father of Joah (2KI 18:18),male,,,1,944
-Isaiah_1,Isaiah,,the prophet (2KI 19:2),male,,,1,945
-Amoz_1,Amoz,,father of Isaiah (2KI 19:2),male,,,1,946
-Tirhakah_1,Tirhakah,,King of Cush (2KI 19:9),male,,,1,947
-Adrammelech_1,Adrammelech,,killed King Sennacherib of Assyria (2KI 19:37),male,,,1,948
-Sharezer_1,Sharezer,,killed King Sennacherib of Assyria (2KI 19:37),male,,,1,949
-Esarhaddon_1,Esarhaddon,,King of Assyria and son of Sennacherib (2KI 19:37),male,,,1,950
-Berodach-baladan_1,Berodach-baladan,,King of Babylon (2KI 20:12),male,,,1,951
-Baladan_1,Baladan,,father of Berodach-baladan (2KI 20:12),male,,,1,952
-Manasseh_3,Manasseh,,King of Judah and son of Hezekiah (2KI 20:21) who did evil in the sight of the LORD (2KI 21:2),male,,,3,953
-Hephzibah_1,Hephzibah,,mother of King Manasseh (2KI 21:1),female,,,1,954
-Uzza_1,Uzza,,owner of the garden where Manasseh was buried,male,,,1,955
-Amon_2,Amon,,King of Judah and son of Manasseh (2KI 21:18) who did evil in the sight of the Lord (2KI 21:20),male,,,2,956
-Meshullemeth_1,Meshullemeth,,mother of Amon (2KI 21:19),female,,,1,957
-Haruz_1,Haruz,,"of Jothbah, father of Meshullemeth (2KI 21:19)",male,,,1,958
-Josiah_2,Josiah,,"King of Judah and son of Amon (2KI 21:24), who did right in the sight of the LORD (2KI 22:2)",male,,,2,959
-Jedidah_1,Jedidah,,mother of Josiah (2KI 22:1),female,,,1,960
-Adaiah_1,Adaiah,,"of Bozkath, father of Jedidah",male,,,1,961
-Shaphan_1,Shaphan,,scribe of King Josiah (2KI 22:3),male,,,1,962
-Azaliah_1,Azaliah,,father of Shaphan (2KI 22:3),male,,,1,963
-Meshullam_1,Meshullam,,father of Azaliah (2KI 22:3),male,,,1,964
-Hilkiah_2,Hilkiah,,the high priest of King Josiah's reign (2KI 22:4),male,,,2,965
-Ahikam_1,Ahikam,,son of Shaphan (2KI 22:12),male,,,1,966
-Achbor_2,Achbor,,son of Micaiah (2KI 22:12),male,,,2,967
-Micaiah_2,Micaiah,,father of Achbor (2KI 22:12),male,,,2,968
-Asaiah_1,Asaiah,,King Josiah's servant (2KI 22:12),male,,,1,969
-Huldah_1,Huldah,,"the prophetess, wife of Shallum (2KI 22:14)",female,,,1,970
-Shallum_2,Shallum,,husband of Huldah the prophetess (2KI 22:14),male,,,2,971
-Tikvah_1,Tikvah,,father of Shallum (2KI 22:14),male,,,1,972
-Harhas_1,Harhas,,father of Tikvah (2KI 22:14),male,,,1,973
-Nathan-melech_1,Nathan-melech,,the official over the chamber of the horses and chariots of the sun (2KI 23:11),male,,,1,974
-Pharaoh Neco_1,Pharaoh Neco,,King of Egypt (2KI 23:29),male,,,1,975
-Jehoahaz_2,Jehoahaz,,"King of Judah, son of Josiah (2KI 23:30), he did evil in the sight of the LORD (2KI 23:32)",male,,,2,976
-Hamutal_1,Hamutal,,mother of Jehoahaz (2KI 23:31),female,,,1,977
-Jeremiah_1,Jeremiah,,"of Libnah, father of Hamutal (2KI 23:31)",male,,,1,978
-Eliakim_2,Eliakim,,"King of Judah, son of Josiah (2KI 23:34), he did evil in the sight of the LORD (2KI 23:37)",male,,,2,979
-Zebidah_1,Zebidah,,mother of Eliakim [Jehoiakim] (2KI 23:36),female,,,1,980
-Pedaiah_1,Pedaiah,,"from Rumah, father of Zebidah (2KI 23:36)",male,,,1,981
-Nebuchadnezzar_1,Nebuchadnezzar,,King of Babylon (2KI 23:37),male,,,1,982
-Jehoiachin_1,Jehoiachin,,"King of Judah, son of Eliakim [Jehoiakim] (2KI 24:6), he did evil in the sight of the LORD (2KI 24:9)",male,,,1,983
-Nehushta_1,Nehushta,,mother of Jehoiachin (2KI 24:8),female,,,1,984
-Elnathan_1,Elnathan,,"from Jerusalem, father of Nehushta (2KI 24:8)",male,,,1,985
-Mattaniah_1,Mattaniah,,"King of Judah, uncle of Jehoiachin (2KI 24:17), he did evil in the sight of the LORD (2KI 24:19)",male,,,1,986
-Nebuzaradan_1,Nebuzaradan,,captain of the guard of the King of Babylon (2KI 25:8),male,,,1,987
-Gedaliah_1,Gedaliah,,"son of Ahikam, appointed King of Judah by Nebuchadnezzar (2KI 25:22)",male,,,1,988
-Ishmael_2,Ishmael,,"son of Nethaniah, captain of Judean forces during the Babylonian captivity (2KI 25:23)",male,,,2,989
-Nethaniah_1,Nethaniah,,"father of Ishmael, captain of Judean forces (2KI 25:23)",male,,,1,990
-Johanan_1,Johanan,,"son of Kareah, captain of Judean forces during the Babylonian captivity (2KI 25:23)",male,,,1,991
-Kareah_1,Kareah,,"father of Johanan, captain of Judean forces (2KI 25:23)",male,,,1,992
-Seraiah_2,Seraiah,,"son of Tanhumeth, captain of Judean forces during the Babylonian captivity (2KI 25:23)",male,,,2,993
-Tanhumeth_1,Tanhumeth,,"the Netophathite, father of Seraiah, captain of Judean forces (2KI 25:23)",male,,,1,994
-Jaazaniah_1,Jaazaniah,,"son of the Maacathite, captain of Judean forces during the Babylonian captivity (2KI 25:23)",male,,,1,995
-Elishama_3,Elishama,,father of Nethaniah (2KI 25:25),male,,,3,996
-Evil-merodach_1,Evil-merodach,,King of Babylon (2KI 25:27),male,,,1,997
-Bath-shua_1,Bath-shua,,"the Canaanitess, mother of Judah's first three sons (1CH 2:3)",male,,,1,998
-Ethan_2,Ethan,,son of Zerah (1CH 2:6),male,Judah,,2,999
-Heman_2,Heman,,son of Zerah (1CH 2:6),male,Judah,,2,1000
-Calcol_2,Calcol,,son of Zerah (1CH 2:6),male,Judah,,2,1001
-Dara_1,Dara,,son of Zerah (1CH 2:6),male,Judah,,1,1002
-Azariah_4,Azariah,,son of Ethan (1CH 2:8),male,Judah,,4,1003
-Jerahmeel_1,Jerahmeel,,"son of Hezron, son of Perez (1CH 2:9)",male,Judah,,1,1004
-Chelubai_1,Chelubai,,"son of Hezron, son of Perez (1CH 2:9)",male,Judah,,1,1005
-Nethanel_2,Nethanel,,fourth-born son of Jesse (1CH 2:13),male,Judah,,2,1006
-Raddai_1,Raddai,,fifth-born son of Jesse (1CH 2:14),male,Judah,,1,1007
-Ozem_1,Ozem,,sixth-born son of Jesse (1CH 2:15),male,Judah,,1,1008
-Azubah_2,Azubah,,wife of Chelubai [Caleb] (1CH 2:18),female,,,2,1009
-Jerioth_1,Jerioth,,wife (?) of Chelubai [Caleb] (1CH 2:18),female,,,1,1010
-Jesher_1,Jesher,,son of Cheubai [Caleb] (1CH 2:18),male,Judah,,1,1011
-Shobab_2,Shobab,,son of Cheubai [Caleb] (1CH 2:18),male,Judah,,2,1012
-Ardon_1,Ardon,,son of Cheubai [Caleb] (1CH 2:18),male,Judah,,1,1013
-Ephrath_1,Ephrath,,second wife of Chelubai [Caleb] (1CH 2:19),female,,,1,1014
-Segub_2,Segub,,"son of Hezron (1CH 2:21), father of Jair (1CH 2:22)",male,Judah,,2,1015
-Abijah_3,Abijah,,"wife of Hezron (1CH 2:24), daughter of Machir (1CH 2:21)",female,,,3,1016
-Ashhur_1,Ashhur,,son of Hezron (1CH 2:24),male,Judah,,1,1017
-Tekoa_1,Tekoa,,son of Ashhur (1CH 2:24),male,Judah,,1,1018
-Ram_2,Ram,,firstborn son of Jerahmeel (1CH 2:25),male,Judah,,2,1019
-Bunah_1,Bunah,,son of Jerahmeel (1CH 2:25),male,Judah,,1,1020
-Oren_1,Oren,,son of Jerahmeel (1CH 2:25),male,Judah,,1,1021
-Ozem_2,Ozem,,son of Jerahmeel (1CH 2:25),male,Judah,,2,1022
-Ahijah_3,Ahijah,,son of Jerahmeel (1CH 2:25),male,Judah,,3,1023
-Atarah_1,Atarah,,wife of Jerahmeel (1CH 2:26),female,,,1,1024
-Onam_2,Onam,,son of Jerahmeel and Atarah (1CH 2:26),male,Judah,,2,1025
-Maaz_1,Maaz,,"son of Ram, son of Jerahmeel (1CH 2:27)",male,Judah,,1,1026
-Jamin_2,Jamin,,"son of Ram, son of Jerahmeel (1CH 2:27)",male,Judah,,2,1027
-Eker_1,Eker,,"son of Ram, son of Jerahmeel (1CH 2:27)",male,Judah,,1,1028
-Shammai_1,Shammai,,"son of Onam, son of Jerahmeel (1CH 2:28)",male,Judah,,1,1029
-Jada_1,Jada,,"son of Onam, son of Jerahmeel (1CH 2:28)",male,Judah,,1,1030
-Nadab_3,Nadab,,son of Shammai (1CH 2:28),male,Judah,,3,1031
-Abishur_1,Abishur,,son of Shammai (1CH 2:28),male,Judah,,1,1032
-Abihail_2,Abihail,,wife of Abishur (1CH 2:29),female,,,2,1033
-Ahban_1,Ahban,,son of Abishur (1CH 2:29),male,Judah,,1,1034
-Molid_1,Molid,,son of Abishur (1CH 2:29),male,Judah,,1,1035
-Seled_1,Seled,,son of Nadab (1CH 2:30),male,Judah,,1,1036
-Appaim_1,Appaim,,son of Nadab (1CH 2:30),male,Judah,,1,1037
-Ishi_1,Ishi,,son of Appaim (1CH 2:31),male,Judah,,1,1038
-Sheshan_1,Sheshan,,son of Ishi (1CH 2:31),male,Judah,,1,1039
-Ahlai_1,Ahlai,,son of Sheshan (1CH 2:31),male,Judah,,1,1040
-Jether_2,Jether,,son of Jada (1CH 2:32),male,Judah,,2,1041
-Jonathan_6,Jonathan,,son of Jada (1CH 2:32),male,Judah,,6,1042
-Peleth_2,Peleth,,son of Jonathan (1CH 2:33),male,Judah,,2,1043
-Zaza_1,Zaza,,son of Jonathan (1CH 2:33),male,Judah,,1,1044
-Jarha_1,Jarha,,Egyptian servant of Sheshan (1CH 2:34),male,,,1,1045
-Attai_1,Attai,,son of Jarha (1CH 2:35),male,Judah,,1,1046
-Nathan_6,Nathan,,son of Attai (1CH 2:36),male,Judah,,6,1047
-Zabad_1,Zabad,,son of Nathan (1CH 2:36),male,Judah,,1,1048
-Ephlal_1,Ephlal,,son of Zabad (1CH 2:37),male,Judah,,1,1049
-Obed_2,Obed,,son of Ephlal (1CH 2:37),male,Judah,,2,1050
-Jehu_3,Jehu,,son of Obed (1CH 2:38),male,Judah,,3,1051
-Azariah_5,Azariah,,son of Jehu (1CH 2:38),male,Judah,,5,1052
-Helez_2,Helez,,son of Azariah (1CH 2:39),male,Judah,,2,1053
-Eleasah_1,Eleasah,,son of Helez (1CH 2:39),male,Judah,,1,1054
-Sismai_1,Sismai,,son of Eleasah (1CH 2:40),male,Judah,,1,1055
-Shallum_3,Shallum,,son of Sismai (1CH 2:40),male,Judah,,3,1056
-Jekamiah_1,Jekamiah,,son of Shallum (1CH 2:41),male,Judah,,1,1057
-Elishama_4,Elishama,,son of Jekamiah (1CH 2:41),male,Judah,,4,1058
-Mesha_2,Mesha,,son of Cheubai [Caleb] (by Jerioth?) (1CH 2:42),male,Judah,,2,1059
-Ziph_1,Ziph,,son of Mesha (1CH 2:42),male,Judah,,1,1060
-Mareshah_1,Mareshah,,son of Ziph (1CH 2:42),male,Judah,,1,1061
-Hebron_2,Hebron,,son of Mareshah (1CH 2:42),male,Judah,,2,1062
-Korah_4,Korah,,son of Hebron (1CH 2:43),male,Judah,,4,1063
-Tappuah_1,Tappuah,,son of Hebron (1CH 2:43),male,Judah,,1,1064
-Rekem_2,Rekem,,son of Hebron (1CH 2:43),male,Judah,,2,1065
-Shema_1,Shema,,son of Hebron (1CH 2:43),male,Judah,,1,1066
-Raham_1,Raham,,son of Shema (1CH 2:44),male,Judah,,1,1067
-Jorkeam_1,Jorkeam,,son of Raham (1CH 2:44),male,Judah,,1,1068
-Shammai_2,Shammai,,son of Rekem (1CH 2:44),male,Judah,,2,1069
-Maon_1,Maon,,son of Shammai (1CH 2:45),male,Judah,,1,1070
-Bethzur_1,Bethzur,,son of Maon (1CH 2:45),male,Judah,,1,1071
-Ephah_2,Ephah,,Chelubai's [Caleb's] concubine (1CH 2:46),female,,,2,1072
-Haran_2,Haran,,son of Chelubai [Caleb] by Ephah (1CH 2:46),male,Judah,,2,1073
-Moza_1,Moza,,son of Chelubai [Caleb] by Ephah (1CH 2:46),male,Judah,,1,1074
-Gazez_1,Gazez,,son of Chelubai [Caleb] by Ephah (1CH 2:46),male,Judah,,1,1075
-Gazez_2,Gazez,,son of Haran (1CH 2:46),male,Judah,,2,1076
-Jahdai_1,Jahdai,,son of Chelubai [Caleb]? (1CH 2:47),male,Judah,,1,1077
-Regem_1,Regem,,son of Jahdai (1CH 2:47),male,Judah,,1,1078
-Jotham_4,Jotham,,son of Jahdai (1CH 2:47),male,Judah,,4,1079
-Geshan_1,Geshan,,son of Jahdai (1CH 2:47),male,Judah,,1,1080
-Pelet_1,Pelet,,son of Jahdai (1CH 2:47),male,Judah,,1,1081
-Ephah_3,Ephah,,son of Jahdai (1CH 2:47),male,Judah,,3,1082
-Shaaph_1,Shaaph,,son of Jahdai (1CH 2:47),male,Judah,,1,1083
-Maacah_4,Maacah,,Chelubai's [Caleb's] concubine (1CH 2:48),female,,,4,1084
-Sheber_1,Sheber,,son of Chelubai [Caleb] by Maacah (1CH 2:48),male,Judah,,1,1085
-Tirhanah_1,Tirhanah,,son of Chelubai [Caleb] by Maacah (1CH 2:48),male,Judah,,1,1086
-Shaaph_2,Shaaph,,son of Chelubai [Caleb] by Maacah (1CH 2:49),male,Judah,,2,1087
-Madmannah_1,Madmannah,,son of Shaaph (1CH 2:49),male,Judah,,1,1088
-Sheva_1,Sheva,,son of Chelubai [Caleb] by Maacah (1CH 2:49),male,Judah,,1,1089
-Machbena_1,Machbena,,son of Sheva (1CH 2:49),male,Judah,,1,1090
-Gibea_1,Gibea,,son of Sheva (1CH 2:49),male,Judah,,1,1091
-Achsah_2,Achsah,,daughter of Chelubai [Caleb] (1CH 2:49),female,Judah,,2,1092
-Shobal_2,Shobal,,son of Hur who founded Kiriath-jearim (1CH 2:50),male,Judah,,2,1093
-Salma_1,Salma,,son of Hur who founded Bethlehem (1CH 2:51),male,Judah,,1,1094
-Hareph_1,Hareph,,son of Hur who founded Beth-gader (1CH 2:51),male,Judah,,1,1095
-Haroeh_1,Haroeh,,son of Shobal (1CH 2:52),male,Judah,,1,1096
-Eliphelet_3,Eliphelet,,"son of David (1CH 3:6), his other son named Eliphelet, also called Elpelet (1CH 14:5)",male,Judah,,3,1097
-Nogah_1,Nogah,,son of David (1CH 3:6),male,Judah,,1,1098
-Shallum_4,Shallum,,son of Josiah (1CH 3:15),male,Judah,,4,1099
-Zedekiah_2,Zedekiah,,son of Eliakim [Jehoiakim] (1CH 3:16),male,Judah,,2,1100
-Shealtiel_1,Shealtiel,,son of Jehoiachin_1 [Jeconiah] (1CH 3:17),male,Judah,,1,1101
-Malchiram_1,Malchiram,,son of Jehoiachin_1 [Jeconiah] (1CH 3:18),male,Judah,,1,1102
-Pedaiah_2,Pedaiah,,son of Jehoiachin_1 [Jeconiah] (1CH 3:18),male,Judah,,2,1103
-Shenazzar_1,Shenazzar,,son of Jehoiachin_1 [Jeconiah] (1CH 3:18),male,Judah,,1,1104
-Jekamiah_2,Jekamiah,,son of Jehoiachin_1 [Jeconiah] (1CH 3:18),male,Judah,,2,1105
-Hoshama_1,Hoshama,,son of Jehoiachin_1 [Jeconiah] (1CH 3:18),male,Judah,,1,1106
-Nedabiah_1,Nedabiah,,son of Jehoiachin_1 [Jeconiah] (1CH 3:18),male,Judah,,1,1107
-Zerubbabel_1,Zerubbabel,,son of Pedaiah (1CH 3:19),male,Judah,,1,1108
-Shimei_4,Shimei,,son of Pedaiah (1CH 3:19),male,Judah,,4,1109
-Meshullam_2,Meshullam,,son of Zerubbabel (1CH 3:19),male,Judah,,2,1110
-Hananiah_1,Hananiah,,son of Zerubbabel (1CH 3:19),male,Judah,,1,1111
-Shelomith_1,Shelomith,,daughter of Zerubbabel (1CH 3:19),female,Judah,,1,1112
-Hashubah_1,Hashubah,,son of Meshullam (1CH 3:20),male,Judah,,1,1113
-Ohel_1,Ohel,,son of Meshullam (1CH 3:20),male,Judah,,1,1114
-Berechiah_1,Berechiah,,son of Meshullam (1CH 3:20),male,Judah,,1,1115
-Hasadiah_1,Hasadiah,,son of Meshullam (1CH 3:20),male,Judah,,1,1116
-Jushab-hesed_1,Jushab-hesed,,son of Meshullam (1CH 3:20),male,Judah,,1,1117
-Pelatiah_1,Pelatiah,,son of Hananiah (1CH 3:21),male,Judah,,1,1118
-Jeshaiah_1,Jeshaiah,,son of Hananiah (1CH 3:21),male,Judah,,1,1119
-Rephaiah_1,Rephaiah,,son of Hananiah (1CH 3:21),male,Judah,,1,1120
-Arnan_1,Arnan,,son of Hananiah (1CH 3:21),male,Judah,,1,1121
-Obadiah_2,Obadiah,,son of Hananiah (1CH 3:21),male,Judah,,2,1122
-Shecaniah_1,Shecaniah,,son of Hananiah (1CH 3:21),male,Judah,,1,1123
-Shemaiah_2,Shemaiah,,son of Shecaniah (1CH 3:22),male,Judah,,2,1124
-Hattush_1,Hattush,,son of Shecaniah (1CH 3:22),male,Judah,,1,1125
-Igal_3,Igal,,son of Shecaniah (1CH 3:22),male,Judah,,3,1126
-Bariah_1,Bariah,,son of Shecaniah (1CH 3:22),male,Judah,,1,1127
-Neariah_1,Neariah,,son of Shecaniah (1CH 3:22),male,Judah,,1,1128
-Shaphat_3,Shaphat,,son of Shecaniah (1CH 3:22),male,Judah,,3,1129
-Elioenai_1,Elioenai,,son of Neariah (1CH 3:23),male,Judah,,1,1130
-Hizkiah_1,Hizkiah,,son of Neariah (1CH 3:23),male,Judah,,1,1131
-Azrikam_1,Azrikam,,son of Neariah (1CH 3:23),male,Judah,,1,1132
-Hodaviah_1,Hodaviah,,son of Elioenai (1CH 3:24),male,Judah,,1,1133
-Eliashib_1,Eliashib,,son of Elioenai (1CH 3:24),male,Judah,,1,1134
-Pelaiah_1,Pelaiah,,son of Elioenai (1CH 3:24),male,Judah,,1,1135
-Akkub_1,Akkub,,son of Elioenai (1CH 3:24),male,Judah,,1,1136
-Johanan_2,Johanan,,son of Elioenai (1CH 3:24),male,Judah,,2,1137
-Delaiah_1,Delaiah,,son of Elioenai (1CH 3:24),male,Judah,,1,1138
-Anani_1,Anani,,son of Elioenai (1CH 3:24),male,Judah,,1,1139
-Reaiah_1,Reaiah,,son of Shobal (1CH 4:2),male,Judah,Possibly the same person as Haroeh_1?,1,1140
-Jahath_1,Jahath,,son of Reaiah (1CH 4:2),male,Judah,,1,1141
-Ahumai_1,Ahumai,,son of Jahath (1CH 4:2),male,Judah,,1,1142
-Lahad_1,Lahad,,son of Jahath (1CH 4:2),male,Judah,,1,1143
-Etam_1,Etam,,???,male,Judah,,1,1144
-Jezreel_1,Jezreel,,son of Etam (1CH 4:3),male,Judah,,1,1145
-Ishma_1,Ishma,,son of Etam (1CH 4:3),male,Judah,,1,1146
-Idbash_1,Idbash,,son of Etam (1CH 4:3),male,Judah,,1,1147
-Hazzelelponi_1,Hazzelelponi,,daughter of Etam (1CH 4:3),female,Judah,,1,1148
-Penuel_1,Penuel,,son of Hur (1CH 4:4),male,Judah,,1,1149
-Gedor_1,Gedor,,son of Penuel (1CH 4:4),male,Judah,,1,1150
-Ezer_2,Ezer,,son of Hur (1CH 4:4),male,Judah,,2,1151
-Hushah_1,Hushah,,son of Ezer (1CH 4:4),male,Judah,,1,1152
-Helah_1,Helah,,wife of Ashhur (1CH 4:5),female,,,1,1153
-Naarah_1,Naarah,,wife of Ashhur (1CH 4:5),female,,,1,1154
-Ahuzzam_1,Ahuzzam,,son of Ashhur and Naarah (1CH 4:6),male,Judah,,1,1155
-Hepher_2,Hepher,,son of Ashhur and Naarah (1CH 4:6),male,Judah,,2,1156
-Temeni_1,Temeni,,son of Ashhur and Naarah (1CH 4:6),male,Judah,,1,1157
-Haahashtari_1,Haahashtari,,son of Ashhur and Naarah (1CH 4:6),male,Judah,,1,1158
-Zereth_1,Zereth,,son of Ashhur and Helah (1CH 4:7),male,Judah,,1,1159
-Izhar_2,Izhar,,son of Ashhur and Helah (1CH 4:7),male,Judah,,2,1160
-Ethnan_1,Ethnan,,son of Ashhur and Helah (1CH 4:7),male,Judah,,1,1161
-Koz_1,Koz,,???,male,Judah,,1,1162
-Anub_1,Anub,,son of Koz (1CH 4:8),male,Judah,,1,1163
-Zobebah_1,Zobebah,,son of Koz (1CH 4:8),male,Judah,,1,1164
-Harum_1,Harum,,son of Koz (1CH 4:8),male,Judah,,1,1165
-Aharhel_1,Aharhel,,son of Harum (1CH 4:8),male,Judah,,1,1166
-Jabez_1,Jabez,,son of Koz? (1CH 4:9),male,Judah,,1,1167
-Chelub_1,Chelub,,brother of Shuhah (1CH 4:11),male,Judah,,1,1168
-Shuhah_1,Shuhah,,brother of Chelub (1CH 4:11),male,Judah,,1,1169
-Mehir_1,Mehir,,son of Cheleb (1CH 4:11),male,Judah,,1,1170
-Eshton_1,Eshton,,son of Mehir (1CH 4:11),male,Judah,,1,1171
-Beth-rapha_1,Beth-rapha,,son of Eshton (1CH 4:12),male,Judah,,1,1172
-Paseah_1,Paseah,,son of Eshton (1CH 4:12),male,Judah,,1,1173
-Tehinnah_1,Tehinnah,,son of Eshton (1CH 4:12),male,Judah,,1,1174
-Seraiah_3,Seraiah,,son of Kenaz (1CH 4:13),male,Judah,,3,1175
-Hathath_1,Hathath,,son of Othniel (1CH 4:13),male,Judah,,1,1176
-Meonothai_1,Meonothai,,son of Othniel (1CH 4:13),male,Judah,,1,1177
-Ophrah_1,Ophrah,,son of Meonothai (1CH 4:14),male,Judah,,1,1178
-Joab_2,Joab,,son of Seraiah (1CH 4:14),male,Judah,,2,1179
-Iru_1,Iru,,son of Caleb (1CH 4:15),male,Judah,,1,1180
-Elah_4,Elah,,son of Caleb (1CH 4:15),male,Judah,,4,1181
-Naam_1,Naam,,son of Caleb (1CH 4:15),male,Judah,,1,1182
-Kenaz_3,Kenaz,,son of Elah and grandson of Caleb (1CH 4:15),male,Judah,,3,1183
-Jehallelel_1,Jehallelel,,??? (1CH 4:16),male,Judah,,1,1184
-Ziph_2,Ziph,,son of Jehallelel (1CH 4:16),male,Judah,,2,1185
-Ziphah_1,Ziphah,,son of Jehallelel (1CH 4:16),male,Judah,,1,1186
-Tiria_1,Tiria,,son of Jehallelel (1CH 4:16),male,Judah,,1,1187
-Asarel_1,Asarel,,son of Jehallelel (1CH 4:16),male,Judah,,1,1188
-Ezrah_1,Ezrah,,??? (1CH 4:16),male,Judah,,1,1189
-Jether_3,Jether,,son of Ezrah (1CH 4:17),male,Judah,,3,1190
-Mered_1,Mered,,son of Ezrah (1CH 4:17),male,Judah,,1,1191
-Epher_2,Epher,,son of Ezrah (1CH 4:17),male,Judah,,2,1192
-Jalon_1,Jalon,,son of Ezrah (1CH 4:17),male,Judah,,1,1193
-Bithia_1,Bithia,,daughter of Pharaoh whom Mered took (1CH 4:17),female,,,1,1194
-Pharaoh_5,Pharaoh,,father of Bithia,male,,,5,1195
-Miriam_2,Miriam,,daughter of Mered and Bithia (1CH 4:17),female,Judah,,2,1196
-Shammai_3,Shammai,,son of Mered and Bithia (1CH 4:17),male,Judah,,3,1197
-Ishbah_1,Ishbah,,son of Mered and Bithia (1CH 4:17),male,Judah,,1,1198
-Eshtemoa_1,Eshtemoa,,son of Mered and Bithia (1CH 4:17)- possibly a location rather than a person?,male,Judah,,1,1199
-Jered_1,Jered,,"son of Mered and ""his Jewish wife"" (1CH 4:18)",male,Judah,,1,1200
-Gedor_2,Gedor,,"son of Mered and ""his Jewish wife"" (1CH 4:18)",male,Judah,,2,1201
-Heber_3,Heber,,"son of Mered and ""his Jewish wife"" (1CH 4:18)",male,Judah,,3,1202
-Soco_1,Soco,,"son of Mered and ""his Jewish wife"" (1CH 4:18)",male,Judah,,1,1203
-Jekuthiel_1,Jekuthiel,,"son of Mered and ""his Jewish wife"" (1CH 4:18)",male,Judah,,1,1204
-Zanoah_1,Zanoah,,"son of Mered and ""his Jewish wife"" (1CH 4:18)",male,Judah,,1,1205
-Hodiah_1,Hodiah,,??? (1CH 4:19),male,Judah,,1,1206
-Naham_1,Naham,,brother of the wife of Hodiah (1CH 4:19),male,Judah,,1,1207
-Keilah_1,Keilah,,"the Garmite, grandson of Hodiah (1CH 4:19)",male,Judah,,1,1208
-Eshtemoa_2,Eshtemoa,,"the Maacathite, the grandson of Hodiah (1CH 4:19)",male,Judah,,2,1209
-Shimon_1,Shimon,,??? (1CH 4:20),male,Judah,,1,1210
-Amnon_2,Amnon,,son of Shimon (1CH 4:20),male,Judah,,2,1211
-Rinnah_1,Rinnah,,son of Shimon (1CH 4:20),male,Judah,,1,1212
-Benhanan_1,Benhanan,,son of Shimon (1CH 4:20),male,Judah,,1,1213
-Tilon_1,Tilon,,son of Shimon (1CH 4:20),male,Judah,,1,1214
-Ishi_2,Ishi,,??? (1CH 4:20),male,Judah,,2,1215
-Zoheth_1,Zoheth,,son of Ishi (1CH 4:20),male,Judah,,1,1216
-Ben-zoheth_1,Ben-zoheth,,(grand?) son of Ishi (1CH 4:20),male,Judah,,1,1217
-Er_2,Er,,son of Shelah son of Judah (1CH 4:21),male,Judah,,2,1218
-Lecah_1,Lecah,,son of Er (1CH 4:21),male,Judah,,1,1219
-Laadah_1,Laadah,,son of Shelah son of Judah (1CH 4:21),male,Judah,,1,1220
-Mareshah_2,Mareshah,,son of Laadah (1CH 4:21),male,Judah,,2,1221
-Jokim_1,Jokim,,"son of Shelah, son of Judah (1CH 4:22)",male,Judah,,1,1222
-Joash_5,Joash,,"son of Shelah, son of Judah (1CH 4:22)",male,Judah,,5,1223
-Saraph_1,Saraph,,"son of Shelah, son of Judah (1CH 4:22)",male,Judah,,1,1224
-Jashubi-lehem_1,Jashubi-lehem,,"son of Shelah, son of Judah (1CH 4:22)",male,Judah,,1,1225
-Shallum_5,Shallum,,"son of Shaul, son of Simeon (1CH 4:25)",male,Judah,,5,1226
-Mibsam_2,Mibsam,,"son of Shallum (1CH 4:25), Simeonite (1CH 4:24)",male,Simeon,,2,1227
-Mishma_2,Mishma,,"son of Mibsam (1CH 4:25), Simeonite (1CH 4:24)",male,Simeon,,2,1228
-Hammuel_1,Hammuel,,"son of Mishma (1CH 4:26), Simeonite (1CH 4:24)",male,Simeon,,1,1229
-Zaccur_2,Zaccur,,"son of Hammuel (1CH 4:26), Simeonite (1CH 4:24)",male,Simeon,,2,1230
-Shimei_5,Shimei,,"son of Zaccur (1CH 4:26), Simeonite (1CH 4:24)",male,Simeon,,5,1231
-Meshobab_1,Meshobab,,"??? (1CH 4:34), Simeonite (1CH 4:24)",male,Simeon,,1,1232
-Jamlech_1,Jamlech,,"??? (1CH 4:34), Simeonite (1CH 4:24)",male,Simeon,,1,1233
-Joshah_1,Joshah,,"son of Amaziah_2 (1CH 4:34), Simeonite (1CH 4:24)",male,Simeon,,1,1234
-Amaziah_2,Amaziah,,"father of Joshah (1CH 4:34), Simeonite (1CH 4:24)",male,Simeon,,2,1235
-Joel_2,Joel,,"??? (1CH 4:35), Simeonite (1CH 4:24)",male,Simeon,,2,1236
-Jehu_4,Jehu,,"son of Joshibiah (1CH 4:35), Simeonite (1CH 4:24)",male,Simeon,,4,1237
-Joshibiah_1,Joshibiah,,"son of Seraiah (1CH 4:35), Simeonite (1CH 4:24)",male,Simeon,,1,1238
-Seraiah_4,Seraiah,,"son of Asiel (1CH 4:35), Simeonite (1CH 4:24)",male,Simeon,,4,1239
-Asiel_1,Asiel,,"??? (1CH 4:35), Simeonite (1CH 4:24)",male,Simeon,,1,1240
-Elioenai_2,Elioenai,,"??? (1CH 4:36), Simeonite (1CH 4:24)",male,Simeon,,2,1241
-Jaakobah_1,Jaakobah,,"??? (1CH 4:36), Simeonite (1CH 4:24)",male,Simeon,,1,1242
-Jeshohaiah_1,Jeshohaiah,,"??? (1CH 4:36), Simeonite (1CH 4:24)",male,Simeon,,1,1243
-Asaiah_2,Asaiah,,"??? (1CH 4:36), Simeonite (1CH 4:24)",male,Simeon,,2,1244
-Adiel_1,Adiel,,"??? (1CH 4:36), Simeonite (1CH 4:24)",male,Simeon,,1,1245
-Jesimiel_1,Jesimiel,,"??? (1CH 4:36), Simeonite (1CH 4:24)",male,Simeon,,1,1246
-Benaiah_3,Benaiah,,"??? (1CH 4:36), Simeonite (1CH 4:24)",male,Simeon,,3,1247
-Ziza_1,Ziza,,"son of Shiphi (1CH 4:37), Simeonite (1CH 4:24)",male,Simeon,,1,1248
-Shiphi_1,Shiphi,,"son of Allon (1CH 4:37), Simeonite (1CH 4:24)",male,Simeon,,1,1249
-Allon_1,Allon,,"son of Jedaiah (1CH 4:37), Simeonite (1CH 4:24)",male,Simeon,,1,1250
-Jedaiah_1,Jedaiah,,"son of Shimri (1CH 4:37), Simeonite (1CH 4:24)",male,Simeon,,1,1251
-Shimri_1,Shimri,,"son of Shemaiah (1CH 4:37), Simeonite (1CH 4:24)",male,Simeon,,1,1252
-Shemaiah_3,Shemaiah,,"father of Shimri (1CH 4:37), Simeonite (1CH 4:24)",male,Simeon,,3,1253
-Pelatiah_2,Pelatiah,,"son of Ishi (1CH 4:42), Simeonite (1CH 4:24)",male,Simeon,,2,1254
-Neariah_2,Neariah,,"son of Ishi (1CH 4:42), Simeonite (1CH 4:24)",male,Simeon,,2,1255
-Rephaiah_2,Rephaiah,,"son of Ishi (1CH 4:42), Simeonite (1CH 4:24)",male,Simeon,,2,1256
-Uzziel_2,Uzziel,,"son of Ishi (1CH 4:42), Simeonite (1CH 4:24)",male,Simeon,,2,1257
-Joel_3,Joel,,"father of Shema, lived in Aroer (1CH 5:8), Reubenite (1CH 5:3)",male,Reuben,,3,1258
-Shemaiah_4,Shemaiah,,"son of Joel (1CH 5:4), Reubenite (1CH 5:3)",male,Reuben,,4,1259
-Gog_1,Gog,,"son of Shemaiah (1CH 5:4), Reubenite (1CH 5:3)",male,Reuben,,1,1260
-Shimei_6,Shimei,,"son of Gog (1CH 5:4), Reubenite (1CH 5:3)",male,Reuben,,6,1261
-Micah_2,Micah,,"son of Shimei (1CH 5:5), Reubenite (1CH 5:3)",male,Reuben,,2,1262
-Reaiah_2,Reaiah,,"son of Micah (1CH 5:5), Reubenite (1CH 5:3)",male,Reuben,,2,1263
-Baal_1,Baal,,"son of Reaiah (1CH 5:5), Reubenite (1CH 5:3)",male,Reuben,,1,1264
-Beerah_1,Beerah,,"son of Baal.  Tilgath-pilneser carried him away into exile, leader of Reubenites (1CH 5:6)",male,Reuben,,1,1265
-Tilgath-pilneser_1,Tilgath-pilneser,,King of Assyria (1CH 5:6),male,,,1,1266
-Jeiel_1,Jeiel,,"son of Zechariah (?) (1CH 5:7), Reubenite (1CH 5:3)",male,Reuben,,1,1267
-Zechariah_3,Zechariah,,"son of Bela (?) (1CH 5:7), Reubenite (1CH 5:3)",male,Reuben,,3,1268
-Bela_3,Bela,,"son of Azaz (1CH 5:8), Reubenite (1CH 5:3)",male,Reuben,,3,1269
-Azaz_1,Azaz,,"son of Shema (1CH 5:8), Reubenite (1CH 5:3)",male,Reuben,,1,1270
-Shema_2,Shema,,"son of Joel (1CH 5:8), Reubenite (1CH 5:3)",male,Reuben,,2,1271
-Joel_4,Joel,,"chief (1CH 5:12), Gadite (1CH 5:11)",male,Gad,,4,1272
-Shapham_1,Shapham,,"second chief (1CH 5:12), Gadite (1CH 5:11)",male,Gad,,1,1273
-Janai_1,Janai,,"chief (1CH 5:12) in Bashan, Gadite (1CH 5:11)",male,Gad,,1,1274
-Shaphat_4,Shaphat,,"second chief (1CH 5:12) in Bashan, Gadite (1CH 5:11)",male,Gad,,4,1275
-Michael_2,Michael,,"(1CH 5:13), son of Jeshishai (1CH 5:14), Gadite (1CH 5:11)",male,Gad,,2,1276
-Meshullam_3,Meshullam,,"??? (1CH 5:13), Gadite (1CH 5:11)",male,Gad,,3,1277
-Sheba_5,Sheba,,"??? (1CH 5:13), Gadite (1CH 5:11)",male,Gad,,5,1278
-Jorai_1,Jorai,,"??? (1CH 5:13), Gadite (1CH 5:11)",male,Gad,,1,1279
-Jacan_1,Jacan,,"??? (1CH 5:13), Gadite (1CH 5:11)",male,Gad,,1,1280
-Zia_1,Zia,,"??? (1CH 5:13), Gadite (1CH 5:11)",male,Gad,,1,1281
-Eber_2,Eber,,"??? (1CH 5:13), Gadite (1CH 5:11)",male,Gad,,2,1282
-Abihail_3,Abihail,,"son of Huri (1CH 5:14, Gadite (1CH 5:11)",male,Gad,,3,1283
-Huri_1,Huri,,"son of Jaroah (1CH 5:14), Gadite (1CH 5:11)",male,Gad,,1,1284
-Jaroah_1,Jaroah,,"son of Gilead (1CH 5:14), Gadite (1CH 5:11)",male,Gad,,1,1285
-Gilead_3,Gilead,,"son of Michael (1CH 5:14), Gadite (1CH 5:11)",male,Gad,,3,1286
-Jeshishai_1,Jeshishai,,"son of Jahdo (1CH 5:14), Gadite (1CH 5:11)",male,Gad,,1,1287
-Jahdo_1,Jahdo,,"son of Buz (1CH 5:14), Gadite (1CH 5:11)",male,Gad,,1,1288
-Buz_2,Buz,,"father of Jahdo (1CH 5:14), Gadite (1CH 5:11)",male,Gad,,2,1289
-Ahi_1,Ahi,,"son of Abdiel (1CH 5:15), Gadite (1CH 5:11)",male,Gad,,1,1290
-Abdiel_1,Abdiel,,"son of Guni (1CH 5:15), Gadite (1CH 5:11)",male,Gad,,1,1291
-Guni_2,Guni,,"father of Abdiel (1CH 5:15), Gadite (1CH 5:11)",male,Gad,,2,1292
-Epher_3,Epher,,head of households (1CH 5:24) in Manasseh (1CH 5:23),male,Manasseh,,3,1293
-Ishi_3,Ishi,,head of households (1CH 5:24) in Manasseh (1CH 5:23),male,Manasseh,,3,1294
-Eliel_1,Eliel,,head of households (1CH 5:24) in Manasseh (1CH 5:23),male,Manasseh,,1,1295
-Azriel_1,Azriel,,head of households (1CH 5:24) in Manasseh (1CH 5:23),male,Manasseh,,1,1296
-Jeremiah_2,Jeremiah,,head of households (1CH 5:24) in Manasseh (1CH 5:23),male,Manasseh,,2,1297
-Hodaviah_2,Hodaviah,,head of households (1CH 5:24) in Manasseh (1CH 5:23),male,Manasseh,,2,1298
-Jahdiel_1,Jahdiel,,head of households (1CH 5:24) in Manasseh (1CH 5:23),male,Manasseh,,1,1299
-Abishua_1,Abishua,,son of Phinehas (1CH 6:4),male,Levi,Aaronic priest through Eleazar,1,1300
-Bukki_2,Bukki,,son of Abishua and father of Uzzi (1CH 6:5),male,Levi,Aaronic priest through Eleazar,2,1301
-Uzzi_1,Uzzi,,son of Bukki (1CH 6:5) and father of Zerhiah (1CH 6:6),male,Levi,Aaronic priest through Eleazar,1,1302
-Zerahiah_1,Zerahiah,,father of Meraioth (1CH 6:6),male,Levi,Aaronic priest through Eleazar,1,1303
-Meraioth_1,Meraioth,,"father of Amariah (1CH 6:7), Levite (1CH 6:1)",male,Levi,Aaronic priest through Eleazar,1,1304
-Amariah_1,Amariah,,son of Meraioth (1CH 6:7) and father of Ahitub (1CH 6:7),male,Levi,Aaronic priest through Eleazar,1,1305
-Azariah_6,Azariah,,"son of Ahimaaz, and father of Johanan (1CH 6:9)",male,Levi,Aaronic priest through Eleazar,6,1306
-Johanan_3,Johanan,,son of Azariah_6 (1CH 6:9) and father of Azariah_1 (1CH 6:10),male,Levi,Aaronic priest through Eleazar,3,1307
-Amariah_2,Amariah,,"son of Azariah and father of Ahitub (1CH 6:11), Levite (1CH 6:1), chief priest (2CH 19:11)",male,Levi,Aaronic priest through Eleazar,2,1308
-Shallum_6,Shallum,,"son of Zadok (1CH 6:12) and father of Hilkiah (1CH 6:13), Levite (1CH 6:1)",male,Levi,Aaronic priest through Eleazar,6,1309
-Hilkiah_3,Hilkiah,,son of Shallum and father of Azariah (1CH 6:13),male,Levi,Aaronic priest through Eleazar,3,1310
-Azariah_7,Azariah,,son of Hilkiah (1CH 6:13) and father of Seriah (1CH 6:14),male,Levi,Aaronic priest through Eleazar,7,1311
-Seraiah_5,Seraiah,,son of Azariah and father of Jehozadak (1CH 6:14),male,Levi,Aaronic priest through Eleazar,5,1312
-Jehozadak_1,Jehozadak,,son of Seriah (1CH 6:14) went with Judah into exile by Nebuchadnezzar (1CH 6:15),male,Levi,Aaronic priest through Eleazar,1,1313
-Jahath_2,Jahath,,son of Libni (1CH 6:20),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",2,1314
-Zimmah_1,Zimmah,,son of Jahath (1CH 6:20),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",1,1315
-Joah_2,Joah,,son of Zimmah (1CH 6:21),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",2,1316
-Iddo_2,Iddo,,son of Joah (1CH 6:21),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",2,1317
-Zerah_4,Zerah,,son of Iddo (1CH 6:21),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",4,1318
-Jeatherai_1,Jeatherai,,son of Zerah (1CH 6:21),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",1,1319
-Elkanah_3,Elkanah,,son of Assir (1CH 6:23),male,Levi,"Kohathites (from Kohath, son of Levi)",3,1320
-Ebiasaph_1,Ebiasaph,,son of Elkanah_3 (1CH 6:23),male,Levi,"Kohathites (from Kohath, son of Levi)",1,1321
-Assir_2,Assir,,son of Ebiasaph (1CH 6:23),male,Levi,"Kohathites (from Kohath, son of Levi)",2,1322
-Tahath_1,Tahath,,son of Assir (1CH 6:24),male,Levi,"Kohathites (from Kohath, son of Levi)",1,1323
-Uriel_1,Uriel,,"son of Tahath (1CH 6:24), chief of the sons of Kohath (1CH 15:5)",male,Levi,"Kohathites (from Kohath, son of Levi)",1,1324
-Uzziah_2,Uzziah,,son of Uriel (1CH 6:24),male,Levi,"Kohathites (from Kohath, son of Levi)",2,1325
-Shaul_3,Shaul,,son of Uzziah (1CH 6:24),male,Levi,"Kohathites (from Kohath, son of Levi)",3,1326
-Amasai_1,Amasai,,"son of Elkanah_4 (1CH 6:25, 1CH 6:35)",male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",1,1327
-Ahimoth_1,Ahimoth,,"son of Elkanah_4 (1CH 6:25, 1CH 6:35)",male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",1,1328
-Zophai_1,Zophai,,"son of Elkanah_1 (1CH 6:26) [Elkanah, son of Korah]",male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",1,1329
-Nahath_2,Nahath,,son of Ziphai (1CH 6:26),male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",2,1330
-Eliab_4,Eliab,,son of Nahath (1CH 6:27),male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",4,1331
-Jeroham_2,Jeroham,,son of Eliab (1CH 6:27),male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",2,1332
-Elkanah_4,Elkanah,,son of Jeroham (1CH 6:27),male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",4,1333
-Libni_2,Libni,,son of Mahli (1CH6:29),male,Levi,"Mahlites (from Merari, son of Levi)",2,1334
-Shimei_7,Shimei,,son of Libni (1CH 6:29),male,Levi,"Mahlites (from Merari, son of Levi)",7,1335
-Uzzah_2,Uzzah,,son of Shimei (1CH 6:29),male,Levi,"Mahlites (from Merari, son of Levi)",2,1336
-Shimea_1,Shimea,,son of Uzzah (1CH 6:30),male,Levi,"Mahlites (from Merari, son of Levi)",1,1337
-Haggiah_1,Haggiah,,son of Shimea (1CH 6:30),male,Levi,"Mahlites (from Merari, son of Levi)",1,1338
-Asaiah_3,Asaiah,,"son of Haggiah (1CH 6:30), chief of the sons of Merari (1CH 15:6)",male,Levi,"Mahlites (from Merari, son of Levi)",3,1339
-Heman_3,Heman,,"the singer, son of Joel_1, decendant of Kohath (1CH 6:33), father of fourteen sons and three daughter (1CH 25:5)",male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",3,1340
-Elkanah_5,Elkanah,,son of Mahath (1CH 6:35),male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",5,1341
-Mahath_1,Mahath,,son of Amasai (1CH 6:35),male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",1,1342
-Elkanah_6,Elkanah,,son of Joel (1CH 6:36),male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",6,1343
-Joel_5,Joel,,son of Azariah (1CH 6:36),male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",5,1344
-Azariah_8,Azariah,,son of Zephaniah (1CH 6:36),male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",8,1345
-Zephaniah_1,Zephaniah,,son of Tahath (1CH 6:37),male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",1,1346
-Tahath_2,Tahath,,son of Assir (1CH 6:37),male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",2,1347
-Assir_3,Assir,,son of Ebiasaph [Abiasaph]  (1CH 6:37),male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",3,1348
-Asaph_2,Asaph,,"son of Berechiah (1CH 6:39), chosen first by lot (1CH 25:9)",male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",2,1349
-Berechiah_2,Berechiah,,son of Shimea (1CH 6:39),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",2,1350
-Shimea_2,Shimea,,son of Michael (1CH 6:39),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",2,1351
-Michael_3,Michael,,son of Baaseiah (1CH 6:40),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",3,1352
-Baaseiah_1,Baaseiah,,son of Malchijah (1CH 6:40),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",1,1353
-Malchijah_1,Malchijah,,son of Ethni (1CH 6:40),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",1,1354
-Ethni_1,Ethni,,son of Zerah (1CH 6:41),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",1,1355
-Zerah_5,Zerah,,son of Adaiah (1CH 6:41),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",5,1356
-Adaiah_2,Adaiah,,son of Ethan (1CH 6:41),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",2,1357
-Ethan_3,Ethan,,son of Zimmah (1CH 6:42),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",3,1358
-Zimmah_2,Zimmah,,son of Shimei (1CH 6:42),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",2,1359
-Shimei_8,Shimei,,son of Jahath (1CH 6:42),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",8,1360
-Jahath_3,Jahath,,son of Gershom (1CH 6:43),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",3,1361
-Ethan_4,Ethan,,son of Kishi (1CH 6:44),male,Levi,"Merarites (from Mushi, from Merari, son of Levi)",4,1362
-Kishi_1,Kishi,,son of Abdi (1CH 6:44),male,Levi,"Merarites (from Mushi, from Merari, son of Levi)",1,1363
-Abdi_1,Abdi,,son of Malluch (1CH 6:44),male,Levi,"Merarites (from Mushi, from Merari, son of Levi)",1,1364
-Malluch_1,Malluch,,son of Hashabiah (1CH 6:44),male,Levi,"Merarites (from Mushi, from Merari, son of Levi)",1,1365
-Hashabiah_1,Hashabiah,,son of Amaziah (1CH 6:45),male,Levi,"Merarites (from Mushi, from Merari, son of Levi)",1,1366
-Amaziah_3,Amaziah,,son of Hilkiah (1CH 6:45),male,Levi,"Merarites (from Mushi, from Merari, son of Levi)",3,1367
-Hilkiah_4,Hilkiah,,son of Amzi (1CH 6:45),male,Levi,"Merarites (from Mushi, from Merari, son of Levi)",4,1368
-Amzi_1,Amzi,,son of Bani (1CH 6:46),male,Levi,"Merarites (from Mushi, from Merari, son of Levi)",1,1369
-Bani_2,Bani,,son of Shemer (1CH 6:46),male,Levi,"Merarites (from Mushi, from Merari, son of Levi)",2,1370
-Shemer_2,Shemer,,son of Mahli (1CH 6:46),male,Levi,"Merarites (from Mushi, from Merari, son of Levi)",2,1371
-Mahli_2,Mahli,,son of Mushi (1CH 6:47),male,Levi,"Merarites (from Mushi, from Merari, son of Levi)",2,1372
-Uzzi_2,Uzzi,,son of Tola (1CH 7:2),male,Issachar,,2,1373
-Rephaiah_3,Rephaiah,,son of Tola (1CH 7:2),male,Issachar,,3,1374
-Jeriel_1,Jeriel,,son of Tola (1CH 7:2),male,Issachar,,1,1375
-Jahmai_1,Jahmai,,son of Tola (1CH 7:2),male,Issachar,,1,1376
-Ibsam_1,Ibsam,,son of Tola (1CH 7:2),male,Issachar,,1,1377
-Samuel_3,Samuel,,son of Tola (1CH 7:2),male,Issachar,,3,1378
-Izrahiah_1,Izrahiah,,son of Uzzi (1CH 7:3),male,Issachar,,1,1379
-Michael_4,Michael,,son of Izrahiah (1CH 7:3),male,Issachar,,4,1380
-Obadiah_3,Obadiah,,son of Izrahiah (1CH 7:3),male,Issachar,,3,1381
-Joel_6,Joel,,son of Izrahiah (1CH 7:3),male,Issachar,,6,1382
-Isshiah_1,Isshiah,,son of Izrahiah (1CH 7:3),male,Issachar,,1,1383
-Ezbon_2,Ezbon,,son of Bela (1CH 7:7),male,Benjamin,,2,1384
-Uzzi_3,Uzzi,,son of Bela (1CH 7:7),male,Benjamin,,3,1385
-Uzziel_3,Uzziel,,son of Bela (1CH 7:7),male,Benjamin,,3,1386
-Jerimoth_1,Jerimoth,,son of Bela (1CH 7:7),male,Benjamin,,1,1387
-Iri_1,Iri,,son of Bela (1CH 7:7),male,Benjamin,,1,1388
-Zemirah_1,Zemirah,,son of Becher (1CH 7:8),male,Benjamin,,1,1389
-Joash_6,Joash,,son of Becher (1CH 7:8),male,Benjamin,,6,1390
-Eliezer_3,Eliezer,,son of Becher (1CH 7:8),male,Benjamin,,3,1391
-Elioenai_3,Elioenai,,son of Becher (1CH 7:8),male,Benjamin,,3,1392
-Omri_2,Omri,,son of Becher (1CH 7:8),male,Benjamin,,2,1393
-Jeremoth_1,Jeremoth,,son of Becher (1CH 7:8),male,Benjamin,,1,1394
-Abijah_4,Abijah,,son of Becher (1CH 7:8),male,Benjamin,,4,1395
-Anathoth_1,Anathoth,,son of Becher (1CH 7:8),male,Benjamin,,1,1396
-Alemeth_1,Alemeth,,son of Becher (1CH 7:8),male,Benjamin,,1,1397
-Bilhan_2,Bilhan,,son of Jediael (also called Ashbel) (1CH 7:10),male,Benjamin,,2,1398
-Jeush_2,Jeush,,son of Bilhan (1CH 7:10),male,Benjamin,,2,1399
-Benjamin_2,Benjamin,,son of Bilhan (1CH 7:10),male,Benjamin,,2,1400
-Ehud_2,Ehud,,son of Bilhan (1CH 7:10),male,Benjamin,,2,1401
-Chenaanah_2,Chenaanah,,son of Bilhan (1CH 7:10),male,Benjamin,,2,1402
-Zethan_1,Zethan,,son of Bilhan (1CH 7:10),male,Benjamin,,1,1403
-Tarshish_2,Tarshish,,son of Bilhan (1CH 7:10),male,Benjamin,,2,1404
-Ahishahar_1,Ahishahar,,son of Bilhan (1CH 7:10),male,Benjamin,,1,1405
-Hushim_2,Hushim,,son of Aher (1CH 7:12),male,Benjamin,,2,1406
-Asriel_2,Asriel,,son of Manasseh (1CH 7:14),male,Manasseh,,2,1407
-Maacah_5,Maacah,,wife of Machir and sister of Huppim and Shuppim (1CH 7:15),female,Benjamin,,5,1408
-Zelophehad_2,Zelophehad,,second (wife?) of Machir or second (sister?) 1CH 7:15,female,,,2,1409
-Peresh_1,Peresh,,son of Machir and Maacah (1CH 7:16),male,Manasseh,,1,1410
-Sheresh_1,Sheresh,,son of Machir and Maacah (1CH 7:16),male,Manasseh,,1,1411
-Ulam_1,Ulam,,son of Peresh (1CH 7:16),male,Manasseh,,1,1412
-Rakem_1,Rakem,,son of Peresh (1CH 7:16),male,Manasseh,,1,1413
-Bedan_1,Bedan,,son of Ulam (1CH 7:17),male,Manasseh,,1,1414
-Hammolecheth_1,Hammolecheth,,sister of Gilead and daughter of Machir (1CH 7:18),female,Manasseh,,1,1415
-Ishhod_1,Ishhod,,son of Hammolecheth (1CH 7:18),male,Manasseh,,1,1416
-Abiezer_2,Abiezer,,son of Hammolecheth (1CH 7:18),male,Manasseh,,2,1417
-Mahlah_2,Mahlah,,daughter of Hammolecheth (1CH 7:18),female,Manasseh,,2,1418
-Ahian_1,Ahian,,son of Shemida (1CH 7:19),male,Manasseh,,1,1419
-Shechem_3,Shechem,,son of Shemida (1CH 7:19),male,Manasseh,,3,1420
-Lihki_1,Lihki,,son of Shemida (1CH 7:19),male,Manasseh,,1,1421
-Aniam_1,Aniam,,son of Shemida (1CH 7:19),male,Manasseh,,1,1422
-Bered_1,Bered,,son of Shuthelah (1CH 7:20),male,Ephraim,,1,1423
-Tahath_3,Tahath,,son of Bered (1CH 7:20),male,Ephraim,,3,1424
-Eleadah_1,Eleadah,,son of Tahath (1CH 7:20),male,Ephraim,,1,1425
-Tahath_4,Tahath,,son of Eleadah (1CH 7:20),male,Ephraim,,4,1426
-Zabad_2,Zabad,,son of Tahath (1CH 7:21),male,Ephraim,,2,1427
-Shuthelah_2,Shuthelah,,son of Zabad (1CH 7:21),male,Ephraim,,2,1428
-Ezer_3,Ezer,,"son of Ephraim (1CH 7:21), killed by the men of Gath",male,Ephraim,,3,1429
-Elead_1,Elead,,"son of Ephraim (1CH 7:21), killed by the men of Gath",male,Ephraim,,1,1430
-Beriah_2,Beriah,,son of Ephraim (1CH 7:23),male,Ephraim,,2,1431
-Sheerah_1,Sheerah,,daughter of Beriah (1CH 7:24),female,Ephraim,,1,1432
-Rephah_1,Rephah,,son of Beriah (1CH 7:25),male,Ephraim,,1,1433
-Resheph_1,Resheph,,son of Beriah (1CH 7:25),male,Ephraim,,1,1434
-Telah_1,Telah,,son of Resheph (1CH 7:25),male,Ephraim,,1,1435
-Tahan_2,Tahan,,son of Telah (1CH 7:25),male,Ephraim,,2,1436
-Ladan_1,Ladan,,son of Tahan (1CH 7:26),male,Ephraim,,1,1437
-Birzaith_1,Birzaith,,son of Malchiel (1CH 7:31),male,Asher,,1,1438
-Japhlet_1,Japhlet,,son of Heber (1CH 7:32),male,Asher,,1,1439
-Shomer_2,Shomer,,son of Heber (1CH 7:32),male,Asher,,2,1440
-Hotham_1,Hotham,,son of Heber (1CH 7:32),male,Asher,,1,1441
-Shua_2,Shua,,daughter of Heber (1CH 7:32),female,Asher,,2,1442
-Pasach_1,Pasach,,son of Japhlet (1CH 7:33),male,Asher,,1,1443
-Bimhal_1,Bimhal,,son of Japhlet (1CH 7:33),male,Asher,,1,1444
-Ashvath_1,Ashvath,,son of Japhlet (1CH 7:33),male,Asher,,1,1445
-Ahi_2,Ahi,,son of Shomer (1CH 7:34),male,Asher,,2,1446
-Rohgah_1,Rohgah,,son of Shomer (1CH 7:34),male,Asher,,1,1447
-Jehubbah_1,Jehubbah,,son of Shomer (1CH 7:34),male,Asher,,1,1448
-Aram_3,Aram,,son of Shomer (1CH 7:34),male,Asher,,3,1449
-Zophah_1,Zophah,,son of Hotham (1CH 7:35),male,Asher,,1,1450
-Imna_1,Imna,,son of Hotham (1CH 7:35),male,Asher,,1,1451
-Shelesh_1,Shelesh,,son of Hotham (1CH 7:35),male,Asher,,1,1452
-Amal_1,Amal,,son of Hotham (1CH 7:35),male,Asher,,1,1453
-Suah_1,Suah,,son of Zophah (1CH 7:36),male,Asher,,1,1454
-Harnepher_1,Harnepher,,son of Zophah (1CH 7:36),male,Asher,,1,1455
-Shual_1,Shual,,son of Zophah (1CH 7:36),male,Asher,,1,1456
-Beri_1,Beri,,son of Zophah (1CH 7:36),male,Asher,,1,1457
-Imrah_1,Imrah,,son of Zophah (1CH 7:36),male,Asher,,1,1458
-Bezer_1,Bezer,,son of Zophah (1CH 7:37),male,Asher,,1,1459
-Hodaviah_3,Hodaviah,,son of Zophah (1CH 7:37),male,Asher,,3,1460
-Shamma_1,Shamma,,son of Zophah (1CH 7:37),male,Asher,,1,1461
-Shilshah_1,Shilshah,,son of Zophah (1CH 7:37),male,Asher,,1,1462
-Ithran_2,Ithran,,son of Zophah (1CH 7:37),male,Asher,,2,1463
-Beera_1,Beera,,son of Zophah (1CH 7:37),male,Asher,,1,1464
-Jephunneh_2,Jephunneh,,son of Jether [Ithran] (1CH 7:38),male,Asher,,2,1465
-Pispa_1,Pispa,,son of Jether [Ithran] (1CH 7:38),male,Asher,,1,1466
-Ara_1,Ara,,son of Jether [Ithran] (1CH 7:38),male,Asher,,1,1467
-Arah_1,Arah,,son of Ulla [Jephunneh] (1CH 7:39),male,Asher,,1,1468
-Hanniel_2,Hanniel,,son of Ulla [Jephunneh] (1CH 7:39),male,Asher,,2,1469
-Rizia_1,Rizia,,son of Ulla [Jephunneh] (1CH 7:39),male,Asher,,1,1470
-Rapha_1,Rapha,,son of Benjamin (1CH 8:2),male,Benjamin,,1,1471
-Abihud_1,Abihud,,son of Bela (1CH 8:3),male,Benjamin,,1,1472
-Abishua_2,Abishua,,son of Bela (1CH 8:4),male,Benjamin,,2,1473
-Ahoah_1,Ahoah,,son of Bela (1CH 8:4),male,Benjamin,,1,1474
-Naaman_3,Naaman,,son of Ehud (1CH 8:6),male,Benjamin,,3,1475
-Ahijah_4,Ahijah,,son of Ehud (1CH 8:6),male,Benjamin,,4,1476
-Gera_4,Gera,,"son of Ehud (1CH 8:6), ""carried them into exile""",male,Benjamin,,4,1477
-Uzzah_3,Uzzah,,son of Gera (1CH 8:7),male,Benjamin,,3,1478
-Ahihud_2,Ahihud,,son of Gera (1CH 8:7),male,Benjamin,,2,1479
-Shaharaim_1,Shaharaim,,son of Gera (?) (1CH 8:8),male,Benjamin,,1,1480
-Hushim_3,Hushim,,wife of Shaharaim (1CH 8:8),female,,,3,1481
-Baara_1,Baara,,wife of Shaharaim (1CH 8:8),female,,,1,1482
-Hodesh_1,Hodesh,,wife of Shaharaim (1CH 8:9),female,,,1,1483
-Jobab_4,Jobab,,son of Shaharaim (1CH 8:9),male,Benjamin,,4,1484
-Zibia_1,Zibia,,son of Shaharaim (1CH 8:9),male,Benjamin,,1,1485
-Mesha_3,Mesha,,son of Shaharaim (1CH 8:9),male,Benjamin,,3,1486
-Malcam_1,Malcam,,son of Shaharaim (1CH 8:9),male,Benjamin,,1,1487
-Jeuz_1,Jeuz,,son of Shaharaim (1CH 8:10),male,Benjamin,,1,1488
-Sachia_1,Sachia,,son of Shaharaim (1CH 8:10),male,Benjamin,,1,1489
-Mirmah_1,Mirmah,,son of Shaharaim (1CH 8:10),male,Benjamin,,1,1490
-Abitub_1,Abitub,,son of Shaharaim by Hushim (1CH 8:11),male,Benjamin,,1,1491
-Elpaal_1,Elpaal,,son of Shaharaim by Hushim (1CH 8:11),male,Benjamin,,1,1492
-Eber_3,Eber,,son of Elpaal (1CH 8:12),male,Benjamin,,3,1493
-Misham_1,Misham,,son of Elpaal (1CH 8:12),male,Benjamin,,1,1494
-Shemed_1,Shemed,,son of Elpaal (1CH 8:12),male,Benjamin,,1,1495
-Beriah_3,Beriah,,son of Elpaal (1CH 8:13),male,Benjamin,,3,1496
-Shema_3,Shema,,son of Elpaal (1CH 8:13),male,Benjamin,,3,1497
-Ahio_2,Ahio,,son of Elpaal (1CH 8:14),male,Benjamin,,2,1498
-Shashak_1,Shashak,,son of Elpaal (1CH 8:14),male,Benjamin,,1,1499
-Jeremoth_2,Jeremoth,,son of Elpaal (1CH 8:14),male,Benjamin,,2,1500
-Zebadiah_1,Zebadiah,,son of Beriah (1CH 8:15),male,Benjamin,,1,1501
-Arad_1,Arad,,son of Beriah (1CH 8:15),male,Benjamin,,1,1502
-Eder_1,Eder,,son of Beriah (1CH 8:15),male,Benjamin,,1,1503
-Michael_5,Michael,,son of Beriah (1CH 8:16),male,Benjamin,,5,1504
-Ishpah_1,Ishpah,,son of Beriah (1CH 8:16),male,Benjamin,,1,1505
-Joha_1,Joha,,son of Beriah (1CH 8:16),male,Benjamin,,1,1506
-Zebadiah_2,Zebadiah,,son of Elpaal (1CH 8:17),male,Benjamin,,2,1507
-Meshullam_4,Meshullam,,son of Elpaal (1CH 8:17),male,Benjamin,,4,1508
-Hizki_1,Hizki,,son of Elpaal (1CH 8:17),male,Benjamin,,1,1509
-Heber_4,Heber,,son of Elpaal (1CH 8:17),male,Benjamin,,4,1510
-Ishmerai_1,Ishmerai,,son of Elpaal (1CH 8:18),male,Benjamin,,1,1511
-Izliah_1,Izliah,,son of Elpaal (1CH 8:18),male,Benjamin,,1,1512
-Jobab_5,Jobab,,son of Elpaal (1CH 8:18),male,Benjamin,,5,1513
-Jakim_1,Jakim,,son of Shimei (Shema v13) (1CH 8:19),male,Benjamin,,1,1514
-Zichri_2,Zichri,,son of Shimei (Shema v13) (1CH 8:19),male,Benjamin,,2,1515
-Zabdi_2,Zabdi,,son of Shimei (Shema v13) (1CH 8:19),male,Benjamin,,2,1516
-Elienai_1,Elienai,,son of Shimei (Shema v13) (1CH 8:20),male,Benjamin,,1,1517
-Zillethai_1,Zillethai,,son of Shimei (Shema v13) (1CH 8:20),male,Benjamin,,1,1518
-Eliel_2,Eliel,,son of Shimei (Shema v13) (1CH 8:20),male,Benjamin,,2,1519
-Adaiah_3,Adaiah,,son of Shimei (Shema v13) (1CH 8:21),male,Benjamin,,3,1520
-Beraiah_1,Beraiah,,son of Shimei (Shema v13) (1CH 8:21),male,Benjamin,,1,1521
-Shimrath_1,Shimrath,,son of Shimei (Shema v13) (1CH 8:21),male,Benjamin,,1,1522
-Ishpan_1,Ishpan,,son of Shashak (1CH 8:22),male,Benjamin,,1,1523
-Eber_4,Eber,,son of Shashak (1CH 8:22),male,Benjamin,,4,1524
-Eliel_3,Eliel,,son of Shashak (1CH 8:22),male,Benjamin,,3,1525
-Abdon_2,Abdon,,son of Shashak (1CH 8:23),male,Benjamin,,2,1526
-Zichri_3,Zichri,,son of Shashak (1CH 8:23),male,Benjamin,,3,1527
-Hanan_1,Hanan,,son of Shashak (1CH 8:23),male,Benjamin,,1,1528
-Hananiah_2,Hananiah,,son of Shashak (1CH 8:24),male,Benjamin,,2,1529
-Elam_2,Elam,,son of Shashak (1CH 8:24),male,Benjamin,,2,1530
-Anthothijah_1,Anthothijah,,son of Shashak (1CH 8:24),male,Benjamin,,1,1531
-Iphdeiah_1,Iphdeiah,,son of Shashak (1CH 8:25),male,Benjamin,,1,1532
-Penuel_2,Penuel,,son of Shashak (1CH 8:25),male,Benjamin,,2,1533
-Shamsherai_1,Shamsherai,,son of Jeroham (Jeremoth v 14) (1CH 8:26),male,Benjamin,,1,1534
-Shehariah_1,Shehariah,,son of Jeroham (Jeremoth v 14) (1CH 8:26),male,Benjamin,,1,1535
-Athaliah_2,Athaliah,,son of Jeroham (Jeremoth v 14) (1CH 8:26),male,Benjamin,,2,1536
-Jaareshiah_1,Jaareshiah,,son of Jeroham (Jeremoth v 14) (1CH 8:27),male,Benjamin,,1,1537
-Elijah_2,Elijah,,son of Jeroham (Jeremoth v 14) (1CH 8:27),male,Benjamin,,2,1538
-Zichri_4,Zichri,,son of Jeroham (Jeremoth v 14) (1CH 8:27),male,Benjamin,,4,1539
-Maacah_6,Maacah,,"wife of Jeiel (1CH 9:35) who was the ""father"" of Gibeon (1CH 8:29)",female,Benjamin,,6,1540
-Abdon_3,Abdon,,son of Jeiel and Maacah (1CH 8:30),male,Benjamin,,3,1541
-Zur_3,Zur,,son of Jeiel and Maacah (1CH 8:30),male,Benjamin,,3,1542
-Kish_2,Kish,,son of Jeiel and Maacah (1CH 8:30),male,Benjamin,,2,1543
-Baal_2,Baal,,son of Jeiel and Maacah (1CH 8:30),male,Benjamin,,2,1544
-Nadab_4,Nadab,,son of Jeiel and Maacah (1CH 8:30),male,Benjamin,,4,1545
-Gedor_3,Gedor,,son of Jeiel and Maacah (1CH 8:31),male,Benjamin,,3,1546
-Ahio_3,Ahio,,son of Jeiel and Maacah (1CH 8:31),male,Benjamin,,3,1547
-Zecher_1,Zecher,,son of Jeiel and Maacah (1CH 8:31),male,Benjamin,,1,1548
-Mikloth_1,Mikloth,,son of Jeiel and Maacah (1CH 8:32),male,Benjamin,,1,1549
-Shimeah_1,Shimeah,,son of Mikloth (1CH 8:32),male,Benjamin,,1,1550
-Pithon_1,Pithon,,son of Micah (1CH 8:35),male,Benjamin,,1,1551
-Melech_1,Melech,,son of Micah (1CH 8:35),male,Benjamin,,1,1552
-Tarea_1,Tarea,,son of Micah (1CH 8:35),male,Benjamin,,1,1553
-Ahaz_2,Ahaz,,son of Micah (1CH 8:35),male,Benjamin,,2,1554
-Jehoaddah_1,Jehoaddah,,son of Ahaz (1CH 8:36),male,Benjamin,,1,1555
-Alemeth_2,Alemeth,,son of Jehoadda (1CH 8:36),male,Benjamin,,2,1556
-Azmaveth_2,Azmaveth,,son of Jehoadda (1CH 8:36),male,Benjamin,,2,1557
-Zimri_3,Zimri,,son of Jehoadda (1CH 8:36),male,Benjamin,,3,1558
-Moza_2,Moza,,son of Zimri (1CH 8:36),male,Benjamin,,2,1559
-Binea_1,Binea,,son of Moza (1CH 8:37),male,Benjamin,,1,1560
-Raphah_2,Raphah,,son of Binea (1CH 8:37),male,Benjamin,,2,1561
-Eleasah_2,Eleasah,,son of Raphah (1CH 8:37),male,Benjamin,,2,1562
-Azel_1,Azel,,son of Eleasah (1CH 8:37),male,Benjamin,,1,1563
-Azrikam_2,Azrikam,,son of Azel (1CH 8:38),male,Benjamin,,2,1564
-Bocheru_1,Bocheru,,son of Azel (1CH 8:38),male,Benjamin,,1,1565
-Ishmael_3,Ishmael,,son of Azel (1CH 8:38),male,Benjamin,,3,1566
-Sheariah_1,Sheariah,,son of Azel (1CH 8:38),male,Benjamin,,1,1567
-Obadiah_4,Obadiah,,son of Azel (1CH 8:38),male,Benjamin,,4,1568
-Hanan_2,Hanan,,son of Azel (1CH 8:38),male,Benjamin,,2,1569
-Eshek_1,Eshek,,brother of Azel (1CH 8:39),male,Benjamin,,1,1570
-Ulam_2,Ulam,,son of Eshek (1CH 8:39),male,Benjamin,,2,1571
-Jeush_3,Jeush,,son of Eshek (1CH 8:39),male,Benjamin,,3,1572
-Eliphelet_4,Eliphelet,,son of Eshek (1CH 8:39),male,Benjamin,,4,1573
-Uthai_1,Uthai,,son of Ammihud (1CH 9:4),male,Judah,,1,1574
-Ammihud_5,Ammihud,,son of Omri (1CH 9:4),male,Judah,,5,1575
-Omri_3,Omri,,son of Imri (1CH 9:4),male,Judah,,3,1576
-Imri_1,Imri,,son of Bani (1CH 9:4),male,Judah,,1,1577
-Bani_3,Bani,,descendant of Perez (1CH 9:4),male,Judah,,3,1578
-Asaiah_4,Asaiah,,"Shilonite living in Jerusalem (1CH 9:5), ""the Shilonite"" from NEH 11:5",male,Judah,,4,1579
-Jeuel_1,Jeuel,,descendant of Zerah (1CH 9:6),male,Judah,,1,1580
-Sallu_1,Sallu,,son of Meshullam (1CH 9:7),male,Benjamin,,1,1581
-Meshuallam_1,Meshuallam,,son of Hodaviah (1CH 9:7),male,Benjamin,,1,1582
-Hodaviah_4,Hodaviah,,son of Hassenuah (1CH 9:7),male,Benjamin,,4,1583
-Hassenuah_1,Hassenuah,,descendant of Benjamin (1CH 9:7),male,Benjamin,,1,1584
-Ibneiah_1,Ibneiah,,son of Jeroham (1CH 9:8),male,Benjamin,,1,1585
-Jeroham_3,Jeroham,,father of Ibneiah (1CH 9:8),male,Benjamin,,3,1586
-Elah_5,Elah,,son of Uzzi (1CH 9:8),male,Benjamin,,5,1587
-Uzzi_4,Uzzi,,son of Michri (1CH 9:8),male,Benjamin,,4,1588
-Michri_1,Michri,,father of Uzzi (1CH 9:8),male,Benjamin,,1,1589
-Meshullam_5,Meshullam,,son of Shephatiah (1CH 9:8),male,Benjamin,,5,1590
-Shephatiah_2,Shephatiah,,son of Reuel (1CH 9:8),male,Benjamin,,2,1591
-Reuel_3,Reuel,,son of Ibnijah (1CH 9:8),male,Benjamin,,3,1592
-Ibnijah_1,Ibnijah,,descendant of Benjamin (1CH 9:8),male,Benjamin,,1,1593
-Jedaiah_2,Jedaiah,,"priest (1CH 9:10), second-chosen priest for the twenty-four courses (1CH 24:7)",male,Levi,In the line of Ithamar (1CH 24:6-7),2,1594
-Jehoiarib_1,Jehoiarib,,"priest (1CH 9:10), first-chosen priest for the twenty-four courses (1CH 24:7)",male,Levi,In the line of Eleazar (1CH 24:6-7),1,1595
-Jachin_2,Jachin,,"priest (1CH 9:10), twenty-first-chosen priest for the twenty-four courses (1CH 24:17)",male,Levi,"In the line of Eleazar (1CH 24:6, 17)",2,1596
-Meraioth_2,Meraioth,,son of Ahitub (1CH 9:11),male,Levi,Aaronic priest via Phinehas son of Eliezer,2,1597
-Adaiah_4,Adaiah,,son of Jeroham (1CH 9:12),male,Levi,,4,1598
-Jeroham_4,Jeroham,,son of Pashhur (1CH 9:12),male,Levi,,4,1599
-Pashhur_1,Pashhur,,son of Malchijah (1CH 9:12),male,Levi,,1,1600
-Malchijah_2,Malchijah,,"father of Pashhur (1CH 9:12), fifth-chosen priest for the twenty-four courses (1CH 24:9)",male,Levi,"In the line of Eleazar (1CH 24:6, 9)",2,1601
-Maasai_1,Maasai,,son of Adiel (1CH 9:12),male,Levi,,1,1602
-Adiel_2,Adiel,,son of Jahzerah (1CH 9:12),male,Levi,,2,1603
-Jahzerah_1,Jahzerah,,son of Meshullam (1CH 9:12),male,Levi,,1,1604
-Meshullam_6,Meshullam,,son of Meshillemith (1CH 9:12),male,Levi,,6,1605
-Meshillemith_1,Meshillemith,,son of Immer (1CH 9:12),male,Levi,,1,1606
-Immer_1,Immer,,father of Meshillemith (1CH 9:12),male,Levi,,1,1607
-Shemaiah_5,Shemaiah,,"son of Hasshub (1CH 9:14), chief of the sons of Elizaphan (1CH 15:8)",male,Levi,Merarites (from Merari son of Levi),5,1608
-Hasshub_1,Hasshub,,son of Azrikam (1CH 9:14),male,Levi,Merarites (from Merari son of Levi),1,1609
-Azrikam_3,Azrikam,,son of Hashabiah (1CH 9:14),male,Levi,Merarites (from Merari son of Levi),3,1610
-Bakbakkar_1,Bakbakkar,,1CH 9:15,male,Levi,,1,1611
-Heresh_1,Heresh,,1CH 9:15,male,Levi,,1,1612
-Galal_1,Galal,,1CH 9:15- son of Jeduthun (1CH 9:16),male,Levi,,1,1613
-Mattaniah_2,Mattaniah,,son of Mica (1CH 9:15),male,Levi,,2,1614
-Mica_2,Mica,,son of Zichri (1CH 9:15),male,Levi,,2,1615
-Zichri_5,Zichri,,son of Asaph (1CH 9:15),male,Levi,,5,1616
-Asaph_3,Asaph,,1CH 9:15,male,Levi,,3,1617
-Obadiah_5,Obadiah,,son of Shemaiah (1CH 9:16),male,Levi,,5,1618
-Shemaiah_6,Shemaiah,,son of Galal (1CH 9:16),male,Levi,,6,1619
-Jeduthun_1,Jeduthun,,1CH 9:16,male,Levi,,1,1620
-Berechiah_3,Berechiah,,son of Asa (1CH 9:16),male,Levi,,3,1621
-Asa_2,Asa,,son of Elkanah (1CH 9:16),male,Levi,,2,1622
-Elkanah_7,Elkanah,,lived in the villages of the Netophathites (1CH 9:16),male,Levi,,7,1623
-Shallum_7,Shallum,,"one of the gatekeepers, stationed at the king's gate (1CH 9:17), to the east (1CH 26:14)",male,Levi,,7,1624
-Akkub_2,Akkub,,one of the gatekeepers (1CH 9:17),male,Levi,,2,1625
-Talmon_1,Talmon,,one of the gatekeepers (1CH 9:17),male,Levi,,1,1626
-Ahiman_2,Ahiman,,one of the gatekeepers (1CH 9:17),male,Levi,,2,1627
-Kore_1,Kore,,"father of Shallum, descendant of Korah (1CH 9:19)",male,Levi,,1,1628
-Zechariah_4,Zechariah,,"son of Meshelemiah [Shallum] (1CH 9:21), gatekeeper stationed on the north (1CH 26:14)",male,Levi,,4,1629
-Mattithiah_1,Mattithiah,,firstborn of Shallum (1CH 9:31),male,Levi,,1,1630
-Ahijah_5,Ahijah,,the Pelonite (1CH 11:36),male,,,5,1631
-Ezbai_1,Ezbai,,father of Naarai (1CH 11:37) (Paarai in 2SA 23:35),male,,,1,1632
-Zabad_3,Zabad,,son of Ahlai (1CH 11:41),male,,,3,1633
-Ahlai_2,Ahlai,,father of Zabad (1CH 11:41),male,,,2,1634
-Adina_1,Adina,,son of Shiza (1CH 11:42),male,Reuben,,1,1635
-Shiza_1,Shiza,,the Reubenite (1CH 11:42),male,Reuben,,1,1636
-Hanan_3,Hanan,,son of Maacah and Joshaphat the Mithnite (1CH 11:43),male,,,3,1637
-Maacah_7,Maacah,,mother of Hanan (1CH 11:43),female,,,7,1638
-Joshaphat_1,Joshaphat,,the Mithnite (1CH 11:43),male,,,1,1639
-Uzzia_1,Uzzia,,the Ashterathite (1CH 11:44),male,,,1,1640
-Shama_1,Shama,,son of Hotham the Aroerite (1CH 11:44),male,,,1,1641
-Jeiel_2,Jeiel,,son of Hotham the Aroerite (1CH 11:44),male,,,2,1642
-Hotham_2,Hotham,,the Aroerite (1CH 11:44),male,,,2,1643
-Jediael_1,Jediael,,son of Shimri (1CH 11:45),male,,,1,1644
-Shimri_2,Shimri,,father of Jediael (1CH 11:45),male,,,2,1645
-Joha_2,Joha,,"the Tizite, brother of Jediael (1CH 11:45)",male,,,2,1646
-Eliel_4,Eliel,,the Mahavite (1CH 11:46),male,,,4,1647
-Jeribai_1,Jeribai,,son of Elnaam (1CH 11:46),male,,,1,1648
-Joshaviah_1,Joshaviah,,son of Elnaam (1CH 11:46),male,,,1,1649
-Elnaam_1,Elnaam,,father of Jeribai and Joshaviah (1CH 11:46),male,,,1,1650
-Ithmah_1,Ithmah,,the Moabite (1CH 11:46),male,,,1,1651
-Eliel_5,Eliel,,1CH 11:47,male,,,5,1652
-Obed_3,Obed,,1CH 11:47,male,,,3,1653
-Jaasiel_1,Jaasiel,,the Mezobaite (1CH 11:47),male,,,1,1654
-Ahiezer_2,Ahiezer,,chief of the Benjamites who came to David at Ziklag (1CH 12:3),male,Benjamin,,2,1655
-Joash_7,Joash,,son of Shemaah (1CH 12:3),male,Benjamin,,7,1656
-Shemaah_1,Shemaah,,the Gibeathite (1CH 12:3),male,Benjamin,,1,1657
-Jeziel_1,Jeziel,,son of Azmaveth (1CH 12:3),male,Benjamin,,1,1658
-Pelet_2,Pelet,,son of Azmaveth (1CH 12:3),male,Benjamin,,2,1659
-Beracah_1,Beracah,,the Anathothite (1CH 12:3),male,Benjamin,,1,1660
-Jehu_5,Jehu,,the Anathothite (1CH 12:3),male,Benjamin,,5,1661
-Jeremiah_3,Jeremiah,,1CH 12:4,male,Benjamin,,3,1662
-Jahaziel_1,Jahaziel,,1CH 12:4,male,Benjamin,,1,1663
-Johanan_4,Johanan,,1CH 12:4,male,Benjamin,,4,1664
-Jozabad_1,Jozabad,,the Gederathite (1CH 12:4),male,Benjamin,,1,1665
-Eluzai_1,Eluzai,,1CH 12:5,male,,,1,1666
-Jerimoth_2,Jerimoth,,1CH 12:5,male,,,2,1667
-Bealiah_1,Bealiah,,1CH 12:5,male,,,1,1668
-Shemariah_1,Shemariah,,1CH 12:5,male,,,1,1669
-Shephatiah_3,Shephatiah,,the Haruphite (1CH 12:5),male,,,3,1670
-Elkanah_8,Elkanah,,the Korahite (1CH 12:6),male,Levi,Korahites,8,1671
-Isshiah_2,Isshiah,,the Korahite (1CH 12:6),male,Levi,Korahites,2,1672
-Azarel_1,Azarel,,"the Korahite (1CH 12:6), chosen eleventh by lot (1CH 25:18)",male,Levi,"Korahites, eleventh chosen of the singers (1CH 25:18)",1,1673
-Joezer_1,Joezer,,the Korahite (1CH 12:6),male,Levi,Korahites,1,1674
-Jashobeam_1,Jashobeam,,the Korahite (1CH 12:6),male,Levi,Korahites,1,1675
-Joelah_1,Joelah,,son of Jeroham of Gedor (1CH 12:7),male,,,1,1676
-Zebadiah_3,Zebadiah,,son of Jeroham of Gedor (1CH 12:7),male,,,3,1677
-Jeroham_5,Jeroham,,from Gedor (1CH 12:7),male,,,5,1678
-Ezer_4,Ezer,,first among the Gadites to go to David (1CH 12:9),male,Gad,,4,1679
-Obadiah_6,Obadiah,,second among the Gadites to go to David (1CH 12:9),male,Gad,,6,1680
-Eliab_5,Eliab,,third among the Gadites to go to David (1CH 12:9),male,Gad,,5,1681
-Mishmannah_1,Mishmannah,,fourth among the Gadites to go to David (1CH 12:10),male,Gad,,1,1682
-Jeremiah_4,Jeremiah,,fifth among the Gadites to go to David (1CH 12:10),male,Gad,,4,1683
-Attai_2,Attai,,sixth among the Gadites to go to David (1CH 12:11),male,Gad,,2,1684
-Eliel_6,Eliel,,seventh among the Gadites to go to David (1CH 12:11),male,Gad,,6,1685
-Johanan_5,Johanan,,eighth among the Gadites to go to David (1CH 12:12),male,Gad,,5,1686
-Elzabad_1,Elzabad,,ninth among the Gadites to go to David (1CH 12:12),male,Gad,,1,1687
-Jeremiah_5,Jeremiah,,tenth among the Gadites to go to David (1CH 12:13),male,Gad,,5,1688
-Machbannai_1,Machbannai,,eleventh among the Gadites to go to David (1CH 12:13),male,Gad,,1,1689
-Adnah_1,Adnah,,captain of thousands who defected to David (1CH 12:20),male,Manasseh,,1,1690
-Jozabad_2,Jozabad,,captain of thousands who defected to David (1CH 12:20),male,Manasseh,,2,1691
-Jediael_2,Jediael,,captain of thousands who defected to David (1CH 12:20),male,Manasseh,,2,1692
-Michael_6,Michael,,captain of thousands who defected to David (1CH 12:20),male,Manasseh,,6,1693
-Jozabad_3,Jozabad,,captain of thousands who defected to David (1CH 12:20),male,Manasseh,,3,1694
-Elihu_2,Elihu,,captain of thousands who defected to David (1CH 12:20),male,Manasseh,,2,1695
-Zillethai_2,Zillethai,,captain of thousands who defected to David (1CH 12:20),male,Manasseh,,2,1696
-Joel_7,Joel,,"chief of the sons of Gershom (1CH 15:7), son of Ladan (1CH 23:8)",male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",7,1697
-Shemaiah_7,Shemaiah,,chief of the sons of Elizaphan (1CH 15:8),male,Levi,,7,1698
-Eliel_7,Eliel,,chief of the sons of Hebron (1CH 15:9),male,Levi,,7,1699
-Amminadab_2,Amminadab,,chief of the sons of Uzziel (1CH 15:10),male,Levi,,2,1700
-Zechariah_5,Zechariah,,"second rank Levite, gatekeeper (1CH 15:18), a trumpeter (1CH 15:24)",male,Levi,,5,1701
-Ben_1,Ben,,"second rank Levite, gatekeeper (1CH 15:18)",male,Levi,,1,1702
-Jaaziel_1,Jaaziel,,"second rank Levite, gatekeeper (1CH 15:18)",male,Levi,,1,1703
-Shemiramoth_1,Shemiramoth,,"second rank Levite, gatekeeper (1CH 15:18)",male,Levi,,1,1704
-Jehiel_1,Jehiel,,"second rank Levite, gatekeeper (1CH 15:18), son of Ladan [Libni_1] (1CH 23:8)",male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",1,1705
-Unni_1,Unni,,"second rank Levite, gatekeeper (1CH 15:18)",male,Levi,,1,1706
-Eliab_6,Eliab,,"second rank Levite, gatekeeper (1CH 15:18)",male,Levi,,6,1707
-Benaiah_4,Benaiah,,"second rank Levite, gatekeeper (1CH 15:18), a trumpeter (1CH 15:24)",male,Levi,,4,1708
-Maaseiah_1,Maaseiah,,"second rank Levite, gatekeeper (1CH 15:18)",male,Levi,,1,1709
-Mattithiah_2,Mattithiah,,"second rank Levite, gatekeeper (1CH 15:18)",male,Levi,,2,1710
-Eliphelehu_1,Eliphelehu,,"second rank Levite, gatekeeper (1CH 15:18)",male,Levi,,1,1711
-Mikneiah_1,Mikneiah,,"second rank Levite, gatekeeper (1CH 15:18)",male,Levi,,1,1712
-Obed-edom_2,Obed-edom,,"second rank Levite, gatekeeper (1CH 15:18), the south gate (1CH 26:15)",male,Levi,,2,1713
-Jeiel_3,Jeiel,,"second rank Levite, gatekeeper (1CH 15:18)",male,Levi,,3,1714
-Azaziah_1,Azaziah,,lyre-playing Levite (1CH 1521),male,Levi,,1,1715
-Chenaniah_1,Chenaniah,,"chief of the Levites (1CH 15:22), descendant of Izhar (1CH 26:29)",male,Levi,"Izharites (from Kohath, son of Levi)",1,1716
-Shebaniah_1,Shebaniah,,trumpeter (1CH 15:24),male,Levi,,1,1717
-Joshaphat_2,Joshaphat,,trumpeter (1CH 15:24),male,Levi,,2,1718
-Nethanel_3,Nethanel,,trumpeter (1CH 15:24),male,Levi,,3,1719
-Eliezer_4,Eliezer,,trumpeter (1CH 15:24),male,Levi,,4,1720
-Hosah_1,Hosah,,"one of the gatekeepers (1CH 16:38), to the west (1CH 26:16)",male,Levi,,1,1721
-Lahmi_1,Lahmi,,the brother of Goliath the Gittite (1CH 20:5),male,,,1,1722
-Satan_1,Satan,,1CH 21:1,male,,,1,1723
-Zetham_1,Zetham,,son of Ladan [Libni_1] (1CH 23:8),male,Levi,,1,1724
-Shimei_9,Shimei,,"1CH 23:9- son of Ladan [Libni_1] as he was included in the ""fathers' households of Ladan""",male,Levi,,9,1725
-Shelomoth_1,Shelomoth,,son of Shimei_8 within the family of Ladan (1CH 23:9) ,male,Levi,,1,1726
-Haziel_1,Haziel,,son of Shimei_8 within the family of Ladan (1CH 23:9) ,male,Levi,,1,1727
-Haran_3,Haran,,son of Shimei_8 within the family of Ladan (1CH 23:9) ,male,Levi,,3,1728
-Jahath_4,Jahath,,descendant of Shimei_1 (1CH 23:10),male,Levi,,4,1729
-Zina_1,Zina,,descendant of Shimei_1 (1CH 23:10),male,Levi,,1,1730
-Jeush_4,Jeush,,descendant of Shimei_1 (1CH 23:10),male,Levi,,4,1731
-Beriah_4,Beriah,,descendant of Shimei_1 (1CH 23:10),male,Levi,,4,1732
-Shebuel_1,Shebuel,,"descendant of Gershom (1CH 23:16), officer over the treasures (1CH 26:24)",male,Levi,"from Gershom, son of Moses",1,1733
-Rehabiah_1,Rehabiah,,descendant of Eliezer (1CH 23:17),male,Levi,,1,1734
-Shelomith_2,Shelomith,,descendant of Izhar (1CH 23:18),male,Levi,"Izharites (from Kohath, son of Levi)",2,1735
-Jeriah_1,Jeriah,,"descendant of Hebron (1CH 23:19), chief among the Hebronites from Jazer of Gilead (1CH 26:31)",male,Levi,"Hebronites (from Kohath, son of Levi)",1,1736
-Amariah_3,Amariah,,descendant of Hebron (1CH 23:19),male,Levi,"Hebronites (from Kohath, son of Levi)",3,1737
-Jahaziel_2,Jahaziel,,descendant of Hebron (1CH 23:19),male,Levi,"Hebronites (from Kohath, son of Levi)",2,1738
-Jekameam_1,Jekameam,,descendant of Hebron (1CH 23:19),male,Levi,"Hebronites (from Kohath, son of Levi)",1,1739
-Micah_3,Micah,,descendant of Uzziel (1CH 23:20),male,Levi,,3,1740
-Isshiah_3,Isshiah,,descendant of Uzziel (1CH 23:20),male,Levi,,3,1741
-Eleazar_4,Eleazar,,descendant of Mahli (1CH 23:21),male,Levi,"Mahlites (from Merari, son of Levi)",4,1742
-Kish_3,Kish,,descendant of Mahli (1CH 23:21),male,Levi,"Mahlites (from Merari, son of Levi)",3,1743
-Mahli_3,Mahli,,descendant of Mushi (1CH 23:23),male,Levi,"Mushites (from Mushi, from Merari, son of Levi)",3,1744
-Eder_2,Eder,,descendant of Mushi (1CH 23:23),male,Levi,"Mushites (from Mushi, from Merari, son of Levi)",2,1745
-Jeremoth_3,Jeremoth,,descendant of Mushi (1CH 23:23),male,Levi,"Mushites (from Mushi, from Merari, son of Levi)",3,1746
-Shemaiah_8,Shemaiah,,son of Nethanel the scribe (1CH 24:6),male,Levi,,8,1747
-Nethanel_4,Nethanel,,"the scribe, father of Shemaiah (1CH 24:6)",male,Levi,,4,1748
-Harim_1,Harim,,third-chosen priest for the twenty-four courses (1CH 24:8),male,Levi,"In the line of Eleazar (1CH 24:6, 8)",1,1749
-Seorim_1,Seorim,,fourth-chosen priest for the twenty-four courses (1CH 24:8),male,Levi,"In the line of Ithamar (1CH 24:6, 8)",1,1750
-Mijamin_1,Mijamin,,sixth-chosen priest for the twenty-four courses (1CH 24:9),male,Levi,"In the line of Ithamar (1CH 24:6, 9)",1,1751
-Hakkoz_1,Hakkoz,,seventh-chosen priest for the twenty-four courses (1CH 24:10),male,Levi,"In the line of Eleazar (1CH 24:6, 10)",1,1752
-Abijah_5,Abijah,,eighth-chosen priest for the twenty-four courses (1CH 24:10),male,Levi,"In the line of Ithamar (1CH 24:6, 10).  *NOT Abijah_1, the son of Samuel, who was in the line of Korah",5,1753
-Jeshua_1,Jeshua,,ninth-chosen priest for the twenty-four courses (1CH 24:11),male,Levi,"In the line of Eleazar (1CH 24:6, 11)",1,1754
-Shecaniah_2,Shecaniah,,tenth-chosen priest for the twenty-four courses (1CH 24:11),male,Levi,"In the line of Ithamar (1CH 24:6, 11)",2,1755
-Eliashib_2,Eliashib,,eleventh-chosen priest for the twenty-four courses (1CH 24:12),male,Levi,"In the line of Eleazar (1CH 24:6, 12)",2,1756
-Jakim_2,Jakim,,twelfth-chosen priest for the twenty-four courses (1CH 24:12),male,Levi,"In the line of Ithamar (1CH 24:6, 12)",2,1757
-Huppah_1,Huppah,,thirteenth-chosen priest for the twenty-four courses (1CH 24:13),male,Levi,"In the line of Eleazar (1CH 24:6, 13)",1,1758
-Jeshebeab_1,Jeshebeab,,fourteenth-chosen priest for the twenty-four courses (1CH 24:13),male,Levi,"In the line of Ithamar (1CH 24:6, 13)",1,1759
-Bilgah_1,Bilgah,,fifteenth-chosen priest for the twenty-four courses (1CH 24:14),male,Levi,"In the line of Eleazar (1CH 24:6, 14)",1,1760
-Immer_2,Immer,,sixteenth-chosen priest for the twenty-four courses (1CH 24:14),male,Levi,"In the line of Ithamar (1CH 24:6, 14)",2,1761
-Hezir_1,Hezir,,seventeenth-chosen priest for the twenty-four courses (1CH 24:15),male,Levi,"In the line of Eleazar (1CH 24:6, 15)",1,1762
-Happizzez_1,Happizzez,,eighteenth-chosen priest for the twenty-four courses (1CH 24:15),male,Levi,"In the line of Ithamar (1CH 24:6, 15)",1,1763
-Pethahiah_1,Pethahiah,,nineteenth-chosen priest for the twenty-four courses (1CH 24:16),male,Levi,"In the line of Eleazar (1CH 24:6, 16)",1,1764
-Jehezkel_1,Jehezkel,,twentieth-chosen priest for the twenty-four courses (1CH 24:16),male,Levi,"In the line of Ithamar (1CH 24:6, 16)",1,1765
-Gamul_1,Gamul,,twenty-second-chosen priest for the twenty-four courses (1CH 24:17),male,Levi,"In the line of Ithamar (1CH 24:6, 17)",1,1766
-Delaiah_2,Delaiah,,twenty-third-chosen priest for the twenty-four courses (1CH 24:18),male,Levi,"In the line of Eleazar (1CH 24:6, 18)",2,1767
-Maaziah_1,Maaziah,,twenty-fourth-chosen priest for the twenty-four courses (1CH 24:18),male,Levi,"In the line of Ithamar (1CH 24:6, 18)",1,1768
-Jehdeiah_1,Jehdeiah,,"son of Shebuel (Shubael), son of Gershom, son of Moses (1CH 24:20)",male,Levi,,1,1769
-Isshiah_4,Isshiah,,"son of Rehabiah, son of Eliezer, son of Moses (1CH 24:21)",male,Levi,,4,1770
-Jahath_5,Jahath,,"son of Shelomith (Shelomoth), son of Izhar (1CH 24:22)",male,Levi,"Izharites (from Kohath, son of Levi)",5,1771
-Shamir_1,Shamir,,"son of Micah, son of Uzziel (1CH 24:24)",male,Levi,"Izharites (from Kohath, son of Levi)",1,1772
-Zechariah_6,Zechariah,,son of Isshiah (1CH 24:25),male,Levi,"Izharites (from Kohath, son of Levi)",6,1773
-Jaaziah_1,Jaaziah,,descendant of Merari (1CH 24:27),male,Levi,Merarites (from Merari son of Levi),1,1774
-Beno_1,Beno,,son of Jaaziah (1CH 24:27),male,Levi,Merarites (from Merari son of Levi),1,1775
-Shoham_1,Shoham,,son of Jaaziah (1CH 24:27),male,Levi,Merarites (from Merari son of Levi),1,1776
-Zaccur_3,Zaccur,,son of Jaaziah (1CH 24:27),male,Levi,Merarites (from Merari son of Levi),3,1777
-Ibri_1,Ibri,,son of Jaaziah (1CH 24:27),male,Levi,Merarites (from Merari son of Levi),1,1778
-Eleazar_5,Eleazar,,descendant of Mahli (1CH 24:28),male,Levi,,5,1779
-Jerahmeel_2,Jerahmeel,,"son of Kish, descendant of Mahli (1CH 24:29)",male,Levi,,2,1780
-Zaccur_4,Zaccur,,"son of Asaph_2 (1CH 25:2), chosen third by lot (1CH 25:10)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), third chosen of the singers (1CH 25:10)",4,1781
-Joseph_3,Joseph,,son of Asaph_2 (1CH 25:2),male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), first chosen of the singers (1CH 25:9)",3,1782
-Nethaniah_2,Nethaniah,,"son of Asaph_2 (1CH 25:2), chosen fifth by lot (1CH 25:12)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), fifth chosen of the singers (1CH 25:12)",2,1783
-Asharelah_1,Asharelah,,"son of Asaph_2 (1CH 25:2), chosen seventh by lot (1CH 25:14)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), seventh chosen of the singers (1CH 25:14)",1,1784
-Jeduthun_2,Jeduthun,,father of six sons (1CH 25:3),male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1)",2,1785
-Gedaliah_2,Gedaliah,,"son of Jeduthun (1CH 25:3), chosen second by lot (1CH 25:9)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), second chosen of the singers (1CH 25:9)",2,1786
-Zeri_1,Zeri,,"son of Jeduthun (1CH 25:3), chosen fourth by log (1CH 25:11)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), fourth chosen of the singers (1CH 25:11)",1,1787
-Jeshaiah_2,Jeshaiah,,"son of Jeduthun (1CH 25:3), chosen eighth by lot (1CH 25:15)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), eighth chosen of the singers (1CH 25:15)",2,1788
-Shimei_10,Shimei,,"son of Jeduthun (1CH 25:3), chosen tenth by lot (1CH 25:17)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), tenth chosen of the singers (1CH 25:17)",10,1789
-Hashabiah_2,Hashabiah,,"son of Jeduthun (1CH 25:3), chosen twelfth by lot (1CH 25:19), descendant of Hebron (1CH 26:30)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), twelfth chosen of the singers (1CH 25:19)",2,1790
-Mattithiah_3,Mattithiah,,"son of Jeduthun (1CH 25:3), chosen fourteenth by lot (1CH 25:21)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), fourteenth chosen of the singers (1CH 25:21)",3,1791
-Bukkiah_1,Bukkiah,,"son of Heman_3 (1CH 25:4), chosen sixth by lot (1CH 25:13)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), sixth chosen of the singers (1CH 25:13)",1,1792
-Mattaniah_3,Mattaniah,,"son of Heman_3 (1CH 25:4), chosen ninth by lot (1CH 25:16)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), ninth chosen of the singers (1CH 25:16)",3,1793
-Uzziel_4,Uzziel,,son of Heman_3 (1CH 25:4),male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1)",4,1794
-Shebuel_2,Shebuel,,"son of Heman_3 (1CH 25:4), chosen thirteenth by lot (1CH 25:20)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), thirteenth chosen of the singers (1CH 25:20)",2,1795
-Jerimoth_3,Jerimoth,,"son of Heman_3 (1CH 25:4), chosen fifteenth by lot (1CH 25:22)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), fifteenth chosen of the singers (1CH 25:22)",3,1796
-Hananiah_3,Hananiah,,"son of Heman_3 (1CH 25:4), chosen sixteenth by lot (1CH 25:23)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), sixteenth chosen of the singers (1CH 25:23)",3,1797
-Hanani_2,Hanani,,"son of Heman_3 (1CH 25:4), chosen eighteenth by lot (1CH 25:25)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), eighteenth chosen of the singers (1CH 25:25)",2,1798
-Eliathah_1,Eliathah,,"son of Heman_3 (1CH 25:4), chosen twentieth by lot (1CH 25:27)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), twentieth chosen of the singers (1CH 25:27)",1,1799
-Giddalti_1,Giddalti,,"son of Heman_3 (1CH 25:4), chosen twenty-second by lot (1CH 25:29)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), twenty-second chosen of the singers (1CH 25:29)",1,1800
-Romamti-ezer_1,Romamti-ezer,,"son of Heman_3 (1CH 25:4), chosen twenty-fourth by lot (1CH 25:31)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), twenty-fourth chosen of the singers (1CH 25:31)",1,1801
-Joshbekashah_1,Joshbekashah,,"son of Heman_3 (1CH 25:4), chosen seventeenth by lot (1CH 25:24)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), seventeenth chosen of the singers (1CH 25:24)",1,1802
-Mallothi_1,Mallothi,,"son of Heman_3 (1CH 25:4), chosen nineteenth by lot (1CH 25:26)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), nineteenth chosen of the singers (1CH 25:26)",1,1803
-Hothir_1,Hothir,,"son of Heman_3 (1CH 25:4), chosen twenty-first by lot (1CH 25:28)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), twenty-first chosen of the singers (1CH 25:28)",1,1804
-Mahazioth_1,Mahazioth,,"son of Heman_3 (1CH 25:4), chosen twenty-third by lot (1CH 25:30)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), twenty-third chosen of the singers (1CH 25:30)",1,1805
-Jediael_3,Jediael,,second-born son of Meshelemiah [Shallum_7] (1CH 26:2),male,Levi,,3,1806
-Zebadiah_4,Zebadiah,,third-born son of Meshelemiah [Shallum_7] (1CH 26:2),male,Levi,,4,1807
-Jathniel_1,Jathniel,,fourth-born son of Meshelemiah [Shallum_7] (1CH 26:2),male,Levi,,1,1808
-Elam_3,Elam,,fifth-born son of Meshelemiah [Shallum_7] (1CH 26:3),male,Levi,,3,1809
-Johanan_6,Johanan,,sixth-born son of Meshelemiah [Shallum_7] (1CH 26:3),male,Levi,,6,1810
-Eliehoenai_1,Eliehoenai,,seventh-born son of Meshelemiah [Shallum_7] (1CH 26:3),male,Levi,,1,1811
-Shemaiah_9,Shemaiah,,firstborn son of Obed-edom (1CH 26:4),male,Levi,,9,1812
-Jehozabad_2,Jehozabad,,second-born son of Obed-edom (1CH 26:4),male,Levi,,2,1813
-Joah_3,Joah,,third-born son of Obed-edom (1CH 26:4),male,Levi,,3,1814
-Sacar_1,Sacar,,fourth-born son of Obed-edom (1CH 26:4),male,Levi,,1,1815
-Nethanel_5,Nethanel,,fifth-born son of Obed-edom (1CH 26:4),male,Levi,,5,1816
-Ammiel_3,Ammiel,,sixth-born son of Obed-edom (1CH 26:4),male,Levi,,3,1817
-Issachar_2,Issachar,,seventh-born son of Obed-edom (1CH 26:4),male,Levi,,2,1818
-Peullethai_1,Peullethai,,eighth-born son of Obed-edom (1CH 26:4),male,Levi,,1,1819
-Othni_1,Othni,,son of Shemaiah [Shemaiah_9] (1CH 26:7),male,Levi,,1,1820
-Rephael_1,Rephael,,son of Shemaiah [Shemaiah_9] (1CH 26:7),male,Levi,,1,1821
-Obed_4,Obed,,son of Shemaiah [Shemaiah_9] (1CH 26:7),male,Levi,,4,1822
-Elzabad_2,Elzabad,,son of Shemaiah [Shemaiah_9] (1CH 26:7),male,Levi,,2,1823
-Elihu_3,Elihu,,"son of Shemaiah [Shemaiah_9], a valiant man (1CH 26:7)",male,Levi,,3,1824
-Semachiah_1,Semachiah,,"son of Shemaiah [Shemaiah_9], a valiant man (1CH 26:7)",male,Levi,,1,1825
-Shimri_3,Shimri,,son of Hosah- made firstborn (1CH 26:10),male,Levi,,3,1826
-Hilkiah_5,Hilkiah,,second-born son of Hosah (1CH 26:11),male,Levi,,5,1827
-Tebaliah_1,Tebaliah,,third-born son of Hosah (1CH 26:11),male,Levi,,1,1828
-Zechariah_7,Zechariah,,fourth-born son of Hosah (1CH 26:11),male,Levi,,7,1829
-Shuppim_1,Shuppim,,gatekeeper to the west (1CH 26:16),male,Levi,,1,1830
-Joram_2,Joram,,son of Jeshaiah [Isshiah_4] (1CH 26:25),male,Levi,,2,1831
-Zichri_6,Zichri,,son of Joram (1CH 26:25),male,Levi,,6,1832
-Shelomoth_2,Shelomoth,,son of Zichri (1CH 26:25)- had charge of treasures and gifts from David and others (1CH 26:26),male,Levi,,2,1833
-Jashobeam_2,Jashobeam,,had charge of the first division for the first month (1CH 27:2),male,Judah,,2,1834
-Zabdiel_1,Zabdiel,,"father of Jashobeam (1CH 27:2), descendant of Perez (1CH 27:3)",male,Judah,,1,1835
-Dodai_1,Dodai,,"the Ahohite, had charge of the second division for the second month (1CH 27:4)",male,,,1,1836
-Mikloth_2,Mikloth,,chief officer of Dodai's second division (1CH 27:4),male,,,2,1837
-Ammizabad_1,Ammizabad,,"son of Benaiah, over the third division (1CH 27:6)",male,,,1,1838
-Zebadiah_5,Zebadiah,,"son of Asahel, over the fourth division (1CH 27:7)",male,,,5,1839
-Shamhuth_1,Shamhuth,,"the Izrahite, charge over the fifth division (1CH 27:8)",male,,,1,1840
-Heldai_1,Heldai,,"the Netophathite of Othniel, over the twelfth division (1CH 27:15)",male,Judah,,1,1841
-Eliezer_5,Eliezer,,"chief officer for the Reubenites, son of Zichri (1CH 27:16)",male,Reuben,,5,1842
-Zichri_7,Zichri,,father of Eliezer (1CH 27:16),male,Reuben,,7,1843
-Shephatiah_4,Shephatiah,,"chief officer for the Simeonites, son of Maacah (1CH 27:16)",male,Simeon,,4,1844
-Maacah_8,Maacah,,father of Shephatiah (1CH 27:16),male,Simeon,,8,1845
-Hashabiah_3,Hashabiah,,"chief officer for the Levites, son of Kemuel (1CH 27:17)",male,Levi,,3,1846
-Kemuel_3,Kemuel,,father of Hashabiah (1CH 27:17),male,Levi,,3,1847
-Elihu_4,Elihu,,"chief officer for the Judahites, brother of David (1CH 27:18)",male,Judah,,4,1848
-Omri_4,Omri,,"chief officer for the Issacharites, son of Michael_4 (1CH 27:18)",male,Issachar,,4,1849
-Ishmaiah_1,Ishmaiah,,"chief officer for the Zebulunites, son of Obadiah (1CH 27:19)",male,Zebulun,,1,1850
-Obadiah_7,Obadiah,,father of Ishmaiah (1CH 27:19),male,Zebulun,,7,1851
-Jeremoth_4,Jeremoth,,"chief officer for the Naphtalites, son of Azriel (1CH 27:19)",male,Naphtali,,4,1852
-Azriel_2,Azriel,,father of Jeremoth (1CH 27:19),male,Naphtali,,2,1853
-Hoshea_2,Hoshea,,"chief officer for the Ephraimites, son of Azaziah (1CH 27:20)",male,Ephraim,,2,1854
-Azaziah_2,Azaziah,,father of Hoshea (1CH 27:20),male,Ephraim,,2,1855
-Joel_8,Joel,,"chief officer for the Manassehites, son of Pedaiah (1CH 27:20)",male,Manasseh,,8,1856
-Pedaiah_3,Pedaiah,,father of Joel (1CH 27:20),male,Manasseh,,3,1857
-Iddo_3,Iddo,,"chief officer for the Manassehites in Gilead, son of Zechariah (1CH 27:21)",male,Manasseh,,3,1858
-Zechariah_8,Zechariah,,father of Iddo (1CH 27:21),male,Manasseh,,8,1859
-Jaasiel_2,Jaasiel,,"chief officer for the Benjaminites, son of Abner (1CH 27:21)",male,Benjamin,,2,1860
-Azarel_2,Azarel,,"chief officer for the Danites, son of Jeroham (1CH 27:22)",male,Dan,,2,1861
-Jeroham_6,Jeroham,,father of Azarel (1CH 27:22),male,Dan,,6,1862
-Azmaveth_3,Azmaveth,,"in charge of the king's storehouses, son of Adiel (1CH 27:25)",male,Levi,Levi assuming Adiel_2 is his father,3,1863
-Jonathan_7,Jonathan,,"in charge of the other storehouses, son of Uzziah (1CH 27:25)",male,Levi,Levi assuming Uzziah_2 is his father,7,1864
-Ezri_1,Ezri,,"in charge of David's agricultural workers, son of Chelub (1CH 27:26)",male,Judah,Judah assuming Chelub_1 is his father,1,1865
-Shimei_11,Shimei,,the Ramathite in charge of David's vineyards (1CH 27:26),male,,,11,1866
-Zabdi_3,Zabdi,,the Shiphmite in charge of David's vineyard produce (1CH 27:27),male,,,3,1867
-Baal-hanan_2,Baal-hanan,,the Gederite in charge of David's olive & sycamore trees (1CH 27:28),male,,,2,1868
-Joash_8,Joash,,in charge of the David's stores of oil (1CH 27:28),male,,,8,1869
-Shitrai_1,Shitrai,,the Sharonite in charge of David's cattle in Sharon (1CH 27:29),male,,,1,1870
-Shaphat_5,Shaphat,,"in charge of David's cattle in the valleys, son of Adlai (1CH 27:29)",male,,,5,1871
-Adlai_1,Adlai,,father of Shaphat (1CH 27:29),male,,,1,1872
-Obil_1,Obil,,Ishmaelite in charge of David's camels (1CH 27:30),male,Ishmael,,1,1873
-Jehdeiah_2,Jehdeiah,,the Meronothite in charge of David's donkeys (1CH 27:30),male,,,2,1874
-Jaziz_1,Jaziz,,the Hagrite in charge of David's flocks (1CH 27:31),male,,,1,1875
-Jehiel_2,Jehiel,,"son of Hachmoni, tutored David's sons (1CH 27:32)",male,,,2,1876
-Hachmoni_1,Hachmoni,,"father of Jehiel, the tutor of David's sons (1CH 27:32)",male,,,1,1877
-Huram-abi_1,Huram-abi,,"skilled craftsman, son of a Danite woman and Tyrian father (2CH 2:13)",male,,,1,1878
-Iddo_4,Iddo,,the seer who had visions concerning Jeroboam (2CH 9:29),male,,,4,1879
-Hadoram_2,Hadoram,,sent by Rehoboam to the people but was stoned to death (2CH 10:18),male,,,2,1880
-Mahalath_2,Mahalath,,daughter of Jerimoth and Abihail and wife of Rehoboam (2CH 11:18),male,,,2,1881
-Jerimoth_4,Jerimoth,,the son of David (2CH 11:18),male,,,4,1882
-Abihail_4,Abihail,,the daughter of Eliab_3 (2CH 11:18),female,,,4,1883
-Jeush_5,Jeush,,son of Rehoboam and Mahalath (2CH 11:18),male,Judah,,5,1884
-Shemariah_2,Shemariah,,son of Rehoboam and Mahalath (2CH 11:18),male,Judah,,2,1885
-Zaham_1,Zaham,,son of Rehoboam and Mahalath (2CH 11:18),male,Judah,,1,1886
-Attai_3,Attai,,son of Rehoboam and Maacah (2CH 11:20),male,Judah,,3,1887
-Ziza_2,Ziza,,son of Rehoboam and Maacah (2CH 11:20),male,Judah,,2,1888
-Shelomith_3,Shelomith,,son of Rehoboam and Maacah (2CH 11:20),male,Judah,,3,1889
-Uriel_2,Uriel,,father of Maacah [Micaiah] (2CH 13:2),male,,,2,1890
-Zerah_6,Zerah,,the Ethiopian (2CH 14:9),male,,,6,1891
-Azariah_9,Azariah,,"the prophet, son of Oded (2CH 15:1)",male,,,9,1892
-Oded_1,Oded,,father of Azariah (2CH 15:1),male,,,1,1893
-Ben-hail_1,Ben-hail,,"official of Jehoshaphat, sent to teach (2CH 17:7)",male,,,1,1894
-Obadiah_8,Obadiah,,"official of Jehoshaphat, sent to teach (2CH 17:7)",male,,,8,1895
-Zechariah_9,Zechariah,,"official of Jehoshaphat, sent to teach (2CH 17:7)",male,,,9,1896
-Nethanel_6,Nethanel,,"official of Jehoshaphat, sent to teach (2CH 17:7)",male,,,6,1897
-Micaiah_3,Micaiah,,"official of Jehoshaphat, sent to teach (2CH 17:7)",male,,,3,1898
-Shemaiah_10,Shemaiah,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,10,1899
-Nethaniah_3,Nethaniah,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,3,1900
-Zebadiah_6,Zebadiah,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,6,1901
-Asahel_2,Asahel,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,2,1902
-Shemiramoth_2,Shemiramoth,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,2,1903
-Jehonathan_1,Jehonathan,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,1,1904
-Adonijah_2,Adonijah,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,2,1905
-Tobijah_1,Tobijah,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,1,1906
-Tobadonijah_1,Tobadonijah,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,1,1907
-Elishama_5,Elishama,,priest sent by Jehoshaphat (2CH 17:8),male,Levi,,5,1908
-Jehoram_3,Jehoram,,priest sent by Jehoshaphat (2CH 17:8),male,Levi,,3,1909
-Adnah_2,Adnah,,"commander of 300,000 under Jehoshaphat (2CH 17:14)",male,,,2,1910
-Johanan_7,Johanan,,"commander of 280,000 under Jehoshaphat (2CH 17:15)",male,,,7,1911
-Amasiah_1,Amasiah,,"son of Zichri, commander of 200,000 under Jehoshaphat (2CH 17:16)",male,,,1,1912
-Zichri_8,Zichri,,father of Amasiah (2CH 17:16),male,,,8,1913
-Eliada_3,Eliada,,"commander of 200,000 under Jehoshaphat (2CH 17:17)",male,Benjamin,,3,1914
-Jehozabad_3,Jehozabad,,"commander of 180,000 under Jehoshaphat (2CH 17:18)",male,,,3,1915
-Zebadiah_7,Zebadiah,,"son of Ishmael, in charge of all that pertains to the king (2CH 19:11)",male,,,7,1916
-Ishmael_4,Ishmael,,father of Zebadiah (2CH 19:11),male,,,4,1917
-Jahaziel_3,Jahaziel,,the Spirit of the Lord came upon him during Jehoshaphat's reign (2CH 20:14),male,Levi,,3,1918
-Zechariah_10,Zechariah,,father of Jahaziel and son of Benaiah (2CH 20:14),male,Levi,,10,1919
-Benaiah_5,Benaiah,,son of Jeiel (2CH 20:14),male,Levi,,5,1920
-Jeiel_4,Jeiel,,son of Mattaniah (2CH 20:14),male,Levi,,4,1921
-Eliezer_6,Eliezer,,"prophet, son of Dodavahu (2CH 20:37)",male,,,6,1922
-Dodavahu_1,Dodavahu,,"of Mareshah, father of Eliezer the prophet (2CH 20:37)",male,,,1,1923
-Azariah_10,Azariah,,son of Jehoshaphat (2CH 21:2),male,Judah,,10,1924
-Jehiel_3,Jehiel,,son of Jehoshaphat (2CH 21:2),male,Judah,,3,1925
-Zechariah_11,Zechariah,,son of Jehoshaphat (2CH 21:2),male,Judah,,11,1926
-Azaryahu_1,Azaryahu,,son of Jehoshaphat (2CH 21:2),male,Judah,,1,1927
-Michael_7,Michael,,son of Jehoshaphat (2CH 21:2),male,Judah,,7,1928
-Sephatiah_1,Sephatiah,,son of Jehoshaphat (2CH 21:2),male,Judah,,1,1929
-_0,,,,,,,0,1930
-_0,,,,,,,0,1931
-_0,,,,,,,0,1932
-_0,,,,,,,0,1933
-_0,,,,,,,0,1934
-_0,,,,,,,0,1935
-_0,,,,,,,0,1936
-_0,,,,,,,0,1937
-_0,,,,,,,0,1938
-_0,,,,,,,0,1939
-_0,,,,,,,0,1940
-_0,,,,,,,0,1941
-_0,,,,,,,0,1942
-_0,,,,,,,0,1943
-_0,,,,,,,0,1944
-_0,,,,,,,0,1945
-_0,,,,,,,0,1946
-_0,,,,,,,0,1947
+Menachem_1,Menachem,,King of Israel (2KI 15:14),male,,,1,913
+Gadi_1,Gadi,,father of Menachem (2KI 15:14),male,,,1,914
+Pul_1,Pul,,King of Assyria (2KI 15:19),male,,,1,915
+Pekahiah_1,Pekahiah,,son of Menachem and King of Israel (2KI 15:22),male,,,1,916
+Pekah_1,Pekah,,son of Remaliah who killed King Pekahiah and became King of Israel in his place (2KI 15:25),male,,,1,917
+Remaliah_1,Remaliah,,father of Pekah (2KI 15:25),male,,,1,918
+Argob_1,Argob,,conspired with Pekah against Pekahiah (2KI 15:25),male,,,1,919
+Arieh_1,Arieh,,conspired with Pekah against Pekahiah (2KI 15:25),male,,,1,920
+Tiglath-pileser_1,Tiglath-pileser,,King of Assyria (2KI 15:29),male,,,1,921
+Hoshea_1,Hoshea,,son of Elah who killed King Pekah and became King of Israel in his place (2KI 15:30),male,,,1,922
+Elah_3,Elah,,"father of Hoshea, King of Israel (2KI 15:30)",male,,,3,923
+Jotham_3,Jotham,,"King of Judah, son of King Uzziah [Azariah] (2KI 15:30)",male,Judah,,3,924
+Jerusha_1,Jerusha,,"mother of Jotham, King of Israel (2KI 15:33)",female,,,1,925
+Zadok_2,Zadok,,father of Jerusha (2KI 15:33),male,,,2,926
+Rezin_1,Rezin,,King of Aram (2KI 15:37),male,,,1,927
+Ahaz_1,Ahaz,,"King of Judah, son of Jotham (2KI 15:38)",male,Judah,he did not do right in the sight of the LORD as David his father had done (2CH 28:1),1,928
+Urijah_1,Urijah,,priest who built an altar in the pattern seen in Damascus (2KI 16:10),male,,,1,929
+Hezekiah_1,Hezekiah,,"King of Judah, son of Ahaz (2KI 16:20) who trusted in the LORD, the God of israel (2KI 18:5)",male,,,1,930
+Shalmaneser_1,Shalmaneser,,King of Assyria (2KI 17:3),male,,,1,931
+So_1,So,,King of Egypt (2KI 17:4),male,,,1,932
+Abi_1,Abi,,mother of Hezekiah (2KI 18:2),female,,,1,933
+Zechariah_2,Zechariah,,"father of Abi, mother of Hezekiah (2KI 18:2)",male,,,2,934
+Sennacherib_1,Sennacherib,,King of Assyria (2KI 18:13),male,,,1,935
+Tartan_1,Tartan,,messenger from Sennacherib to Hezekiah (2KI 18:17),male,,,1,936
+Rab-saris_1,Rab-saris,,messenger from Sennacherib to Hezekiah (2KI 18:17),male,,,1,937
+Rabshakeh_1,Rabshakeh,,messenger from Sennacherib to Hezekiah (2KI 18:17),male,,,1,938
+Eliakim_1,Eliakim,,over the household of Hezekiah (2KI 18:18),male,,,1,939
+Hilkiah_1,Hilkiah,,father of Eliakim (2KI 18:18),male,,,1,940
+Shebnah_1,Shebnah,,Hezekiah's scribe (2KI 18:18),male,,,1,941
+Joah_1,Joah,,Hezekiah's recorder (2KI 18:18),male,,,1,942
+Asaph_1,Asaph,,father of Joah (2KI 18:18),male,,,1,943
+Isaiah_1,Isaiah,,the prophet (2KI 19:2),male,,,1,944
+Amoz_1,Amoz,,father of Isaiah (2KI 19:2),male,,,1,945
+Tirhakah_1,Tirhakah,,King of Cush (2KI 19:9),male,,,1,946
+Adrammelech_1,Adrammelech,,killed King Sennacherib of Assyria (2KI 19:37),male,,,1,947
+Sharezer_1,Sharezer,,killed King Sennacherib of Assyria (2KI 19:37),male,,,1,948
+Esarhaddon_1,Esarhaddon,,King of Assyria and son of Sennacherib (2KI 19:37),male,,,1,949
+Berodach-baladan_1,Berodach-baladan,,King of Babylon (2KI 20:12),male,,,1,950
+Baladan_1,Baladan,,father of Berodach-baladan (2KI 20:12),male,,,1,951
+Manasseh_3,Manasseh,,King of Judah and son of Hezekiah (2KI 20:21) who did evil in the sight of the LORD (2KI 21:2),male,,,3,952
+Hephzibah_1,Hephzibah,,mother of King Manasseh (2KI 21:1),female,,,1,953
+Uzza_1,Uzza,,owner of the garden where Manasseh was buried,male,,,1,954
+Amon_2,Amon,,King of Judah and son of Manasseh (2KI 21:18) who did evil in the sight of the Lord (2KI 21:20),male,,,2,955
+Meshullemeth_1,Meshullemeth,,mother of Amon (2KI 21:19),female,,,1,956
+Haruz_1,Haruz,,"of Jothbah, father of Meshullemeth (2KI 21:19)",male,,,1,957
+Josiah_2,Josiah,,"King of Judah and son of Amon (2KI 21:24), who did right in the sight of the LORD (2KI 22:2)",male,,,2,958
+Jedidah_1,Jedidah,,mother of Josiah (2KI 22:1),female,,,1,959
+Adaiah_1,Adaiah,,"of Bozkath, father of Jedidah",male,,,1,960
+Shaphan_1,Shaphan,,scribe of King Josiah (2KI 22:3),male,,,1,961
+Azaliah_1,Azaliah,,father of Shaphan (2KI 22:3),male,,,1,962
+Meshullam_1,Meshullam,,father of Azaliah (2KI 22:3),male,,,1,963
+Hilkiah_2,Hilkiah,,the high priest of King Josiah's reign (2KI 22:4),male,,,2,964
+Ahikam_1,Ahikam,,son of Shaphan (2KI 22:12),male,,,1,965
+Achbor_2,Achbor,,son of Micaiah (2KI 22:12),male,,,2,966
+Micaiah_2,Micaiah,,father of Achbor (2KI 22:12),male,,,2,967
+Asaiah_1,Asaiah,,King Josiah's servant (2KI 22:12),male,,,1,968
+Huldah_1,Huldah,,"the prophetess, wife of Shallum (2KI 22:14)",female,,,1,969
+Shallum_2,Shallum,,husband of Huldah the prophetess (2KI 22:14),male,,,2,970
+Tikvah_1,Tikvah,,father of Shallum (2KI 22:14),male,,,1,971
+Harhas_1,Harhas,,father of Tikvah (2KI 22:14),male,,,1,972
+Nathan-melech_1,Nathan-melech,,the official over the chamber of the horses and chariots of the sun (2KI 23:11),male,,,1,973
+Pharaoh Neco_1,Pharaoh Neco,,King of Egypt (2KI 23:29),male,,,1,974
+Jehoahaz_2,Jehoahaz,,"King of Judah, son of Josiah (2KI 23:30), he did evil in the sight of the LORD (2KI 23:32)",male,,,2,975
+Hamutal_1,Hamutal,,mother of Jehoahaz (2KI 23:31),female,,,1,976
+Jeremiah_1,Jeremiah,,"of Libnah, father of Hamutal (2KI 23:31)",male,,,1,977
+Eliakim_2,Eliakim,,"King of Judah, son of Josiah (2KI 23:34), he did evil in the sight of the LORD (2KI 23:37)",male,,,2,978
+Zebidah_1,Zebidah,,mother of Eliakim [Jehoiakim] (2KI 23:36),female,,,1,979
+Pedaiah_1,Pedaiah,,"from Rumah, father of Zebidah (2KI 23:36)",male,,,1,980
+Nebuchadnezzar_1,Nebuchadnezzar,,King of Babylon (2KI 23:37),male,,,1,981
+Jehoiachin_1,Jehoiachin,,"King of Judah, son of Eliakim [Jehoiakim] (2KI 24:6), he did evil in the sight of the LORD (2KI 24:9)",male,,,1,982
+Nehushta_1,Nehushta,,mother of Jehoiachin (2KI 24:8),female,,,1,983
+Elnathan_1,Elnathan,,"from Jerusalem, father of Nehushta (2KI 24:8)",male,,,1,984
+Mattaniah_1,Mattaniah,,"King of Judah, uncle of Jehoiachin (2KI 24:17), he did evil in the sight of the LORD (2KI 24:19)",male,,,1,985
+Nebuzaradan_1,Nebuzaradan,,captain of the guard of the King of Babylon (2KI 25:8),male,,,1,986
+Gedaliah_1,Gedaliah,,"son of Ahikam, appointed King of Judah by Nebuchadnezzar (2KI 25:22)",male,,,1,987
+Ishmael_2,Ishmael,,"son of Nethaniah, captain of Judean forces during the Babylonian captivity (2KI 25:23)",male,,,2,988
+Nethaniah_1,Nethaniah,,"father of Ishmael, captain of Judean forces (2KI 25:23)",male,,,1,989
+Johanan_1,Johanan,,"son of Kareah, captain of Judean forces during the Babylonian captivity (2KI 25:23)",male,,,1,990
+Kareah_1,Kareah,,"father of Johanan, captain of Judean forces (2KI 25:23)",male,,,1,991
+Seraiah_2,Seraiah,,"son of Tanhumeth, captain of Judean forces during the Babylonian captivity (2KI 25:23)",male,,,2,992
+Tanhumeth_1,Tanhumeth,,"the Netophathite, father of Seraiah, captain of Judean forces (2KI 25:23)",male,,,1,993
+Jaazaniah_1,Jaazaniah,,"son of the Maacathite, captain of Judean forces during the Babylonian captivity (2KI 25:23)",male,,,1,994
+Elishama_3,Elishama,,father of Nethaniah (2KI 25:25),male,,,3,995
+Evil-merodach_1,Evil-merodach,,King of Babylon (2KI 25:27),male,,,1,996
+Bath-shua_1,Bath-shua,,"the Canaanitess, mother of Judah's first three sons (1CH 2:3)",male,,,1,997
+Ethan_2,Ethan,,son of Zerah (1CH 2:6),male,Judah,,2,998
+Heman_2,Heman,,son of Zerah (1CH 2:6),male,Judah,,2,999
+Calcol_2,Calcol,,son of Zerah (1CH 2:6),male,Judah,,2,1000
+Dara_1,Dara,,son of Zerah (1CH 2:6),male,Judah,,1,1001
+Azariah_4,Azariah,,son of Ethan (1CH 2:8),male,Judah,,4,1002
+Jerahmeel_1,Jerahmeel,,"son of Hezron, son of Perez (1CH 2:9)",male,Judah,,1,1003
+Chelubai_1,Chelubai,,"son of Hezron, son of Perez (1CH 2:9)",male,Judah,,1,1004
+Nethanel_2,Nethanel,,fourth-born son of Jesse (1CH 2:13),male,Judah,,2,1005
+Raddai_1,Raddai,,fifth-born son of Jesse (1CH 2:14),male,Judah,,1,1006
+Ozem_1,Ozem,,sixth-born son of Jesse (1CH 2:15),male,Judah,,1,1007
+Azubah_2,Azubah,,wife of Chelubai [Caleb] (1CH 2:18),female,,,2,1008
+Jerioth_1,Jerioth,,wife (?) of Chelubai [Caleb] (1CH 2:18),female,,,1,1009
+Jesher_1,Jesher,,son of Cheubai [Caleb] (1CH 2:18),male,Judah,,1,1010
+Shobab_2,Shobab,,son of Cheubai [Caleb] (1CH 2:18),male,Judah,,2,1011
+Ardon_1,Ardon,,son of Cheubai [Caleb] (1CH 2:18),male,Judah,,1,1012
+Ephrath_1,Ephrath,,second wife of Chelubai [Caleb] (1CH 2:19),female,,,1,1013
+Segub_2,Segub,,"son of Hezron (1CH 2:21), father of Jair (1CH 2:22)",male,Judah,,2,1014
+Abijah_3,Abijah,,"wife of Hezron (1CH 2:24), daughter of Machir (1CH 2:21)",female,,,3,1015
+Ashhur_1,Ashhur,,son of Hezron (1CH 2:24),male,Judah,,1,1016
+Tekoa_1,Tekoa,,son of Ashhur (1CH 2:24),male,Judah,,1,1017
+Ram_2,Ram,,firstborn son of Jerahmeel (1CH 2:25),male,Judah,,2,1018
+Bunah_1,Bunah,,son of Jerahmeel (1CH 2:25),male,Judah,,1,1019
+Oren_1,Oren,,son of Jerahmeel (1CH 2:25),male,Judah,,1,1020
+Ozem_2,Ozem,,son of Jerahmeel (1CH 2:25),male,Judah,,2,1021
+Ahijah_3,Ahijah,,son of Jerahmeel (1CH 2:25),male,Judah,,3,1022
+Atarah_1,Atarah,,wife of Jerahmeel (1CH 2:26),female,,,1,1023
+Onam_2,Onam,,son of Jerahmeel and Atarah (1CH 2:26),male,Judah,,2,1024
+Maaz_1,Maaz,,"son of Ram, son of Jerahmeel (1CH 2:27)",male,Judah,,1,1025
+Jamin_2,Jamin,,"son of Ram, son of Jerahmeel (1CH 2:27)",male,Judah,,2,1026
+Eker_1,Eker,,"son of Ram, son of Jerahmeel (1CH 2:27)",male,Judah,,1,1027
+Shammai_1,Shammai,,"son of Onam, son of Jerahmeel (1CH 2:28)",male,Judah,,1,1028
+Jada_1,Jada,,"son of Onam, son of Jerahmeel (1CH 2:28)",male,Judah,,1,1029
+Nadab_3,Nadab,,son of Shammai (1CH 2:28),male,Judah,,3,1030
+Abishur_1,Abishur,,son of Shammai (1CH 2:28),male,Judah,,1,1031
+Abihail_2,Abihail,,wife of Abishur (1CH 2:29),female,,,2,1032
+Ahban_1,Ahban,,son of Abishur (1CH 2:29),male,Judah,,1,1033
+Molid_1,Molid,,son of Abishur (1CH 2:29),male,Judah,,1,1034
+Seled_1,Seled,,son of Nadab (1CH 2:30),male,Judah,,1,1035
+Appaim_1,Appaim,,son of Nadab (1CH 2:30),male,Judah,,1,1036
+Ishi_1,Ishi,,son of Appaim (1CH 2:31),male,Judah,,1,1037
+Sheshan_1,Sheshan,,son of Ishi (1CH 2:31),male,Judah,,1,1038
+Ahlai_1,Ahlai,,son of Sheshan (1CH 2:31),male,Judah,,1,1039
+Jether_2,Jether,,son of Jada (1CH 2:32),male,Judah,,2,1040
+Jonathan_6,Jonathan,,son of Jada (1CH 2:32),male,Judah,,6,1041
+Peleth_2,Peleth,,son of Jonathan (1CH 2:33),male,Judah,,2,1042
+Zaza_1,Zaza,,son of Jonathan (1CH 2:33),male,Judah,,1,1043
+Jarha_1,Jarha,,Egyptian servant of Sheshan (1CH 2:34),male,,,1,1044
+Attai_1,Attai,,son of Jarha (1CH 2:35),male,Judah,,1,1045
+Nathan_6,Nathan,,son of Attai (1CH 2:36),male,Judah,,6,1046
+Zabad_1,Zabad,,son of Nathan (1CH 2:36),male,Judah,,1,1047
+Ephlal_1,Ephlal,,son of Zabad (1CH 2:37),male,Judah,,1,1048
+Obed_2,Obed,,son of Ephlal (1CH 2:37),male,Judah,,2,1049
+Jehu_3,Jehu,,son of Obed (1CH 2:38),male,Judah,,3,1050
+Azariah_5,Azariah,,son of Jehu (1CH 2:38),male,Judah,,5,1051
+Helez_2,Helez,,son of Azariah (1CH 2:39),male,Judah,,2,1052
+Eleasah_1,Eleasah,,son of Helez (1CH 2:39),male,Judah,,1,1053
+Sismai_1,Sismai,,son of Eleasah (1CH 2:40),male,Judah,,1,1054
+Shallum_3,Shallum,,son of Sismai (1CH 2:40),male,Judah,,3,1055
+Jekamiah_1,Jekamiah,,son of Shallum (1CH 2:41),male,Judah,,1,1056
+Elishama_4,Elishama,,son of Jekamiah (1CH 2:41),male,Judah,,4,1057
+Mesha_2,Mesha,,son of Cheubai [Caleb] (by Jerioth?) (1CH 2:42),male,Judah,,2,1058
+Ziph_1,Ziph,,son of Mesha (1CH 2:42),male,Judah,,1,1059
+Mareshah_1,Mareshah,,son of Ziph (1CH 2:42),male,Judah,,1,1060
+Hebron_2,Hebron,,son of Mareshah (1CH 2:42),male,Judah,,2,1061
+Korah_4,Korah,,son of Hebron (1CH 2:43),male,Judah,,4,1062
+Tappuah_1,Tappuah,,son of Hebron (1CH 2:43),male,Judah,,1,1063
+Rekem_2,Rekem,,son of Hebron (1CH 2:43),male,Judah,,2,1064
+Shema_1,Shema,,son of Hebron (1CH 2:43),male,Judah,,1,1065
+Raham_1,Raham,,son of Shema (1CH 2:44),male,Judah,,1,1066
+Jorkeam_1,Jorkeam,,son of Raham (1CH 2:44),male,Judah,,1,1067
+Shammai_2,Shammai,,son of Rekem (1CH 2:44),male,Judah,,2,1068
+Maon_1,Maon,,son of Shammai (1CH 2:45),male,Judah,,1,1069
+Bethzur_1,Bethzur,,son of Maon (1CH 2:45),male,Judah,,1,1070
+Ephah_2,Ephah,,Chelubai's [Caleb's] concubine (1CH 2:46),female,,,2,1071
+Haran_2,Haran,,son of Chelubai [Caleb] by Ephah (1CH 2:46),male,Judah,,2,1072
+Moza_1,Moza,,son of Chelubai [Caleb] by Ephah (1CH 2:46),male,Judah,,1,1073
+Gazez_1,Gazez,,son of Chelubai [Caleb] by Ephah (1CH 2:46),male,Judah,,1,1074
+Gazez_2,Gazez,,son of Haran (1CH 2:46),male,Judah,,2,1075
+Jahdai_1,Jahdai,,son of Chelubai [Caleb]? (1CH 2:47),male,Judah,,1,1076
+Regem_1,Regem,,son of Jahdai (1CH 2:47),male,Judah,,1,1077
+Jotham_4,Jotham,,son of Jahdai (1CH 2:47),male,Judah,,4,1078
+Geshan_1,Geshan,,son of Jahdai (1CH 2:47),male,Judah,,1,1079
+Pelet_1,Pelet,,son of Jahdai (1CH 2:47),male,Judah,,1,1080
+Ephah_3,Ephah,,son of Jahdai (1CH 2:47),male,Judah,,3,1081
+Shaaph_1,Shaaph,,son of Jahdai (1CH 2:47),male,Judah,,1,1082
+Maacah_4,Maacah,,Chelubai's [Caleb's] concubine (1CH 2:48),female,,,4,1083
+Sheber_1,Sheber,,son of Chelubai [Caleb] by Maacah (1CH 2:48),male,Judah,,1,1084
+Tirhanah_1,Tirhanah,,son of Chelubai [Caleb] by Maacah (1CH 2:48),male,Judah,,1,1085
+Shaaph_2,Shaaph,,son of Chelubai [Caleb] by Maacah (1CH 2:49),male,Judah,,2,1086
+Madmannah_1,Madmannah,,son of Shaaph (1CH 2:49),male,Judah,,1,1087
+Sheva_1,Sheva,,son of Chelubai [Caleb] by Maacah (1CH 2:49),male,Judah,,1,1088
+Machbena_1,Machbena,,son of Sheva (1CH 2:49),male,Judah,,1,1089
+Gibea_1,Gibea,,son of Sheva (1CH 2:49),male,Judah,,1,1090
+Achsah_2,Achsah,,daughter of Chelubai [Caleb] (1CH 2:49),female,Judah,,2,1091
+Shobal_2,Shobal,,son of Hur who founded Kiriath-jearim (1CH 2:50),male,Judah,,2,1092
+Salma_1,Salma,,son of Hur who founded Bethlehem (1CH 2:51),male,Judah,,1,1093
+Hareph_1,Hareph,,son of Hur who founded Beth-gader (1CH 2:51),male,Judah,,1,1094
+Haroeh_1,Haroeh,,son of Shobal (1CH 2:52),male,Judah,,1,1095
+Eliphelet_3,Eliphelet,,"son of David (1CH 3:6), his other son named Eliphelet, also called Elpelet (1CH 14:5)",male,Judah,,3,1096
+Nogah_1,Nogah,,son of David (1CH 3:6),male,Judah,,1,1097
+Shallum_4,Shallum,,son of Josiah (1CH 3:15),male,Judah,,4,1098
+Zedekiah_2,Zedekiah,,son of Eliakim [Jehoiakim] (1CH 3:16),male,Judah,,2,1099
+Shealtiel_1,Shealtiel,,son of Jehoiachin_1 [Jeconiah] (1CH 3:17),male,Judah,,1,1100
+Malchiram_1,Malchiram,,son of Jehoiachin_1 [Jeconiah] (1CH 3:18),male,Judah,,1,1101
+Pedaiah_2,Pedaiah,,son of Jehoiachin_1 [Jeconiah] (1CH 3:18),male,Judah,,2,1102
+Shenazzar_1,Shenazzar,,son of Jehoiachin_1 [Jeconiah] (1CH 3:18),male,Judah,,1,1103
+Jekamiah_2,Jekamiah,,son of Jehoiachin_1 [Jeconiah] (1CH 3:18),male,Judah,,2,1104
+Hoshama_1,Hoshama,,son of Jehoiachin_1 [Jeconiah] (1CH 3:18),male,Judah,,1,1105
+Nedabiah_1,Nedabiah,,son of Jehoiachin_1 [Jeconiah] (1CH 3:18),male,Judah,,1,1106
+Zerubbabel_1,Zerubbabel,,son of Pedaiah (1CH 3:19),male,Judah,,1,1107
+Shimei_4,Shimei,,son of Pedaiah (1CH 3:19),male,Judah,,4,1108
+Meshullam_2,Meshullam,,son of Zerubbabel (1CH 3:19),male,Judah,,2,1109
+Hananiah_1,Hananiah,,son of Zerubbabel (1CH 3:19),male,Judah,,1,1110
+Shelomith_1,Shelomith,,daughter of Zerubbabel (1CH 3:19),female,Judah,,1,1111
+Hashubah_1,Hashubah,,son of Meshullam (1CH 3:20),male,Judah,,1,1112
+Ohel_1,Ohel,,son of Meshullam (1CH 3:20),male,Judah,,1,1113
+Berechiah_1,Berechiah,,son of Meshullam (1CH 3:20),male,Judah,,1,1114
+Hasadiah_1,Hasadiah,,son of Meshullam (1CH 3:20),male,Judah,,1,1115
+Jushab-hesed_1,Jushab-hesed,,son of Meshullam (1CH 3:20),male,Judah,,1,1116
+Pelatiah_1,Pelatiah,,son of Hananiah (1CH 3:21),male,Judah,,1,1117
+Jeshaiah_1,Jeshaiah,,son of Hananiah (1CH 3:21),male,Judah,,1,1118
+Rephaiah_1,Rephaiah,,son of Hananiah (1CH 3:21),male,Judah,,1,1119
+Arnan_1,Arnan,,son of Hananiah (1CH 3:21),male,Judah,,1,1120
+Obadiah_2,Obadiah,,son of Hananiah (1CH 3:21),male,Judah,,2,1121
+Shecaniah_1,Shecaniah,,son of Hananiah (1CH 3:21),male,Judah,,1,1122
+Shemaiah_2,Shemaiah,,son of Shecaniah (1CH 3:22),male,Judah,,2,1123
+Hattush_1,Hattush,,son of Shecaniah (1CH 3:22),male,Judah,,1,1124
+Igal_3,Igal,,son of Shecaniah (1CH 3:22),male,Judah,,3,1125
+Bariah_1,Bariah,,son of Shecaniah (1CH 3:22),male,Judah,,1,1126
+Neariah_1,Neariah,,son of Shecaniah (1CH 3:22),male,Judah,,1,1127
+Shaphat_3,Shaphat,,son of Shecaniah (1CH 3:22),male,Judah,,3,1128
+Elioenai_1,Elioenai,,son of Neariah (1CH 3:23),male,Judah,,1,1129
+Hizkiah_1,Hizkiah,,son of Neariah (1CH 3:23),male,Judah,,1,1130
+Azrikam_1,Azrikam,,son of Neariah (1CH 3:23),male,Judah,,1,1131
+Hodaviah_1,Hodaviah,,son of Elioenai (1CH 3:24),male,Judah,,1,1132
+Eliashib_1,Eliashib,,son of Elioenai (1CH 3:24),male,Judah,,1,1133
+Pelaiah_1,Pelaiah,,son of Elioenai (1CH 3:24),male,Judah,,1,1134
+Akkub_1,Akkub,,son of Elioenai (1CH 3:24),male,Judah,,1,1135
+Johanan_2,Johanan,,son of Elioenai (1CH 3:24),male,Judah,,2,1136
+Delaiah_1,Delaiah,,son of Elioenai (1CH 3:24),male,Judah,,1,1137
+Anani_1,Anani,,son of Elioenai (1CH 3:24),male,Judah,,1,1138
+Reaiah_1,Reaiah,,son of Shobal (1CH 4:2),male,Judah,Possibly the same person as Haroeh_1?,1,1139
+Jahath_1,Jahath,,son of Reaiah (1CH 4:2),male,Judah,,1,1140
+Ahumai_1,Ahumai,,son of Jahath (1CH 4:2),male,Judah,,1,1141
+Lahad_1,Lahad,,son of Jahath (1CH 4:2),male,Judah,,1,1142
+Etam_1,Etam,,???,male,Judah,,1,1143
+Jezreel_1,Jezreel,,son of Etam (1CH 4:3),male,Judah,,1,1144
+Ishma_1,Ishma,,son of Etam (1CH 4:3),male,Judah,,1,1145
+Idbash_1,Idbash,,son of Etam (1CH 4:3),male,Judah,,1,1146
+Hazzelelponi_1,Hazzelelponi,,daughter of Etam (1CH 4:3),female,Judah,,1,1147
+Penuel_1,Penuel,,son of Hur (1CH 4:4),male,Judah,,1,1148
+Gedor_1,Gedor,,son of Penuel (1CH 4:4),male,Judah,,1,1149
+Ezer_2,Ezer,,son of Hur (1CH 4:4),male,Judah,,2,1150
+Hushah_1,Hushah,,son of Ezer (1CH 4:4),male,Judah,,1,1151
+Helah_1,Helah,,wife of Ashhur (1CH 4:5),female,,,1,1152
+Naarah_1,Naarah,,wife of Ashhur (1CH 4:5),female,,,1,1153
+Ahuzzam_1,Ahuzzam,,son of Ashhur and Naarah (1CH 4:6),male,Judah,,1,1154
+Hepher_2,Hepher,,son of Ashhur and Naarah (1CH 4:6),male,Judah,,2,1155
+Temeni_1,Temeni,,son of Ashhur and Naarah (1CH 4:6),male,Judah,,1,1156
+Haahashtari_1,Haahashtari,,son of Ashhur and Naarah (1CH 4:6),male,Judah,,1,1157
+Zereth_1,Zereth,,son of Ashhur and Helah (1CH 4:7),male,Judah,,1,1158
+Izhar_2,Izhar,,son of Ashhur and Helah (1CH 4:7),male,Judah,,2,1159
+Ethnan_1,Ethnan,,son of Ashhur and Helah (1CH 4:7),male,Judah,,1,1160
+Koz_1,Koz,,???,male,Judah,,1,1161
+Anub_1,Anub,,son of Koz (1CH 4:8),male,Judah,,1,1162
+Zobebah_1,Zobebah,,son of Koz (1CH 4:8),male,Judah,,1,1163
+Harum_1,Harum,,son of Koz (1CH 4:8),male,Judah,,1,1164
+Aharhel_1,Aharhel,,son of Harum (1CH 4:8),male,Judah,,1,1165
+Jabez_1,Jabez,,son of Koz? (1CH 4:9),male,Judah,,1,1166
+Chelub_1,Chelub,,brother of Shuhah (1CH 4:11),male,Judah,,1,1167
+Shuhah_1,Shuhah,,brother of Chelub (1CH 4:11),male,Judah,,1,1168
+Mehir_1,Mehir,,son of Cheleb (1CH 4:11),male,Judah,,1,1169
+Eshton_1,Eshton,,son of Mehir (1CH 4:11),male,Judah,,1,1170
+Beth-rapha_1,Beth-rapha,,son of Eshton (1CH 4:12),male,Judah,,1,1171
+Paseah_1,Paseah,,son of Eshton (1CH 4:12),male,Judah,,1,1172
+Tehinnah_1,Tehinnah,,son of Eshton (1CH 4:12),male,Judah,,1,1173
+Seraiah_3,Seraiah,,son of Kenaz (1CH 4:13),male,Judah,,3,1174
+Hathath_1,Hathath,,son of Othniel (1CH 4:13),male,Judah,,1,1175
+Meonothai_1,Meonothai,,son of Othniel (1CH 4:13),male,Judah,,1,1176
+Ophrah_1,Ophrah,,son of Meonothai (1CH 4:14),male,Judah,,1,1177
+Joab_2,Joab,,son of Seraiah (1CH 4:14),male,Judah,,2,1178
+Iru_1,Iru,,son of Caleb (1CH 4:15),male,Judah,,1,1179
+Elah_4,Elah,,son of Caleb (1CH 4:15),male,Judah,,4,1180
+Naam_1,Naam,,son of Caleb (1CH 4:15),male,Judah,,1,1181
+Kenaz_3,Kenaz,,son of Elah and grandson of Caleb (1CH 4:15),male,Judah,,3,1182
+Jehallelel_1,Jehallelel,,??? (1CH 4:16),male,Judah,,1,1183
+Ziph_2,Ziph,,son of Jehallelel (1CH 4:16),male,Judah,,2,1184
+Ziphah_1,Ziphah,,son of Jehallelel (1CH 4:16),male,Judah,,1,1185
+Tiria_1,Tiria,,son of Jehallelel (1CH 4:16),male,Judah,,1,1186
+Asarel_1,Asarel,,son of Jehallelel (1CH 4:16),male,Judah,,1,1187
+Ezrah_1,Ezrah,,??? (1CH 4:16),male,Judah,,1,1188
+Jether_3,Jether,,son of Ezrah (1CH 4:17),male,Judah,,3,1189
+Mered_1,Mered,,son of Ezrah (1CH 4:17),male,Judah,,1,1190
+Epher_2,Epher,,son of Ezrah (1CH 4:17),male,Judah,,2,1191
+Jalon_1,Jalon,,son of Ezrah (1CH 4:17),male,Judah,,1,1192
+Bithia_1,Bithia,,daughter of Pharaoh whom Mered took (1CH 4:17),female,,,1,1193
+Pharaoh_5,Pharaoh,,father of Bithia,male,,,5,1194
+Miriam_2,Miriam,,daughter of Mered and Bithia (1CH 4:17),female,Judah,,2,1195
+Shammai_3,Shammai,,son of Mered and Bithia (1CH 4:17),male,Judah,,3,1196
+Ishbah_1,Ishbah,,son of Mered and Bithia (1CH 4:17),male,Judah,,1,1197
+Eshtemoa_1,Eshtemoa,,son of Mered and Bithia (1CH 4:17)- possibly a location rather than a person?,male,Judah,,1,1198
+Jered_1,Jered,,"son of Mered and ""his Jewish wife"" (1CH 4:18)",male,Judah,,1,1199
+Gedor_2,Gedor,,"son of Mered and ""his Jewish wife"" (1CH 4:18)",male,Judah,,2,1200
+Heber_3,Heber,,"son of Mered and ""his Jewish wife"" (1CH 4:18)",male,Judah,,3,1201
+Soco_1,Soco,,"son of Mered and ""his Jewish wife"" (1CH 4:18)",male,Judah,,1,1202
+Jekuthiel_1,Jekuthiel,,"son of Mered and ""his Jewish wife"" (1CH 4:18)",male,Judah,,1,1203
+Zanoah_1,Zanoah,,"son of Mered and ""his Jewish wife"" (1CH 4:18)",male,Judah,,1,1204
+Hodiah_1,Hodiah,,??? (1CH 4:19),male,Judah,,1,1205
+Naham_1,Naham,,brother of the wife of Hodiah (1CH 4:19),male,Judah,,1,1206
+Keilah_1,Keilah,,"the Garmite, grandson of Hodiah (1CH 4:19)",male,Judah,,1,1207
+Eshtemoa_2,Eshtemoa,,"the Maacathite, the grandson of Hodiah (1CH 4:19)",male,Judah,,2,1208
+Shimon_1,Shimon,,??? (1CH 4:20),male,Judah,,1,1209
+Amnon_2,Amnon,,son of Shimon (1CH 4:20),male,Judah,,2,1210
+Rinnah_1,Rinnah,,son of Shimon (1CH 4:20),male,Judah,,1,1211
+Benhanan_1,Benhanan,,son of Shimon (1CH 4:20),male,Judah,,1,1212
+Tilon_1,Tilon,,son of Shimon (1CH 4:20),male,Judah,,1,1213
+Ishi_2,Ishi,,??? (1CH 4:20),male,Judah,,2,1214
+Zoheth_1,Zoheth,,son of Ishi (1CH 4:20),male,Judah,,1,1215
+Ben-zoheth_1,Ben-zoheth,,(grand?) son of Ishi (1CH 4:20),male,Judah,,1,1216
+Er_2,Er,,son of Shelah son of Judah (1CH 4:21),male,Judah,,2,1217
+Lecah_1,Lecah,,son of Er (1CH 4:21),male,Judah,,1,1218
+Laadah_1,Laadah,,son of Shelah son of Judah (1CH 4:21),male,Judah,,1,1219
+Mareshah_2,Mareshah,,son of Laadah (1CH 4:21),male,Judah,,2,1220
+Jokim_1,Jokim,,"son of Shelah, son of Judah (1CH 4:22)",male,Judah,,1,1221
+Joash_5,Joash,,"son of Shelah, son of Judah (1CH 4:22)",male,Judah,,5,1222
+Saraph_1,Saraph,,"son of Shelah, son of Judah (1CH 4:22)",male,Judah,,1,1223
+Jashubi-lehem_1,Jashubi-lehem,,"son of Shelah, son of Judah (1CH 4:22)",male,Judah,,1,1224
+Shallum_5,Shallum,,"son of Shaul, son of Simeon (1CH 4:25)",male,Judah,,5,1225
+Mibsam_2,Mibsam,,"son of Shallum (1CH 4:25), Simeonite (1CH 4:24)",male,Simeon,,2,1226
+Mishma_2,Mishma,,"son of Mibsam (1CH 4:25), Simeonite (1CH 4:24)",male,Simeon,,2,1227
+Hammuel_1,Hammuel,,"son of Mishma (1CH 4:26), Simeonite (1CH 4:24)",male,Simeon,,1,1228
+Zaccur_2,Zaccur,,"son of Hammuel (1CH 4:26), Simeonite (1CH 4:24)",male,Simeon,,2,1229
+Shimei_5,Shimei,,"son of Zaccur (1CH 4:26), Simeonite (1CH 4:24)",male,Simeon,,5,1230
+Meshobab_1,Meshobab,,"??? (1CH 4:34), Simeonite (1CH 4:24)",male,Simeon,,1,1231
+Jamlech_1,Jamlech,,"??? (1CH 4:34), Simeonite (1CH 4:24)",male,Simeon,,1,1232
+Joshah_1,Joshah,,"son of Amaziah_2 (1CH 4:34), Simeonite (1CH 4:24)",male,Simeon,,1,1233
+Amaziah_2,Amaziah,,"father of Joshah (1CH 4:34), Simeonite (1CH 4:24)",male,Simeon,,2,1234
+Joel_2,Joel,,"??? (1CH 4:35), Simeonite (1CH 4:24)",male,Simeon,,2,1235
+Jehu_4,Jehu,,"son of Joshibiah (1CH 4:35), Simeonite (1CH 4:24)",male,Simeon,,4,1236
+Joshibiah_1,Joshibiah,,"son of Seraiah (1CH 4:35), Simeonite (1CH 4:24)",male,Simeon,,1,1237
+Seraiah_4,Seraiah,,"son of Asiel (1CH 4:35), Simeonite (1CH 4:24)",male,Simeon,,4,1238
+Asiel_1,Asiel,,"??? (1CH 4:35), Simeonite (1CH 4:24)",male,Simeon,,1,1239
+Elioenai_2,Elioenai,,"??? (1CH 4:36), Simeonite (1CH 4:24)",male,Simeon,,2,1240
+Jaakobah_1,Jaakobah,,"??? (1CH 4:36), Simeonite (1CH 4:24)",male,Simeon,,1,1241
+Jeshohaiah_1,Jeshohaiah,,"??? (1CH 4:36), Simeonite (1CH 4:24)",male,Simeon,,1,1242
+Asaiah_2,Asaiah,,"??? (1CH 4:36), Simeonite (1CH 4:24)",male,Simeon,,2,1243
+Adiel_1,Adiel,,"??? (1CH 4:36), Simeonite (1CH 4:24)",male,Simeon,,1,1244
+Jesimiel_1,Jesimiel,,"??? (1CH 4:36), Simeonite (1CH 4:24)",male,Simeon,,1,1245
+Benaiah_3,Benaiah,,"??? (1CH 4:36), Simeonite (1CH 4:24)",male,Simeon,,3,1246
+Ziza_1,Ziza,,"son of Shiphi (1CH 4:37), Simeonite (1CH 4:24)",male,Simeon,,1,1247
+Shiphi_1,Shiphi,,"son of Allon (1CH 4:37), Simeonite (1CH 4:24)",male,Simeon,,1,1248
+Allon_1,Allon,,"son of Jedaiah (1CH 4:37), Simeonite (1CH 4:24)",male,Simeon,,1,1249
+Jedaiah_1,Jedaiah,,"son of Shimri (1CH 4:37), Simeonite (1CH 4:24)",male,Simeon,,1,1250
+Shimri_1,Shimri,,"son of Shemaiah (1CH 4:37), Simeonite (1CH 4:24)",male,Simeon,,1,1251
+Shemaiah_3,Shemaiah,,"father of Shimri (1CH 4:37), Simeonite (1CH 4:24)",male,Simeon,,3,1252
+Pelatiah_2,Pelatiah,,"son of Ishi (1CH 4:42), Simeonite (1CH 4:24)",male,Simeon,,2,1253
+Neariah_2,Neariah,,"son of Ishi (1CH 4:42), Simeonite (1CH 4:24)",male,Simeon,,2,1254
+Rephaiah_2,Rephaiah,,"son of Ishi (1CH 4:42), Simeonite (1CH 4:24)",male,Simeon,,2,1255
+Uzziel_2,Uzziel,,"son of Ishi (1CH 4:42), Simeonite (1CH 4:24)",male,Simeon,,2,1256
+Joel_3,Joel,,"father of Shema, lived in Aroer (1CH 5:8), Reubenite (1CH 5:3)",male,Reuben,,3,1257
+Shemaiah_4,Shemaiah,,"son of Joel (1CH 5:4), Reubenite (1CH 5:3)",male,Reuben,,4,1258
+Gog_1,Gog,,"son of Shemaiah (1CH 5:4), Reubenite (1CH 5:3)",male,Reuben,,1,1259
+Shimei_6,Shimei,,"son of Gog (1CH 5:4), Reubenite (1CH 5:3)",male,Reuben,,6,1260
+Micah_2,Micah,,"son of Shimei (1CH 5:5), Reubenite (1CH 5:3)",male,Reuben,,2,1261
+Reaiah_2,Reaiah,,"son of Micah (1CH 5:5), Reubenite (1CH 5:3)",male,Reuben,,2,1262
+Baal_1,Baal,,"son of Reaiah (1CH 5:5), Reubenite (1CH 5:3)",male,Reuben,,1,1263
+Beerah_1,Beerah,,"son of Baal.  Tilgath-pilneser carried him away into exile, leader of Reubenites (1CH 5:6)",male,Reuben,,1,1264
+Tilgath-pilneser_1,Tilgath-pilneser,,King of Assyria (1CH 5:6),male,,,1,1265
+Jeiel_1,Jeiel,,"son of Zechariah (?) (1CH 5:7), Reubenite (1CH 5:3)",male,Reuben,,1,1266
+Zechariah_3,Zechariah,,"son of Bela (?) (1CH 5:7), Reubenite (1CH 5:3)",male,Reuben,,3,1267
+Bela_3,Bela,,"son of Azaz (1CH 5:8), Reubenite (1CH 5:3)",male,Reuben,,3,1268
+Azaz_1,Azaz,,"son of Shema (1CH 5:8), Reubenite (1CH 5:3)",male,Reuben,,1,1269
+Shema_2,Shema,,"son of Joel (1CH 5:8), Reubenite (1CH 5:3)",male,Reuben,,2,1270
+Joel_4,Joel,,"chief (1CH 5:12), Gadite (1CH 5:11)",male,Gad,,4,1271
+Shapham_1,Shapham,,"second chief (1CH 5:12), Gadite (1CH 5:11)",male,Gad,,1,1272
+Janai_1,Janai,,"chief (1CH 5:12) in Bashan, Gadite (1CH 5:11)",male,Gad,,1,1273
+Shaphat_4,Shaphat,,"second chief (1CH 5:12) in Bashan, Gadite (1CH 5:11)",male,Gad,,4,1274
+Michael_2,Michael,,"(1CH 5:13), son of Jeshishai (1CH 5:14), Gadite (1CH 5:11)",male,Gad,,2,1275
+Meshullam_3,Meshullam,,"??? (1CH 5:13), Gadite (1CH 5:11)",male,Gad,,3,1276
+Sheba_5,Sheba,,"??? (1CH 5:13), Gadite (1CH 5:11)",male,Gad,,5,1277
+Jorai_1,Jorai,,"??? (1CH 5:13), Gadite (1CH 5:11)",male,Gad,,1,1278
+Jacan_1,Jacan,,"??? (1CH 5:13), Gadite (1CH 5:11)",male,Gad,,1,1279
+Zia_1,Zia,,"??? (1CH 5:13), Gadite (1CH 5:11)",male,Gad,,1,1280
+Eber_2,Eber,,"??? (1CH 5:13), Gadite (1CH 5:11)",male,Gad,,2,1281
+Abihail_3,Abihail,,"son of Huri (1CH 5:14, Gadite (1CH 5:11)",male,Gad,,3,1282
+Huri_1,Huri,,"son of Jaroah (1CH 5:14), Gadite (1CH 5:11)",male,Gad,,1,1283
+Jaroah_1,Jaroah,,"son of Gilead (1CH 5:14), Gadite (1CH 5:11)",male,Gad,,1,1284
+Gilead_3,Gilead,,"son of Michael (1CH 5:14), Gadite (1CH 5:11)",male,Gad,,3,1285
+Jeshishai_1,Jeshishai,,"son of Jahdo (1CH 5:14), Gadite (1CH 5:11)",male,Gad,,1,1286
+Jahdo_1,Jahdo,,"son of Buz (1CH 5:14), Gadite (1CH 5:11)",male,Gad,,1,1287
+Buz_2,Buz,,"father of Jahdo (1CH 5:14), Gadite (1CH 5:11)",male,Gad,,2,1288
+Ahi_1,Ahi,,"son of Abdiel (1CH 5:15), Gadite (1CH 5:11)",male,Gad,,1,1289
+Abdiel_1,Abdiel,,"son of Guni (1CH 5:15), Gadite (1CH 5:11)",male,Gad,,1,1290
+Guni_2,Guni,,"father of Abdiel (1CH 5:15), Gadite (1CH 5:11)",male,Gad,,2,1291
+Epher_3,Epher,,head of households (1CH 5:24) in Manasseh (1CH 5:23),male,Manasseh,,3,1292
+Ishi_3,Ishi,,head of households (1CH 5:24) in Manasseh (1CH 5:23),male,Manasseh,,3,1293
+Eliel_1,Eliel,,head of households (1CH 5:24) in Manasseh (1CH 5:23),male,Manasseh,,1,1294
+Azriel_1,Azriel,,head of households (1CH 5:24) in Manasseh (1CH 5:23),male,Manasseh,,1,1295
+Jeremiah_2,Jeremiah,,head of households (1CH 5:24) in Manasseh (1CH 5:23),male,Manasseh,,2,1296
+Hodaviah_2,Hodaviah,,head of households (1CH 5:24) in Manasseh (1CH 5:23),male,Manasseh,,2,1297
+Jahdiel_1,Jahdiel,,head of households (1CH 5:24) in Manasseh (1CH 5:23),male,Manasseh,,1,1298
+Abishua_1,Abishua,,son of Phinehas (1CH 6:4),male,Levi,Aaronic priest through Eleazar,1,1299
+Bukki_2,Bukki,,son of Abishua and father of Uzzi (1CH 6:5),male,Levi,Aaronic priest through Eleazar,2,1300
+Uzzi_1,Uzzi,,son of Bukki (1CH 6:5) and father of Zerhiah (1CH 6:6),male,Levi,Aaronic priest through Eleazar,1,1301
+Zerahiah_1,Zerahiah,,father of Meraioth (1CH 6:6),male,Levi,Aaronic priest through Eleazar,1,1302
+Meraioth_1,Meraioth,,"father of Amariah (1CH 6:7), Levite (1CH 6:1)",male,Levi,Aaronic priest through Eleazar,1,1303
+Amariah_1,Amariah,,son of Meraioth (1CH 6:7) and father of Ahitub (1CH 6:7),male,Levi,Aaronic priest through Eleazar,1,1304
+Azariah_6,Azariah,,"son of Ahimaaz, and father of Johanan (1CH 6:9)",male,Levi,Aaronic priest through Eleazar,6,1305
+Johanan_3,Johanan,,son of Azariah_6 (1CH 6:9) and father of Azariah_1 (1CH 6:10),male,Levi,Aaronic priest through Eleazar,3,1306
+Amariah_2,Amariah,,"son of Azariah and father of Ahitub (1CH 6:11), Levite (1CH 6:1), chief priest (2CH 19:11)",male,Levi,Aaronic priest through Eleazar,2,1307
+Shallum_6,Shallum,,"son of Zadok (1CH 6:12) and father of Hilkiah (1CH 6:13), Levite (1CH 6:1)",male,Levi,Aaronic priest through Eleazar,6,1308
+Hilkiah_3,Hilkiah,,son of Shallum and father of Azariah (1CH 6:13),male,Levi,Aaronic priest through Eleazar,3,1309
+Azariah_7,Azariah,,son of Hilkiah (1CH 6:13) and father of Seriah (1CH 6:14),male,Levi,Aaronic priest through Eleazar,7,1310
+Seraiah_5,Seraiah,,son of Azariah and father of Jehozadak (1CH 6:14),male,Levi,Aaronic priest through Eleazar,5,1311
+Jehozadak_1,Jehozadak,,son of Seriah (1CH 6:14) went with Judah into exile by Nebuchadnezzar (1CH 6:15),male,Levi,Aaronic priest through Eleazar,1,1312
+Jahath_2,Jahath,,son of Libni (1CH 6:20),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",2,1313
+Zimmah_1,Zimmah,,son of Jahath (1CH 6:20),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",1,1314
+Joah_2,Joah,,son of Zimmah (1CH 6:21),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",2,1315
+Iddo_2,Iddo,,son of Joah (1CH 6:21),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",2,1316
+Zerah_4,Zerah,,son of Iddo (1CH 6:21),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",4,1317
+Jeatherai_1,Jeatherai,,son of Zerah (1CH 6:21),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",1,1318
+Elkanah_3,Elkanah,,son of Assir (1CH 6:23),male,Levi,"Kohathites (from Kohath, son of Levi)",3,1319
+Ebiasaph_1,Ebiasaph,,son of Elkanah_3 (1CH 6:23),male,Levi,"Kohathites (from Kohath, son of Levi)",1,1320
+Assir_2,Assir,,son of Ebiasaph (1CH 6:23),male,Levi,"Kohathites (from Kohath, son of Levi)",2,1321
+Tahath_1,Tahath,,son of Assir (1CH 6:24),male,Levi,"Kohathites (from Kohath, son of Levi)",1,1322
+Uriel_1,Uriel,,"son of Tahath (1CH 6:24), chief of the sons of Kohath (1CH 15:5)",male,Levi,"Kohathites (from Kohath, son of Levi)",1,1323
+Uzziah_1,Uzziah,,son of Uriel (1CH 6:24),male,Levi,"Kohathites (from Kohath, son of Levi)",1,1324
+Shaul_3,Shaul,,son of Uzziah (1CH 6:24),male,Levi,"Kohathites (from Kohath, son of Levi)",3,1325
+Amasai_1,Amasai,,"son of Elkanah_4 (1CH 6:25, 1CH 6:35)",male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",1,1326
+Ahimoth_1,Ahimoth,,"son of Elkanah_4 (1CH 6:25, 1CH 6:35)",male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",1,1327
+Zophai_1,Zophai,,"son of Elkanah_1 (1CH 6:26) [Elkanah, son of Korah]",male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",1,1328
+Nahath_2,Nahath,,son of Ziphai (1CH 6:26),male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",2,1329
+Eliab_4,Eliab,,son of Nahath (1CH 6:27),male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",4,1330
+Jeroham_2,Jeroham,,son of Eliab (1CH 6:27),male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",2,1331
+Elkanah_4,Elkanah,,son of Jeroham (1CH 6:27),male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",4,1332
+Libni_2,Libni,,son of Mahli (1CH6:29),male,Levi,"Mahlites (from Merari, son of Levi)",2,1333
+Shimei_7,Shimei,,son of Libni (1CH 6:29),male,Levi,"Mahlites (from Merari, son of Levi)",7,1334
+Uzzah_2,Uzzah,,son of Shimei (1CH 6:29),male,Levi,"Mahlites (from Merari, son of Levi)",2,1335
+Shimea_1,Shimea,,son of Uzzah (1CH 6:30),male,Levi,"Mahlites (from Merari, son of Levi)",1,1336
+Haggiah_1,Haggiah,,son of Shimea (1CH 6:30),male,Levi,"Mahlites (from Merari, son of Levi)",1,1337
+Asaiah_3,Asaiah,,"son of Haggiah (1CH 6:30), chief of the sons of Merari (1CH 15:6)",male,Levi,"Mahlites (from Merari, son of Levi)",3,1338
+Heman_3,Heman,,"the singer, son of Joel_1, decendant of Kohath (1CH 6:33), father of fourteen sons and three daughter (1CH 25:5)",male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",3,1339
+Elkanah_5,Elkanah,,son of Mahath (1CH 6:35),male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",5,1340
+Mahath_1,Mahath,,son of Amasai (1CH 6:35),male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",1,1341
+Elkanah_6,Elkanah,,son of Joel (1CH 6:36),male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",6,1342
+Joel_5,Joel,,son of Azariah (1CH 6:36),male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",5,1343
+Azariah_8,Azariah,,son of Zephaniah (1CH 6:36),male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",8,1344
+Zephaniah_1,Zephaniah,,son of Tahath (1CH 6:37),male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",1,1345
+Tahath_2,Tahath,,son of Assir (1CH 6:37),male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",2,1346
+Assir_3,Assir,,son of Ebiasaph [Abiasaph]  (1CH 6:37),male,Levi,"Korahites (from Izhar, from Kohath, son of Levi)",3,1347
+Asaph_2,Asaph,,"son of Berechiah (1CH 6:39), chosen first by lot (1CH 25:9)",male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",2,1348
+Berechiah_2,Berechiah,,son of Shimea (1CH 6:39),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",2,1349
+Shimea_2,Shimea,,son of Michael (1CH 6:39),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",2,1350
+Michael_3,Michael,,son of Baaseiah (1CH 6:40),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",3,1351
+Baaseiah_1,Baaseiah,,son of Malchijah (1CH 6:40),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",1,1352
+Malchijah_1,Malchijah,,son of Ethni (1CH 6:40),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",1,1353
+Ethni_1,Ethni,,son of Zerah (1CH 6:41),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",1,1354
+Zerah_5,Zerah,,son of Adaiah (1CH 6:41),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",5,1355
+Adaiah_2,Adaiah,,son of Ethan (1CH 6:41),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",2,1356
+Ethan_3,Ethan,,son of Zimmah (1CH 6:42),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",3,1357
+Zimmah_2,Zimmah,,son of Shimei (1CH 6:42),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",2,1358
+Shimei_8,Shimei,,son of Jahath (1CH 6:42),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",8,1359
+Jahath_3,Jahath,,son of Gershom (1CH 6:43),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",3,1360
+Ethan_4,Ethan,,son of Kishi (1CH 6:44),male,Levi,"Merarites (from Mushi, from Merari, son of Levi)",4,1361
+Kishi_1,Kishi,,son of Abdi (1CH 6:44),male,Levi,"Merarites (from Mushi, from Merari, son of Levi)",1,1362
+Abdi_1,Abdi,,son of Malluch (1CH 6:44),male,Levi,"Merarites (from Mushi, from Merari, son of Levi)",1,1363
+Malluch_1,Malluch,,son of Hashabiah (1CH 6:44),male,Levi,"Merarites (from Mushi, from Merari, son of Levi)",1,1364
+Hashabiah_1,Hashabiah,,son of Amaziah (1CH 6:45),male,Levi,"Merarites (from Mushi, from Merari, son of Levi)",1,1365
+Amaziah_3,Amaziah,,son of Hilkiah (1CH 6:45),male,Levi,"Merarites (from Mushi, from Merari, son of Levi)",3,1366
+Hilkiah_4,Hilkiah,,son of Amzi (1CH 6:45),male,Levi,"Merarites (from Mushi, from Merari, son of Levi)",4,1367
+Amzi_1,Amzi,,son of Bani (1CH 6:46),male,Levi,"Merarites (from Mushi, from Merari, son of Levi)",1,1368
+Bani_2,Bani,,son of Shemer (1CH 6:46),male,Levi,"Merarites (from Mushi, from Merari, son of Levi)",2,1369
+Shemer_2,Shemer,,son of Mahli (1CH 6:46),male,Levi,"Merarites (from Mushi, from Merari, son of Levi)",2,1370
+Mahli_2,Mahli,,son of Mushi (1CH 6:47),male,Levi,"Merarites (from Mushi, from Merari, son of Levi)",2,1371
+Uzzi_2,Uzzi,,son of Tola (1CH 7:2),male,Issachar,,2,1372
+Rephaiah_3,Rephaiah,,son of Tola (1CH 7:2),male,Issachar,,3,1373
+Jeriel_1,Jeriel,,son of Tola (1CH 7:2),male,Issachar,,1,1374
+Jahmai_1,Jahmai,,son of Tola (1CH 7:2),male,Issachar,,1,1375
+Ibsam_1,Ibsam,,son of Tola (1CH 7:2),male,Issachar,,1,1376
+Samuel_3,Samuel,,son of Tola (1CH 7:2),male,Issachar,,3,1377
+Izrahiah_1,Izrahiah,,son of Uzzi (1CH 7:3),male,Issachar,,1,1378
+Michael_4,Michael,,son of Izrahiah (1CH 7:3),male,Issachar,,4,1379
+Obadiah_3,Obadiah,,son of Izrahiah (1CH 7:3),male,Issachar,,3,1380
+Joel_6,Joel,,son of Izrahiah (1CH 7:3),male,Issachar,,6,1381
+Isshiah_1,Isshiah,,son of Izrahiah (1CH 7:3),male,Issachar,,1,1382
+Ezbon_2,Ezbon,,son of Bela (1CH 7:7),male,Benjamin,,2,1383
+Uzzi_3,Uzzi,,son of Bela (1CH 7:7),male,Benjamin,,3,1384
+Uzziel_3,Uzziel,,son of Bela (1CH 7:7),male,Benjamin,,3,1385
+Jerimoth_1,Jerimoth,,son of Bela (1CH 7:7),male,Benjamin,,1,1386
+Iri_1,Iri,,son of Bela (1CH 7:7),male,Benjamin,,1,1387
+Zemirah_1,Zemirah,,son of Becher (1CH 7:8),male,Benjamin,,1,1388
+Joash_6,Joash,,son of Becher (1CH 7:8),male,Benjamin,,6,1389
+Eliezer_3,Eliezer,,son of Becher (1CH 7:8),male,Benjamin,,3,1390
+Elioenai_3,Elioenai,,son of Becher (1CH 7:8),male,Benjamin,,3,1391
+Omri_2,Omri,,son of Becher (1CH 7:8),male,Benjamin,,2,1392
+Jeremoth_1,Jeremoth,,son of Becher (1CH 7:8),male,Benjamin,,1,1393
+Abijah_4,Abijah,,son of Becher (1CH 7:8),male,Benjamin,,4,1394
+Anathoth_1,Anathoth,,son of Becher (1CH 7:8),male,Benjamin,,1,1395
+Alemeth_1,Alemeth,,son of Becher (1CH 7:8),male,Benjamin,,1,1396
+Bilhan_2,Bilhan,,son of Jediael (also called Ashbel) (1CH 7:10),male,Benjamin,,2,1397
+Jeush_2,Jeush,,son of Bilhan (1CH 7:10),male,Benjamin,,2,1398
+Benjamin_2,Benjamin,,son of Bilhan (1CH 7:10),male,Benjamin,,2,1399
+Ehud_2,Ehud,,son of Bilhan (1CH 7:10),male,Benjamin,,2,1400
+Chenaanah_2,Chenaanah,,son of Bilhan (1CH 7:10),male,Benjamin,,2,1401
+Zethan_1,Zethan,,son of Bilhan (1CH 7:10),male,Benjamin,,1,1402
+Tarshish_2,Tarshish,,son of Bilhan (1CH 7:10),male,Benjamin,,2,1403
+Ahishahar_1,Ahishahar,,son of Bilhan (1CH 7:10),male,Benjamin,,1,1404
+Hushim_2,Hushim,,son of Aher (1CH 7:12),male,Benjamin,,2,1405
+Asriel_2,Asriel,,son of Manasseh (1CH 7:14),male,Manasseh,,2,1406
+Maacah_5,Maacah,,wife of Machir and sister of Huppim and Shuppim (1CH 7:15),female,Benjamin,,5,1407
+Zelophehad_2,Zelophehad,,second (wife?) of Machir or second (sister?) 1CH 7:15,female,,,2,1408
+Peresh_1,Peresh,,son of Machir and Maacah (1CH 7:16),male,Manasseh,,1,1409
+Sheresh_1,Sheresh,,son of Machir and Maacah (1CH 7:16),male,Manasseh,,1,1410
+Ulam_1,Ulam,,son of Peresh (1CH 7:16),male,Manasseh,,1,1411
+Rakem_1,Rakem,,son of Peresh (1CH 7:16),male,Manasseh,,1,1412
+Bedan_1,Bedan,,son of Ulam (1CH 7:17),male,Manasseh,,1,1413
+Hammolecheth_1,Hammolecheth,,sister of Gilead and daughter of Machir (1CH 7:18),female,Manasseh,,1,1414
+Ishhod_1,Ishhod,,son of Hammolecheth (1CH 7:18),male,Manasseh,,1,1415
+Abiezer_2,Abiezer,,son of Hammolecheth (1CH 7:18),male,Manasseh,,2,1416
+Mahlah_2,Mahlah,,daughter of Hammolecheth (1CH 7:18),female,Manasseh,,2,1417
+Ahian_1,Ahian,,son of Shemida (1CH 7:19),male,Manasseh,,1,1418
+Shechem_3,Shechem,,son of Shemida (1CH 7:19),male,Manasseh,,3,1419
+Lihki_1,Lihki,,son of Shemida (1CH 7:19),male,Manasseh,,1,1420
+Aniam_1,Aniam,,son of Shemida (1CH 7:19),male,Manasseh,,1,1421
+Bered_1,Bered,,son of Shuthelah (1CH 7:20),male,Ephraim,,1,1422
+Tahath_3,Tahath,,son of Bered (1CH 7:20),male,Ephraim,,3,1423
+Eleadah_1,Eleadah,,son of Tahath (1CH 7:20),male,Ephraim,,1,1424
+Tahath_4,Tahath,,son of Eleadah (1CH 7:20),male,Ephraim,,4,1425
+Zabad_2,Zabad,,son of Tahath (1CH 7:21),male,Ephraim,,2,1426
+Shuthelah_2,Shuthelah,,son of Zabad (1CH 7:21),male,Ephraim,,2,1427
+Ezer_3,Ezer,,"son of Ephraim (1CH 7:21), killed by the men of Gath",male,Ephraim,,3,1428
+Elead_1,Elead,,"son of Ephraim (1CH 7:21), killed by the men of Gath",male,Ephraim,,1,1429
+Beriah_2,Beriah,,son of Ephraim (1CH 7:23),male,Ephraim,,2,1430
+Sheerah_1,Sheerah,,daughter of Beriah (1CH 7:24),female,Ephraim,,1,1431
+Rephah_1,Rephah,,son of Beriah (1CH 7:25),male,Ephraim,,1,1432
+Resheph_1,Resheph,,son of Beriah (1CH 7:25),male,Ephraim,,1,1433
+Telah_1,Telah,,son of Resheph (1CH 7:25),male,Ephraim,,1,1434
+Tahan_2,Tahan,,son of Telah (1CH 7:25),male,Ephraim,,2,1435
+Ladan_1,Ladan,,son of Tahan (1CH 7:26),male,Ephraim,,1,1436
+Birzaith_1,Birzaith,,son of Malchiel (1CH 7:31),male,Asher,,1,1437
+Japhlet_1,Japhlet,,son of Heber (1CH 7:32),male,Asher,,1,1438
+Shomer_2,Shomer,,son of Heber (1CH 7:32),male,Asher,,2,1439
+Hotham_1,Hotham,,son of Heber (1CH 7:32),male,Asher,,1,1440
+Shua_2,Shua,,daughter of Heber (1CH 7:32),female,Asher,,2,1441
+Pasach_1,Pasach,,son of Japhlet (1CH 7:33),male,Asher,,1,1442
+Bimhal_1,Bimhal,,son of Japhlet (1CH 7:33),male,Asher,,1,1443
+Ashvath_1,Ashvath,,son of Japhlet (1CH 7:33),male,Asher,,1,1444
+Ahi_2,Ahi,,son of Shomer (1CH 7:34),male,Asher,,2,1445
+Rohgah_1,Rohgah,,son of Shomer (1CH 7:34),male,Asher,,1,1446
+Jehubbah_1,Jehubbah,,son of Shomer (1CH 7:34),male,Asher,,1,1447
+Aram_3,Aram,,son of Shomer (1CH 7:34),male,Asher,,3,1448
+Zophah_1,Zophah,,son of Hotham (1CH 7:35),male,Asher,,1,1449
+Imna_1,Imna,,son of Hotham (1CH 7:35),male,Asher,,1,1450
+Shelesh_1,Shelesh,,son of Hotham (1CH 7:35),male,Asher,,1,1451
+Amal_1,Amal,,son of Hotham (1CH 7:35),male,Asher,,1,1452
+Suah_1,Suah,,son of Zophah (1CH 7:36),male,Asher,,1,1453
+Harnepher_1,Harnepher,,son of Zophah (1CH 7:36),male,Asher,,1,1454
+Shual_1,Shual,,son of Zophah (1CH 7:36),male,Asher,,1,1455
+Beri_1,Beri,,son of Zophah (1CH 7:36),male,Asher,,1,1456
+Imrah_1,Imrah,,son of Zophah (1CH 7:36),male,Asher,,1,1457
+Bezer_1,Bezer,,son of Zophah (1CH 7:37),male,Asher,,1,1458
+Hodaviah_3,Hodaviah,,son of Zophah (1CH 7:37),male,Asher,,3,1459
+Shamma_1,Shamma,,son of Zophah (1CH 7:37),male,Asher,,1,1460
+Shilshah_1,Shilshah,,son of Zophah (1CH 7:37),male,Asher,,1,1461
+Ithran_2,Ithran,,son of Zophah (1CH 7:37),male,Asher,,2,1462
+Beera_1,Beera,,son of Zophah (1CH 7:37),male,Asher,,1,1463
+Jephunneh_2,Jephunneh,,son of Jether [Ithran] (1CH 7:38),male,Asher,,2,1464
+Pispa_1,Pispa,,son of Jether [Ithran] (1CH 7:38),male,Asher,,1,1465
+Ara_1,Ara,,son of Jether [Ithran] (1CH 7:38),male,Asher,,1,1466
+Arah_1,Arah,,son of Ulla [Jephunneh] (1CH 7:39),male,Asher,,1,1467
+Hanniel_2,Hanniel,,son of Ulla [Jephunneh] (1CH 7:39),male,Asher,,2,1468
+Rizia_1,Rizia,,son of Ulla [Jephunneh] (1CH 7:39),male,Asher,,1,1469
+Rapha_1,Rapha,,son of Benjamin (1CH 8:2),male,Benjamin,,1,1470
+Abihud_1,Abihud,,son of Bela (1CH 8:3),male,Benjamin,,1,1471
+Abishua_2,Abishua,,son of Bela (1CH 8:4),male,Benjamin,,2,1472
+Ahoah_1,Ahoah,,son of Bela (1CH 8:4),male,Benjamin,,1,1473
+Naaman_3,Naaman,,son of Ehud (1CH 8:6),male,Benjamin,,3,1474
+Ahijah_4,Ahijah,,son of Ehud (1CH 8:6),male,Benjamin,,4,1475
+Gera_4,Gera,,"son of Ehud (1CH 8:6), ""carried them into exile""",male,Benjamin,,4,1476
+Uzzah_3,Uzzah,,son of Gera (1CH 8:7),male,Benjamin,,3,1477
+Ahihud_2,Ahihud,,son of Gera (1CH 8:7),male,Benjamin,,2,1478
+Shaharaim_1,Shaharaim,,son of Gera (?) (1CH 8:8),male,Benjamin,,1,1479
+Hushim_3,Hushim,,wife of Shaharaim (1CH 8:8),female,,,3,1480
+Baara_1,Baara,,wife of Shaharaim (1CH 8:8),female,,,1,1481
+Hodesh_1,Hodesh,,wife of Shaharaim (1CH 8:9),female,,,1,1482
+Jobab_4,Jobab,,son of Shaharaim (1CH 8:9),male,Benjamin,,4,1483
+Zibia_1,Zibia,,son of Shaharaim (1CH 8:9),male,Benjamin,,1,1484
+Mesha_3,Mesha,,son of Shaharaim (1CH 8:9),male,Benjamin,,3,1485
+Malcam_1,Malcam,,son of Shaharaim (1CH 8:9),male,Benjamin,,1,1486
+Jeuz_1,Jeuz,,son of Shaharaim (1CH 8:10),male,Benjamin,,1,1487
+Sachia_1,Sachia,,son of Shaharaim (1CH 8:10),male,Benjamin,,1,1488
+Mirmah_1,Mirmah,,son of Shaharaim (1CH 8:10),male,Benjamin,,1,1489
+Abitub_1,Abitub,,son of Shaharaim by Hushim (1CH 8:11),male,Benjamin,,1,1490
+Elpaal_1,Elpaal,,son of Shaharaim by Hushim (1CH 8:11),male,Benjamin,,1,1491
+Eber_3,Eber,,son of Elpaal (1CH 8:12),male,Benjamin,,3,1492
+Misham_1,Misham,,son of Elpaal (1CH 8:12),male,Benjamin,,1,1493
+Shemed_1,Shemed,,son of Elpaal (1CH 8:12),male,Benjamin,,1,1494
+Beriah_3,Beriah,,son of Elpaal (1CH 8:13),male,Benjamin,,3,1495
+Shema_3,Shema,,son of Elpaal (1CH 8:13),male,Benjamin,,3,1496
+Ahio_2,Ahio,,son of Elpaal (1CH 8:14),male,Benjamin,,2,1497
+Shashak_1,Shashak,,son of Elpaal (1CH 8:14),male,Benjamin,,1,1498
+Jeremoth_2,Jeremoth,,son of Elpaal (1CH 8:14),male,Benjamin,,2,1499
+Zebadiah_1,Zebadiah,,son of Beriah (1CH 8:15),male,Benjamin,,1,1500
+Arad_1,Arad,,son of Beriah (1CH 8:15),male,Benjamin,,1,1501
+Eder_1,Eder,,son of Beriah (1CH 8:15),male,Benjamin,,1,1502
+Michael_5,Michael,,son of Beriah (1CH 8:16),male,Benjamin,,5,1503
+Ishpah_1,Ishpah,,son of Beriah (1CH 8:16),male,Benjamin,,1,1504
+Joha_1,Joha,,son of Beriah (1CH 8:16),male,Benjamin,,1,1505
+Zebadiah_2,Zebadiah,,son of Elpaal (1CH 8:17),male,Benjamin,,2,1506
+Meshullam_4,Meshullam,,son of Elpaal (1CH 8:17),male,Benjamin,,4,1507
+Hizki_1,Hizki,,son of Elpaal (1CH 8:17),male,Benjamin,,1,1508
+Heber_4,Heber,,son of Elpaal (1CH 8:17),male,Benjamin,,4,1509
+Ishmerai_1,Ishmerai,,son of Elpaal (1CH 8:18),male,Benjamin,,1,1510
+Izliah_1,Izliah,,son of Elpaal (1CH 8:18),male,Benjamin,,1,1511
+Jobab_5,Jobab,,son of Elpaal (1CH 8:18),male,Benjamin,,5,1512
+Jakim_1,Jakim,,son of Shimei (Shema v13) (1CH 8:19),male,Benjamin,,1,1513
+Zichri_2,Zichri,,son of Shimei (Shema v13) (1CH 8:19),male,Benjamin,,2,1514
+Zabdi_2,Zabdi,,son of Shimei (Shema v13) (1CH 8:19),male,Benjamin,,2,1515
+Elienai_1,Elienai,,son of Shimei (Shema v13) (1CH 8:20),male,Benjamin,,1,1516
+Zillethai_1,Zillethai,,son of Shimei (Shema v13) (1CH 8:20),male,Benjamin,,1,1517
+Eliel_2,Eliel,,son of Shimei (Shema v13) (1CH 8:20),male,Benjamin,,2,1518
+Adaiah_3,Adaiah,,son of Shimei (Shema v13) (1CH 8:21),male,Benjamin,,3,1519
+Beraiah_1,Beraiah,,son of Shimei (Shema v13) (1CH 8:21),male,Benjamin,,1,1520
+Shimrath_1,Shimrath,,son of Shimei (Shema v13) (1CH 8:21),male,Benjamin,,1,1521
+Ishpan_1,Ishpan,,son of Shashak (1CH 8:22),male,Benjamin,,1,1522
+Eber_4,Eber,,son of Shashak (1CH 8:22),male,Benjamin,,4,1523
+Eliel_3,Eliel,,son of Shashak (1CH 8:22),male,Benjamin,,3,1524
+Abdon_2,Abdon,,son of Shashak (1CH 8:23),male,Benjamin,,2,1525
+Zichri_3,Zichri,,son of Shashak (1CH 8:23),male,Benjamin,,3,1526
+Hanan_1,Hanan,,son of Shashak (1CH 8:23),male,Benjamin,,1,1527
+Hananiah_2,Hananiah,,son of Shashak (1CH 8:24),male,Benjamin,,2,1528
+Elam_2,Elam,,son of Shashak (1CH 8:24),male,Benjamin,,2,1529
+Anthothijah_1,Anthothijah,,son of Shashak (1CH 8:24),male,Benjamin,,1,1530
+Iphdeiah_1,Iphdeiah,,son of Shashak (1CH 8:25),male,Benjamin,,1,1531
+Penuel_2,Penuel,,son of Shashak (1CH 8:25),male,Benjamin,,2,1532
+Shamsherai_1,Shamsherai,,son of Jeroham (Jeremoth v 14) (1CH 8:26),male,Benjamin,,1,1533
+Shehariah_1,Shehariah,,son of Jeroham (Jeremoth v 14) (1CH 8:26),male,Benjamin,,1,1534
+Athaliah_2,Athaliah,,son of Jeroham (Jeremoth v 14) (1CH 8:26),male,Benjamin,,2,1535
+Jaareshiah_1,Jaareshiah,,son of Jeroham (Jeremoth v 14) (1CH 8:27),male,Benjamin,,1,1536
+Elijah_2,Elijah,,son of Jeroham (Jeremoth v 14) (1CH 8:27),male,Benjamin,,2,1537
+Zichri_4,Zichri,,son of Jeroham (Jeremoth v 14) (1CH 8:27),male,Benjamin,,4,1538
+Maacah_6,Maacah,,"wife of Jeiel (1CH 9:35) who was the ""father"" of Gibeon (1CH 8:29)",female,Benjamin,,6,1539
+Abdon_3,Abdon,,son of Jeiel and Maacah (1CH 8:30),male,Benjamin,,3,1540
+Zur_3,Zur,,son of Jeiel and Maacah (1CH 8:30),male,Benjamin,,3,1541
+Kish_2,Kish,,son of Jeiel and Maacah (1CH 8:30),male,Benjamin,,2,1542
+Baal_2,Baal,,son of Jeiel and Maacah (1CH 8:30),male,Benjamin,,2,1543
+Nadab_4,Nadab,,son of Jeiel and Maacah (1CH 8:30),male,Benjamin,,4,1544
+Gedor_3,Gedor,,son of Jeiel and Maacah (1CH 8:31),male,Benjamin,,3,1545
+Ahio_3,Ahio,,son of Jeiel and Maacah (1CH 8:31),male,Benjamin,,3,1546
+Zecher_1,Zecher,,son of Jeiel and Maacah (1CH 8:31),male,Benjamin,,1,1547
+Mikloth_1,Mikloth,,son of Jeiel and Maacah (1CH 8:32),male,Benjamin,,1,1548
+Shimeah_1,Shimeah,,son of Mikloth (1CH 8:32),male,Benjamin,,1,1549
+Pithon_1,Pithon,,son of Micah (1CH 8:35),male,Benjamin,,1,1550
+Melech_1,Melech,,son of Micah (1CH 8:35),male,Benjamin,,1,1551
+Tarea_1,Tarea,,son of Micah (1CH 8:35),male,Benjamin,,1,1552
+Ahaz_2,Ahaz,,son of Micah (1CH 8:35),male,Benjamin,,2,1553
+Jehoaddah_1,Jehoaddah,,son of Ahaz (1CH 8:36),male,Benjamin,,1,1554
+Alemeth_2,Alemeth,,son of Jehoadda (1CH 8:36),male,Benjamin,,2,1555
+Azmaveth_2,Azmaveth,,son of Jehoadda (1CH 8:36),male,Benjamin,,2,1556
+Zimri_3,Zimri,,son of Jehoadda (1CH 8:36),male,Benjamin,,3,1557
+Moza_2,Moza,,son of Zimri (1CH 8:36),male,Benjamin,,2,1558
+Binea_1,Binea,,son of Moza (1CH 8:37),male,Benjamin,,1,1559
+Raphah_2,Raphah,,son of Binea (1CH 8:37),male,Benjamin,,2,1560
+Eleasah_2,Eleasah,,son of Raphah (1CH 8:37),male,Benjamin,,2,1561
+Azel_1,Azel,,son of Eleasah (1CH 8:37),male,Benjamin,,1,1562
+Azrikam_2,Azrikam,,son of Azel (1CH 8:38),male,Benjamin,,2,1563
+Bocheru_1,Bocheru,,son of Azel (1CH 8:38),male,Benjamin,,1,1564
+Ishmael_3,Ishmael,,son of Azel (1CH 8:38),male,Benjamin,,3,1565
+Sheariah_1,Sheariah,,son of Azel (1CH 8:38),male,Benjamin,,1,1566
+Obadiah_4,Obadiah,,son of Azel (1CH 8:38),male,Benjamin,,4,1567
+Hanan_2,Hanan,,son of Azel (1CH 8:38),male,Benjamin,,2,1568
+Eshek_1,Eshek,,brother of Azel (1CH 8:39),male,Benjamin,,1,1569
+Ulam_2,Ulam,,son of Eshek (1CH 8:39),male,Benjamin,,2,1570
+Jeush_3,Jeush,,son of Eshek (1CH 8:39),male,Benjamin,,3,1571
+Eliphelet_4,Eliphelet,,son of Eshek (1CH 8:39),male,Benjamin,,4,1572
+Uthai_1,Uthai,,son of Ammihud (1CH 9:4),male,Judah,,1,1573
+Ammihud_5,Ammihud,,son of Omri (1CH 9:4),male,Judah,,5,1574
+Omri_3,Omri,,son of Imri (1CH 9:4),male,Judah,,3,1575
+Imri_1,Imri,,son of Bani (1CH 9:4),male,Judah,,1,1576
+Bani_3,Bani,,descendant of Perez (1CH 9:4),male,Judah,,3,1577
+Asaiah_4,Asaiah,,"Shilonite living in Jerusalem (1CH 9:5), ""the Shilonite"" from NEH 11:5",male,Judah,,4,1578
+Jeuel_1,Jeuel,,descendant of Zerah (1CH 9:6),male,Judah,,1,1579
+Sallu_1,Sallu,,son of Meshullam (1CH 9:7),male,Benjamin,,1,1580
+Meshuallam_1,Meshuallam,,son of Hodaviah (1CH 9:7),male,Benjamin,,1,1581
+Hodaviah_4,Hodaviah,,son of Hassenuah (1CH 9:7),male,Benjamin,,4,1582
+Hassenuah_1,Hassenuah,,descendant of Benjamin (1CH 9:7),male,Benjamin,,1,1583
+Ibneiah_1,Ibneiah,,son of Jeroham (1CH 9:8),male,Benjamin,,1,1584
+Jeroham_3,Jeroham,,father of Ibneiah (1CH 9:8),male,Benjamin,,3,1585
+Elah_5,Elah,,son of Uzzi (1CH 9:8),male,Benjamin,,5,1586
+Uzzi_4,Uzzi,,son of Michri (1CH 9:8),male,Benjamin,,4,1587
+Michri_1,Michri,,father of Uzzi (1CH 9:8),male,Benjamin,,1,1588
+Meshullam_5,Meshullam,,son of Shephatiah (1CH 9:8),male,Benjamin,,5,1589
+Shephatiah_2,Shephatiah,,son of Reuel (1CH 9:8),male,Benjamin,,2,1590
+Reuel_3,Reuel,,son of Ibnijah (1CH 9:8),male,Benjamin,,3,1591
+Ibnijah_1,Ibnijah,,descendant of Benjamin (1CH 9:8),male,Benjamin,,1,1592
+Jedaiah_2,Jedaiah,,"priest (1CH 9:10), second-chosen priest for the twenty-four courses (1CH 24:7)",male,Levi,In the line of Ithamar (1CH 24:6-7),2,1593
+Jehoiarib_1,Jehoiarib,,"priest (1CH 9:10), first-chosen priest for the twenty-four courses (1CH 24:7)",male,Levi,In the line of Eleazar (1CH 24:6-7),1,1594
+Jachin_2,Jachin,,"priest (1CH 9:10), twenty-first-chosen priest for the twenty-four courses (1CH 24:17)",male,Levi,"In the line of Eleazar (1CH 24:6, 17)",2,1595
+Meraioth_2,Meraioth,,son of Ahitub (1CH 9:11),male,Levi,Aaronic priest via Phinehas son of Eliezer,2,1596
+Adaiah_4,Adaiah,,son of Jeroham (1CH 9:12),male,Levi,,4,1597
+Jeroham_4,Jeroham,,son of Pashhur (1CH 9:12),male,Levi,,4,1598
+Pashhur_1,Pashhur,,son of Malchijah (1CH 9:12),male,Levi,,1,1599
+Malchijah_2,Malchijah,,"father of Pashhur (1CH 9:12), fifth-chosen priest for the twenty-four courses (1CH 24:9)",male,Levi,"In the line of Eleazar (1CH 24:6, 9)",2,1600
+Maasai_1,Maasai,,son of Adiel (1CH 9:12),male,Levi,,1,1601
+Adiel_2,Adiel,,son of Jahzerah (1CH 9:12),male,Levi,,2,1602
+Jahzerah_1,Jahzerah,,son of Meshullam (1CH 9:12),male,Levi,,1,1603
+Meshullam_6,Meshullam,,son of Meshillemith (1CH 9:12),male,Levi,,6,1604
+Meshillemith_1,Meshillemith,,son of Immer (1CH 9:12),male,Levi,,1,1605
+Immer_1,Immer,,father of Meshillemith (1CH 9:12),male,Levi,,1,1606
+Shemaiah_5,Shemaiah,,"son of Hasshub (1CH 9:14), chief of the sons of Elizaphan (1CH 15:8)",male,Levi,Merarites (from Merari son of Levi),5,1607
+Hasshub_1,Hasshub,,son of Azrikam (1CH 9:14),male,Levi,Merarites (from Merari son of Levi),1,1608
+Azrikam_3,Azrikam,,son of Hashabiah (1CH 9:14),male,Levi,Merarites (from Merari son of Levi),3,1609
+Bakbakkar_1,Bakbakkar,,1CH 9:15,male,Levi,,1,1610
+Heresh_1,Heresh,,1CH 9:15,male,Levi,,1,1611
+Galal_1,Galal,,1CH 9:15- son of Jeduthun (1CH 9:16),male,Levi,,1,1612
+Mattaniah_2,Mattaniah,,son of Mica (1CH 9:15),male,Levi,,2,1613
+Mica_2,Mica,,son of Zichri (1CH 9:15),male,Levi,,2,1614
+Zichri_5,Zichri,,son of Asaph (1CH 9:15),male,Levi,,5,1615
+Asaph_3,Asaph,,1CH 9:15,male,Levi,,3,1616
+Obadiah_5,Obadiah,,son of Shemaiah (1CH 9:16),male,Levi,,5,1617
+Shemaiah_6,Shemaiah,,son of Galal (1CH 9:16),male,Levi,,6,1618
+Jeduthun_1,Jeduthun,,1CH 9:16,male,Levi,,1,1619
+Berechiah_3,Berechiah,,son of Asa (1CH 9:16),male,Levi,,3,1620
+Asa_2,Asa,,son of Elkanah (1CH 9:16),male,Levi,,2,1621
+Elkanah_7,Elkanah,,lived in the villages of the Netophathites (1CH 9:16),male,Levi,,7,1622
+Shallum_7,Shallum,,"one of the gatekeepers, stationed at the king's gate (1CH 9:17), to the east (1CH 26:14)",male,Levi,,7,1623
+Akkub_2,Akkub,,one of the gatekeepers (1CH 9:17),male,Levi,,2,1624
+Talmon_1,Talmon,,one of the gatekeepers (1CH 9:17),male,Levi,,1,1625
+Ahiman_2,Ahiman,,one of the gatekeepers (1CH 9:17),male,Levi,,2,1626
+Kore_1,Kore,,"father of Shallum, descendant of Korah (1CH 9:19)",male,Levi,,1,1627
+Zechariah_4,Zechariah,,"son of Meshelemiah [Shallum] (1CH 9:21), gatekeeper stationed on the north (1CH 26:14)",male,Levi,,4,1628
+Mattithiah_1,Mattithiah,,firstborn of Shallum (1CH 9:31),male,Levi,,1,1629
+Ahijah_5,Ahijah,,the Pelonite (1CH 11:36),male,,,5,1630
+Ezbai_1,Ezbai,,father of Naarai (1CH 11:37) (Paarai in 2SA 23:35),male,,,1,1631
+Zabad_3,Zabad,,son of Ahlai (1CH 11:41),male,,,3,1632
+Ahlai_2,Ahlai,,father of Zabad (1CH 11:41),male,,,2,1633
+Adina_1,Adina,,son of Shiza (1CH 11:42),male,Reuben,,1,1634
+Shiza_1,Shiza,,the Reubenite (1CH 11:42),male,Reuben,,1,1635
+Hanan_3,Hanan,,son of Maacah and Joshaphat the Mithnite (1CH 11:43),male,,,3,1636
+Maacah_7,Maacah,,mother of Hanan (1CH 11:43),female,,,7,1637
+Joshaphat_1,Joshaphat,,the Mithnite (1CH 11:43),male,,,1,1638
+Uzzia_1,Uzzia,,the Ashterathite (1CH 11:44),male,,,1,1639
+Shama_1,Shama,,son of Hotham the Aroerite (1CH 11:44),male,,,1,1640
+Jeiel_2,Jeiel,,son of Hotham the Aroerite (1CH 11:44),male,,,2,1641
+Hotham_2,Hotham,,the Aroerite (1CH 11:44),male,,,2,1642
+Jediael_1,Jediael,,son of Shimri (1CH 11:45),male,,,1,1643
+Shimri_2,Shimri,,father of Jediael (1CH 11:45),male,,,2,1644
+Joha_2,Joha,,"the Tizite, brother of Jediael (1CH 11:45)",male,,,2,1645
+Eliel_4,Eliel,,the Mahavite (1CH 11:46),male,,,4,1646
+Jeribai_1,Jeribai,,son of Elnaam (1CH 11:46),male,,,1,1647
+Joshaviah_1,Joshaviah,,son of Elnaam (1CH 11:46),male,,,1,1648
+Elnaam_1,Elnaam,,father of Jeribai and Joshaviah (1CH 11:46),male,,,1,1649
+Ithmah_1,Ithmah,,the Moabite (1CH 11:46),male,,,1,1650
+Eliel_5,Eliel,,1CH 11:47,male,,,5,1651
+Obed_3,Obed,,1CH 11:47,male,,,3,1652
+Jaasiel_1,Jaasiel,,the Mezobaite (1CH 11:47),male,,,1,1653
+Ahiezer_2,Ahiezer,,chief of the Benjamites who came to David at Ziklag (1CH 12:3),male,Benjamin,,2,1654
+Joash_7,Joash,,son of Shemaah (1CH 12:3),male,Benjamin,,7,1655
+Shemaah_1,Shemaah,,the Gibeathite (1CH 12:3),male,Benjamin,,1,1656
+Jeziel_1,Jeziel,,son of Azmaveth (1CH 12:3),male,Benjamin,,1,1657
+Pelet_2,Pelet,,son of Azmaveth (1CH 12:3),male,Benjamin,,2,1658
+Beracah_1,Beracah,,the Anathothite (1CH 12:3),male,Benjamin,,1,1659
+Jehu_5,Jehu,,the Anathothite (1CH 12:3),male,Benjamin,,5,1660
+Jeremiah_3,Jeremiah,,1CH 12:4,male,Benjamin,,3,1661
+Jahaziel_1,Jahaziel,,1CH 12:4,male,Benjamin,,1,1662
+Johanan_4,Johanan,,1CH 12:4,male,Benjamin,,4,1663
+Jozabad_1,Jozabad,,the Gederathite (1CH 12:4),male,Benjamin,,1,1664
+Eluzai_1,Eluzai,,1CH 12:5,male,,,1,1665
+Jerimoth_2,Jerimoth,,1CH 12:5,male,,,2,1666
+Bealiah_1,Bealiah,,1CH 12:5,male,,,1,1667
+Shemariah_1,Shemariah,,1CH 12:5,male,,,1,1668
+Shephatiah_3,Shephatiah,,the Haruphite (1CH 12:5),male,,,3,1669
+Elkanah_8,Elkanah,,the Korahite (1CH 12:6),male,Levi,Korahites,8,1670
+Isshiah_2,Isshiah,,the Korahite (1CH 12:6),male,Levi,Korahites,2,1671
+Azarel_1,Azarel,,"the Korahite (1CH 12:6), chosen eleventh by lot (1CH 25:18)",male,Levi,"Korahites, eleventh chosen of the singers (1CH 25:18)",1,1672
+Joezer_1,Joezer,,the Korahite (1CH 12:6),male,Levi,Korahites,1,1673
+Jashobeam_1,Jashobeam,,the Korahite (1CH 12:6),male,Levi,Korahites,1,1674
+Joelah_1,Joelah,,son of Jeroham of Gedor (1CH 12:7),male,,,1,1675
+Zebadiah_3,Zebadiah,,son of Jeroham of Gedor (1CH 12:7),male,,,3,1676
+Jeroham_5,Jeroham,,from Gedor (1CH 12:7),male,,,5,1677
+Ezer_4,Ezer,,first among the Gadites to go to David (1CH 12:9),male,Gad,,4,1678
+Obadiah_6,Obadiah,,second among the Gadites to go to David (1CH 12:9),male,Gad,,6,1679
+Eliab_5,Eliab,,third among the Gadites to go to David (1CH 12:9),male,Gad,,5,1680
+Mishmannah_1,Mishmannah,,fourth among the Gadites to go to David (1CH 12:10),male,Gad,,1,1681
+Jeremiah_4,Jeremiah,,fifth among the Gadites to go to David (1CH 12:10),male,Gad,,4,1682
+Attai_2,Attai,,sixth among the Gadites to go to David (1CH 12:11),male,Gad,,2,1683
+Eliel_6,Eliel,,seventh among the Gadites to go to David (1CH 12:11),male,Gad,,6,1684
+Johanan_5,Johanan,,eighth among the Gadites to go to David (1CH 12:12),male,Gad,,5,1685
+Elzabad_1,Elzabad,,ninth among the Gadites to go to David (1CH 12:12),male,Gad,,1,1686
+Jeremiah_5,Jeremiah,,tenth among the Gadites to go to David (1CH 12:13),male,Gad,,5,1687
+Machbannai_1,Machbannai,,eleventh among the Gadites to go to David (1CH 12:13),male,Gad,,1,1688
+Adnah_1,Adnah,,captain of thousands who defected to David (1CH 12:20),male,Manasseh,,1,1689
+Jozabad_2,Jozabad,,captain of thousands who defected to David (1CH 12:20),male,Manasseh,,2,1690
+Jediael_2,Jediael,,captain of thousands who defected to David (1CH 12:20),male,Manasseh,,2,1691
+Michael_6,Michael,,captain of thousands who defected to David (1CH 12:20),male,Manasseh,,6,1692
+Jozabad_3,Jozabad,,captain of thousands who defected to David (1CH 12:20),male,Manasseh,,3,1693
+Elihu_2,Elihu,,captain of thousands who defected to David (1CH 12:20),male,Manasseh,,2,1694
+Zillethai_2,Zillethai,,captain of thousands who defected to David (1CH 12:20),male,Manasseh,,2,1695
+Joel_7,Joel,,"chief of the sons of Gershom (1CH 15:7), son of Ladan (1CH 23:8)",male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",7,1696
+Shemaiah_7,Shemaiah,,chief of the sons of Elizaphan (1CH 15:8),male,Levi,,7,1697
+Eliel_7,Eliel,,chief of the sons of Hebron (1CH 15:9),male,Levi,,7,1698
+Amminadab_2,Amminadab,,chief of the sons of Uzziel (1CH 15:10),male,Levi,,2,1699
+Zechariah_5,Zechariah,,"second rank Levite, gatekeeper (1CH 15:18), a trumpeter (1CH 15:24)",male,Levi,,5,1700
+Ben_1,Ben,,"second rank Levite, gatekeeper (1CH 15:18)",male,Levi,,1,1701
+Jaaziel_1,Jaaziel,,"second rank Levite, gatekeeper (1CH 15:18)",male,Levi,,1,1702
+Shemiramoth_1,Shemiramoth,,"second rank Levite, gatekeeper (1CH 15:18)",male,Levi,,1,1703
+Jehiel_1,Jehiel,,"second rank Levite, gatekeeper (1CH 15:18), son of Ladan [Libni_1] (1CH 23:8)",male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",1,1704
+Unni_1,Unni,,"second rank Levite, gatekeeper (1CH 15:18)",male,Levi,,1,1705
+Eliab_6,Eliab,,"second rank Levite, gatekeeper (1CH 15:18)",male,Levi,,6,1706
+Benaiah_4,Benaiah,,"second rank Levite, gatekeeper (1CH 15:18), a trumpeter (1CH 15:24)",male,Levi,,4,1707
+Maaseiah_1,Maaseiah,,"second rank Levite, gatekeeper (1CH 15:18)",male,Levi,,1,1708
+Mattithiah_2,Mattithiah,,"second rank Levite, gatekeeper (1CH 15:18)",male,Levi,,2,1709
+Eliphelehu_1,Eliphelehu,,"second rank Levite, gatekeeper (1CH 15:18)",male,Levi,,1,1710
+Mikneiah_1,Mikneiah,,"second rank Levite, gatekeeper (1CH 15:18)",male,Levi,,1,1711
+Obed-edom_2,Obed-edom,,"second rank Levite, gatekeeper (1CH 15:18), the south gate (1CH 26:15)",male,Levi,,2,1712
+Jeiel_3,Jeiel,,"second rank Levite, gatekeeper (1CH 15:18)",male,Levi,,3,1713
+Azaziah_1,Azaziah,,lyre-playing Levite (1CH 1521),male,Levi,,1,1714
+Chenaniah_1,Chenaniah,,"chief of the Levites (1CH 15:22), descendant of Izhar (1CH 26:29)",male,Levi,"Izharites (from Kohath, son of Levi)",1,1715
+Shebaniah_1,Shebaniah,,trumpeter (1CH 15:24),male,Levi,,1,1716
+Joshaphat_2,Joshaphat,,trumpeter (1CH 15:24),male,Levi,,2,1717
+Nethanel_3,Nethanel,,trumpeter (1CH 15:24),male,Levi,,3,1718
+Eliezer_4,Eliezer,,trumpeter (1CH 15:24),male,Levi,,4,1719
+Hosah_1,Hosah,,"one of the gatekeepers (1CH 16:38), to the west (1CH 26:16)",male,Levi,,1,1720
+Lahmi_1,Lahmi,,the brother of Goliath the Gittite (1CH 20:5),male,,,1,1721
+Satan_1,Satan,,1CH 21:1,male,,,1,1722
+Zetham_1,Zetham,,son of Ladan [Libni_1] (1CH 23:8),male,Levi,,1,1723
+Shimei_9,Shimei,,"1CH 23:9- son of Ladan [Libni_1] as he was included in the ""fathers' households of Ladan""",male,Levi,,9,1724
+Shelomoth_1,Shelomoth,,son of Shimei_8 within the family of Ladan (1CH 23:9) ,male,Levi,,1,1725
+Haziel_1,Haziel,,son of Shimei_8 within the family of Ladan (1CH 23:9) ,male,Levi,,1,1726
+Haran_3,Haran,,son of Shimei_8 within the family of Ladan (1CH 23:9) ,male,Levi,,3,1727
+Jahath_4,Jahath,,descendant of Shimei_1 (1CH 23:10),male,Levi,,4,1728
+Zina_1,Zina,,descendant of Shimei_1 (1CH 23:10),male,Levi,,1,1729
+Jeush_4,Jeush,,descendant of Shimei_1 (1CH 23:10),male,Levi,,4,1730
+Beriah_4,Beriah,,descendant of Shimei_1 (1CH 23:10),male,Levi,,4,1731
+Shebuel_1,Shebuel,,"descendant of Gershom (1CH 23:16), officer over the treasures (1CH 26:24)",male,Levi,"from Gershom, son of Moses",1,1732
+Rehabiah_1,Rehabiah,,descendant of Eliezer (1CH 23:17),male,Levi,,1,1733
+Shelomith_2,Shelomith,,descendant of Izhar (1CH 23:18),male,Levi,"Izharites (from Kohath, son of Levi)",2,1734
+Jeriah_1,Jeriah,,"descendant of Hebron (1CH 23:19), chief among the Hebronites from Jazer of Gilead (1CH 26:31)",male,Levi,"Hebronites (from Kohath, son of Levi)",1,1735
+Amariah_3,Amariah,,descendant of Hebron (1CH 23:19),male,Levi,"Hebronites (from Kohath, son of Levi)",3,1736
+Jahaziel_2,Jahaziel,,descendant of Hebron (1CH 23:19),male,Levi,"Hebronites (from Kohath, son of Levi)",2,1737
+Jekameam_1,Jekameam,,descendant of Hebron (1CH 23:19),male,Levi,"Hebronites (from Kohath, son of Levi)",1,1738
+Micah_3,Micah,,descendant of Uzziel (1CH 23:20),male,Levi,,3,1739
+Isshiah_3,Isshiah,,descendant of Uzziel (1CH 23:20),male,Levi,,3,1740
+Eleazar_4,Eleazar,,descendant of Mahli (1CH 23:21),male,Levi,"Mahlites (from Merari, son of Levi)",4,1741
+Kish_3,Kish,,descendant of Mahli (1CH 23:21),male,Levi,"Mahlites (from Merari, son of Levi)",3,1742
+Mahli_3,Mahli,,descendant of Mushi (1CH 23:23),male,Levi,"Mushites (from Mushi, from Merari, son of Levi)",3,1743
+Eder_2,Eder,,descendant of Mushi (1CH 23:23),male,Levi,"Mushites (from Mushi, from Merari, son of Levi)",2,1744
+Jeremoth_3,Jeremoth,,descendant of Mushi (1CH 23:23),male,Levi,"Mushites (from Mushi, from Merari, son of Levi)",3,1745
+Shemaiah_8,Shemaiah,,son of Nethanel the scribe (1CH 24:6),male,Levi,,8,1746
+Nethanel_4,Nethanel,,"the scribe, father of Shemaiah (1CH 24:6)",male,Levi,,4,1747
+Harim_1,Harim,,third-chosen priest for the twenty-four courses (1CH 24:8),male,Levi,"In the line of Eleazar (1CH 24:6, 8)",1,1748
+Seorim_1,Seorim,,fourth-chosen priest for the twenty-four courses (1CH 24:8),male,Levi,"In the line of Ithamar (1CH 24:6, 8)",1,1749
+Mijamin_1,Mijamin,,sixth-chosen priest for the twenty-four courses (1CH 24:9),male,Levi,"In the line of Ithamar (1CH 24:6, 9)",1,1750
+Hakkoz_1,Hakkoz,,seventh-chosen priest for the twenty-four courses (1CH 24:10),male,Levi,"In the line of Eleazar (1CH 24:6, 10)",1,1751
+Abijah_5,Abijah,,eighth-chosen priest for the twenty-four courses (1CH 24:10),male,Levi,"In the line of Ithamar (1CH 24:6, 10).  *NOT Abijah_1, the son of Samuel, who was in the line of Korah",5,1752
+Jeshua_1,Jeshua,,ninth-chosen priest for the twenty-four courses (1CH 24:11),male,Levi,"In the line of Eleazar (1CH 24:6, 11)",1,1753
+Shecaniah_2,Shecaniah,,tenth-chosen priest for the twenty-four courses (1CH 24:11),male,Levi,"In the line of Ithamar (1CH 24:6, 11)",2,1754
+Eliashib_2,Eliashib,,eleventh-chosen priest for the twenty-four courses (1CH 24:12),male,Levi,"In the line of Eleazar (1CH 24:6, 12)",2,1755
+Jakim_2,Jakim,,twelfth-chosen priest for the twenty-four courses (1CH 24:12),male,Levi,"In the line of Ithamar (1CH 24:6, 12)",2,1756
+Huppah_1,Huppah,,thirteenth-chosen priest for the twenty-four courses (1CH 24:13),male,Levi,"In the line of Eleazar (1CH 24:6, 13)",1,1757
+Jeshebeab_1,Jeshebeab,,fourteenth-chosen priest for the twenty-four courses (1CH 24:13),male,Levi,"In the line of Ithamar (1CH 24:6, 13)",1,1758
+Bilgah_1,Bilgah,,fifteenth-chosen priest for the twenty-four courses (1CH 24:14),male,Levi,"In the line of Eleazar (1CH 24:6, 14)",1,1759
+Immer_2,Immer,,sixteenth-chosen priest for the twenty-four courses (1CH 24:14),male,Levi,"In the line of Ithamar (1CH 24:6, 14)",2,1760
+Hezir_1,Hezir,,seventeenth-chosen priest for the twenty-four courses (1CH 24:15),male,Levi,"In the line of Eleazar (1CH 24:6, 15)",1,1761
+Happizzez_1,Happizzez,,eighteenth-chosen priest for the twenty-four courses (1CH 24:15),male,Levi,"In the line of Ithamar (1CH 24:6, 15)",1,1762
+Pethahiah_1,Pethahiah,,nineteenth-chosen priest for the twenty-four courses (1CH 24:16),male,Levi,"In the line of Eleazar (1CH 24:6, 16)",1,1763
+Jehezkel_1,Jehezkel,,twentieth-chosen priest for the twenty-four courses (1CH 24:16),male,Levi,"In the line of Ithamar (1CH 24:6, 16)",1,1764
+Gamul_1,Gamul,,twenty-second-chosen priest for the twenty-four courses (1CH 24:17),male,Levi,"In the line of Ithamar (1CH 24:6, 17)",1,1765
+Delaiah_2,Delaiah,,twenty-third-chosen priest for the twenty-four courses (1CH 24:18),male,Levi,"In the line of Eleazar (1CH 24:6, 18)",2,1766
+Maaziah_1,Maaziah,,twenty-fourth-chosen priest for the twenty-four courses (1CH 24:18),male,Levi,"In the line of Ithamar (1CH 24:6, 18)",1,1767
+Jehdeiah_1,Jehdeiah,,"son of Shebuel (Shubael), son of Gershom, son of Moses (1CH 24:20)",male,Levi,,1,1768
+Isshiah_4,Isshiah,,"son of Rehabiah, son of Eliezer, son of Moses (1CH 24:21)",male,Levi,,4,1769
+Jahath_5,Jahath,,"son of Shelomith (Shelomoth), son of Izhar (1CH 24:22)",male,Levi,"Izharites (from Kohath, son of Levi)",5,1770
+Shamir_1,Shamir,,"son of Micah, son of Uzziel (1CH 24:24)",male,Levi,"Izharites (from Kohath, son of Levi)",1,1771
+Zechariah_6,Zechariah,,son of Isshiah (1CH 24:25),male,Levi,"Izharites (from Kohath, son of Levi)",6,1772
+Jaaziah_1,Jaaziah,,descendant of Merari (1CH 24:27),male,Levi,Merarites (from Merari son of Levi),1,1773
+Beno_1,Beno,,son of Jaaziah (1CH 24:27),male,Levi,Merarites (from Merari son of Levi),1,1774
+Shoham_1,Shoham,,son of Jaaziah (1CH 24:27),male,Levi,Merarites (from Merari son of Levi),1,1775
+Zaccur_3,Zaccur,,son of Jaaziah (1CH 24:27),male,Levi,Merarites (from Merari son of Levi),3,1776
+Ibri_1,Ibri,,son of Jaaziah (1CH 24:27),male,Levi,Merarites (from Merari son of Levi),1,1777
+Eleazar_5,Eleazar,,descendant of Mahli (1CH 24:28),male,Levi,,5,1778
+Jerahmeel_2,Jerahmeel,,"son of Kish, descendant of Mahli (1CH 24:29)",male,Levi,,2,1779
+Zaccur_4,Zaccur,,"son of Asaph_2 (1CH 25:2), chosen third by lot (1CH 25:10)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), third chosen of the singers (1CH 25:10)",4,1780
+Joseph_3,Joseph,,son of Asaph_2 (1CH 25:2),male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), first chosen of the singers (1CH 25:9)",3,1781
+Nethaniah_2,Nethaniah,,"son of Asaph_2 (1CH 25:2), chosen fifth by lot (1CH 25:12)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), fifth chosen of the singers (1CH 25:12)",2,1782
+Asharelah_1,Asharelah,,"son of Asaph_2 (1CH 25:2), chosen seventh by lot (1CH 25:14)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), seventh chosen of the singers (1CH 25:14)",1,1783
+Jeduthun_2,Jeduthun,,father of six sons (1CH 25:3),male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1)",2,1784
+Gedaliah_2,Gedaliah,,"son of Jeduthun (1CH 25:3), chosen second by lot (1CH 25:9)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), second chosen of the singers (1CH 25:9)",2,1785
+Zeri_1,Zeri,,"son of Jeduthun (1CH 25:3), chosen fourth by log (1CH 25:11)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), fourth chosen of the singers (1CH 25:11)",1,1786
+Jeshaiah_2,Jeshaiah,,"son of Jeduthun (1CH 25:3), chosen eighth by lot (1CH 25:15)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), eighth chosen of the singers (1CH 25:15)",2,1787
+Shimei_10,Shimei,,"son of Jeduthun (1CH 25:3), chosen tenth by lot (1CH 25:17)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), tenth chosen of the singers (1CH 25:17)",10,1788
+Hashabiah_2,Hashabiah,,"son of Jeduthun (1CH 25:3), chosen twelfth by lot (1CH 25:19), descendant of Hebron (1CH 26:30)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), twelfth chosen of the singers (1CH 25:19)",2,1789
+Mattithiah_3,Mattithiah,,"son of Jeduthun (1CH 25:3), chosen fourteenth by lot (1CH 25:21)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), fourteenth chosen of the singers (1CH 25:21)",3,1790
+Bukkiah_1,Bukkiah,,"son of Heman_3 (1CH 25:4), chosen sixth by lot (1CH 25:13)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), sixth chosen of the singers (1CH 25:13)",1,1791
+Mattaniah_3,Mattaniah,,"son of Heman_3 (1CH 25:4), chosen ninth by lot (1CH 25:16)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), ninth chosen of the singers (1CH 25:16)",3,1792
+Uzziel_4,Uzziel,,son of Heman_3 (1CH 25:4),male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1)",4,1793
+Shebuel_2,Shebuel,,"son of Heman_3 (1CH 25:4), chosen thirteenth by lot (1CH 25:20)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), thirteenth chosen of the singers (1CH 25:20)",2,1794
+Jerimoth_3,Jerimoth,,"son of Heman_3 (1CH 25:4), chosen fifteenth by lot (1CH 25:22)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), fifteenth chosen of the singers (1CH 25:22)",3,1795
+Hananiah_3,Hananiah,,"son of Heman_3 (1CH 25:4), chosen sixteenth by lot (1CH 25:23)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), sixteenth chosen of the singers (1CH 25:23)",3,1796
+Hanani_2,Hanani,,"son of Heman_3 (1CH 25:4), chosen eighteenth by lot (1CH 25:25)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), eighteenth chosen of the singers (1CH 25:25)",2,1797
+Eliathah_1,Eliathah,,"son of Heman_3 (1CH 25:4), chosen twentieth by lot (1CH 25:27)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), twentieth chosen of the singers (1CH 25:27)",1,1798
+Giddalti_1,Giddalti,,"son of Heman_3 (1CH 25:4), chosen twenty-second by lot (1CH 25:29)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), twenty-second chosen of the singers (1CH 25:29)",1,1799
+Romamti-ezer_1,Romamti-ezer,,"son of Heman_3 (1CH 25:4), chosen twenty-fourth by lot (1CH 25:31)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), twenty-fourth chosen of the singers (1CH 25:31)",1,1800
+Joshbekashah_1,Joshbekashah,,"son of Heman_3 (1CH 25:4), chosen seventeenth by lot (1CH 25:24)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), seventeenth chosen of the singers (1CH 25:24)",1,1801
+Mallothi_1,Mallothi,,"son of Heman_3 (1CH 25:4), chosen nineteenth by lot (1CH 25:26)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), nineteenth chosen of the singers (1CH 25:26)",1,1802
+Hothir_1,Hothir,,"son of Heman_3 (1CH 25:4), chosen twenty-first by lot (1CH 25:28)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), twenty-first chosen of the singers (1CH 25:28)",1,1803
+Mahazioth_1,Mahazioth,,"son of Heman_3 (1CH 25:4), chosen twenty-third by lot (1CH 25:30)",male,Levi,"set apart to prophesy with lyres, harps, and cymbals (1CH 25:1), twenty-third chosen of the singers (1CH 25:30)",1,1804
+Jediael_3,Jediael,,second-born son of Meshelemiah [Shallum_7] (1CH 26:2),male,Levi,,3,1805
+Zebadiah_4,Zebadiah,,third-born son of Meshelemiah [Shallum_7] (1CH 26:2),male,Levi,,4,1806
+Jathniel_1,Jathniel,,fourth-born son of Meshelemiah [Shallum_7] (1CH 26:2),male,Levi,,1,1807
+Elam_3,Elam,,fifth-born son of Meshelemiah [Shallum_7] (1CH 26:3),male,Levi,,3,1808
+Johanan_6,Johanan,,sixth-born son of Meshelemiah [Shallum_7] (1CH 26:3),male,Levi,,6,1809
+Eliehoenai_1,Eliehoenai,,seventh-born son of Meshelemiah [Shallum_7] (1CH 26:3),male,Levi,,1,1810
+Shemaiah_9,Shemaiah,,firstborn son of Obed-edom (1CH 26:4),male,Levi,,9,1811
+Jehozabad_2,Jehozabad,,second-born son of Obed-edom (1CH 26:4),male,Levi,,2,1812
+Joah_3,Joah,,third-born son of Obed-edom (1CH 26:4),male,Levi,,3,1813
+Sacar_1,Sacar,,fourth-born son of Obed-edom (1CH 26:4),male,Levi,,1,1814
+Nethanel_5,Nethanel,,fifth-born son of Obed-edom (1CH 26:4),male,Levi,,5,1815
+Ammiel_3,Ammiel,,sixth-born son of Obed-edom (1CH 26:4),male,Levi,,3,1816
+Issachar_2,Issachar,,seventh-born son of Obed-edom (1CH 26:4),male,Levi,,2,1817
+Peullethai_1,Peullethai,,eighth-born son of Obed-edom (1CH 26:4),male,Levi,,1,1818
+Othni_1,Othni,,son of Shemaiah [Shemaiah_9] (1CH 26:7),male,Levi,,1,1819
+Rephael_1,Rephael,,son of Shemaiah [Shemaiah_9] (1CH 26:7),male,Levi,,1,1820
+Obed_4,Obed,,son of Shemaiah [Shemaiah_9] (1CH 26:7),male,Levi,,4,1821
+Elzabad_2,Elzabad,,son of Shemaiah [Shemaiah_9] (1CH 26:7),male,Levi,,2,1822
+Elihu_3,Elihu,,"son of Shemaiah [Shemaiah_9], a valiant man (1CH 26:7)",male,Levi,,3,1823
+Semachiah_1,Semachiah,,"son of Shemaiah [Shemaiah_9], a valiant man (1CH 26:7)",male,Levi,,1,1824
+Shimri_3,Shimri,,son of Hosah- made firstborn (1CH 26:10),male,Levi,,3,1825
+Hilkiah_5,Hilkiah,,second-born son of Hosah (1CH 26:11),male,Levi,,5,1826
+Tebaliah_1,Tebaliah,,third-born son of Hosah (1CH 26:11),male,Levi,,1,1827
+Zechariah_7,Zechariah,,fourth-born son of Hosah (1CH 26:11),male,Levi,,7,1828
+Shuppim_1,Shuppim,,gatekeeper to the west (1CH 26:16),male,Levi,,1,1829
+Joram_2,Joram,,son of Jeshaiah [Isshiah_4] (1CH 26:25),male,Levi,,2,1830
+Zichri_6,Zichri,,son of Joram (1CH 26:25),male,Levi,,6,1831
+Shelomoth_2,Shelomoth,,son of Zichri (1CH 26:25)- had charge of treasures and gifts from David and others (1CH 26:26),male,Levi,,2,1832
+Jashobeam_2,Jashobeam,,had charge of the first division for the first month (1CH 27:2),male,Judah,,2,1833
+Zabdiel_1,Zabdiel,,"father of Jashobeam (1CH 27:2), descendant of Perez (1CH 27:3)",male,Judah,,1,1834
+Dodai_1,Dodai,,"the Ahohite, had charge of the second division for the second month (1CH 27:4)",male,,,1,1835
+Mikloth_2,Mikloth,,chief officer of Dodai's second division (1CH 27:4),male,,,2,1836
+Ammizabad_1,Ammizabad,,"son of Benaiah, over the third division (1CH 27:6)",male,,,1,1837
+Zebadiah_5,Zebadiah,,"son of Asahel, over the fourth division (1CH 27:7)",male,,,5,1838
+Shamhuth_1,Shamhuth,,"the Izrahite, charge over the fifth division (1CH 27:8)",male,,,1,1839
+Heldai_1,Heldai,,"the Netophathite of Othniel, over the twelfth division (1CH 27:15)",male,Judah,,1,1840
+Eliezer_5,Eliezer,,"chief officer for the Reubenites, son of Zichri (1CH 27:16)",male,Reuben,,5,1841
+Zichri_7,Zichri,,father of Eliezer (1CH 27:16),male,Reuben,,7,1842
+Shephatiah_4,Shephatiah,,"chief officer for the Simeonites, son of Maacah (1CH 27:16)",male,Simeon,,4,1843
+Maacah_8,Maacah,,father of Shephatiah (1CH 27:16),male,Simeon,,8,1844
+Hashabiah_3,Hashabiah,,"chief officer for the Levites, son of Kemuel (1CH 27:17)",male,Levi,,3,1845
+Kemuel_3,Kemuel,,father of Hashabiah (1CH 27:17),male,Levi,,3,1846
+Elihu_4,Elihu,,"chief officer for the Judahites, brother of David (1CH 27:18)",male,Judah,,4,1847
+Omri_4,Omri,,"chief officer for the Issacharites, son of Michael_4 (1CH 27:18)",male,Issachar,,4,1848
+Ishmaiah_1,Ishmaiah,,"chief officer for the Zebulunites, son of Obadiah (1CH 27:19)",male,Zebulun,,1,1849
+Obadiah_7,Obadiah,,father of Ishmaiah (1CH 27:19),male,Zebulun,,7,1850
+Jeremoth_4,Jeremoth,,"chief officer for the Naphtalites, son of Azriel (1CH 27:19)",male,Naphtali,,4,1851
+Azriel_2,Azriel,,father of Jeremoth (1CH 27:19),male,Naphtali,,2,1852
+Hoshea_2,Hoshea,,"chief officer for the Ephraimites, son of Azaziah (1CH 27:20)",male,Ephraim,,2,1853
+Azaziah_2,Azaziah,,father of Hoshea (1CH 27:20),male,Ephraim,,2,1854
+Joel_8,Joel,,"chief officer for the Manassehites, son of Pedaiah (1CH 27:20)",male,Manasseh,,8,1855
+Pedaiah_3,Pedaiah,,father of Joel (1CH 27:20),male,Manasseh,,3,1856
+Iddo_3,Iddo,,"chief officer for the Manassehites in Gilead, son of Zechariah (1CH 27:21)",male,Manasseh,,3,1857
+Zechariah_8,Zechariah,,father of Iddo (1CH 27:21),male,Manasseh,,8,1858
+Jaasiel_2,Jaasiel,,"chief officer for the Benjaminites, son of Abner (1CH 27:21)",male,Benjamin,,2,1859
+Azarel_2,Azarel,,"chief officer for the Danites, son of Jeroham (1CH 27:22)",male,Dan,,2,1860
+Jeroham_6,Jeroham,,father of Azarel (1CH 27:22),male,Dan,,6,1861
+Azmaveth_3,Azmaveth,,"in charge of the king's storehouses, son of Adiel (1CH 27:25)",male,Levi,Levi assuming Adiel_2 is his father,3,1862
+Jonathan_7,Jonathan,,"in charge of the other storehouses, son of Uzziah (1CH 27:25)",male,Levi,Levi assuming Uzziah_1 is his father,7,1863
+Ezri_1,Ezri,,"in charge of David's agricultural workers, son of Chelub (1CH 27:26)",male,Judah,Judah assuming Chelub_1 is his father,1,1864
+Shimei_11,Shimei,,the Ramathite in charge of David's vineyards (1CH 27:26),male,,,11,1865
+Zabdi_3,Zabdi,,the Shiphmite in charge of David's vineyard produce (1CH 27:27),male,,,3,1866
+Baal-hanan_2,Baal-hanan,,the Gederite in charge of David's olive & sycamore trees (1CH 27:28),male,,,2,1867
+Joash_8,Joash,,in charge of the David's stores of oil (1CH 27:28),male,,,8,1868
+Shitrai_1,Shitrai,,the Sharonite in charge of David's cattle in Sharon (1CH 27:29),male,,,1,1869
+Shaphat_5,Shaphat,,"in charge of David's cattle in the valleys, son of Adlai (1CH 27:29)",male,,,5,1870
+Adlai_1,Adlai,,father of Shaphat (1CH 27:29),male,,,1,1871
+Obil_1,Obil,,Ishmaelite in charge of David's camels (1CH 27:30),male,Ishmael,,1,1872
+Jehdeiah_2,Jehdeiah,,the Meronothite in charge of David's donkeys (1CH 27:30),male,,,2,1873
+Jaziz_1,Jaziz,,the Hagrite in charge of David's flocks (1CH 27:31),male,,,1,1874
+Jehiel_2,Jehiel,,"son of Hachmoni, tutored David's sons (1CH 27:32)",male,,,2,1875
+Hachmoni_1,Hachmoni,,"father of Jehiel, the tutor of David's sons (1CH 27:32)",male,,,1,1876
+Huram-abi_1,Huram-abi,,"skilled craftsman, son of a Danite woman and Tyrian father (2CH 2:13)",male,,,1,1877
+Iddo_4,Iddo,,the seer who had visions concerning Jeroboam (2CH 9:29),male,,,4,1878
+Hadoram_2,Hadoram,,sent by Rehoboam to the people but was stoned to death (2CH 10:18),male,,,2,1879
+Mahalath_2,Mahalath,,daughter of Jerimoth and Abihail and wife of Rehoboam (2CH 11:18),male,,,2,1880
+Jerimoth_4,Jerimoth,,the son of David (2CH 11:18),male,,,4,1881
+Abihail_4,Abihail,,the daughter of Eliab_3 (2CH 11:18),female,,,4,1882
+Jeush_5,Jeush,,son of Rehoboam and Mahalath (2CH 11:18),male,Judah,,5,1883
+Shemariah_2,Shemariah,,son of Rehoboam and Mahalath (2CH 11:18),male,Judah,,2,1884
+Zaham_1,Zaham,,son of Rehoboam and Mahalath (2CH 11:18),male,Judah,,1,1885
+Attai_3,Attai,,son of Rehoboam and Maacah (2CH 11:20),male,Judah,,3,1886
+Ziza_2,Ziza,,son of Rehoboam and Maacah (2CH 11:20),male,Judah,,2,1887
+Shelomith_3,Shelomith,,son of Rehoboam and Maacah (2CH 11:20),male,Judah,,3,1888
+Uriel_2,Uriel,,father of Maacah [Micaiah] (2CH 13:2),male,,,2,1889
+Zerah_6,Zerah,,the Ethiopian (2CH 14:9),male,,,6,1890
+Azariah_9,Azariah,,"the prophet, son of Oded (2CH 15:1)",male,,,9,1891
+Oded_1,Oded,,father of Azariah (2CH 15:1),male,,,1,1892
+Ben-hail_1,Ben-hail,,"official of Jehoshaphat, sent to teach (2CH 17:7)",male,,,1,1893
+Obadiah_8,Obadiah,,"official of Jehoshaphat, sent to teach (2CH 17:7)",male,,,8,1894
+Zechariah_9,Zechariah,,"official of Jehoshaphat, sent to teach (2CH 17:7)",male,,,9,1895
+Nethanel_6,Nethanel,,"official of Jehoshaphat, sent to teach (2CH 17:7)",male,,,6,1896
+Micaiah_3,Micaiah,,"official of Jehoshaphat, sent to teach (2CH 17:7)",male,,,3,1897
+Shemaiah_10,Shemaiah,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,10,1898
+Nethaniah_3,Nethaniah,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,3,1899
+Zebadiah_6,Zebadiah,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,6,1900
+Asahel_2,Asahel,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,2,1901
+Shemiramoth_2,Shemiramoth,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,2,1902
+Jehonathan_1,Jehonathan,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,1,1903
+Adonijah_2,Adonijah,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,2,1904
+Tobijah_1,Tobijah,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,1,1905
+Tobadonijah_1,Tobadonijah,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,1,1906
+Elishama_5,Elishama,,priest sent by Jehoshaphat (2CH 17:8),male,Levi,,5,1907
+Jehoram_3,Jehoram,,priest sent by Jehoshaphat (2CH 17:8),male,Levi,,3,1908
+Adnah_2,Adnah,,"commander of 300,000 under Jehoshaphat (2CH 17:14)",male,,,2,1909
+Johanan_7,Johanan,,"commander of 280,000 under Jehoshaphat (2CH 17:15)",male,,,7,1910
+Amasiah_1,Amasiah,,"son of Zichri, commander of 200,000 under Jehoshaphat (2CH 17:16)",male,,,1,1911
+Zichri_8,Zichri,,father of Amasiah (2CH 17:16),male,,,8,1912
+Eliada_3,Eliada,,"commander of 200,000 under Jehoshaphat (2CH 17:17)",male,Benjamin,,3,1913
+Jehozabad_3,Jehozabad,,"commander of 180,000 under Jehoshaphat (2CH 17:18)",male,,,3,1914
+Zebadiah_7,Zebadiah,,"son of Ishmael, in charge of all that pertains to the king (2CH 19:11)",male,,,7,1915
+Ishmael_4,Ishmael,,father of Zebadiah (2CH 19:11),male,,,4,1916
+Jahaziel_3,Jahaziel,,the Spirit of the Lord came upon him during Jehoshaphat's reign (2CH 20:14),male,Levi,,3,1917
+Zechariah_10,Zechariah,,father of Jahaziel and son of Benaiah (2CH 20:14),male,Levi,,10,1918
+Benaiah_5,Benaiah,,son of Jeiel (2CH 20:14),male,Levi,,5,1919
+Jeiel_4,Jeiel,,son of Mattaniah (2CH 20:14),male,Levi,,4,1920
+Eliezer_6,Eliezer,,"prophet, son of Dodavahu (2CH 20:37)",male,,,6,1921
+Dodavahu_1,Dodavahu,,"of Mareshah, father of Eliezer the prophet (2CH 20:37)",male,,,1,1922
+Azariah_10,Azariah,,son of Jehoshaphat (2CH 21:2),male,Judah,,10,1923
+Jehiel_3,Jehiel,,son of Jehoshaphat (2CH 21:2),male,Judah,,3,1924
+Zechariah_11,Zechariah,,son of Jehoshaphat (2CH 21:2),male,Judah,,11,1925
+Azaryahu_1,Azaryahu,,son of Jehoshaphat (2CH 21:2),male,Judah,,1,1926
+Michael_7,Michael,,son of Jehoshaphat (2CH 21:2),male,Judah,,7,1927
+Sephatiah_1,Sephatiah,,son of Jehoshaphat (2CH 21:2),male,Judah,,1,1928
+Azariah_11,Azariah,,"son of Jeroham (2CH 23:1), supported Joash as king of Judah",male,,,11,1929
+Jeroham_7,Jeroham,,father of Azariah (2CH 23:1),male,,,7,1930
+Ishmael_5,Ishmael,,"son of Johanan (2CH 23:1), supported Joash as king of Judah",male,,,5,1931
+Johanan_8,Johanan,,father of Ishmael (2CH 23:1),male,,,8,1932
+Azariah_12,Azariah,,"son of Obed (2CH 23:1), supported Joash as king of Judah",male,,,12,1933
+Obed_5,Obed,,father of Azariah (2CH 23:1),male,,,5,1934
+Maaseiah_2,Maaseiah,,"son of Adaiah (2CH 23:1), supported Joash as king of Judah",male,,,2,1935
+Adaiah_5,Adaiah,,father of Maaseiah (2CH 23:1),male,,,5,1936
+Elishaphat_1,Elishaphat,,"son of Zichri (2CH 23:1), supported Joash as king of Judah",male,,,1,1937
+Zichri_9,Zichri,,father of Elishaphat (2CH 23:1),male,,,9,1938
+Zechariah_12,Zechariah,,son of Jehoiada the priest (2CH 24:20),male,Levi,stoned to death in the court of the house of the Lord (2CH 24:21),12,1939
+King of Damascus_1,King of Damascus,,received the spoil of Judah from the Arameans (2CH 24:23),male,,,1,1940
+Jeiel_5,Jeiel,,the scribe who prepared Uzziah's army divisions (2CH 26:11),male,,,5,1941
+Maaseiah_3,Maaseiah,,the official who prepared Uzziah's army divisions (2CH 26:11),male,,,3,1942
+Hananiah_4,Hananiah,,the king's officer over Jeiel and Maaseiah (2CH 26:11),male,,,4,1943
+King of the Ammonites_1,King of the Ammonites,,defeated by King Jotham (2CH 27:5),male,,,1,1944
+King of Aram_1,King of Aram,,defeated King Ahaz of Judah (2CH 28:5),male,,,1,1945
+Zichri_10,Zichri,,a mighty man of Ephraim (2CH 28:7),male,Ephraim,,10,1946
+Maaseiah_4,Maaseiah,,son of King Ahaz (2CH 28:7),male,Judah,,4,1947
+Azrikam_4,Azrikam,,ruler of the house (2CH 28:7),male,,,4,1948
+Elkanah_9,Elkanah,,second to King Ahaz (2CH 28:7),male,,,9,1949
+_0,,,,,,,0,1950
+_0,,,,,,,0,1951
+_0,,,,,,,0,1952
+_0,,,,,,,0,1953
+_0,,,,,,,0,1954
+_0,,,,,,,0,1955
+_0,,,,,,,0,1956
+_0,,,,,,,0,1957
 _,,,,,,,,
 Jucam_1,Jucam,,son of Ezer in Rahlf's Septuaginta (GEN 36:27),male,,name is not present in the BHS Hebrew text but is present in Rahlfs Septuaginta,1,
 Abdeel_1,Abdeel,,son of Dedan in Rahlf's Septuaginta (GEN 25:3),male,,name is not present in the BHS Hebrew text but is present in Rahlfs Septuaginta,1,
@@ -1953,3 +1963,26 @@ Reuel_4,Reuel,,son of Dedan in Rahlf's Septuaginta (GEN 25:3),male,,name is not 
 Tema_2,Tema,,son of Jokshan in Rahlf's Septuaginta (GEN 25:3),male,,name is not present in the BHS Hebrew text but is present in Rahlfs Septuaginta,2,
 Elishah_2,Elishah,,son of Japheth in Rahlf's Septuaginta (GEN 10:2),male,,name is not present in the BHS Hebrew text but is present in Rahlfs Septuaginta,2,
 Zaboud_1,Zaboud,,son of Hammuel and father of Zaccur (1CH 4:26),male,,name is not present in the BHS Hebrew text but is present in Rahlfs Septuaginta,1,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
