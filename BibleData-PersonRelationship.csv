@@ -3939,10 +3939,25 @@ Korah_3:Imnah_2:3937,3937,Korah_3,ancestor,Imnah_2,inferred,1CH 9:19,Imnah is th
 Imnah_2:Korah_3:3938,3938,Imnah_2,descendant,Korah_3,inferred,1CH 9:19,Imnah is the father of Kore (2CH 31:14) who is a decsendant of Korah (1CH 9:19)
 Imnah_2:Kore_1:3939,3939,Imnah_2,father,Kore_1,inferred,2CH 31:14,
 Kore_1:Imnah_2:3940,3940,Kore_1,son,Imnah_2,explicit,2CH 31:14,
-::3941,3941,,,,,,
-::3942,3942,,,,,,
-,,,,,,,
-,,,,,,,
+Levi_1:Miniamin_1:3941,3941,Levi_1,father,Miniamin_1,inferred,2CH 31:15,inferred that these are Levites serving their brothers
+Miniamin_1:Levi_1:3942,3942,Miniamin_1,son,Levi_1,inferred,2CH 31:15,inferred that these are Levites serving their brothers
+Levi_1:Jeshua_2:3943,3943,Levi_1,father,Jeshua_2,inferred,2CH 31:15,inferred that these are Levites serving their brothers
+Jeshua_2:Levi_1:3944,3944,Jeshua_2,son,Levi_1,inferred,2CH 31:15,inferred that these are Levites serving their brothers
+Levi_1:Shemaiah_12:3945,3945,Levi_1,father,Shemaiah_12,inferred,2CH 31:15,inferred that these are Levites serving their brothers
+Shemaiah_12:Levi_1:3946,3946,Shemaiah_12,son,Levi_1,inferred,2CH 31:15,inferred that these are Levites serving their brothers
+Levi_1:Amariah_4:3947,3947,Levi_1,father,Amariah_4,inferred,2CH 31:15,inferred that these are Levites serving their brothers
+Amariah_4:Levi_1:3948,3948,Amariah_4,son,Levi_1,inferred,2CH 31:15,inferred that these are Levites serving their brothers
+Levi_1:Shecaniah_3:3949,3949,Levi_1,father,Shecaniah_3,inferred,2CH 31:15,inferred that these are Levites serving their brothers
+Shecaniah_3:Levi_1:3950,3950,Shecaniah_3,son,Levi_1,inferred,2CH 31:15,inferred that these are Levites serving their brothers
+Joahaz_1:Joah_4:3951,3951,Joahaz_1,father,Joah_4,inferred,2CH 34:8,
+Joah_4:Joahaz_1:3952,3952,Joah_4,son,Joahaz_1,explicit,2CH 34:8,
+::3953,3953,,,,,,
+::3954,3954,,,,,,
+::3955,3955,,,,,,
+::3956,3956,,,,,,
+::3957,3957,,,,,,
+::3958,3958,,,,,,
+::3959,3959,,,,,,
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,

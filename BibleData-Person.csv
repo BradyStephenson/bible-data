@@ -942,7 +942,7 @@ Hilkiah_1,Hilkiah,,father of Eliakim (2KI 18:18),male,,,1,940
 Shebnah_1,Shebnah,,Hezekiah's scribe (2KI 18:18),male,,,1,941
 Joah_1,Joah,,Hezekiah's recorder (2KI 18:18),male,,,1,942
 Asaph_1,Asaph,,father of Joah (2KI 18:18),male,,,1,943
-Isaiah_1,Isaiah,,the prophet (2KI 19:2),male,,,1,944
+Isaiah_1,Isaiah,,the prophet  and son of Amoz (2KI 19:2),male,,,1,944
 Amoz_1,Amoz,,father of Isaiah (2KI 19:2),male,,,1,945
 Tirhakah_1,Tirhakah,,King of Cush (2KI 19:9),male,,,1,946
 Adrammelech_1,Adrammelech,,killed King Sennacherib of Assyria (2KI 19:37),male,,,1,947
@@ -950,7 +950,7 @@ Sharezer_1,Sharezer,,killed King Sennacherib of Assyria (2KI 19:37),male,,,1,948
 Esarhaddon_1,Esarhaddon,,King of Assyria and son of Sennacherib (2KI 19:37),male,,,1,949
 Berodach-baladan_1,Berodach-baladan,,King of Babylon (2KI 20:12),male,,,1,950
 Baladan_1,Baladan,,father of Berodach-baladan (2KI 20:12),male,,,1,951
-Manasseh_3,Manasseh,,King of Judah and son of Hezekiah (2KI 20:21) who did evil in the sight of the LORD (2KI 21:2),male,,,3,952
+Manasseh_3,Manasseh,,King of Judah and son of Hezekiah (2KI 20:21).  He did evil in the sight of the LORD. (2KI 21:2),male,,,3,952
 Hephzibah_1,Hephzibah,,mother of King Manasseh (2KI 21:1),female,,,1,953
 Uzza_1,Uzza,,owner of the garden where Manasseh was buried,male,,,1,954
 Amon_2,Amon,,King of Judah and son of Manasseh (2KI 21:18) who did evil in the sight of the Lord (2KI 21:20),male,,,2,955
@@ -959,15 +959,15 @@ Haruz_1,Haruz,,"of Jothbah, father of Meshullemeth (2KI 21:19)",male,,,1,957
 Josiah_2,Josiah,,"King of Judah and son of Amon (2KI 21:24), who did right in the sight of the LORD (2KI 22:2)",male,,,2,958
 Jedidah_1,Jedidah,,mother of Josiah (2KI 22:1),female,,,1,959
 Adaiah_1,Adaiah,,"of Bozkath, father of Jedidah",male,,,1,960
-Shaphan_1,Shaphan,,scribe of King Josiah (2KI 22:3),male,,,1,961
+Shaphan_1,Shaphan,,"scribe of King Josiah (2KI 22:3, 2CH 34:15), sent to repair the house of the Lord (2CH 34:8)",male,,,1,961
 Azaliah_1,Azaliah,,father of Shaphan (2KI 22:3),male,,,1,962
 Meshullam_1,Meshullam,,father of Azaliah (2KI 22:3),male,,,1,963
-Hilkiah_2,Hilkiah,,the high priest of King Josiah's reign (2KI 22:4),male,,,2,964
+Hilkiah_2,Hilkiah,,"the high priest of King Josiah's reign (2KI 22:4, 2CH 34:9)",male,,,2,964
 Ahikam_1,Ahikam,,son of Shaphan (2KI 22:12),male,,,1,965
 Achbor_2,Achbor,,son of Micaiah (2KI 22:12),male,,,2,966
 Micaiah_2,Micaiah,,father of Achbor (2KI 22:12),male,,,2,967
 Asaiah_1,Asaiah,,King Josiah's servant (2KI 22:12),male,,,1,968
-Huldah_1,Huldah,,"the prophetess, wife of Shallum (2KI 22:14)",female,,,1,969
+Huldah_1,Huldah,,"the prophetess, wife of Shallum (2KI 22:14, 2CH 34:22)",female,,,1,969
 Shallum_2,Shallum,,husband of Huldah the prophetess (2KI 22:14),male,,,2,970
 Tikvah_1,Tikvah,,father of Shallum (2KI 22:14),male,,,1,971
 Harhas_1,Harhas,,father of Tikvah (2KI 22:14),male,,,1,972
@@ -1892,98 +1892,119 @@ Zerah_6,Zerah,,the Ethiopian (2CH 14:9),male,,,6,1890
 Azariah_9,Azariah,,"the prophet, son of Oded (2CH 15:1)",male,,,9,1891
 Oded_1,Oded,,father of Azariah (2CH 15:1),male,,,1,1892
 Ben-hail_1,Ben-hail,,"official of Jehoshaphat, sent to teach (2CH 17:7)",male,,,1,1893
-Obadiah_8,Obadiah,,"official of Jehoshaphat, sent to teach (2CH 17:7)",male,,,8,1894
-Zechariah_9,Zechariah,,"official of Jehoshaphat, sent to teach (2CH 17:7)",male,,,9,1895
-Nethanel_6,Nethanel,,"official of Jehoshaphat, sent to teach (2CH 17:7)",male,,,6,1896
-Micaiah_3,Micaiah,,"official of Jehoshaphat, sent to teach (2CH 17:7)",male,,,3,1897
-Shemaiah_10,Shemaiah,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,10,1898
-Nethaniah_3,Nethaniah,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,3,1899
-Zebadiah_6,Zebadiah,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,6,1900
-Asahel_2,Asahel,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,2,1901
-Shemiramoth_2,Shemiramoth,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,2,1902
-Jehonathan_1,Jehonathan,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,1,1903
-Adonijah_2,Adonijah,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,2,1904
-Tobijah_1,Tobijah,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,1,1905
-Tobadonijah_1,Tobadonijah,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,1,1906
-Elishama_5,Elishama,,priest sent by Jehoshaphat (2CH 17:8),male,Levi,,5,1907
-Jehoram_3,Jehoram,,priest sent by Jehoshaphat (2CH 17:8),male,Levi,,3,1908
-Adnah_2,Adnah,,"commander of 300,000 under Jehoshaphat (2CH 17:14)",male,,,2,1909
-Johanan_7,Johanan,,"commander of 280,000 under Jehoshaphat (2CH 17:15)",male,,,7,1910
-Amasiah_1,Amasiah,,"son of Zichri, commander of 200,000 under Jehoshaphat (2CH 17:16)",male,,,1,1911
-Zichri_8,Zichri,,father of Amasiah (2CH 17:16),male,,,8,1912
-Eliada_3,Eliada,,"commander of 200,000 under Jehoshaphat (2CH 17:17)",male,Benjamin,,3,1913
-Jehozabad_3,Jehozabad,,"commander of 180,000 under Jehoshaphat (2CH 17:18)",male,,,3,1914
-Zebadiah_7,Zebadiah,,"son of Ishmael, in charge of all that pertains to the king (2CH 19:11)",male,,,7,1915
-Ishmael_4,Ishmael,,father of Zebadiah (2CH 19:11),male,,,4,1916
-Jahaziel_3,Jahaziel,,the Spirit of the Lord came upon him during Jehoshaphat's reign (2CH 20:14),male,Levi,,3,1917
-Zechariah_10,Zechariah,,father of Jahaziel and son of Benaiah (2CH 20:14),male,Levi,,10,1918
-Benaiah_5,Benaiah,,son of Jeiel (2CH 20:14),male,Levi,,5,1919
-Jeiel_4,Jeiel,,son of Mattaniah (2CH 20:14),male,Levi,,4,1920
-Eliezer_6,Eliezer,,"prophet, son of Dodavahu (2CH 20:37)",male,,,6,1921
-Dodavahu_1,Dodavahu,,"of Mareshah, father of Eliezer the prophet (2CH 20:37)",male,,,1,1922
-Azariah_10,Azariah,,son of Jehoshaphat (2CH 21:2),male,Judah,,10,1923
-Jehiel_3,Jehiel,,son of Jehoshaphat (2CH 21:2),male,Judah,,3,1924
-Zechariah_11,Zechariah,,son of Jehoshaphat (2CH 21:2),male,Judah,,11,1925
-Azaryahu_1,Azaryahu,,son of Jehoshaphat (2CH 21:2),male,Judah,,1,1926
-Michael_7,Michael,,son of Jehoshaphat (2CH 21:2),male,Judah,,7,1927
-Sephatiah_1,Sephatiah,,son of Jehoshaphat (2CH 21:2),male,Judah,,1,1928
-Azariah_11,Azariah,,"son of Jeroham (2CH 23:1), supported Joash as king of Judah",male,,,11,1929
-Jeroham_7,Jeroham,,father of Azariah (2CH 23:1),male,,,7,1930
-Ishmael_5,Ishmael,,"son of Johanan (2CH 23:1), supported Joash as king of Judah",male,,,5,1931
-Johanan_8,Johanan,,father of Ishmael (2CH 23:1),male,,,8,1932
-Azariah_12,Azariah,,"son of Obed (2CH 23:1), supported Joash as king of Judah",male,,,12,1933
-Obed_5,Obed,,father of Azariah (2CH 23:1),male,,,5,1934
-Maaseiah_2,Maaseiah,,"son of Adaiah (2CH 23:1), supported Joash as king of Judah",male,,,2,1935
-Adaiah_5,Adaiah,,father of Maaseiah (2CH 23:1),male,,,5,1936
-Elishaphat_1,Elishaphat,,"son of Zichri (2CH 23:1), supported Joash as king of Judah",male,,,1,1937
-Zichri_9,Zichri,,father of Elishaphat (2CH 23:1),male,,,9,1938
-Zechariah_12,Zechariah,,son of Jehoiada the priest (2CH 24:20),male,Levi,stoned to death in the court of the house of the Lord (2CH 24:21),12,1939
-King of Damascus_1,King of Damascus,,received the spoil of Judah from the Arameans (2CH 24:23),male,,,1,1940
-Jeiel_5,Jeiel,,the scribe who prepared Uzziah's army divisions (2CH 26:11),male,,,5,1941
-Maaseiah_3,Maaseiah,,the official who prepared Uzziah's army divisions (2CH 26:11),male,,,3,1942
-Hananiah_4,Hananiah,,the king's officer over Jeiel and Maaseiah (2CH 26:11),male,,,4,1943
-King of the Ammonites_1,King of the Ammonites,,defeated by King Jotham (2CH 27:5),male,,,1,1944
-King of Aram_1,King of Aram,,defeated King Ahaz of Judah (2CH 28:5),male,,,1,1945
-Zichri_10,Zichri,,a mighty man of Ephraim (2CH 28:7),male,Ephraim,,10,1946
-Maaseiah_4,Maaseiah,,son of King Ahaz (2CH 28:7),male,Judah,,4,1947
-Azrikam_4,Azrikam,,ruler of the house (2CH 28:7),male,,,4,1948
-Elkanah_9,Elkanah,,second to King Ahaz (2CH 28:7),male,,,9,1949
-Azariah_13,Azariah,,"son of Johanan, aided defeated Judaites (2CH 28:12)",male,Ephraim,,13,1950
-Johanan_9,Johanan,,"father of Azariah, who aided defeated Judaites (2CH 28:12)",male,Ephraim,,9,1951
-Berechiah_4,Berechiah,,"son of Meshillemoth, aided defeated Judaites (2CH28:12)",male,Ephraim,,4,1952
-Meshillemoth_1,Meshillemoth,,"father of Berechiah, who aided defeated Judaites (2CH28:12)",male,Ephraim,,1,1953
-Jehikhiah_1,Jehikhiah,,"son of Shallum, aided defeated Judaites (2CH28:12)",male,Ephraim,,1,1954
-Shallum_8,Shallum,,"father of Jehikhiah, who aided defeated Judaites (2CH28:12)",male,Ephraim,,8,1955
-Amasa_2,Amasa,,"son of Hadlai, aided defeated Judaites (2CH28:12)",male,Ephraim,,2,1956
-Hadlai_1,Hadlai,,"father of Amasa, who aided defeated Judaites (2CH28:12)",male,Ephraim,,1,1957
-Azariah_14,Azariah,,son of Jehallelel (2CH 29:12),male,Levi,"Merarites (from Merari, son of Levi)",14,1958
-Jehallelel_2,Jehallelel,,father of Azariah (2CH 29:12),male,Levi,"Merarites (from Merari, son of Levi)",2,1959
-Eden_1,Eden,,son of Joah (2CH 29:12),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",1,1960
-Shimri_4,Shimri,,descendant of Elizaphan [Elzaphan] (2CH 29:13),male,Levi,"Kohathites (from Uzziel, from Kohath, son of Levi)",4,1961
-Jeiel_6,Jeiel,,descendant of Elizaphan [Elzaphan] (2CH 29:13),male,Levi,"Kohathites (from Uzziel, from Kohath, son of Levi)",6,1962
-Zechariah_13,Zechariah,,descendant of Asaph (2CH 29:13),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",13,1963
-Mattaniah_4,Mattaniah,,descendant of Asaph (2CH 29:13),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",4,1964
-Jehiel_4,Jehiel,,descendant of Heman (2CH 29:13),male,Levi,,4,1965
-Shimei_12,Shimei,,descendant of Heman (2CH 29:13),male,Levi,,12,1966
-Shemaiah_11,Shemaiah,,descendant of Jeduthun (2CH 29:13),male,Levi,,11,1967
-Uzziel_5,Uzziel,,descendant of Jeduthun (2CH 29:13),male,Levi,,5,1968
-Azariah_15,Azariah,,chief priest of the house of Zadok (2CH 31:10),male,Levi,,15,1969
-Conaniah_1,Conaniah,,officer in charge of the consecrated things (2CH 31:12),male,Levi,,1,1970
-Shimei_13,Shimei,,officer in charge of the consecrated things (2CH 31:12),male,Levi,,13,1971
-Azaziah_3,Azaziah,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,3,1972
-Nahath_3,Nahath,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,3,1973
-Asahel_3,Asahel,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,3,1974
-Jerimoth_5,Jerimoth,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,5,1975
-Jozabad_4,Jozabad,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,4,1976
-Eliel_8,Eliel,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,8,1977
-Ismachiah_1,Ismachiah,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,1,1978
-Mahath_2,Mahath,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,2,1979
-Benaiah_6,Benaiah,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,6,1980
-Imnah_2,Imnah,,"father of Kore, the gatekeeper (2CH 31:14)",male,Levi,,2,1981
-_0,,,,,,,0,1982
-_0,,,,,,,0,1983
-_0,,,,,,,0,1984
-_,,,,,,,,
+Zechariah_9,Zechariah,,"official of Jehoshaphat, sent to teach (2CH 17:7)",male,,,9,1894
+Nethanel_6,Nethanel,,"official of Jehoshaphat, sent to teach (2CH 17:7)",male,,,6,1895
+Micaiah_3,Micaiah,,"official of Jehoshaphat, sent to teach (2CH 17:7)",male,,,3,1896
+Shemaiah_10,Shemaiah,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,10,1897
+Nethaniah_3,Nethaniah,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,3,1898
+Zebadiah_6,Zebadiah,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,6,1899
+Asahel_2,Asahel,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,2,1900
+Shemiramoth_2,Shemiramoth,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,2,1901
+Jehonathan_1,Jehonathan,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,1,1902
+Adonijah_2,Adonijah,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,2,1903
+Tobijah_1,Tobijah,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,1,1904
+Tobadonijah_1,Tobadonijah,,Levite sent by Jehoshaphat (2CH 17:8),male,Levi,,1,1905
+Elishama_5,Elishama,,priest sent by Jehoshaphat (2CH 17:8),male,Levi,,5,1906
+Jehoram_3,Jehoram,,priest sent by Jehoshaphat (2CH 17:8),male,Levi,,3,1907
+Adnah_2,Adnah,,"commander of 300,000 under Jehoshaphat (2CH 17:14)",male,,,2,1908
+Johanan_7,Johanan,,"commander of 280,000 under Jehoshaphat (2CH 17:15)",male,,,7,1909
+Amasiah_1,Amasiah,,"son of Zichri, commander of 200,000 under Jehoshaphat (2CH 17:16)",male,,,1,1910
+Zichri_8,Zichri,,father of Amasiah (2CH 17:16),male,,,8,1911
+Eliada_3,Eliada,,"commander of 200,000 under Jehoshaphat (2CH 17:17)",male,Benjamin,,3,1912
+Jehozabad_3,Jehozabad,,"commander of 180,000 under Jehoshaphat (2CH 17:18)",male,,,3,1913
+Zebadiah_7,Zebadiah,,"son of Ishmael, in charge of all that pertains to the king (2CH 19:11)",male,,,7,1914
+Ishmael_4,Ishmael,,father of Zebadiah (2CH 19:11),male,,,4,1915
+Jahaziel_3,Jahaziel,,the Spirit of the Lord came upon him during Jehoshaphat's reign (2CH 20:14),male,Levi,,3,1916
+Zechariah_10,Zechariah,,father of Jahaziel and son of Benaiah (2CH 20:14),male,Levi,,10,1917
+Benaiah_5,Benaiah,,son of Jeiel (2CH 20:14),male,Levi,,5,1918
+Jeiel_4,Jeiel,,son of Mattaniah (2CH 20:14),male,Levi,,4,1919
+Eliezer_6,Eliezer,,"prophet, son of Dodavahu (2CH 20:37)",male,,,6,1920
+Dodavahu_1,Dodavahu,,"of Mareshah, father of Eliezer the prophet (2CH 20:37)",male,,,1,1921
+Azariah_10,Azariah,,son of Jehoshaphat (2CH 21:2),male,Judah,,10,1922
+Jehiel_3,Jehiel,,son of Jehoshaphat (2CH 21:2),male,Judah,,3,1923
+Zechariah_11,Zechariah,,son of Jehoshaphat (2CH 21:2),male,Judah,,11,1924
+Azaryahu_1,Azaryahu,,son of Jehoshaphat (2CH 21:2),male,Judah,,1,1925
+Michael_7,Michael,,son of Jehoshaphat (2CH 21:2),male,Judah,,7,1926
+Sephatiah_1,Sephatiah,,son of Jehoshaphat (2CH 21:2),male,Judah,,1,1927
+Azariah_11,Azariah,,"son of Jeroham (2CH 23:1), supported Joash as king of Judah",male,,,11,1928
+Jeroham_7,Jeroham,,father of Azariah (2CH 23:1),male,,,7,1929
+Ishmael_5,Ishmael,,"son of Johanan (2CH 23:1), supported Joash as king of Judah",male,,,5,1930
+Johanan_8,Johanan,,father of Ishmael (2CH 23:1),male,,,8,1931
+Azariah_12,Azariah,,"son of Obed (2CH 23:1), supported Joash as king of Judah",male,,,12,1932
+Obed_5,Obed,,father of Azariah (2CH 23:1),male,,,5,1933
+Maaseiah_2,Maaseiah,,"son of Adaiah (2CH 23:1), supported Joash as king of Judah",male,,,2,1934
+Adaiah_5,Adaiah,,father of Maaseiah (2CH 23:1),male,,,5,1935
+Elishaphat_1,Elishaphat,,"son of Zichri (2CH 23:1), supported Joash as king of Judah",male,,,1,1936
+Zichri_9,Zichri,,father of Elishaphat (2CH 23:1),male,,,9,1937
+Zechariah_12,Zechariah,,son of Jehoiada the priest (2CH 24:20),male,Levi,stoned to death in the court of the house of the Lord (2CH 24:21),12,1938
+King of Damascus_1,King of Damascus,,received the spoil of Judah from the Arameans (2CH 24:23),male,,,1,1939
+Jeiel_5,Jeiel,,the scribe who prepared Uzziah's army divisions (2CH 26:11),male,,,5,1940
+Maaseiah_3,Maaseiah,,the official who prepared Uzziah's army divisions (2CH 26:11),male,,,3,1941
+Hananiah_4,Hananiah,,the king's officer over Jeiel and Maaseiah (2CH 26:11),male,,,4,1942
+King of the Ammonites_1,King of the Ammonites,,defeated by King Jotham (2CH 27:5),male,,,1,1943
+King of Aram_1,King of Aram,,defeated King Ahaz of Judah (2CH 28:5),male,,,1,1944
+Zichri_10,Zichri,,a mighty man of Ephraim (2CH 28:7),male,Ephraim,,10,1945
+Maaseiah_4,Maaseiah,,son of King Ahaz (2CH 28:7),male,Judah,,4,1946
+Azrikam_4,Azrikam,,ruler of the house (2CH 28:7),male,,,4,1947
+Elkanah_9,Elkanah,,second to King Ahaz (2CH 28:7),male,,,9,1948
+Azariah_13,Azariah,,"son of Johanan, aided defeated Judaites (2CH 28:12)",male,Ephraim,,13,1949
+Johanan_9,Johanan,,"father of Azariah, who aided defeated Judaites (2CH 28:12)",male,Ephraim,,9,1950
+Berechiah_4,Berechiah,,"son of Meshillemoth, aided defeated Judaites (2CH28:12)",male,Ephraim,,4,1951
+Meshillemoth_1,Meshillemoth,,"father of Berechiah, who aided defeated Judaites (2CH28:12)",male,Ephraim,,1,1952
+Jehikhiah_1,Jehikhiah,,"son of Shallum, aided defeated Judaites (2CH28:12)",male,Ephraim,,1,1953
+Shallum_8,Shallum,,"father of Jehikhiah, who aided defeated Judaites (2CH28:12)",male,Ephraim,,8,1954
+Amasa_2,Amasa,,"son of Hadlai, aided defeated Judaites (2CH28:12)",male,Ephraim,,2,1955
+Hadlai_1,Hadlai,,"father of Amasa, who aided defeated Judaites (2CH28:12)",male,Ephraim,,1,1956
+Azariah_14,Azariah,,son of Jehallelel (2CH 29:12),male,Levi,"Merarites (from Merari, son of Levi)",14,1957
+Jehallelel_2,Jehallelel,,father of Azariah (2CH 29:12),male,Levi,"Merarites (from Merari, son of Levi)",2,1958
+Eden_1,Eden,,son of Joah (2CH 29:12),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",1,1959
+Shimri_4,Shimri,,descendant of Elizaphan [Elzaphan] (2CH 29:13),male,Levi,"Kohathites (from Uzziel, from Kohath, son of Levi)",4,1960
+Jeiel_6,Jeiel,,descendant of Elizaphan [Elzaphan] (2CH 29:13),male,Levi,"Kohathites (from Uzziel, from Kohath, son of Levi)",6,1961
+Zechariah_13,Zechariah,,descendant of Asaph (2CH 29:13),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",13,1962
+Mattaniah_4,Mattaniah,,descendant of Asaph (2CH 29:13),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",4,1963
+Jehiel_4,Jehiel,,descendant of Heman (2CH 29:13),male,Levi,,4,1964
+Shimei_12,Shimei,,descendant of Heman (2CH 29:13),male,Levi,,12,1965
+Shemaiah_11,Shemaiah,,descendant of Jeduthun (2CH 29:13),male,Levi,,11,1966
+Uzziel_5,Uzziel,,descendant of Jeduthun (2CH 29:13),male,Levi,,5,1967
+Azariah_15,Azariah,,chief priest of the house of Zadok (2CH 31:10),male,Levi,,15,1968
+Conaniah_1,Conaniah,,officer in charge of the consecrated things (2CH 31:12),male,Levi,,1,1969
+Shimei_13,Shimei,,officer in charge of the consecrated things (2CH 31:12),male,Levi,,13,1970
+Azaziah_3,Azaziah,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,3,1971
+Nahath_3,Nahath,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,3,1972
+Asahel_3,Asahel,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,3,1973
+Jerimoth_5,Jerimoth,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,5,1974
+Jozabad_4,Jozabad,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,4,1975
+Eliel_8,Eliel,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,8,1976
+Ismachiah_1,Ismachiah,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,1,1977
+Mahath_2,Mahath,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,2,1978
+Benaiah_6,Benaiah,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,6,1979
+Imnah_2,Imnah,,"father of Kore, the gatekeeper (2CH 31:14)",male,Levi,,2,1980
+Miniamin_1,Miniamin,,distributed portions to their brothers (2CH 31:15),male,Levi,,1,1981
+Jeshua_2,Jeshua,,distributed portions to their brothers (2CH 31:15),male,Levi,,2,1982
+Shemaiah_12,Shemaiah,,distributed portions to their brothers (2CH 31:15),male,Levi,,12,1983
+Amariah_4,Amariah,,distributed portions to their brothers (2CH 31:15),male,Levi,,4,1984
+Shecaniah_3,Shecaniah,,distributed portions to their brothers (2CH 31:15),male,Levi,,3,1985
+Maaseiah_5,Maaseiah,,sent by Josiah to repair the house of the Lord (2CH 34:8),male,,,5,1986
+Joah_4,Joah,,sent by Josiah to repair the house of the Lord (2CH 34:8),male,,,4,1987
+Joahaz_1,Joahaz,,father of Joah (2CH 34:8),male,,,1,1988
+Jahath_6,Jahath,,foreman over reconstruction of the Temple during Josiah's reign (2CH 34:12),male,Levi,"Merarites (from Merari, son of Levi)",6,1989
+Obadiah_8,Obadiah,,foreman over reconstruction of the Temple during Josiah's reign (2CH 34:12),male,Levi,"Merarites (from Merari, son of Levi)",8,1990
+Zechariah_14,Zechariah,,foreman over reconstruction of the Temple during Josiah's reign (2CH 34:12),male,Levi,Kohathite,14,1991
+Meshullam_7,Meshullam,,foreman over reconstruction of the Temple during Josiah's reign (2CH 34:12),male,Levi,Kohathite,7,1992
+Jeremiah_6,Jeremiah,,the prophet (2CH 36:12),male,,,6,1993
+Cyrus_1,Cyrus,,King of Persia (2CH 36:22),male,,,1,1994
+_0,,,,,,,0,1995
+_0,,,,,,,0,1996
+_0,,,,,,,0,1997
+_0,,,,,,,0,1998
+_0,,,,,,,0,1999
+_0,,,,,,,0,2000
+_0,,,,,,,0,2001
+_0,,,,,,,0,2002
+_0,,,,,,,0,2003
+_0,,,,,,,0,2004
+_0,,,,,,,0,2005
+_0,,,,,,,0,2006
 Jucam_1,Jucam,,son of Ezer in Rahlf's Septuaginta (GEN 36:27),male,,name is not present in the BHS Hebrew text but is present in Rahlfs Septuaginta,1,
 Abdeel_1,Abdeel,,son of Dedan in Rahlf's Septuaginta (GEN 25:3),male,,name is not present in the BHS Hebrew text but is present in Rahlfs Septuaginta,1,
 Reuel_4,Reuel,,son of Dedan in Rahlf's Septuaginta (GEN 25:3),male,,name is not present in the BHS Hebrew text but is present in Rahlfs Septuaginta,4,
