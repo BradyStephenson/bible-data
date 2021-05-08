@@ -3951,16 +3951,97 @@ Levi_1:Shecaniah_3:3949,3949,Levi_1,father,Shecaniah_3,inferred,2CH 31:15,inferr
 Shecaniah_3:Levi_1:3950,3950,Shecaniah_3,son,Levi_1,inferred,2CH 31:15,inferred that these are Levites serving their brothers
 Joahaz_1:Joah_4:3951,3951,Joahaz_1,father,Joah_4,inferred,2CH 34:8,
 Joah_4:Joahaz_1:3952,3952,Joah_4,son,Joahaz_1,explicit,2CH 34:8,
-::3953,3953,,,,,,
-::3954,3954,,,,,,
-::3955,3955,,,,,,
-::3956,3956,,,,,,
-::3957,3957,,,,,,
-::3958,3958,,,,,,
-::3959,3959,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+Judah_1:Sheshbazzar_1:3953,3953,Judah_1,ancestor,Sheshbazzar_1,inferred,EZR 1:8,
+Sheshbazzar_1:Judah_1:3954,3954,Sheshbazzar_1,descendant,Judah_1,explicit,EZR 1:8,
+Aaron_1:Jedaiah_3:3955,3955,Aaron_1,ancestor,Jedaiah_3,inferred,EZR 2:36,"""priests"" as opposed to the ""Levites"" of EZR 2:40"
+Jedaiah_3:Aaron_1:3956,3956,Jedaiah_3,descendant,Aaron_1,explicit,EZR 2:36,"""priests"" as opposed to the ""Levites"" of EZR 2:40"
+Levi_1:Kadmiel_1:3957,3957,Levi_1,ancestor,Kadmiel_1,inferred,EZR 2:40,
+Kadmiel_1:Levi_1:3958,3958,Kadmiel_1,descendant,Levi_1,explicit,EZR 2:40,
+Levi_1:Hodaviah_5:3959,3959,Levi_1,ancestor,Hodaviah_5,inferred,EZR 2:40,
+Hodaviah_5:Levi_1:3960,3960,Hodaviah_5,descendant,Levi_1,explicit,EZR 2:40,
+Levi_1:Ater_1:3961,3961,Levi_1,ancestor,Ater_1,inferred,EZR 2:42,"""gatekeepers"" of the Temple"
+Ater_1:Levi_1:3962,3962,Ater_1,descendant,Levi_1,explicit,EZR 2:42,"""gatekeepers"" of the Temple"
+Levi_1:Hatita_1:3963,3963,Levi_1,ancestor,Hatita_1,inferred,EZR 2:42,"""gatekeepers"" of the Temple"
+Hatita_1:Levi_1:3964,3964,Hatita_1,descendant,Levi_1,explicit,EZR 2:42,"""gatekeepers"" of the Temple"
+Levi_1:Shobai_1:3965,3965,Levi_1,ancestor,Shobai_1,inferred,EZR 2:42,"""gatekeepers"" of the Temple"
+Shobai_1:Levi_1:3966,3966,Shobai_1,descendant,Levi_1,explicit,EZR 2:42,"""gatekeepers"" of the Temple"
+Levi_1:Ziha_1:3967,3967,Levi_1,ancestor,Ziha_1,inferred,EZR 2:43,"""temple servants"""
+Ziha_1:Levi_1:3968,3968,Ziha_1,descendant,Levi_1,explicit,EZR 2:43,"""temple servants"""
+Levi_1:Hasupha_1:3969,3969,Levi_1,ancestor,Hasupha_1,inferred,EZR 2:43,"""temple servants"""
+Hasupha_1:Levi_1:3970,3970,Hasupha_1,descendant,Levi_1,explicit,EZR 2:43,"""temple servants"""
+Levi_1:Tabbaoth_1:3971,3971,Levi_1,ancestor,Tabbaoth_1,inferred,EZR 2:43,"""temple servants"""
+Tabbaoth_1:Levi_1:3972,3972,Tabbaoth_1,descendant,Levi_1,explicit,EZR 2:43,"""temple servants"""
+Levi_1:Keros_1:3973,3973,Levi_1,ancestor,Keros_1,inferred,EZR 2:44,"""temple servants"" (EZR 2:43)"
+Keros_1:Levi_1:3974,3974,Keros_1,descendant,Levi_1,explicit,EZR 2:44,"""temple servants"" (EZR 2:43)"
+Levi_1:Siaha_1:3975,3975,Levi_1,ancestor,Siaha_1,inferred,EZR 2:44,"""temple servants"" (EZR 2:43)"
+Siaha_1:Levi_1:3976,3976,Siaha_1,descendant,Levi_1,explicit,EZR 2:44,"""temple servants"" (EZR 2:43)"
+Levi_1:Padon_1:3977,3977,Levi_1,ancestor,Padon_1,inferred,EZR 2:44,"""temple servants"" (EZR 2:43)"
+Padon_1:Levi_1:3978,3978,Padon_1,descendant,Levi_1,explicit,EZR 2:44,"""temple servants"" (EZR 2:43)"
+Levi_1:Lebanah_1:3979,3979,Levi_1,ancestor,Lebanah_1,inferred,EZR 2:45,"""temple servants"" (EZR 2:43)"
+Lebanah_1:Levi_1:3980,3980,Lebanah_1,descendant,Levi_1,explicit,EZR 2:45,"""temple servants"" (EZR 2:43)"
+Levi_1:Hagabah_1:3981,3981,Levi_1,ancestor,Hagabah_1,inferred,EZR 2:45,"""temple servants"" (EZR 2:43)"
+Hagabah_1:Levi_1:3982,3982,Hagabah_1,descendant,Levi_1,explicit,EZR 2:45,"""temple servants"" (EZR 2:43)"
+Levi_1:Akkub_3:3983,3983,Levi_1,ancestor,Akkub_3,inferred,EZR 2:45,"""temple servants"" (EZR 2:43)"
+Akkub_3:Levi_1:3984,3984,Akkub_3,descendant,Levi_1,explicit,EZR 2:45,"""temple servants"" (EZR 2:43)"
+Levi_1:Hagab_1:3985,3985,Levi_1,ancestor,Hagab_1,inferred,EZR 2:46,"""temple servants"" (EZR 2:43)"
+Hagab_1:Levi_1:3986,3986,Hagab_1,descendant,Levi_1,explicit,EZR 2:46,"""temple servants"" (EZR 2:43)"
+Levi_1:Shalmai_1:3987,3987,Levi_1,ancestor,Shalmai_1,inferred,EZR 2:46,"""temple servants"" (EZR 2:43)"
+Shalmai_1:Levi_1:3988,3988,Shalmai_1,descendant,Levi_1,explicit,EZR 2:46,"""temple servants"" (EZR 2:43)"
+Levi_1:Hanan_4:3989,3989,Levi_1,ancestor,Hanan_4,inferred,EZR 2:46,"""temple servants"" (EZR 2:43)"
+Hanan_4:Levi_1:3990,3990,Hanan_4,descendant,Levi_1,explicit,EZR 2:46,"""temple servants"" (EZR 2:43)"
+Levi_1:Giddel_1:3991,3991,Levi_1,ancestor,Giddel_1,inferred,EZR 2:47,"""temple servants"" (EZR 2:43)"
+Giddel_1:Levi_1:3992,3992,Giddel_1,descendant,Levi_1,explicit,EZR 2:47,"""temple servants"" (EZR 2:43)"
+Levi_1:Gahar_1:3993,3993,Levi_1,ancestor,Gahar_1,inferred,EZR 2:47,"""temple servants"" (EZR 2:43)"
+Gahar_1:Levi_1:3994,3994,Gahar_1,descendant,Levi_1,explicit,EZR 2:47,"""temple servants"" (EZR 2:43)"
+Levi_1:Reaiah_3:3995,3995,Levi_1,ancestor,Reaiah_3,inferred,EZR 2:47,"""temple servants"" (EZR 2:43)"
+Reaiah_3:Levi_1:3996,3996,Reaiah_3,descendant,Levi_1,explicit,EZR 2:47,"""temple servants"" (EZR 2:43)"
+Levi_1:Rezin_2:3997,3997,Levi_1,ancestor,Rezin_2,inferred,EZR 2:48,"""temple servants"" (EZR 2:43)"
+Rezin_2:Levi_1:3998,3998,Rezin_2,descendant,Levi_1,explicit,EZR 2:48,"""temple servants"" (EZR 2:43)"
+Levi_1:Nekoda_1:3999,3999,Levi_1,ancestor,Nekoda_1,inferred,EZR 2:48,"""temple servants"" (EZR 2:43)"
+Nekoda_1:Levi_1:4000,4000,Nekoda_1,descendant,Levi_1,explicit,EZR 2:48,"""temple servants"" (EZR 2:43)"
+Levi_1:Gazzam_1:4001,4001,Levi_1,ancestor,Gazzam_1,inferred,EZR 2:48,"""temple servants"" (EZR 2:43)"
+Gazzam_1:Levi_1:4002,4002,Gazzam_1,descendant,Levi_1,explicit,EZR 2:48,"""temple servants"" (EZR 2:43)"
+Levi_1:Uzza_2:4003,4003,Levi_1,ancestor,Uzza_2,inferred,EZR 2:49,"""temple servants"" (EZR 2:43)"
+Uzza_2:Levi_1:4004,4004,Uzza_2,descendant,Levi_1,explicit,EZR 2:49,"""temple servants"" (EZR 2:43)"
+Levi_1:Paseah_2:4005,4005,Levi_1,ancestor,Paseah_2,inferred,EZR 2:49,"""temple servants"" (EZR 2:43)"
+Paseah_2:Levi_1:4006,4006,Paseah_2,descendant,Levi_1,explicit,EZR 2:49,"""temple servants"" (EZR 2:43)"
+Levi_1:Besai_1:4007,4007,Levi_1,ancestor,Besai_1,inferred,EZR 2:49,"""temple servants"" (EZR 2:43)"
+Besai_1:Levi_1:4008,4008,Besai_1,descendant,Levi_1,explicit,EZR 2:49,"""temple servants"" (EZR 2:43)"
+Levi_1:Asnah_1:4009,4009,Levi_1,ancestor,Asnah_1,inferred,EZR 2:50,"""temple servants"" (EZR 2:43)"
+Asnah_1:Levi_1:4010,4010,Asnah_1,descendant,Levi_1,explicit,EZR 2:50,"""temple servants"" (EZR 2:43)"
+Levi_1:Bakbuk_1:4011,4011,Levi_1,ancestor,Bakbuk_1,inferred,EZR 2:51,"""temple servants"" (EZR 2:43)"
+Bakbuk_1:Levi_1:4012,4012,Bakbuk_1,descendant,Levi_1,explicit,EZR 2:51,"""temple servants"" (EZR 2:43)"
+Levi_1:Hakupha_1:4013,4013,Levi_1,ancestor,Hakupha_1,inferred,EZR 2:51,"""temple servants"" (EZR 2:43)"
+Hakupha_1:Levi_1:4014,4014,Hakupha_1,descendant,Levi_1,explicit,EZR 2:51,"""temple servants"" (EZR 2:43)"
+Levi_1:Harhur_1:4015,4015,Levi_1,ancestor,Harhur_1,inferred,EZR 2:51,"""temple servants"" (EZR 2:43)"
+Harhur_1:Levi_1:4016,4016,Harhur_1,descendant,Levi_1,explicit,EZR 2:51,"""temple servants"" (EZR 2:43)"
+Levi_1:Bazluth_1:4017,4017,Levi_1,ancestor,Bazluth_1,inferred,EZR 2:52,"""temple servants"" (EZR 2:43)"
+Bazluth_1:Levi_1:4018,4018,Bazluth_1,descendant,Levi_1,explicit,EZR 2:52,"""temple servants"" (EZR 2:43)"
+Levi_1:Mehida_1:4019,4019,Levi_1,ancestor,Mehida_1,inferred,EZR 2:52,"""temple servants"" (EZR 2:43)"
+Mehida_1:Levi_1:4020,4020,Mehida_1,descendant,Levi_1,explicit,EZR 2:52,"""temple servants"" (EZR 2:43)"
+Levi_1:Harsha_1:4021,4021,Levi_1,ancestor,Harsha_1,inferred,EZR 2:52,"""temple servants"" (EZR 2:43)"
+Harsha_1:Levi_1:4022,4022,Harsha_1,descendant,Levi_1,explicit,EZR 2:52,"""temple servants"" (EZR 2:43)"
+Levi_1:Barkos_1:4023,4023,Levi_1,ancestor,Barkos_1,inferred,EZR 2:53,"""temple servants"" (EZR 2:43)"
+Barkos_1:Levi_1:4024,4024,Barkos_1,descendant,Levi_1,explicit,EZR 2:53,"""temple servants"" (EZR 2:43)"
+Levi_1:Sisera_3:4025,4025,Levi_1,ancestor,Sisera_3,inferred,EZR 2:53,"""temple servants"" (EZR 2:43)"
+Sisera_3:Levi_1:4026,4026,Sisera_3,descendant,Levi_1,explicit,EZR 2:53,"""temple servants"" (EZR 2:43)"
+Levi_1:Temah_1:4027,4027,Levi_1,ancestor,Temah_1,inferred,EZR 2:53,"""temple servants"" (EZR 2:43)"
+Temah_1:Levi_1:4028,4028,Temah_1,descendant,Levi_1,explicit,EZR 2:53,"""temple servants"" (EZR 2:43)"
+Levi_1:Neziah_1:4029,4029,Levi_1,ancestor,Neziah_1,inferred,EZR 2:54,"""temple servants"" (EZR 2:43)"
+Neziah_1:Levi_1:4030,4030,Neziah_1,descendant,Levi_1,explicit,EZR 2:54,"""temple servants"" (EZR 2:43)"
+Levi_1:Hatipha_1:4031,4031,Levi_1,ancestor,Hatipha_1,inferred,EZR 2:54,"""temple servants"" (EZR 2:43)"
+Hatipha_1:Levi_1:4032,4032,Hatipha_1,descendant,Levi_1,explicit,EZR 2:54,
+::4033,4033,,,,,,
+::4034,4034,,,,,,
+::4035,4035,,,,,,
+::4036,4036,,,,,,
+::4037,4037,,,,,,
+::4038,4038,,,,,,
+::4039,4039,,,,,,
+::4040,4040,,,,,,
+::4041,4041,,,,,,
+::4042,4042,,,,,,
+::4043,4043,,,,,,
 ,,,,,,,
 ,,,,,,,
 ,,,,,,,

@@ -1991,20 +1991,76 @@ Jahath_6,Jahath,,foreman over reconstruction of the Temple during Josiah's reign
 Obadiah_8,Obadiah,,foreman over reconstruction of the Temple during Josiah's reign (2CH 34:12),male,Levi,"Merarites (from Merari, son of Levi)",8,1990
 Zechariah_14,Zechariah,,foreman over reconstruction of the Temple during Josiah's reign (2CH 34:12),male,Levi,Kohathite,14,1991
 Meshullam_7,Meshullam,,foreman over reconstruction of the Temple during Josiah's reign (2CH 34:12),male,Levi,Kohathite,7,1992
-Jeremiah_6,Jeremiah,,the prophet (2CH 36:12),male,,,6,1993
+Jeremiah_6,Jeremiah,,"the prophet (2CH 36:12), son of Hilkiah (JER 1:1)",male,Levi,,6,1993
 Cyrus_1,Cyrus,,King of Persia (2CH 36:22),male,,,1,1994
-_0,,,,,,,0,1995
-_0,,,,,,,0,1996
-_0,,,,,,,0,1997
-_0,,,,,,,0,1998
-_0,,,,,,,0,1999
-_0,,,,,,,0,2000
-_0,,,,,,,0,2001
-_0,,,,,,,0,2002
-_0,,,,,,,0,2003
-_0,,,,,,,0,2004
-_0,,,,,,,0,2005
-_0,,,,,,,0,2006
+Mithredath_1,Mithredath,,treasurer of Cyrus (Ezra 1:8),male,,,1,1995
+Sheshbazzar_1,Sheshbazzar,,the prince of Judah (Ezra 1:8),male,Judah,,1,1996
+Zerubbabel_2,Zerubbabel,,returned to Judah after the Babylonian captivity (EZR 2:2),male,Levi,,2,1997
+Jeshua_3,Jeshua,,returned to Judah after the Babylonian captivity (EZR 2:2),male,,,3,1998
+Nehemiah_1,Nehemiah,,returned to Judah after the Babylonian captivity (EZR 2:2),male,,,1,1999
+Reelaiah_1,Reelaiah,,returned to Judah after the Babylonian captivity (EZR 2:2),male,,,1,2000
+Mordecai_1,Mordecai,,returned to Judah after the Babylonian captivity (EZR 2:2),male,,,1,2001
+Bilshan_1,Bilshan,,returned to Judah after the Babylonian captivity (EZR 2:2),male,,,1,2002
+Mispar_1,Mispar,,returned to Judah after the Babylonian captivity (EZR 2:2),male,,,1,2003
+Bigvai_1,Bigvai,,returned to Judah after the Babylonian captivity (EZR 2:2),male,,,1,2004
+Rehum_1,Rehum,,returned to Judah after the Babylonian captivity (EZR 2:2),male,,,1,2005
+Baanah_3,Baanah,,returned to Judah after the Babylonian captivity (EZR 2:2),male,,,3,2006
+Joab_3,Joab,,his sons (descendants) returned to Judah after captivity (EZR 2:6),male,,,3,2007
+Jedaiah_3,Jedaiah,,of the house of Jeshua (EZR 2:36),male,Levi,,3,2008
+Kadmiel_1,Kadmiel,,his sons (descendants) returned to Judah after captivity (EZR 2:40),male,Levi,,1,2009
+Hodaviah_5,Hodaviah,,his sons (descendants) returned to Judah after captivity (EZR 2:40),male,Levi,,5,2010
+Ater_1,Ater,,his sons (descendants) returned to Judah after captivity (EZR 2:42),male,Levi,,1,2011
+Hatita_1,Hatita,,his sons (descendants) returned to Judah after captivity (EZR 2:42),male,Levi,,1,2012
+Shobai_1,Shobai,,his sons (descendants) returned to Judah after captivity (EZR 2:42),male,Levi,,1,2013
+Ziha_1,Ziha,,temple servants (EZR 2:43),male,Levi,,1,2014
+Hasupha_1,Hasupha,,temple servants (EZR 2:43),male,Levi,,1,2015
+Tabbaoth_1,Tabbaoth,,temple servants (EZR 2:43),male,Levi,,1,2016
+Keros_1,Keros,,temple servants (EZR 2:43),male,Levi,,1,2017
+Siaha_1,Siaha,,temple servants (EZR 2:44),male,Levi,,1,2018
+Padon_1,Padon,,temple servants (EZR 2:44),male,Levi,,1,2019
+Lebanah_1,Lebanah,,temple servants (EZR 2:45),male,Levi,,1,2020
+Hagabah_1,Hagabah,,temple servants (EZR 2:45),male,Levi,,1,2021
+Akkub_3,Akkub,,temple servants (EZR 2:45),male,Levi,,3,2022
+Hagab_1,Hagab,,temple servants (EZR 2:46),male,Levi,,1,2023
+Shalmai_1,Shalmai,,temple servants (EZR 2:46),male,Levi,,1,2024
+Hanan_4,Hanan,,temple servants (EZR 2:46),male,Levi,,4,2025
+Giddel_1,Giddel,,temple servants (EZR 2:47),male,Levi,,1,2026
+Gahar_1,Gahar,,temple servants (EZR 2:47),male,Levi,,1,2027
+Reaiah_3,Reaiah,,temple servants (EZR 2:47),male,Levi,,3,2028
+Rezin_2,Rezin,,temple servants (EZR 2:48),male,Levi,,2,2029
+Nekoda_1,Nekoda,,temple servants (EZR 2:48),male,Levi,,1,2030
+Gazzam_1,Gazzam,,temple servants (EZR 2:48),male,Levi,,1,2031
+Uzza_2,Uzza,,temple servants (EZR 2:49),male,Levi,,2,2032
+Paseah_2,Paseah,,temple servants (EZR 2:49),male,Levi,,2,2033
+Besai_1,Besai,,temple servants (EZR 2:49),male,Levi,,1,2034
+Asnah_1,Asnah,,temple servants (EZR 2:50),male,Levi,,1,2035
+Bakbuk_1,Bakbuk,,temple servants (EZR 2:51),male,Levi,,1,2036
+Hakupha_1,Hakupha,,temple servants (EZR 2:51),male,Levi,,1,2037
+Harhur_1,Harhur,,temple servants (EZR 2:51),male,Levi,,1,2038
+Bazluth_1,Bazluth,,temple servants (EZR 2:52),male,Levi,,1,2039
+Mehida_1,Mehida,,temple servants (EZR 2:52),male,Levi,,1,2040
+Harsha_1,Harsha,,temple servants (EZR 2:52),male,Levi,,1,2041
+Barkos_1,Barkos,,temple servants (EZR 2:53),male,Levi,,1,2042
+Sisera_3,Sisera,,temple servants (EZR 2:53),male,Levi,,3,2043
+Temah_1,Temah,,temple servants (EZR 2:53),male,Levi,,1,2044
+Neziah_1,Neziah,,temple servants (EZR 2:54),male,Levi,,1,2045
+Hatipha_1,Hatipha,,temple servants (EZR 2:54),male,Levi,,1,2046
+_0,,,,,,,0,2047
+_0,,,,,,,0,2048
+_0,,,,,,,0,2049
+_0,,,,,,,0,2050
+_0,,,,,,,0,2051
+_0,,,,,,,0,2052
+_0,,,,,,,0,2053
+_0,,,,,,,0,2054
+_0,,,,,,,0,2055
+_0,,,,,,,0,2056
+_0,,,,,,,0,2057
+_0,,,,,,,0,2058
+_0,,,,,,,0,2059
+_0,,,,,,,0,2060
+_0,,,,,,,0,2061
+_0,,,,,,,0,
 Jucam_1,Jucam,,son of Ezer in Rahlf's Septuaginta (GEN 36:27),male,,name is not present in the BHS Hebrew text but is present in Rahlfs Septuaginta,1,
 Abdeel_1,Abdeel,,son of Dedan in Rahlf's Septuaginta (GEN 25:3),male,,name is not present in the BHS Hebrew text but is present in Rahlfs Septuaginta,1,
 Reuel_4,Reuel,,son of Dedan in Rahlf's Septuaginta (GEN 25:3),male,,name is not present in the BHS Hebrew text but is present in Rahlfs Septuaginta,4,
