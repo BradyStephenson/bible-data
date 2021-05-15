@@ -1122,7 +1122,7 @@ Arnan_1,Arnan,,son of Hananiah (1CH 3:21),male,Judah,,1,1120
 Obadiah_2,Obadiah,,son of Hananiah (1CH 3:21),male,Judah,,2,1121
 Shecaniah_1,Shecaniah,,son of Hananiah (1CH 3:21),male,Judah,,1,1122
 Shemaiah_2,Shemaiah,,son of Shecaniah (1CH 3:22),male,Judah,,2,1123
-Hattush_1,Hattush,,son of Shecaniah (1CH 3:22),male,Judah,,1,1124
+Hattush_1,Hattush,,"son of Shecaniah (1CH 3:22), who went up with Ezra (EZR 8:2)",male,Judah,,1,1124
 Igal_3,Igal,,son of Shecaniah (1CH 3:22),male,Judah,,3,1125
 Bariah_1,Bariah,,son of Shecaniah (1CH 3:22),male,Judah,,1,1126
 Neariah_1,Neariah,,son of Shecaniah (1CH 3:22),male,Judah,,1,1127
@@ -1309,7 +1309,7 @@ Amariah_2,Amariah,,"son of Azariah and father of Ahitub (1CH 6:11), Levite (1CH 
 Shallum_6,Shallum,,"son of Zadok (1CH 6:12) and father of Hilkiah (1CH 6:13), Levite (1CH 6:1)",male,Levi,Aaronic priest through Eleazar,6,1308
 Hilkiah_3,Hilkiah,,son of Shallum and father of Azariah (1CH 6:13),male,Levi,Aaronic priest through Eleazar,3,1309
 Azariah_7,Azariah,,son of Hilkiah (1CH 6:13) and father of Seriah (1CH 6:14),male,Levi,Aaronic priest through Eleazar,7,1310
-Seraiah_5,Seraiah,,son of Azariah and father of Jehozadak (1CH 6:14),male,Levi,Aaronic priest through Eleazar,5,1311
+Seraiah_5,Seraiah,,"son of Azariah and father of Jehozadak (1CH 6:14), father of Ezra (EZR 7:1)",male,Levi,Aaronic priest through Eleazar,5,1311
 Jehozadak_1,Jehozadak,,son of Seriah (1CH 6:14) went with Judah into exile by Nebuchadnezzar (1CH 6:15),male,Levi,Aaronic priest through Eleazar,1,1312
 Jahath_2,Jahath,,son of Libni (1CH 6:20),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",2,1313
 Zimmah_1,Zimmah,,son of Jahath (1CH 6:20),male,Levi,"Gershonites (Gershomites), from Gershon, son of Levi",1,1314
@@ -1993,8 +1993,8 @@ Zechariah_14,Zechariah,,foreman over reconstruction of the Temple during Josiah'
 Meshullam_7,Meshullam,,foreman over reconstruction of the Temple during Josiah's reign (2CH 34:12),male,Levi,Kohathite,7,1992
 Jeremiah_6,Jeremiah,,"the prophet (2CH 36:12), son of Hilkiah (JER 1:1)",male,Levi,,6,1993
 Cyrus_1,Cyrus,,King of Persia (2CH 36:22),male,,,1,1994
-Mithredath_1,Mithredath,,treasurer of Cyrus (Ezra 1:8),male,,,1,1995
-Sheshbazzar_1,Sheshbazzar,,the prince of Judah (Ezra 1:8),male,Judah,,1,1996
+Mithredath_1,Mithredath,,treasurer of Cyrus (EZR 1:8),male,,,1,1995
+Sheshbazzar_1,Sheshbazzar,,the prince of Judah (EZR 1:8),male,Judah,,1,1996
 Zerubbabel_2,Zerubbabel,,returned to Judah after the Babylonian captivity (EZR 2:2),male,Levi,,2,1997
 Jeshua_3,Jeshua,,returned to Judah after the Babylonian captivity (EZR 2:2),male,,,3,1998
 Nehemiah_1,Nehemiah,,returned to Judah after the Babylonian captivity (EZR 2:2),male,,,1,1999
@@ -2012,54 +2012,105 @@ Hodaviah_5,Hodaviah,,his sons (descendants) returned to Judah after captivity (E
 Ater_1,Ater,,his sons (descendants) returned to Judah after captivity (EZR 2:42),male,Levi,,1,2011
 Hatita_1,Hatita,,his sons (descendants) returned to Judah after captivity (EZR 2:42),male,Levi,,1,2012
 Shobai_1,Shobai,,his sons (descendants) returned to Judah after captivity (EZR 2:42),male,Levi,,1,2013
-Ziha_1,Ziha,,temple servants (EZR 2:43),male,Levi,,1,2014
-Hasupha_1,Hasupha,,temple servants (EZR 2:43),male,Levi,,1,2015
-Tabbaoth_1,Tabbaoth,,temple servants (EZR 2:43),male,Levi,,1,2016
-Keros_1,Keros,,temple servants (EZR 2:43),male,Levi,,1,2017
-Siaha_1,Siaha,,temple servants (EZR 2:44),male,Levi,,1,2018
-Padon_1,Padon,,temple servants (EZR 2:44),male,Levi,,1,2019
-Lebanah_1,Lebanah,,temple servants (EZR 2:45),male,Levi,,1,2020
-Hagabah_1,Hagabah,,temple servants (EZR 2:45),male,Levi,,1,2021
-Akkub_3,Akkub,,temple servants (EZR 2:45),male,Levi,,3,2022
-Hagab_1,Hagab,,temple servants (EZR 2:46),male,Levi,,1,2023
-Shalmai_1,Shalmai,,temple servants (EZR 2:46),male,Levi,,1,2024
-Hanan_4,Hanan,,temple servants (EZR 2:46),male,Levi,,4,2025
-Giddel_1,Giddel,,temple servants (EZR 2:47),male,Levi,,1,2026
-Gahar_1,Gahar,,temple servants (EZR 2:47),male,Levi,,1,2027
-Reaiah_3,Reaiah,,temple servants (EZR 2:47),male,Levi,,3,2028
-Rezin_2,Rezin,,temple servants (EZR 2:48),male,Levi,,2,2029
-Nekoda_1,Nekoda,,temple servants (EZR 2:48),male,Levi,,1,2030
-Gazzam_1,Gazzam,,temple servants (EZR 2:48),male,Levi,,1,2031
-Uzza_2,Uzza,,temple servants (EZR 2:49),male,Levi,,2,2032
-Paseah_2,Paseah,,temple servants (EZR 2:49),male,Levi,,2,2033
-Besai_1,Besai,,temple servants (EZR 2:49),male,Levi,,1,2034
-Asnah_1,Asnah,,temple servants (EZR 2:50),male,Levi,,1,2035
-Bakbuk_1,Bakbuk,,temple servants (EZR 2:51),male,Levi,,1,2036
-Hakupha_1,Hakupha,,temple servants (EZR 2:51),male,Levi,,1,2037
-Harhur_1,Harhur,,temple servants (EZR 2:51),male,Levi,,1,2038
-Bazluth_1,Bazluth,,temple servants (EZR 2:52),male,Levi,,1,2039
-Mehida_1,Mehida,,temple servants (EZR 2:52),male,Levi,,1,2040
-Harsha_1,Harsha,,temple servants (EZR 2:52),male,Levi,,1,2041
-Barkos_1,Barkos,,temple servants (EZR 2:53),male,Levi,,1,2042
-Sisera_3,Sisera,,temple servants (EZR 2:53),male,Levi,,3,2043
-Temah_1,Temah,,temple servants (EZR 2:53),male,Levi,,1,2044
-Neziah_1,Neziah,,temple servants (EZR 2:54),male,Levi,,1,2045
-Hatipha_1,Hatipha,,temple servants (EZR 2:54),male,Levi,,1,2046
-_0,,,,,,,0,2047
-_0,,,,,,,0,2048
-_0,,,,,,,0,2049
-_0,,,,,,,0,2050
-_0,,,,,,,0,2051
-_0,,,,,,,0,2052
-_0,,,,,,,0,2053
-_0,,,,,,,0,2054
-_0,,,,,,,0,2055
-_0,,,,,,,0,2056
-_0,,,,,,,0,2057
-_0,,,,,,,0,2058
-_0,,,,,,,0,2059
-_0,,,,,,,0,2060
-_0,,,,,,,0,2061
+Ziha_1,Ziha,,temple servant (EZR 2:43),male,Levi,,1,2014
+Hasupha_1,Hasupha,,temple servant (EZR 2:43),male,Levi,,1,2015
+Tabbaoth_1,Tabbaoth,,temple servant (EZR 2:43),male,Levi,,1,2016
+Keros_1,Keros,,temple servant (EZR 2:43),male,Levi,,1,2017
+Siaha_1,Siaha,,temple servant (EZR 2:44),male,Levi,,1,2018
+Padon_1,Padon,,temple servant (EZR 2:44),male,Levi,,1,2019
+Lebanah_1,Lebanah,,temple servant (EZR 2:45),male,Levi,,1,2020
+Hagabah_1,Hagabah,,temple servant (EZR 2:45),male,Levi,,1,2021
+Akkub_3,Akkub,,temple servant (EZR 2:45),male,Levi,,3,2022
+Hagab_1,Hagab,,temple servant (EZR 2:46),male,Levi,,1,2023
+Shalmai_1,Shalmai,,temple servant (EZR 2:46),male,Levi,,1,2024
+Hanan_4,Hanan,,temple servant (EZR 2:46),male,Levi,,4,2025
+Giddel_1,Giddel,,temple servant (EZR 2:47),male,Levi,,1,2026
+Gahar_1,Gahar,,temple servant (EZR 2:47),male,Levi,,1,2027
+Reaiah_3,Reaiah,,temple servant (EZR 2:47),male,Levi,,3,2028
+Rezin_2,Rezin,,temple servant (EZR 2:48),male,Levi,,2,2029
+Nekoda_1,Nekoda,,temple servant (EZR 2:48),male,Levi,,1,2030
+Gazzam_1,Gazzam,,temple servant (EZR 2:48),male,Levi,,1,2031
+Uzza_2,Uzza,,temple servant (EZR 2:49),male,Levi,,2,2032
+Paseah_2,Paseah,,temple servant (EZR 2:49),male,Levi,,2,2033
+Besai_1,Besai,,temple servant (EZR 2:49),male,Levi,,1,2034
+Asnah_1,Asnah,,temple servant (EZR 2:50),male,Levi,,1,2035
+Bakbuk_1,Bakbuk,,temple servant (EZR 2:51),male,Levi,,1,2036
+Hakupha_1,Hakupha,,temple servant (EZR 2:51),male,Levi,,1,2037
+Harhur_1,Harhur,,temple servant (EZR 2:51),male,Levi,,1,2038
+Bazluth_1,Bazluth,,temple servant (EZR 2:52),male,Levi,,1,2039
+Mehida_1,Mehida,,temple servant (EZR 2:52),male,Levi,,1,2040
+Harsha_1,Harsha,,temple servant (EZR 2:52),male,Levi,,1,2041
+Barkos_1,Barkos,,temple servant (EZR 2:53),male,Levi,,1,2042
+Sisera_3,Sisera,,temple servant (EZR 2:53),male,Levi,,3,2043
+Temah_1,Temah,,temple servant (EZR 2:53),male,Levi,,1,2044
+Neziah_1,Neziah,,temple servant (EZR 2:54),male,Levi,,1,2045
+Hatipha_1,Hatipha,,temple servant (EZR 2:54),male,Levi,,1,2046
+Sotai_1,Sotai,,Solomon's servant (EZR 2:55),male,,,1,2047
+Hassophereth_1,Hassophereth,,Solomon's servant (EZR 2:55),male,,,1,2048
+Peruda_1,Peruda,,Solomon's servant (EZR 2:55),male,,,1,2049
+Jaalah_1,Jaalah,,Solomon's servant (EZR 2:55),male,,,1,2050
+Darkon_1,Darkon,,Solomon's servant (EZR 2:55),male,,,1,2051
+Giddel_2,Giddel,,Solomon's servant (EZR 2:55),male,,,2,2052
+Shephatiah_5,Shephatiah,,Solomon's servant (EZR 2:55),male,,,5,2053
+Hattil_1,Hattil,,Solomon's servant (EZR 2:55),male,,,1,2054
+Pochereth-hazzebaim_1,Pochereth-hazzebaim,,Solomon's servant (EZR 2:55),male,,,1,2055
+Ami_1,Ami,,Solomon's servant (EZR 2:55),male,,,1,2056
+Delaiah_3,Delaiah,,unable to give evidence if they were from Israel (EZR 2:60),male,,,3,2057
+Tobiah_1,Tobiah,,unable to give evidence if they were from Israel (EZR 2:60),male,,,1,2058
+Nekoda_2,Nekoda,,unable to give evidence if they were from Israel (EZR 2:60),male,,,2,2059
+Habaiah_1,Habaiah,,unable to give evidence if they were from the priesthood (EZR 2:62),male,,,1,2060
+Barzillai_2,Barzillai,,man who took a wife from the the daughters of Barzillai and was called by their name (EZR 2:61),male,,,2,2061
+Jozadak_1,Jozadak,,father of Jeshua who built the altar (EZR 3:2),male,Levi,priest,1,2062
+Shealtiel_2,Shealtiel,,father of Zerubbabel (EZR 3:2),male,Levi,,2,2063
+Darius_1,Darius,,King of Persia (EZR 4:5),male,,,1,2064
+Ahasuerus_1,Ahasuerus,,King of Persia (EZR 4:6),male,,This is the same person in Esther 1:1 and Daniel 9:1,1,2065
+Artaxerxes_1,Artaxerxes,,King of Persia (EZR 4:7),male,,,1,2066
+Bishlam_1,Bishlam,,wrote against Judah (EZR 4:7),male,,,1,2067
+Mithredath_2,Mithredath,,wrote against Judah (EZR 4:7),male,,,2,2068
+Tabeel_1,Tabeel,,wrote against Judah (EZR 4:7),male,,,1,2069
+Rehum_2,Rehum,,the commander who wrote against Judah (EZR 4:8),male,,,2,2070
+Shimshai_1,Shimshai,,the scribe who wrote against Judah (EZR 4:8),male,,,1,2071
+Osnappar_1,Osnappar,,deported and settled people in the city of Samaria (EZR 4:10),male,,,1,2072
+Haggai_1,Haggai,,the prophet (EZR 5:1) of the book of Haggai,male,,,1,2073
+Zechariah_15,Zechariah,,"the prophet (EZR 5:1) of the book of Zechariah, who went up with Ezra (EZR 8:2)",male,Levi,,15,2074
+Iddo_5,Iddo,,"[grand] father of Zechariah the prophet (EZR 5:1, ZEC 1:1)",male,Levi,listed among the priests of NEH 12:1-4 who was father of Zechariah (NEH 12:16),5,2075
+Tattenai_1,Tattenai,,governor who opposed Israel rebuilding the Temple (EZR 5:3),male,,,1,2076
+Shethar-bozenai_1,Shethar-bozenai,,opposed Israel rebuilding the Temple (EZR 5:3),male,,,1,2077
+Ezra_1,Ezra,,"son of Seraiah (EZR 7:1), scribe skilled in the Law (EZR 7:6)",male,Levi,,1,2078
+Gershom_3,Gershom,,descendant of Phinehas who went up with Ezra (EZR 8:2),male,Levi,,3,2079
+Daniel_1,Daniel,,descendant of Ithamar who went up with Ezra (EZR 8:2),male,Levi,,1,2080
+Eliehoenai_2,Eliehoenai,,"from Pahath-moab, son of Zerahiah who went up with Ezra (EZR 8:4)",male,,,2,2081
+Zerahiah_2,Zerahiah,,father of Eliehoenai who went up with Ezra (EZR 8:4),male,,,2,2082
+Shecaniah_4,Shecaniah,,"from Zattu, son of Jahaziel who went up with Ezra (EZR 8:5)",male,,,4,2083
+Jahaziel_4,Jahaziel,,father of Shecaniah who went up with Ezra (EZR 8:5),male,,,4,2084
+Ebed_2,Ebed,,"from Adin, son of Jonathan who went up with Ezra (EZR 8:6)",male,,,2,2085
+Jonathan_8,Jonathan,,father of Ebed who went up with Ezra (EZR 8:6),male,,,8,2086
+Jeshaiah_3,Jeshaiah,,"from Elam, son of Athaliah who went up with Ezra (EZR 8:7)",male,,,3,2087
+Athaliah_3,Athaliah,,father of Jeshaiah who went up with Ezra (EZR 8:7),male,,,3,2088
+Zebadiah_8,Zebadiah,,"from Sephatiah, son of Michael who went up with Ezra (EZR 8:8)",male,,,8,2089
+Michael_8,Michael,,father of Zebadiah who went up with Ezra (EZR 8:8),male,,,8,2090
+Obadiah_9,Obadiah,,"from Joab, son of Jehiel who went up with Ezra (EZR 8:9)",male,,,9,2091
+Jehiel_5,Jehiel,,father of Obadiah who went up with Ezra (EZR 8:9),male,,,5,2092
+Shelomith_4,Shelomith,,"from Bani, son of Josiphia who went up with Ezra (EZR 8:10)",male,,,4,2093
+Josiphiah_1,Josiphiah,,father of Shelomith who went up with Ezra (EZR 8:10),male,,,1,2094
+Zechariah_16,Zechariah,,"from Bebai, son of Bebai who went up with Ezra (EZR 8:11)",male,,,16,2095
+Bebai_1,Bebai,,father of Zechariah who went up with Ezra (EZR 8:11),male,,,1,2096
+Johanan_10,Johanan,,"from Azgad, son of Hakkatan who went up with Ezra (EZR 8:12)",male,,,10,2097
+Hakkatan_1,Hakkatan,,father of Johanan who went up with Ezra (EZR 8:12),male,,,1,2098
+Eliphelet_5,Eliphelet,,"from Adonikan, went up with Ezra (EZR 8:13)",male,,,5,2099
+Jeuel_2,Jeuel,,"from Adonikan, went up with Ezra (EZR 8:13)",male,,,2,2100
+Shemaiah_13,Shemaiah,,"from Adonikan, went up with Ezra (EZR 8:13)",male,,,13,2101
+Uthai_2,Uthai,,"from Bigvai, went up with Ezra (EZR 8:14)",male,,,2,2102
+Zabbud_1,Zabbud,,"from Bigvai, went up with Ezra (EZR 8:14)",male,,,1,2103
+_0,,,,,,,0,2104
+_0,,,,,,,0,2105
+_0,,,,,,,0,2106
+_0,,,,,,,0,2107
+_0,,,,,,,0,2108
+_0,,,,,,,0,2109
+_0,,,,,,,0,2110
+_0,,,,,,,0,2111
+_0,,,,,,,0,2112
 _0,,,,,,,0,
 Jucam_1,Jucam,,son of Ezer in Rahlf's Septuaginta (GEN 36:27),male,,name is not present in the BHS Hebrew text but is present in Rahlfs Septuaginta,1,
 Abdeel_1,Abdeel,,son of Dedan in Rahlf's Septuaginta (GEN 25:3),male,,name is not present in the BHS Hebrew text but is present in Rahlfs Septuaginta,1,

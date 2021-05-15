@@ -632,7 +632,7 @@ Jether_1_1,Jether_1,Jether,יֶתֶר,yeter,,H3500,Ιεθερ,Iether,,none,JDG 8
 Abimelech_2_1,Abimelech_2,Abimelech,אֲבִימֶלֶךְ,aviymelekh,[my] father is king or [my] father is Molech,H40,Αβιμελεχ,Abimelex,,none,JDG 8:31,proper name,,,1,631
 Jotham_1_1,Jotham_1,Jotham,יוֹתָם,yotam,Yahweh will complete,H3147,Ιωαθαμ,Iōatham,,none,JDG 9:5,proper name,,,1,632
 Gaal_1_1,Gaal_1,Gaal,גַּעַל,gaal,loathing,H1603,Γααλ,Gaal,,none,JDG 9:26,proper name,,,1,633
-Ebed_1_1,Ebed_1,Ebed,עֶבֶד,eved,servant,H6270,Αβεδ,Abed,,none,JDG 9:26,proper name,,,1,634
+Ebed_1_1,Ebed_1,Ebed,עֶבֶד,eved,servant,H5651,Αβεδ,Abed,,none,JDG 9:26,proper name,,,1,634
 Zebul_1_1,Zebul_1,Zebul,זְבֻל,zevul,"elevation, height, lofty [temple]",H2083,Ζεβουλ,Zeboul,,none,JDG 9:28,proper name,,,1,635
 Tola_2_1,Tola_2,Tola,תּוֹלָע,tola,"(deep) red, purple",H8439,Θωλα,Thōla,,none,JDG 10:1,proper name,,,1,636
 Puah_2_1,Puah_2,Puah,פּוּאָה,puah,[perhaps] girl,H6312,Φουα,Phoua,,none,JDG 10:1,proper name,,,1,637
@@ -2257,11 +2257,77 @@ Sisera_3_1,Sisera_3,Sisera,סִיסְרָא,siysəra,,H5516,Σισαρα,Sisara,
 Temah_1_1,Temah_1,Temah,תֶּמַח,temach,,H8547,Θεμα,Thema,the deposit of grain in the public granary,none,EZR 2:53,proper name,,,1,2256
 Neziah_1_1,Neziah_1,Neziah,נְצִיחַ,nətziyach,director [of worship],H5335,Νασουε,Nasoue,,none,EZR 2:54,proper name,,,1,2257
 Hatipha_1_1,Hatipha_1,Hatipha,חֲטִיפָא,chatiypha,taken captive,H2412,Ατουφα,Atoupha,,none,EZR 2:54,proper name,,,1,2258
-_0,,,,,,,,,,,,,,,0,2259
-_0,,,,,,,,,,,,,,,0,2260
-_0,,,,,,,,,,,,,,,0,2261
-_0,,,,,,,,,,,,,,,0,2262
-_,,,,,,,,,,,,,,,,
+Sotai_1_1,Sotai_1,Sotai,סוֹטַי,sotay,,H5479,Σατι,Sati,,none,EZR 2:55,proper name,,,1,2259
+Hassophereth_1_1,Hassophereth_1,Hassophereth,הַסֹפֶרֶת,hasopheret,(office of) scribes,H5618,Ασεφηραθ,Asephērath,,none,EZR 2:55,proper name,,,1,2260
+Peruda_1_1,Peruda_1,Peruda,פְּרוּדָא,pəruda,"single, unique",H6514,Φαδουρα,Phadoura,,none,EZR 2:55,proper name,,,1,2261
+Jaalah_1_1,Jaalah_1,Jaalah,יַעֲלָא,yaala,,H3279,Ιεηλα,Ieēla,,none,EZR 2:56,proper name,,,1,2262
+Darkon_1_1,Darkon_1,Darkon,דַּרְקוֹן,darəqon,[perhaps] rough or stern,H1874,Δαρκων,Darkōn,,none,EZR 2:56,proper name,,,1,2263
+Giddel_2_1,Giddel_2,Giddel,גִּדֵּל,gidel,big,H1435,Γεδηλ,Gedēl,,none,EZR 2:56,proper name,,,1,2264
+Shephatiah_5_1,Shephatiah_5,Shephatiah,שְׁפַטְיָה,shəphatəyah,Yahweh has judged,H8203,Σαφατια,Saphatia,,none,EZR 2:57,proper name,,,1,2265
+Hattil_1_1,Hattil_1,Hattil,חַטִּיל,chatiyl,talkative,H2411,Ατιλ,Atil,,none,EZR 2:57,proper name,,,1,2266
+Pochereth-hazzebaim_1_1,Pochereth-hazzebaim_1,Pochereth-hazzebaim,פֹּכֶרֶת הַצְּבָיִים ,poqheret chatzəvayiym,"pitfall of gazelles, i.e., gazelle hunter",H6380,Φαχεραθ-ασεβωιν,Phacherath-asebōin,,none,EZR 2:57,proper name,,,1,2267
+Ami_1_1,Ami_1,Ami,אָמִי,amiy,"trustworthy, reliable, faithful",H532,Ημι,Ēmi,"a prefix meaning ""half""",none,EZR 2:57,proper name,,,1,2268
+Delaiah_3_1,Delaiah_3,Delaiah,דְּלָיָה,dəlayah,Yahweh draws up [like water in a bucket],H1806,Δαλαια,Dalaia,,none,EZR 2:60,proper name,,,1,2269
+Tobiah_1_1,Tobiah_1,Tobiah,טוֹבִיָּה,toviyah,Yahweh is good,H2900,Τωβια,Tōbia,,none,EZR 2:60,proper name,,,1,2270
+Nekoda_2_1,Nekoda_2,Nekoda,נְקוֹדָא,nəqoda,,H5353,Νεκωδα,Nekōda,,none,EZR 2:60,proper name,,,1,2271
+Habaiah_1_1,Habaiah_1,Habaiah,חֳבַיָּה,chavayah,Yahweh has hidden,H2252,Χαβια,Xabia,,none,EZR 2:61,proper name,,,1,2272
+Barzillai_2_1,Barzillai_2,Barzillai,בַּרְזִלַּי,barəzilay,[made of] iron,H1271,Βερζελλαι,Berzellai,,none,EZR 2:51,proper name,,,1,2273
+Jozadak_1_1,Jozadak_1,Jozadak,יוֹצָדָק,yotzadaq,Yahweh is righteous,H3136,Ιωσεδεκ,Iōsedek,,none,EZR 3:2,proper name,,,1,2274
+Shealtiel_2_1,Shealtiel_2,Shealtiel,שְׁאַלְתִּיאֵל,shəalətiyel,"I have asked [him] of God [El]; [poss.] God [El] is a shield, God [El] is a victor",H7597,Σαλαθιηλ,Salathiēl,,G4528,EZR 3:2,proper name,,,1,2275
+Hodaviah_5_2,Hodaviah_5,Henadad,חֵנָדָד,chenadad,favor of Hadad,H2582,Ηναδαδ,Ēnadad,,none,EZR 3:9,proper name,,,2,2276
+Darius_1_1,Darius_1,Darius,דָּרְיָוֶשׁ,darəyavas,he who upholds the good,H1867,Δαρείου,Dareíou,,none,EZR 4:5,proper name,,,1,2277
+Darius_1_2,Darius_1,King of Persia,מֶלֶךְ פָּרַס,melekh paras,king [of] Persia,"H4428, H6539",βασιλέως Περσῶν,basiléōs Persō̂n,,"G935, none",EZR 4:5,title,,,2,2278
+Ahasuerus_1_1,Ahasuerus_1,Ahasuerus,אֲחַשְׁוֵרוֹשׁ,achashəverosh,Xerxes,H325,Ασουηρου,Asouērou,,none,EZR 4:6,proper name,,,1,2279
+Artaxerxes_1_1,Artaxerxes_1,Artaxerxes,אַרְתַּחְשַׁסְתְּא,arətachəshastə,Artaxerxes,H783,Αρθασασθα,Arthasastha,,none,EZR 4:7,proper name,,,1,2280
+Artaxerxes_1_2,Artaxerxes_1,King of Persia,מֶלֶךְ פָּרַס,melekh paras,king [of] Persia,"H4428, H6539",βασιλέως Περσῶν,basiléōs Persō̂n,,"G935, none",EZR 4:7,title,,,2,2281
+Bishlam_1_1,Bishlam_1,Bishlam,בִּשְׁלָם,bishəlam,son of Shalom [peace],H1312,[none],,,,EZR 4:7,proper name,,This name is missing from the equivalent passage in Rahlfs' Septuaginta.,1,2282
+Mithredath_2_1,Mithredath_2,Mithredath,מִתְרְדָת,mitərədat,gift to Mithra,H4990,Μιθραδάτῃ,Mithradátēi,,none,EZR 4:7,proper name,,,1,2283
+Tabeel_1_1,Tabeel_1,Tabeel,טָבְאַל,tavəel,God [El] is good,H2870,Ταβεηλ,Tabeēl,,none,EZR 4:7,proper name,,,1,2284
+Rehum_2_1,Rehum_2,Rehum,רְחוּם,rəchum,[he] is compassionate,H7348,Ραουμ,Raoum,,none,EZR 4:8,proper name,,,1,2285
+Shimshai_1_1,Shimshai_1,Shimshai,שִׁמְשַׁי,shiməshay,one given to Shemesh,H8124,Σαμσαι,Samsai,,none,EZR 4:8,proper name,,,1,2286
+Osnappar_1_1,Osnappar_1,Osnappar,אָסְנַפַּר,asənapar,"Ashurbanipal, “Ashur creates a son”",H620,Ασενναφαρ,Asennaphar,,none,EZR 4:10,proper name,,,1,2287
+Haggai_1_1,Haggai_1,Haggai,חַגִּי,chagiy,festal; born on the feast day,H2291,Αγγαιος,Angaios,,none,EZR 5:1,proper name,,,1,2288
+Zechariah_15_1,Zechariah_15,Zechariah,זְכַרְיָה,zəcharəyah,Yahweh remembers,H2148,Ζαχαριας,Zaxarias,,G2197,EZR 5:1,proper name,,,1,2289
+Iddo_5_1,Iddo_5,Iddo,עִדּוֹא,ido,[prob.] Yahweh has adorned,H5714,Αδδω,Addō,,none,EZR 5:1,proper name,,,1,2290
+Tattenai_1_1,Tattenai_1,Tattenai,תַּתְּנַי,tatənay,,H8674,Θανθαναι,Thanthanai,,none,EZR 5:3,proper name,,,1,2291
+Shethar-bozenai_1_1,Shethar-bozenai_1,Shethar-bozenai,שְׁתַר בּוֹזְנַי,shətar bozənay,,H8370,Σαθαρβουζανα,Satharbouzana,,none,EZR 5:3,proper name,,,1,2292
+Ezra_1_1,Ezra_1,Ezra,עֶזְרָא,ezra,help,H5830,Εσδρας,Esdras,,none,EZR 7:1,proper name,,,1,2293
+Gershom_3_1,Gershom_3,Gershom,גֵּרְשֹׁ֑ם,gerəshom,temporary resident there,H1647,Γηρσωμ,Gērsōm,,none,EZR 8:2,proper name,,,1,2294
+Daniel_1_1,Daniel_1,Daniel,דָּנִיֵּאל,daniyel,God [El] is my judge,H1840,Δανιηλ,Daniēl,,G1158,EZR 8:2,proper name,,,1,2295
+Eliehoenai_2_1,Eliehoenai_2,Eliehoenai,אֶלְיְהוֹעֵינַי,eləyəhoeynay,my eyes [look] to Yahweh,H454,Ελιανα,Eliana,,none,EZR 8:4,proper name,,,1,2296
+Zerahiah_2_1,Zerahiah_2,Zerahiah,זְרַחְיָה,zərachəyah,Yahweh shines brightly [red or scarlet]; Yahweh has risen [like the sun],H2228,Ζαραια,Zaraia,,none,EZR 8:4,proper name,,,1,2297
+Shecaniah_4_1,Shecaniah_4,Shecaniah,שְׁכַנְיָה,shəkhanəyah,Yahweh has taken up his abode,H7935,Σεχενιας,Sexenias,,none,EZR 8:5,proper name,,,1,2298
+Jahaziel_4_1,Jahaziel_4,Jahaziel,יַחֲזִיאֵל,yachaziyel,God [El] will see,H3166,Αζιηλ,Aziēl,,none,EZR 8:5,proper name,,,1,2299
+Ebed_2_1,Ebed_2,Ebed,עֶבֶד,eved,servant,H5651,Ωβηθ,Ōbēth,,none,EZR 8:6,proper name,,,1,2300
+Jonathan_8_1,Jonathan_8,Jonathan,יוֹנָתָן,yonatan,gift of Yahweh,H3129,Ιωναθαν,Iōnathan,,none,EZR 8:6,proper name,,,1,2301
+Jeshaiah_3_1,Jeshaiah_3,Jeshaiah,יְשַׁעְיָה,yəshaəyah,Yahweh will save,H3470,Ιεσια,Iesia,,none,EZR 8:7,proper name,,,1,2302
+Athaliah_3_1,Athaliah_3,Athaliah,עֲתַלְיָהוּ,ataləyahu,[poss.] Yahweh is exalted; oldest of Yahweh,H6271,Αθελια,Athelia,,none,EZR 8:7,proper name,,,1,2303
+Zebadiah_8_1,Zebadiah_8,Zebadiah,זְבַדְיָה,zəvadəyah,Yahweh bestows,H2069,Ζαβδια,Zabdia,,none,EZR 8:8,proper name,,,1,2304
+Michael_8_1,Michael_8,Michael,מִיכָאֵֽל,miykael,Who is like God [El]?,H4317,Μιχαηλ,Mixaēl,,G3413,EZR 8:8,proper name,,,1,2305
+Obadiah_9_1,Obadiah_9,Obadiah,עֹבַדְיָהוּ,ovedəyahu,servant [worshiper] of Yahweh,H5662,Αβδιου,Abdiou,,none,EZR 8:9,proper name,,,1,2306
+Jehiel_5_1,Jehiel_5,Jehiel,יְחִיאֵל,yəchiyel,God [El] lives,H3171,Ιιηλ,Iiēl,,none,EZR 8:9,proper name,,,1,2307
+Shelomith_4_1,Shelomith_4,Shelomith,שְׁלֹמִית,shlomiyt,at peace,H8019,Σαλωμιθ,Salōmith,,none,EZR 8:10,proper name,,,1,2308
+Josiphiah_1_1,Josiphiah_1,Josiphiah,יוֹסִפְיָה,yosiphəyah,Yahweh will add,H3131,Ιωσεφια,Iōsephia,,none,EZR 8:10,proper name,,,1,2309
+Zechariah_16_1,Zechariah_16,Zechariah,זְכַרְיָה,zəcharəyah,Yahweh remembers,H2148,Ζαχαρια,Zaxaria,,G2197,EZR 8:11,proper name,,,1,2310
+Bebai_1_1,Bebai_1,Bebai,בֵּבַי,bevay,child,H893,Βαβι,Babi,,none,EZR 8:11,proper name,,,1,2311
+Johanan_10_1,Johanan_10,Johanan,יוֹחָנָן,yochanan,Yahweh is gracious,H3110,Ιωαναν,Iōanan,,G2490a,EZR 8:12,proper name,,,1,2312
+Hakkatan_1_1,Hakkatan_1,Hakkatan,הַקָטָן,haqatan,the small one,H6997,Ακαταν,Akatan,,none,EZR 8:12,proper name,,,1,2313
+Eliphelet_5_1,Eliphelet_5,Eliphelet,אֱלִיפֶלֶט,eliyphelet,God [El] is [my] deliverance,H467,Αλιφαλατ,Aliphalat,,none,EZR 8:13,proper name,,,1,2314
+Jeuel_2_1,Jeuel_2,Jeuel,יְעוּאֵל,yəuel,God [El] has preserved,H3262,Ιιηλ,Iiēl,,none,EZR 8:13,proper name,,,1,2315
+Shemaiah_13_1,Shemaiah_13,Shemaiah,שְׁמַעְיָה,shəmaəyah,Yahweh hears,H8098,Σαμαια,Samaia,,none,EZR 8:13,proper name,,,1,2316
+Uthai_2_1,Uthai_2,Uthai,עוּתַי,utay,[poss.] superiority of Yahweh; [poss.] [my] restoration,H5793,Ουθι,Outhi,,none,EZR 8:14,proper name,,,1,2317
+Zabbud_1_1,Zabbud_1,Zabbud,זָבוּד,zavud,[he has] bestowed upon,H2071,[none],,,,EZR 8:14,proper name,,"Some Hebrew texts contain ""Zakkur""  (זַכּ֑וּר) instead of ""Zabbud"".  This name is missing from the equivalent passage in Rahlfs' Septuaginta.",1,2318
+_0,,,,,,,,,,,,,,,0,2319
+_0,,,,,,,,,,,,,,,0,2320
+_0,,,,,,,,,,,,,,,0,2321
+_0,,,,,,,,,,,,,,,0,2322
+_0,,,,,,,,,,,,,,,0,2323
+_0,,,,,,,,,,,,,,,0,2324
+_0,,,,,,,,,,,,,,,0,2325
+_0,,,,,,,,,,,,,,,0,2326
+_0,,,,,,,,,,,,,,,0,2327
+_0,,,,,,,,,,,,,,,0,2328
+_0,,,,,,,,,,,,,,,0,2329
 Shallum_7_4,Shallum_7,Meshullam,מְשֻׁלָּם,məshulam,restitution,H4918,[none],,,,NEH 12:25,proper name,,This name is missing from the equivalent passage in Rahlfs' Septuaginta.,4,
 _0,,,,,,,,,,,,,,,0,
 Elishah_2_1,Elishah_2,Elishah,,,,,Ελισα,Elisa,,none,GEN 10:2,proper name,,Elisa/Elisha is not present in the Hebrew text.  Perhaps a scribal copy error from Gen 10:4?,1,
