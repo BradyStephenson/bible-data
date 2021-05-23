@@ -4065,17 +4065,104 @@ Bebai_1:Zechariah_16:4063,4063,Bebai_1,father,Zechariah_16,inferred,EZR 8:11,
 Zechariah_16:Bebai_1:4064,4064,Zechariah_16,son,Bebai_1,explicit,EZR 8:11,
 Hakkatan_1:Johanan_10:4065,4065,Hakkatan_1,father,Johanan_10,inferred,EZR 8:12,
 Johanan_10:Hakkatan_1:4066,4066,Johanan_10,son,Hakkatan_1,explicit,EZR 8:12,
-::4067,4067,,,,,,
-::4068,4068,,,,,,
-::4069,4069,,,,,,
-::4070,4070,,,,,,
-::4071,4071,,,,,,
-::4072,4072,,,,,,
-::4073,4073,,,,,,
-::4074,4074,,,,,,
-::4075,4075,,,,,,
-::4076,4076,,,,,,
-::4077,4077,,,,,,
+Levi_1:Eliezer_7:4067,4067,Levi_1,ancestor,Eliezer_7,inferred,EZR 8:16,Ezra couldn't find any Levites (EZR 8:15) so he sent for some.
+Eliezer_7:Levi_1:4068,4068,Eliezer_7,descendant,Levi_1,inferred,EZR 8:16,Ezra couldn't find any Levites (EZR 8:15) so he sent for some.
+Levi_1:Ariel_2:4069,4069,Levi_1,ancestor,Ariel_2,inferred,EZR 8:16,Ezra couldn't find any Levites (EZR 8:15) so he sent for some.
+Ariel_2:Levi_1:4070,4070,Ariel_2,descendant,Levi_1,inferred,EZR 8:16,Ezra couldn't find any Levites (EZR 8:15) so he sent for some.
+Levi_1:Shemaiah_14:4071,4071,Levi_1,ancestor,Shemaiah_14,inferred,EZR 8:16,Ezra couldn't find any Levites (EZR 8:15) so he sent for some.
+Shemaiah_14:Levi_1:4072,4072,Shemaiah_14,descendant,Levi_1,inferred,EZR 8:16,Ezra couldn't find any Levites (EZR 8:15) so he sent for some.
+Levi_1:Elnathan_2:4073,4073,Levi_1,ancestor,Elnathan_2,inferred,EZR 8:16,Ezra couldn't find any Levites (EZR 8:15) so he sent for some.
+Elnathan_2:Levi_1:4074,4074,Elnathan_2,descendant,Levi_1,inferred,EZR 8:16,Ezra couldn't find any Levites (EZR 8:15) so he sent for some.
+Levi_1:Jarib_1:4075,4075,Levi_1,ancestor,Jarib_1,inferred,EZR 8:16,Ezra couldn't find any Levites (EZR 8:15) so he sent for some.
+Jarib_1:Levi_1:4076,4076,Jarib_1,descendant,Levi_1,inferred,EZR 8:16,Ezra couldn't find any Levites (EZR 8:15) so he sent for some.
+Levi_1:Elnathan_3:4077,4077,Levi_1,ancestor,Elnathan_3,inferred,EZR 8:16,Ezra couldn't find any Levites (EZR 8:15) so he sent for some.
+Elnathan_3:Levi_1:4078,4078,Elnathan_3,descendant,Levi_1,inferred,EZR 8:16,Ezra couldn't find any Levites (EZR 8:15) so he sent for some.
+Levi_1:Nathan_7:4079,4079,Levi_1,ancestor,Nathan_7,inferred,EZR 8:16,Ezra couldn't find any Levites (EZR 8:15) so he sent for some.
+Nathan_7:Levi_1:4080,4080,Nathan_7,descendant,Levi_1,inferred,EZR 8:16,Ezra couldn't find any Levites (EZR 8:15) so he sent for some.
+Levi_1:Zechariah_17:4081,4081,Levi_1,ancestor,Zechariah_17,inferred,EZR 8:16,Ezra couldn't find any Levites (EZR 8:15) so he sent for some.
+Zechariah_17:Levi_1:4082,4082,Zechariah_17,descendant,Levi_1,inferred,EZR 8:16,Ezra couldn't find any Levites (EZR 8:15) so he sent for some.
+Levi_1:Meshullam_8:4083,4083,Levi_1,ancestor,Meshullam_8,inferred,EZR 8:16,Ezra couldn't find any Levites (EZR 8:15) so he sent for some.
+Meshullam_8:Levi_1:4084,4084,Meshullam_8,descendant,Levi_1,inferred,EZR 8:16,Ezra couldn't find any Levites (EZR 8:15) so he sent for some.
+Levi_1:Joiarib_1:4085,4085,Levi_1,ancestor,Joiarib_1,inferred,EZR 8:16,Ezra couldn't find any Levites (EZR 8:15) so he sent for some.
+Joiarib_1:Levi_1:4086,4086,Joiarib_1,descendant,Levi_1,inferred,EZR 8:16,Ezra couldn't find any Levites (EZR 8:15) so he sent for some.
+Levi_1:Elnathan_4:4087,4087,Levi_1,ancestor,Elnathan_4,inferred,EZR 8:16,Ezra couldn't find any Levites (EZR 8:15) so he sent for some.
+Elnathan_4:Levi_1:4088,4088,Elnathan_4,descendant,Levi_1,inferred,EZR 8:16,Ezra couldn't find any Levites (EZR 8:15) so he sent for some.
+Mahli_1:Sherebiah_1:4089,4089,Mahli_1,ancestor,Sherebiah_1,inferred,EZR 8:18,
+Sherebiah_1:Mahli_1:4090,4090,Sherebiah_1,descendant,Mahli_1,explicit,EZR 8:18,
+Merari_1:Hashabiah_4:4091,4091,Merari_1,ancestor,Hashabiah_4,inferred,EZR 8:18,
+Hashabiah_4:Merari_1:4092,4092,Hashabiah_4,descendant,Merari_1,explicit,EZR 8:18,
+Merari_1:Jeshaiah_4:4093,4093,Merari_1,ancestor,Jeshaiah_4,inferred,EZR 8:18,
+Jeshaiah_4:Merari_1:4094,4094,Jeshaiah_4,descendant,Merari_1,explicit,EZR 8:18,
+Uriah_2:Meremoth_1:4095,4095,Uriah_2,father,Meremoth_1,inferred,EZR 8:33,
+Meremoth_1:Uriah_2:4096,4096,Meremoth_1,son,Uriah_2,explicit,EZR 8:33,
+Phinehas_1:Eleazar_6:4097,4097,Phinehas_1,ancestor,Eleazar_6,inferred,EZR 8:33,
+Eleazar_6:Phinehas_1:4098,4098,Eleazar_6,descendant,Phinehas_1,explicit,EZR 8:33,
+Jeshua_3:Jozabad_4:4099,4099,Jeshua_3,father,Jozabad_4,inferred,EZR 8:33,
+Jozabad_4:Jeshua_3:4100,4100,Jozabad_4,son,Jeshua_3,explicit,EZR 8:33,
+Binnui_1:Noadiah_1:4101,4101,Binnui_1,father,Noadiah_1,inferred,EZR 8:33,
+Noadiah_1:Binnui_1:4102,4102,Noadiah_1,son,Binnui_1,explicit,EZR 8:33,
+Jehiel_6:Shecaniah_5:4103,4103,Jehiel_6,father,Shecaniah_5,inferred,EZR 10:2,
+Shecaniah_5:Jehiel_6:4104,4104,Shecaniah_5,son,Jehiel_6,explicit,EZR 10:2,
+Elam_4:Jehiel_6:4105,4105,Elam_4,father,Jehiel_6,inferred,EZR 10:2,
+Jehiel_6:Elam_4:4106,4106,Jehiel_6,son,Elam_4,explicit,EZR 10:2,
+Eliashib_3:Jehohanan_1:4107,4107,Eliashib_3,father,Jehohanan_1,inferred,EZR 10:6,
+Jehohanan_1:Eliashib_3:4108,4108,Jehohanan_1,son,Eliashib_3,explicit,EZR 10:6,
+Asahel_4:Jonathan_9:4109,4109,Asahel_4,father,Jonathan_9,inferred,EZR 10:15,
+Jonathan_9:Asahel_4:4110,4110,Jonathan_9,son,Asahel_4,explicit,EZR 10:15,
+Tikvah_2:Jahzeiah_1:4111,4111,Tikvah_2,father,Jahzeiah_1,inferred,EZR 10:15,
+Jahzeiah_1:Tikvah_2:4112,4112,Jahzeiah_1,son,Tikvah_2,explicit,EZR 10:15,
+Levi_1:Shabbethai_1:4113,4113,Levi_1,ancestor,Shabbethai_1,inferred,EZR 10:15,
+Shabbethai_1:Levi_1:4114,4114,Shabbethai_1,descendant,Levi_1,explicit,EZR 10:15,
+Levi_1:Maaseiah_6:4115,4115,Levi_1,ancestor,Maaseiah_6,inferred,EZR 10:18,
+Maaseiah_6:Levi_1:4116,4116,Maaseiah_6,descendant,Levi_1,explicit,EZR 10:18,
+Levi_1:Gedaliah_3:4117,4117,Levi_1,ancestor,Gedaliah_3,inferred,EZR 10:18,
+Gedaliah_3:Levi_1:4118,4118,Gedaliah_3,descendant,Levi_1,explicit,EZR 10:18,
+Immer_2:Hanani_3:4119,4119,Immer_2,father,Hanani_3,inferred,EZR 10:20,
+Hanani_3:Immer_2:4120,4120,Hanani_3,son,Immer_2,explicit,EZR 10:20,
+Immer_2:Zebadiah_9:4121,4121,Immer_2,father,Zebadiah_9,inferred,EZR 10:20,
+Zebadiah_9:Immer_2:4122,4122,Zebadiah_9,son,Immer_2,explicit,EZR 10:20,
+Harim_1:Elijah_3:4123,4123,Harim_1,father,Elijah_3,inferred,EZR 10:21,
+Elijah_3:Harim_1:4124,4124,Elijah_3,son,Harim_1,explicit,EZR 10:21,
+Harim_1:Shemaiah_15:4125,4125,Harim_1,father,Shemaiah_15,inferred,EZR 10:21,
+Shemaiah_15:Harim_1:4126,4126,Shemaiah_15,son,Harim_1,explicit,EZR 10:21,
+Harim_1:Jehiel_7:4127,4127,Harim_1,father,Jehiel_7,inferred,EZR 10:21,
+Jehiel_7:Harim_1:4128,4128,Jehiel_7,son,Harim_1,explicit,EZR 10:21,
+Harim_1:Uzziah_2:4129,4129,Harim_1,father,Uzziah_2,inferred,EZR 10:21,
+Uzziah_2:Harim_1:4130,4130,Uzziah_2,son,Harim_1,explicit,EZR 10:21,
+Pashhur_1:Elioenai_4:4131,4131,Pashhur_1,father,Elioenai_4,inferred,EZR 10:22,
+Elioenai_4:Pashhur_1:4132,4132,Elioenai_4,son,Pashhur_1,explicit,EZR 10:22,
+Pashhur_1:Maaseiah_7:4133,4133,Pashhur_1,father,Maaseiah_7,inferred,EZR 10:22,
+Maaseiah_7:Pashhur_1:4134,4134,Maaseiah_7,son,Pashhur_1,explicit,EZR 10:22,
+Pashhur_1:Ishmael_6:4135,4135,Pashhur_1,father,Ishmael_6,inferred,EZR 10:22,
+Ishmael_6:Pashhur_1:4136,4136,Ishmael_6,son,Pashhur_1,explicit,EZR 10:22,
+Pashhur_1:Netanel_1:4137,4137,Pashhur_1,father,Netanel_1,inferred,EZR 10:22,
+Netanel_1:Pashhur_1:4138,4138,Netanel_1,son,Pashhur_1,explicit,EZR 10:22,
+Pashhur_1:Jozabad_5:4139,4139,Pashhur_1,father,Jozabad_5,inferred,EZR 10:22,
+Jozabad_5:Pashhur_1:4140,4140,Jozabad_5,son,Pashhur_1,explicit,EZR 10:22,
+Pashhur_1:Elasah_1:4141,4141,Pashhur_1,father,Elasah_1,inferred,EZR 10:22,
+Elasah_1:Pashhur_1:4142,4142,Elasah_1,son,Pashhur_1,explicit,EZR 10:22,
+Levi_1:Jozabad_6:4143,4143,Levi_1,ancestor,Jozabad_6,inferred,EZR 10:23,
+Jozabad_6:Levi_1:4144,4144,Jozabad_6,descendant,Levi_1,explicit,EZR 10:23,
+Levi_1:Shimei_14:4145,4145,Levi_1,ancestor,Shimei_14,inferred,EZR 10:23,
+Shimei_14:Levi_1:4146,4146,Shimei_14,descendant,Levi_1,explicit,EZR 10:23,
+Levi_1:Kelaiah_1:4147,4147,Levi_1,ancestor,Kelaiah_1,inferred,EZR 10:23,
+Kelaiah_1:Levi_1:4148,4148,Kelaiah_1,descendant,Levi_1,explicit,EZR 10:23,
+Levi_1:Pethahiah_2:4149,4149,Levi_1,ancestor,Pethahiah_2,inferred,EZR 10:23,
+Pethahiah_2:Levi_1:4150,4150,Pethahiah_2,descendant,Levi_1,explicit,EZR 10:23,
+Levi_1:Judah_2:4151,4151,Levi_1,ancestor,Judah_2,inferred,EZR 10:23,
+Judah_2:Levi_1:4152,4152,Judah_2,descendant,Levi_1,explicit,EZR 10:23,
+Levi_1:Eliashib_4:4153,4153,Levi_1,ancestor,Eliashib_4,inferred,EZR 10:24,
+Eliashib_4:Levi_1:4154,4154,Eliashib_4,descendant,Levi_1,explicit,EZR 10:24,
+Levi_1:Shallum_9:4155,4155,Levi_1,ancestor,Shallum_9,inferred,EZR 10:24,
+Shallum_9:Levi_1:4156,4156,Shallum_9,descendant,Levi_1,explicit,EZR 10:24,
+Levi_1:Telem_1:4157,4157,Levi_1,ancestor,Telem_1,inferred,EZR 10:24,
+Telem_1:Levi_1:4158,4158,Telem_1,descendant,Levi_1,explicit,EZR 10:24,
+Levi_1:Uri_3:4159,4159,Levi_1,ancestor,Uri_3,inferred,EZR 10:24,
+Uri_3:Levi_1:4160,4160,Uri_3,descendant,Levi_1,explicit,EZR 10:24,
+::4161,4161,,,,,,
+::4162,4162,,,,,,
+::4163,4163,,,,,,
+,,,,,,,
 Aaron_1:Iddo_5:,,Aaron_1,ancestor,Iddo_5,inferred,NEH 12:4,"Iddo is listed among the ""heads of the priests"" "
 Iddo_5:Aaron_1:,,Iddo_5,descendant,Aaron_1,explicit,NEH 12:4,"Iddo is listed among the ""heads of the priests"" "
 ,,,,,,,

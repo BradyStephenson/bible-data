@@ -1595,9 +1595,9 @@ Jedaiah_2,Jedaiah,,"priest (1CH 9:10), second-chosen priest for the twenty-four 
 Jehoiarib_1,Jehoiarib,,"priest (1CH 9:10), first-chosen priest for the twenty-four courses (1CH 24:7)",male,Levi,In the line of Eleazar (1CH 24:6-7),1,1594
 Jachin_2,Jachin,,"priest (1CH 9:10), twenty-first-chosen priest for the twenty-four courses (1CH 24:17)",male,Levi,"In the line of Eleazar (1CH 24:6, 17)",2,1595
 Meraioth_2,Meraioth,,son of Ahitub (1CH 9:11),male,Levi,Aaronic priest via Phinehas son of Eliezer,2,1596
-Adaiah_4,Adaiah,,son of Jeroham (1CH 9:12),male,Levi,,4,1597
-Jeroham_4,Jeroham,,son of Pashhur (1CH 9:12),male,Levi,,4,1598
-Pashhur_1,Pashhur,,son of Malchijah (1CH 9:12),male,Levi,,1,1599
+Adaiah_4,Adaiah,,son of Jeroham (1CH 9:12),male,Levi,"In the line of Eleazar (1CH 24:6, 9)",4,1597
+Jeroham_4,Jeroham,,son of Pashhur (1CH 9:12),male,Levi,"In the line of Eleazar (1CH 24:6, 9)",4,1598
+Pashhur_1,Pashhur,,son of Malchijah (1CH 9:12),male,Levi,"In the line of Eleazar (1CH 24:6, 9)",1,1599
 Malchijah_2,Malchijah,,"father of Pashhur (1CH 9:12), fifth-chosen priest for the twenty-four courses (1CH 24:9)",male,Levi,"In the line of Eleazar (1CH 24:6, 9)",2,1600
 Maasai_1,Maasai,,son of Adiel (1CH 9:12),male,Levi,,1,1601
 Adiel_2,Adiel,,son of Jahzerah (1CH 9:12),male,Levi,,2,1602
@@ -1843,7 +1843,7 @@ Eliezer_5,Eliezer,,"chief officer for the Reubenites, son of Zichri (1CH 27:16)"
 Zichri_7,Zichri,,father of Eliezer (1CH 27:16),male,Reuben,,7,1842
 Shephatiah_4,Shephatiah,,"chief officer for the Simeonites, son of Maacah (1CH 27:16)",male,Simeon,,4,1843
 Maacah_8,Maacah,,father of Shephatiah (1CH 27:16),male,Simeon,,8,1844
-Hashabiah_3,Hashabiah,,"chief officer for the Levites, son of Kemuel (1CH 27:17)",male,Levi,,3,1845
+Hashabiah_3,Hashabiah,,"chief officer for the Levites, son of Kemuel (1CH 27:17)",male,Levi,"as ""chief officer"" for the Levites, likely a descendant of Aaron",3,1845
 Kemuel_3,Kemuel,,father of Hashabiah (1CH 27:17),male,Levi,,3,1846
 Elihu_4,Elihu,,"chief officer for the Judahites, brother of David (1CH 27:18)",male,Judah,,4,1847
 Omri_4,Omri,,"chief officer for the Issacharites, son of Michael_4 (1CH 27:18)",male,Issachar,,4,1848
@@ -1973,7 +1973,7 @@ Azaziah_3,Azaziah,,overseer of the consecrated things under Conaniah (2CH 31:13)
 Nahath_3,Nahath,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,3,1972
 Asahel_3,Asahel,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,3,1973
 Jerimoth_5,Jerimoth,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,5,1974
-Jozabad_4,Jozabad,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,4,1975
+Jozabad_4,Jozabad,,"overseer of the consecrated things under Conaniah (2CH 31:13, EZR 8:33)",male,Levi,,4,1975
 Eliel_8,Eliel,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,8,1976
 Ismachiah_1,Ismachiah,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,1,1977
 Mahath_2,Mahath,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,2,1978
@@ -1996,7 +1996,7 @@ Cyrus_1,Cyrus,,King of Persia (2CH 36:22),male,,,1,1994
 Mithredath_1,Mithredath,,treasurer of Cyrus (EZR 1:8),male,,,1,1995
 Sheshbazzar_1,Sheshbazzar,,the prince of Judah (EZR 1:8),male,Judah,,1,1996
 Zerubbabel_2,Zerubbabel,,returned to Judah after the Babylonian captivity (EZR 2:2),male,Levi,,2,1997
-Jeshua_3,Jeshua,,returned to Judah after the Babylonian captivity (EZR 2:2),male,,,3,1998
+Jeshua_3,Jeshua,,returned to Judah after the Babylonian captivity (EZR 2:2),male,Levi,Built the new altar (EZR 3:2) but married a foreign wife (EZR 10:18).  His father (Jozadak_1) was a Levite (EZR 3:2),3,1998
 Nehemiah_1,Nehemiah,,returned to Judah after the Babylonian captivity (EZR 2:2),male,,,1,1999
 Reelaiah_1,Reelaiah,,returned to Judah after the Babylonian captivity (EZR 2:2),male,,,1,2000
 Mordecai_1,Mordecai,,returned to Judah after the Babylonian captivity (EZR 2:2),male,,,1,2001
@@ -2102,15 +2102,148 @@ Jeuel_2,Jeuel,,"from Adonikan, went up with Ezra (EZR 8:13)",male,,,2,2100
 Shemaiah_13,Shemaiah,,"from Adonikan, went up with Ezra (EZR 8:13)",male,,,13,2101
 Uthai_2,Uthai,,"from Bigvai, went up with Ezra (EZR 8:14)",male,,,2,2102
 Zabbud_1,Zabbud,,"from Bigvai, went up with Ezra (EZR 8:14)",male,,,1,2103
-_0,,,,,,,0,2104
-_0,,,,,,,0,2105
-_0,,,,,,,0,2106
-_0,,,,,,,0,2107
-_0,,,,,,,0,2108
-_0,,,,,,,0,2109
-_0,,,,,,,0,2110
-_0,,,,,,,0,2111
-_0,,,,,,,0,2112
+Eliezer_7,Eliezer,,"Levite Ezra sent to Iddo (EZR 8:16), married a foreign wife (EZR 10:18, EZ 10:23)",male,Levi,,7,2104
+Ariel_2,Ariel,,Levite Ezra sent to Iddo (EZR 8:16),male,Levi,,2,2105
+Shemaiah_14,Shemaiah,,Levite Ezra sent to Iddo (EZR 8:16),male,Levi,,14,2106
+Elnathan_2,Elnathan,,Levite Ezra sent to Iddo (EZR 8:16),male,Levi,,2,2107
+Jarib_1,Jarib,,"Levite Ezra sent to Iddo (EZR 8:16), married a foreign wife (EZR 10:18)",male,Levi,,1,2108
+Elnathan_3,Elnathan,,second Levite Ezra sent to Iddo named Elnathan (EZR 8:16),male,Levi,,3,2109
+Nathan_7,Nathan,,Levite Ezra sent to Iddo (EZR 8:16),male,Levi,,7,2110
+Zechariah_17,Zechariah,,Levite Ezra sent to Iddo (EZR 8:16),male,Levi,,17,2111
+Meshullam_8,Meshullam,,Levite Ezra sent to Iddo (EZR 8:16),male,Levi,,8,2112
+Joiarib_1,Joiarib,,Levite teacher Ezra sent to Iddo (EZR 8:16),male,Levi,,1,2113
+Elnathan_4,Elnathan,,Levite teacher Ezra sent to Iddo (EZR 8:16),male,Levi,,4,2114
+Iddo_6,Iddo,,the leading man at the place Casiphia (EZR 8:17),male,Levi,,6,2115
+Sherebiah_1,Sherebiah,,a man of insight sent to Ezra (EZR 8:18),male,Levi,descendant of Mahli,1,2116
+Hashabiah_4,Hashabiah,,Levite sent to Ezra (EZR 8:19),male,Levi,descendant of Merari,4,2117
+Jeshaiah_4,Jeshaiah,,Levite sent to Ezra (EZR 8:19),male,Levi,descendant of Merari,4,2118
+Meremoth_1,Meremoth,,son of Uriah the priest (EZR 8:33),male,Levi,,1,2119
+Uriah_2,Uriah,,"the priest, father of Meremoth (EZR 8:33)",male,Levi,,2,2120
+Eleazar_6,Eleazar,,"the priest, descendant of Phinehas (EZR 8:33)",male,Levi,,6,2121
+Noadiah_1,Noadiah,,"Levite present at the counting of the silver, gold, and utensils (EZR 8:33)",male,Levi,,1,2122
+Binnui_1,Binnui,,father of Noadiah (EZR 8:33),male,Levi,,1,2123
+Shecaniah_5,Shecaniah,,son of Jehiel (EZR 10:2),male,,,5,2124
+Jehiel_6,Jehiel,,son of Elam and father of Shecaniah (EZR 10:2),male,,,6,2125
+Elam_4,Elam,,father of Jehiel (EZR 10:2),male,,,4,2126
+Jehohanan_1,Jehohanan,,Ezra mourned over the unfaithfulness of Israel in his house (EZR 10:6),male,,,1,2127
+Eliashib_3,Eliashib,,father of Jehohanan in whose house Ezra mourned (EZR 10:6),male,,,3,2128
+Jonathan_9,Jonathan,,opposed Israel's decision to set apart foreign wives (EZR 10:15),male,,,9,2129
+Asahel_4,Asahel,,opposed Israel's decision to set apart foreign wives (EZR 10:15),male,,,4,2130
+Jahzeiah_1,Jahzeiah,,opposed Israel's decision to set apart foreign wives (EZR 10:15),male,,,1,2131
+Tikvah_2,Tikvah,,opposed Israel's decision to set apart foreign wives (EZR 10:15),male,,,2,2132
+Meshullam_9,Meshullam,,opposed Israel's decision to set apart foreign wives (EZR 10:15),male,,,9,2133
+Shabbethai_1,Shabbethai,,the Levite who opposed Israel's decision to set apart foreign wives (EZR 10:15),male,,,1,2134
+Maaseiah_6,Maaseiah,,"priest who had married a foreign wife (EZR 10:18), son of Harim (EZR 10:21)",male,Levi,,6,2135
+Gedaliah_3,Gedaliah,,priest who had married a foreign wife (EZR 10:18),male,Levi,,3,2136
+Hanani_3,Hanani,,son of Immer who had married a foreign wife (EZR 10:20),male,Levi,,3,2137
+Zebadiah_9,Zebadiah,,son of Immer who had married a foreign wife (EZR 10:20),male,Levi,,9,2138
+Elijah_3,Elijah,,son of Harim who had married a foreign wife (EZR 10:21),male,Levi,,3,2139
+Shemaiah_15,Shemaiah,,son of Harim who had married a foreign wife (EZR 10:21),male,Levi,,15,2140
+Jehiel_7,Jehiel,,son of Harim who had married a foreign wife (EZR 10:21),male,Levi,,7,2141
+Uzziah_2,Uzziah,,son of Harim who had married a foreign wife (EZR 10:21),male,Levi,,2,2142
+Elioenai_4,Elioenai,,son of Pashhur who had married a foreign wife (EZR 10:22),male,Levi,,4,2143
+Maaseiah_7,Maaseiah,,son of Pashhur who had married a foreign wife (EZR 10:22),male,Levi,,7,2144
+Ishmael_6,Ishmael,,son of Pashhur who had married a foreign wife (EZR 10:22),male,Levi,,6,2145
+Netanel_1,Netanel,,son of Pashhur who had married a foreign wife (EZR 10:22),male,Levi,,1,2146
+Jozabad_5,Jozabad,,son of Pashhur who had married a foreign wife (EZR 10:22),male,Levi,,5,2147
+Elasah_1,Elasah,,son of Pashhur who had married a foreign wife (EZR 10:22),male,Levi,,1,2148
+Jozabad_6,Jozabad,,Levite who had married a foreign wife (EZR 10:23),male,Levi,,6,2149
+Shimei_14,Shimei,,Levite who had married a foreign wife (EZR 10:23),male,Levi,,14,2150
+Kelaiah_1,Kelaiah,,Levite who had married a foreign wife (EZR 10:23),male,Levi,,1,2151
+Pethahiah_2,Pethahiah,,Levite who had married a foreign wife (EZR 10:23),male,Levi,,2,2152
+Judah_2,Judah,,Levite who had married a foreign wife (EZR 10:23),male,Levi,,2,2153
+Eliashib_4,Eliashib,,Levite singer who had married a foreign wife (EZR 10:24),male,Levi,,4,2154
+Shallum_9,Shallum,,Levite singer who had married a foreign wife (EZR 10:24),male,Levi,,9,2155
+Telem_1,Telem,,Levite gatekeeper who had married a foreign wife (EZR 10:24),male,Levi,,1,2156
+Uri_3,Uri,,Levite gatekeeper who had married a foreign wife (EZR 10:24),male,Levi,,3,2157
+Ramiah_1,Ramiah,,"non-Levite citizen (""son of"") Parosh who had married a foreign wife (EZR 10:25)",male,,,1,2158
+Izziah_1,Izziah,,"non-Levite citizen (""son of"") Parosh who had married a foreign wife (EZR 10:25)",male,,,1,2159
+Malchijah_3,Malchijah,,"non-Levite citizen (""son of"") Parosh who had married a foreign wife (EZR 10:25)",male,,,3,2160
+Mijamin_2,Mijamin,,"non-Levite citizen (""son of"") Parosh who had married a foreign wife (EZR 10:25)",male,,,2,2161
+Eleazar_7,Eleazar,,"non-Levite citizen (""son of"") Parosh who had married a foreign wife (EZR 10:25)",male,,,7,2162
+Malchijah_4,Malchijah,,"non-Levite citizen (""son of"") Parosh who had married a foreign wife [second Malchijah in the list] (EZR 10:25)",male,,,4,2163
+Benaiah_7,Benaiah,,"non-Levite citizen (""son of"") Parosh who had married a foreign wife (EZR 10:25)",male,,,7,2164
+Mattaniah_5,Mattaniah,,"non-Levite citizen (""son of"") Elam who had married a foreign wife (EZR 10:26)",male,,,5,2165
+Zechariah_18,Zechariah,,"non-Levite citizen (""son of"") Elam who had married a foreign wife (EZR 10:26)",male,,,18,2166
+Jehiel_8,Jehiel,,"non-Levite citizen (""son of"") Elam who had married a foreign wife (EZR 10:26)",male,,,8,2167
+Abdi_2,Abdi,,"non-Levite citizen (""son of"") Elam who had married a foreign wife (EZR 10:26)",male,,,2,2168
+Jeremoth_5,Jeremoth,,"non-Levite citizen (""son of"") Elam who had married a foreign wife (EZR 10:26)",male,,,5,2169
+Elijah_4,Elijah,,"non-Levite citizen (""son of"") Elam who had married a foreign wife (EZR 10:26)",male,,,4,2170
+Elioenai_5,Elioenai,,"non-Levite citizen (""son of"") Zattu who had married a foreign wife (EZR 10:27)",male,,,5,2171
+Eliashib_5,Eliashib,,"non-Levite citizen (""son of"") Zattu who had married a foreign wife (EZR 10:27)",male,,,5,2172
+Mattaniah_6,Mattaniah,,"non-Levite citizen (""son of"") Zattu who had married a foreign wife (EZR 10:27)",male,,,6,2173
+Jeremoth_6,Jeremoth,,"non-Levite citizen (""son of"") Zattu who had married a foreign wife (EZR 10:27)",male,,,6,2174
+Zabad_4,Zabad,,"non-Levite citizen (""son of"") Zattu who had married a foreign wife (EZR 10:27)",male,,,4,2175
+Aziza_1,Aziza,,"non-Levite citizen (""son of"") Zattu who had married a foreign wife (EZR 10:27)",male,,,1,2176
+Jehohanan_2,Jehohanan,,"non-Levite citizen (""son of"") Bebai who had married a foreign wife (EZR 10:28)",male,,,2,2177
+Hananiah_5,Hananiah,,"non-Levite citizen (""son of"") Bebai who had married a foreign wife (EZR 10:28)",male,,,5,2178
+Zabbai_1,Zabbai,,"non-Levite citizen (""son of"") Bebai who had married a foreign wife (EZR 10:28)",male,,,1,2179
+Athlai_1,Athlai,,"non-Levite citizen (""son of"") Bebai who had married a foreign wife (EZR 10:28)",male,,,1,2180
+Meshullam_10,Meshullam,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:29)",male,,,10,2181
+Malluch_2,Malluch,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:29)",male,,,2,2182
+Adaiah_6,Adaiah,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:29)",male,,,6,2183
+Jashub_1,Jashub,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:29)",male,,,1,2184
+Sheal_1,Sheal,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:29)",male,,,1,2185
+Jeremoth_7,Jeremoth,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:29)",male,,,7,2186
+Adna_1,Adna,,"non-Levite citizen (""son of"") Pahath-moab who had married a foreign wife (EZR 10:30)",male,,,1,2187
+Chelal_1,Chelal,,"non-Levite citizen (""son of"") Pahath-moab who had married a foreign wife (EZR 10:30)",male,,,1,2188
+Benaiah_8,Benaiah,,"non-Levite citizen (""son of"") Pahath-moab who had married a foreign wife (EZR 10:30)",male,,,8,2189
+Maaseiah_8,Maaseiah,,"non-Levite citizen (""son of"") Pahath-moab who had married a foreign wife (EZR 10:30)",male,,,8,2190
+Mattaniah_7,Mattaniah,,"non-Levite citizen (""son of"") Pahath-moab who had married a foreign wife (EZR 10:30)",male,,,7,2191
+Bezalel_2,Bezalel,,"non-Levite citizen (""son of"") Pahath-moab who had married a foreign wife (EZR 10:30)",male,,,2,2192
+Binnui_2,Binnui,,"non-Levite citizen (""son of"") Pahath-moab who had married a foreign wife (EZR 10:30)",male,,,2,2193
+Manasseh_4,Manasseh,,"non-Levite citizen (""son of"") Pahath-moab who had married a foreign wife (EZR 10:30)",male,,,4,2194
+Eliezer_8,Eliezer,,"non-Levite citizen (""son of"") Harim who had married a foreign wife (EZR 10:31)",male,,,8,2195
+Isshijah_1,Isshijah,,"non-Levite citizen (""son of"") Harim who had married a foreign wife (EZR 10:31)",male,,,1,2196
+Malchijah_5,Malchijah,,"non-Levite citizen (""son of"") Harim who had married a foreign wife (EZR 10:31)",male,,,5,2197
+Shemaiah_16,Shemaiah,,"non-Levite citizen (""son of"") Harim who had married a foreign wife (EZR 10:31)",male,,,16,2198
+Shimeon_1,Shimeon,,"non-Levite citizen (""son of"") Harim who had married a foreign wife (EZR 10:31)",male,,,1,2199
+Benjamin_3,Benjamin,,"non-Levite citizen (""son of"") Harim who had married a foreign wife (EZR 10:32)",male,,,3,2200
+Malluch_3,Malluch,,"non-Levite citizen (""son of"") Harim who had married a foreign wife (EZR 10:32)",male,,,3,2201
+Shemariah_3,Shemariah,,"non-Levite citizen (""son of"") Harim who had married a foreign wife (EZR 10:32)",male,,,3,2202
+Mattenai_1,Mattenai,,"non-Levite citizen (""son of"") Hashum who had married a foreign wife (EZR 10:33)",male,,,1,2203
+Mattattah_1,Mattattah,,"non-Levite citizen (""son of"") Hashum who had married a foreign wife (EZR 10:33)",male,,,1,2204
+Zabad_5,Zabad,,"non-Levite citizen (""son of"") Hashum who had married a foreign wife (EZR 10:33)",male,,,5,2205
+Eliphelet_6,Eliphelet,,"non-Levite citizen (""son of"") Hashum who had married a foreign wife (EZR 10:33)",male,,,6,2206
+Jeremai_1,Jeremai,,"non-Levite citizen (""son of"") Hashum who had married a foreign wife (EZR 10:33)",male,,,1,2207
+Manasseh_5,Manasseh,,"non-Levite citizen (""son of"") Hashum who had married a foreign wife (EZR 10:33)",male,,,5,2208
+Shimei_15,Shimei,,"non-Levite citizen (""son of"") Hashum who had married a foreign wife (EZR 10:33)",male,,,15,2209
+Maadai_1,Maadai,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:34)",male,,,1,2210
+Amram_2,Amram,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:34)",male,,,2,2211
+Uel_1,Uel,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:34)",male,,,1,2212
+Benaiah_9,Benaiah,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:35)",male,,,9,2213
+Bedeiah_1,Bedeiah,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:35)",male,,,1,2214
+Cheluhi_1,Cheluhi,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:35)",male,,,1,2215
+Vaniah_1,Vaniah,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:36)",male,,,1,2216
+Meremoth_2,Meremoth,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:36)",male,,,2,2217
+Eliashib_6,Eliashib,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:36)",male,,,6,2218
+Mattaniah_8,Mattaniah,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:37)",male,,,8,2219
+Mattenai_2,Mattenai,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:37)",male,,,2,2220
+Jaasu_1,Jaasu,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:37)",male,,,1,2221
+Bani_4,Bani,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:38)",male,,,4,2222
+Binnui_3,Binnui,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:38)",male,,,3,2223
+Shimei_16,Shimei,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:38)",male,,,16,2224
+Shelemiah_1,Shelemiah,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:39)",male,,,1,2225
+Nathan_8,Nathan,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:39)",male,,,8,2226
+Adaiah_7,Adaiah,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:39)",male,,,7,2227
+Machnadebai_1,Machnadebai,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:40)",male,,,1,2228
+Shashai_1,Shashai,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:40)",male,,,1,2229
+Sharai_1,Sharai,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:40)",male,,,1,2230
+Azarel_3,Azarel,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:41)",male,,,3,2231
+Shelemiah_2,Shelemiah,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:41)",male,,,2,2232
+Shemariah_4,Shemariah,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:41)",male,,,4,2233
+Shallum_10,Shallum,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:42)",male,,,10,2234
+Amariah_5,Amariah,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:42)",male,,,5,2235
+Joseph_4,Joseph,,"non-Levite citizen (""son of"") Bani who had married a foreign wife (EZR 10:42)",male,,,4,2236
+Jeiel_7,Jeiel,,"non-Levite citizen (""son of"") Nebo who had married a foreign wife (EZR 10:43)",male,,,7,2237
+Mattithiah_4,Mattithiah,,"non-Levite citizen (""son of"") Nebo who had married a foreign wife (EZR 10:43)",male,,,4,2238
+Zabad_6,Zabad,,"non-Levite citizen (""son of"") Nebo who had married a foreign wife (EZR 10:43)",male,,,6,2239
+Zebina_1,Zebina,,"non-Levite citizen (""son of"") Nebo who had married a foreign wife (EZR 10:43)",male,,,1,2240
+Jaddai_1,Jaddai,,"non-Levite citizen (""son of"") Nebo who had married a foreign wife (EZR 10:43)",male,,,1,2241
+Joel_9,Joel,,"non-Levite citizen (""son of"") Nebo who had married a foreign wife (EZR 10:43)",male,,,9,2242
+Benaiah_10,Benaiah,,"non-Levite citizen (""son of"") Nebo who had married a foreign wife (EZR 10:43)",male,,,10,2243
+_0,,,,,,,0,2244
+_0,,,,,,,0,2245
 _0,,,,,,,0,
 Jucam_1,Jucam,,son of Ezer in Rahlf's Septuaginta (GEN 36:27),male,,name is not present in the BHS Hebrew text but is present in Rahlfs Septuaginta,1,
 Abdeel_1,Abdeel,,son of Dedan in Rahlf's Septuaginta (GEN 25:3),male,,name is not present in the BHS Hebrew text but is present in Rahlfs Septuaginta,1,
