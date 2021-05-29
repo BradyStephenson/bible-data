@@ -2458,11 +2458,86 @@ Zebina_1_1,Zebina_1,Zebina,זְבִינָא,zəviyna,"one bought, purchased",H20
 Jaddai_1_1,Jaddai_1,Jaddai,יַדַּו,yadav,,H3035,Ιαδαι,Iadai,,none,EZR 10:43,proper name,,,1,2457
 Joel_9_1,Joel_9,Joel,יוֹאֵ֔ל,yoel,Yahweh is God [El],H3100,Ιωηλ,Iōēl,,G2493,EZR 10:43,proper name,,,1,2458
 Benaiah_10_1,Benaiah_10,Benaiah,בְּנָיָה,bənayah,Yahweh has built,H1141,Βαναια,Banaia,,none,EZR 10:43,proper name,,,1,2459
-_0,,,,,,,,,,,,,,,0,2460
-_0,,,,,,,,,,,,,,,0,2461
-_0,,,,,,,,,,,,,,,0,2462
-_0,,,,,,,,,,,,,,,0,2463
-_0,,,,,,,,,,,,,,,0,#REF!
+Hacaliah_1_1,Hacaliah_1,Hacaliah,חֲכַלְיָה,chakhaləyah,dark,H2446,Αχαλια,Axalia,,none,NEH 1:1,proper name,,,1,2460
+Hanani_4_1,Hanani_4,Hanani,חֲנָנִי,chananiy,gracious,H2607,Ανανι,Anani,,none,NEH 1:2,proper name,,,1,2461
+Asaph_4_1,Asaph_4,Asaph,אָסָף,asaf,gatherer,H623,Ασαφ,Asaph,,G760,NEH 2:8,proper name,,,1,2462
+Sanballat_1_1,Sanballat_1,Sanballat,סַנְבַלַּט,sanəvalat,Sin has given life,H5571,Σαναβαλλατ,Sanaballat,,none,NEH 2:10,proper name,,,1,2463
+Tobiah_2_1,Tobiah_2,Tobiah,טוֹבִיָּה,toviyah,Yahweh is good,H2900,Τωβια,Tōbia,,none,NEH 2:10,proper name,,,1,2464
+Geshem_1_1,Geshem_1,Geshem,גֶּשֶׁם,geshem,rain shower,H1654,Γησαμ,Gēsam,,none,NEH 2:19,proper name,,,1,2465
+Eliashib_7_1,Eliashib_7,Eliashib,אֶלְיָשִׁיב,eləyashiyv,God [El] restores,H475,Ελισουβ,Elisoub,,none,NEH 3:1,proper name,,,1,2466
+Zaccur_5_1,Zaccur_5,Zaccur,זַכּֽוּר,zakəur,remembering,H2139,Ζακχουρ,Zakxour,,none,NEH 3:2,proper name,,,1,2467
+Imri_2_1,Imri_2,Imri,אִמְרִי,iməriy,Yahweh spoke,H566,Αμαρι,Amari,,none,NEH 3:2,proper name,,,1,2468
+Hassenaah_1_1,Hassenaah_1,Hassenaah,הַסְנָאָה,hasənaa,hated one,H5570,Ασανα,Asana,,none,NEH 3:3,proper name,,,1,2469
+Meremoth_3_1,Meremoth_3,Meremoth,מְרֵמוֹת,məremot,elevations,H4822,Ραμωθ,Ramōth,,none,NEH 3:4,proper name,,,1,2470
+Uriah_3_1,Uriah_3,Uriah,אוּרִיָּה,uriyah,"Yahweh is [my] flame, light",H223,Ουρια,Ouria,,none,NEH 3:4,proper name,,,1,2471
+Hakkoz_2_1,Hakkoz_2,Hakkoz,הַקּוֹץ,haqots,the thorn,H6976,Ακως,Akōs,,none,NEH 3:4,proper name,,,1,2472
+Meshullam_11_1,Meshullam_11,Meshullam,מְשֻׁלָּם,məshulam,restitution,H4918,Μοσολλαμ,Mosollam,,none,NEH 3:4,proper name,,,1,2473
+Berechiah_5_1,Berechiah_5,Berechiah,בֶּרֶכְיָה,berekhəyah,Yahweh blesses,H1296,Βαραχιου,Baraxiou,,G914,NEH 3:4,proper name,,,1,2474
+Meshezabel_1_1,Meshezabel_1,Meshezabel,מְשֵׁיזַבְאֵל,məsheyzavəel,God [El] delivers,H4898,Μασεζεβηλ,Masezebēl,,none,NEH 3:4,proper name,,,1,2475
+Zadok_3_1,Zadok_3,Zadok,צָדוֹק,tsadoq,righteous one,H6659,Σαδωκ,Sadōk,,G4524,NEH 3:4,proper name,,,1,2476
+Baana_3_1,Baana_3,Baana,בַּעֲנָא,baana,son of affliction,H1195,Βαανα,Baana,,none,NEH 3:4,proper name,,,1,2477
+Joiada_1_1,Joiada_1,Joiada,יוֹיָדָע,yoyada,Yahweh knows,H3111,Ιοϊδα,Ioïda,,none,NEH 3:6,proper name,,,1,2478
+Paseah_3_1,Paseah_3,Paseah,פָּסֵחַ,paseach,hobbling one,H6454,Φασεκ,Phasek,,none,NEH 3:6,proper name,,,1,2479
+Meshullam_12_1,Meshullam_12,Meshullam,מְשֻׁלָּם,məshulam,restitution,H4918,Μεσουλαμ,Mesoulam,,none,NEH 3:6,proper name,,,1,2480
+Besodeiah_1_1,Besodeiah_1,Besodeiah,בְּסוֹדְיָה,bəsodəyah,in secret council of Yahweh,H1152,Βασωδια,Basōdia,,none,NEH 3:6,proper name,,,1,2481
+Melatiah_1_1,Melatiah_1,Melatiah,מְלַטְיָה,məlatəyah,Yahweh sets free,H4424,[none],,,,NEH 3:7,proper name,,This verse (NEH 3:7) is missing from the equivalent passage in Rahlfs' Septuaginta.,1,2482
+Jadon_1_1,Jadon_1,Jadon,יָדוֹן,yadon,frail one or Yahweh rules,H3036,[none],,,,NEH 3:7,proper name,,This verse (NEH 3:7) is missing from the equivalent passage in Rahlfs' Septuaginta.,1,2483
+Uzziel_6_1,Uzziel_6,Uzziel,עֻזִּיאֵל,uziyel,God [El] is [my] strength,H5816,[none],,,,NEH 3:8,proper name,,This name is missing from the equivalent passage in Rahlfs' Septuaginta.,1,2484
+Harhaiah_1_1,Harhaiah_1,Harhaiah,חַרְהֲיָה,charəhayah,,H2736,[none],,,,NEH 3:8,proper name,,This name is missing from the equivalent passage in Rahlfs' Septuaginta.,1,2485
+Hananiah_6_2,Hananiah_6,Hananiah,חֲנַנְיָה,chananəyah,Yahweh is gracious,H2608,Ανανιας,Ananias,,G367,NEH 3:8,proper name,,,2,2486
+Rephaiah_4_1,Rephaiah_4,Rephaiah,רְפָיָה,rəphayah,Yahweh heals,H7509,Ραφαια,Raphaia,,none,NEH 3:9,proper name,,,1,2487
+Hur_3_1,Hur_3,Hur,חוּר,hur,[perhaps] child,H2354,[none],,,,NEH 3:9,proper name,,,1,2488
+Jedaiah_4_1,Jedaiah_4,Jedaiah,יְדָיָה,yədayah,Yahweh has favored or Yahweh knows,H3042,Ιεδια,Iedia,,none,NEH 3:10,proper name,,,1,2489
+Harumaph_1_1,Harumaph_1,Harumaph,חֲרוּמַף,charumaph,disfigured nose,H2739,Ερωμαφ,Erōmaph,,none,NEH 3:10,proper name,,,1,2490
+Hattush_2_1,Hattush_2,Hattush,חַטּוּשׁ,chatush,,H2407,Ατους,Atous,,none,NEH 3:10,proper name,,,1,2491
+Hashabneiah_1_1,Hashabneiah_1,Hashabneiah,חֲשַׁבְנְיָה,chashavənəyah,[prob.] Yahweh has considered me,H2813,Ασβανια,Asbania,,none,NEH 3:10,proper name,,,1,2492
+Malchijah_6_1,Malchijah_6,Malchijah,מַלְכִּיָּה,maləkiyah,Yahweh is [my] king,H4441,Μελχιας,Melxias,,none,NEH 3:11,proper name,,,1,2493
+Harim_2_1,Harim_2,Harim,חָרִם,charim,consecrated [to Yahweh],H2766,Ηραμ,Ēram,,none,NEH 3:11,proper name,,,1,2494
+Hasshub_2_1,Hasshub_2,Hasshub,חַשּׁוּב,chashuv,considerate,H2815,Ασουβ,Asoub,,none,NEH 3:11,proper name,,,1,2495
+Shallum_11_1,Shallum_11,Shallum,שַׁלּוּם,shalum,"peace, well-being, prosperity",H7967,Σαλουμ,Saloum,,none,NEH 3:12,proper name,,,1,2496
+Hallohesh_1_1,Hallohesh_1,Hallohesh,הַלּוֹחֵשׁ,halochesh,the whisperer,H3873,Αλλωης,Allōēs,,none,NEH 3:12,proper name,,,1,2497
+Hanun_2_1,Hanun_2,Hanun,חָנוּן,chanun,favored,H2586,Ανουν,Anoun,,none,NEH 3:13,proper name,,,1,2498
+Malchijah_7_1,Malchijah_7,Malchijah,מַלְכִּיָּה,maləkiyah,Yahweh is [my] king,H4441,Μελχια,Melxia,,none,NEH 3:14,proper name,,,1,2499
+Rechab_3_1,Rechab_3,Rechab,רֵכָב,rekhav,"[prob.] rider or horseman [from to ride, mount]",H7394,Ρηχαβ,Rēxab,,none,NEH 3:14,proper name,,,1,2500
+Shallum_12_1,Shallum_12,Shallum,שַׁלּ֣וּן,shalun,recompense,H7968,[none],,,none,NEH 3:15,proper name,,The English is translated as Shallum [with an M] but the Hebrew is Shallun [with an N],1,2501
+Col-hozeh_1_1,Col-hozeh_1,Col-hozeh,כָּל-חֹזֶה,kal-chozeh,every seer,H3626,[none],,,none,NEH 3:15,proper name,,,1,2502
+Nehemiah_2_1,Nehemiah_2,Nehemiah,נְחֶמְיָה,necheməyah,Yahweh has comforted,H5166,Νεεμιας,Neemias,,none,NEH 3:16,proper name,,,1,2503
+Azbuk_1_1,Azbuk_1,Azbuk,עַזְבּוּק,azəbuq,,H5802,Αζαβουχ,Azaboux,,none,NEH 3:16,proper name,,,1,2504
+Rehum_3_1,Rehum_3,Rehum,רְחוּם,rəchum,[he] is compassionate,H7348,Ραουμ,Raoum,,none,NEH 3:17,proper name,,,1,2505
+Bani_5_1,Bani_5,Bani,בָּנִי,baniy,descendant,H1137,Βανι,Bani,,none,NEH 3:17,proper name,,,1,2506
+Hashabiah_5_1,Hashabiah_5,Hashabiah,חֲשַׁבְיָה,chashavəyah,Yahweh has reckoned,H2811,Ασαβια,Asabia,,none,NEH 3:17,proper name,,,1,2507
+Bavvai_1_1,Bavvai_1,Bavvai,בַּוַּי,bauay,,H942,Βενι,Beni,,none,NEH 3:18,proper name,,,1,2508
+Henadad_1_1,Henadad_1,Henadad,חֵנָדָד,chenadad,favor of Hadad,H2582,Ηναδαδ,Ēnadad,,none,NEH 3:18,proper name,,,1,2509
+Ezer_5_1,Ezer_5,Ezer,עֵזֶר,ezer,help,H5827,Αζουρ,Azour,,none,NEH 3:19,proper name,,,1,2510
+Jeshua_4_1,Jeshua_4,Jeshua,יֵשׁוּעַ,yeshua,Yahweh saves,H3442,Ἰησοῦ,Iēsoû,,G2424,NEH 3:19,proper name,,,1,2511
+Baruch_1_1,Baruch_1,Baruch,בָּרוּךְ,barukh,be blessed,H1263,Βαρουχ,Baroux,,none,NEH 3:20,proper name,,,1,2512
+Zabbai_2_1,Zabbai_2,Zabbai,זַבַּי,zabay,[perhaps] God has given,H2079,Ζαβου,Zabou,,none,NEH 3:20,proper name,,,1,2513
+Benjamin_4_1,Benjamin_4,Benjamin,בִנְיָמִֽין,binəyamiyn,son of [the] right hand; southerner,H1144,Βενιαμιν,Beniamin,,G958,NEH 3:23,proper name,,,1,2514
+Hasshub_3_1,Hasshub_3,Hasshub,חַשּׁוּב,chashuv,considerate,H2815,Ασουβ,Asoub,,none,NEH 3:23,proper name,,,1,2515
+Azariah_16_1,Azariah_16,Azariah,עֲזַרְיָה,azarəyah,Yahweh has helped,H5838,Αζαρια,Azaria,,none,NEH 3:23,proper name,,,1,2516
+Maaseiah_9_1,Maaseiah_9,Maaseiah,מַעֲשֵׂיָה,maəseyah,Yahweh is a refuge,H4641,Μαασηα,Maasēa,,none,NEH 3:23,proper name,,,1,2517
+Ananiah_1_1,Ananiah_1,Ananiah,עֲנָנְיָה,ananəyah,Yahweh is a covering,H6055,Ανανια,Anania,,none,NEH 3:23,proper name,,,1,2518
+Binnui_4_1,Binnui_4,Binnui,בִּנּוּי,binuy,son,H1131,Βανι,Bani,,none,NEH 3:24,proper name,,,1,2519
+Henadad_2_1,Henadad_2,Henadad,חֵנָדָד,chenadad,favor of Hadad,H2582,Ηναδαδ,Ēnadad,,none,NEH 3:24,proper name,,,1,2520
+Palal_1_1,Palal_1,Palal,פָּלָל,palal,he has judged,H6420,Φαλαλ,Phalal,,none,NEH 3:25,proper name,,,1,2521
+Uzai_1_1,Uzai_1,Uzai,אוּזַי,uzay,"Yahweh has given ear, listened",H186,Ευζαι,Euzai,,none,NEH 3:25,proper name,,,1,2522
+Pedaiah_4_1,Pedaiah_4,Pedaiah,פְּדָיָה,pədayah,Yahweh ransoms,H6305,Φαδαια,Phadaia,,none,NEH 3:25,proper name,,,1,2523
+Parosh_1_1,Parosh_1,Parosh,פַּרְעֹשׁ,parəosh,flea,H6551,Φορος,Phoros,,none,NEH 3:25,proper name,,,1,2524
+Zadok_4_1,Zadok_4,Zadok,צָדוֹק,tsadoq,righteous one,H6659,Σαδδουκ,Saddouk,,G4523,NEH 3:29,proper name,,,1,2525
+Immer_3_1,Immer_3,Immer,אִמֵּר,imer,lamb,H564,Εμμηρ,Emmēr,,none,NEH 3:29,proper name,,,1,2526
+Shemaiah_17_1,Shemaiah_17,Shemaiah,שְׁמַעְיָה,shəmaəyah,Yahweh hears,H8098,Σαμαια,Samaia,,none,NEH 3:29,proper name,,,1,2527
+Shecaniah_6_1,Shecaniah_6,Shecaniah,שְׁכַנְיָה,shəkhanəyah,Yahweh has taken up his abode,H7935,Σεχενια,Sexenia,,none,NEH 3:29,proper name,,,1,2528
+Hananiah_7_1,Hananiah_7,Hananiah,חֲנַנְיָה,chananəyah,Yahweh is gracious,H2608,Ανανια,Anania,,none,NEH 3:30,proper name,,,1,2529
+Shelemiah_3_1,Shelemiah_3,Shelemiah,שֶׁלֶמְיָה,sheleməyah,Yahweh pays back [poss.] he restores peace offering of Yahweh,H8018,Σελεμια,Selemia,,none,NEH 3:30,proper name,,,1,2530
+Hanun_3_1,Hanun_3,Hanun,חָנוּן,chanun,favored,H2586,Ανουμ,Anoum,,none,NEH 3:30,proper name,,,1,2531
+Zalaph_1_1,Zalaph_1,Zalaph,צָלָף,tsalaph,"low, prickly shrub [caper plant]",H6764,Σελεφ,Seleph,,none,NEH 3:30,proper name,,,1,2532
+Malchijah_8_1,Malchijah_8,Malchijah,מַלְכִּיָּה,maləkiyah,Yahweh is [my] king,H4441,Μελχια,Melxia,,none,NEH 3:31,proper name,,,1,2533
+Geshem_1_2,Geshem_1,Gashmu,גַּשְׁמוּ,gashəmu,rain shower,H1654,[none],,,,NEH 6:6,proper name,,This name is missing from the equivalent passage in Rahlfs' Septuaginta.,2,2534
+Shemaiah_18_1,Shemaiah_18,Shemaiah,שְׁמַעְיָה,shəmaəyah,Yahweh hears,H8098,Σεμεϊ,Semeï,,none,NEH 6:10,proper name,,,1,2535
+Delaiah_4_1,Delaiah_4,Delaiah,דְּלָיָה,dəlayah,Yahweh draws up [like water in a bucket],H1806,Δαλαια,Dalaia,,none,NEH 6:10,proper name,,,1,2536
+Mehetabel_2_1,Mehetabel_2,Mehetabel,מְהֵֽיטַבְאֵל֙,məhaytavəel,God [El] does good,H4105,Μεηταβηλ,Meētabēl,,none,NEH 6:10,proper name,,,1,2537
+_0,,,,,,,,,,,,,,,0,2538
+_0,,,,,,,,,,,,,,,0,2539
 Shallum_7_4,Shallum_7,Meshullam,מְשֻׁלָּם,məshulam,restitution,H4918,[none],,,,NEH 12:25,proper name,,This name is missing from the equivalent passage in Rahlfs' Septuaginta.,4,
 _0,,,,,,,,,,,,,,,0,
 Elishah_2_1,Elishah_2,Elishah,,,,,Ελισα,Elisa,,none,GEN 10:2,proper name,,Elisa/Elisha is not present in the Hebrew text.  Perhaps a scribal copy error from Gen 10:4?,1,
@@ -2474,7 +2549,7 @@ Zaboud_1_1,Zaboud_1,Zaboud,,,,,Σαβουδ,Saboud,,none,1CH 4:26,proper name,,T
 Omri_3_2,Omri_3,Omri,,,,,Αμβρι,Ambri,,none,1CH 8:24,proper name,,This name is not present in the Hebrew text but is present in Rahlfs Septuaginta,2,
 Athin_1_1,Athin_1,Athin,,,,,Αθιν,Athin,,none,1CH 8:25,proper name,,This name is not present in the Hebrew text but is present in Rahlfs Septuaginta,1,
 Ozias_1_1,Ozias_1,Ozias,,,,,Οζιας,Ozias,,none,1CH 15:18,proper name,,This name is not present in the Hebrew text but is present in Rahlfs Septuaginta,1,
-,,,,,,,,,,,,,,,0,
+Rokeim_1_1,Rokeim_1,Rokeim,,,,,Ρωκεϊμ,Rōkeïm,,none,NEH 3:8,proper name,,This name is not present in the Hebrew text but is present in Rahlfs Septuaginta.  Rahlfs names this person as the father of Hananiah_6.,1,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,

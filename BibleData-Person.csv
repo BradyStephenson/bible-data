@@ -1997,7 +1997,7 @@ Mithredath_1,Mithredath,,treasurer of Cyrus (EZR 1:8),male,,,1,1995
 Sheshbazzar_1,Sheshbazzar,,the prince of Judah (EZR 1:8),male,Judah,,1,1996
 Zerubbabel_2,Zerubbabel,,returned to Judah after the Babylonian captivity (EZR 2:2),male,Levi,,2,1997
 Jeshua_3,Jeshua,,returned to Judah after the Babylonian captivity (EZR 2:2),male,Levi,Built the new altar (EZR 3:2) but married a foreign wife (EZR 10:18).  His father (Jozadak_1) was a Levite (EZR 3:2),3,1998
-Nehemiah_1,Nehemiah,,returned to Judah after the Babylonian captivity (EZR 2:2),male,,,1,1999
+Nehemiah_1,Nehemiah,,"returned to Judah after the Babylonian captivity (EZR 2:2), son of Hacaliah (Neh 1:1)",male,,cup-bearer to King Artaxerxes (NEH 2:1),1,1999
 Reelaiah_1,Reelaiah,,returned to Judah after the Babylonian captivity (EZR 2:2),male,,,1,2000
 Mordecai_1,Mordecai,,returned to Judah after the Babylonian captivity (EZR 2:2),male,,,1,2001
 Bilshan_1,Bilshan,,returned to Judah after the Babylonian captivity (EZR 2:2),male,,,1,2002
@@ -2242,16 +2242,102 @@ Zebina_1,Zebina,,"non-Levite citizen (""son of"") Nebo who had married a foreign
 Jaddai_1,Jaddai,,"non-Levite citizen (""son of"") Nebo who had married a foreign wife (EZR 10:43)",male,,,1,2241
 Joel_9,Joel,,"non-Levite citizen (""son of"") Nebo who had married a foreign wife (EZR 10:43)",male,,,9,2242
 Benaiah_10,Benaiah,,"non-Levite citizen (""son of"") Nebo who had married a foreign wife (EZR 10:43)",male,,,10,2243
-_0,,,,,,,0,2244
-_0,,,,,,,0,2245
-_0,,,,,,,0,
+Hacaliah_1,Hacaliah,,father of Nehemiah (NEH 1:1),male,,,1,2244
+Hanani_4,Hanani,,brother of Nehemiah (NEH 1:2),male,,,4,2245
+Asaph_4,Asaph,,keeper of King Artaxerxes' forest (NEH 2:8),male,,,4,2246
+Sanballat_1,Sanballat,,the Horonite who opposed Nehemiah (NEH 2:10),male,,,1,2247
+Tobiah_2,Tobiah,,the Ammonite official who opposed Nehemiah (NEH 2:10),male,,,2,2248
+Geshem_1,Geshem,,the Arab who opposed Nehemiah (NEH 2:19),male,,,1,2249
+Eliashib_7,Eliashib,,the high priest with Nehemiah during the reconstruction of Jerusalem (NEH 3:1),male,Levi,,7,2250
+Zaccur_5,Zaccur,,rebuilt part of the Jerusalem wall (NEH 3:2),male,,,5,2251
+Imri_2,Imri,,father of Zaccur (NEH 3:2),male,,,2,2252
+Hassenaah_1,Hassenaah,,his sons built the fish gate (NEH 3:3),male,,,1,2253
+Meremoth_3,Meremoth,,"made repairs to the wall of Jerusalem (NEH 3:4, NEH 3:21)",male,,,3,2254
+Uriah_3,Uriah,,"father of Meremoth (NEH 3:4, NEH 3:21)",male,,,3,2255
+Hakkoz_2,Hakkoz,,"father of Uriah (NEH 3:4, NEH 3:21)",male,,,2,2256
+Meshullam_11,Meshullam,,"made repairs to the wall of Jerusalem (NEH 3:4, NEH 3:30)",male,,,11,2257
+Berechiah_5,Berechiah,,father of Meshullam (NEH 3:4),male,,,5,2258
+Meshezabel_1,Meshezabel,,father of Berechiah (NEH 3:4),male,,,1,2259
+Zadok_3,Zadok,,made repairs to the wall of Jerusalem (NEH 3:4),male,,,3,2260
+Baana_3,Baana,,father of Zadok (NEH 3:4),male,,,3,2261
+Joiada_1,Joiada,,repaired the Old Gate (NEH 3:6),male,,,1,2262
+Paseah_3,Paseah,,father of Joiada (NEH 3:6),male,,,3,2263
+Meshullam_12,Meshullam,,repaired the Old Gate (NEH 3:6),male,,,12,2264
+Besodeiah_1,Besodeiah,,father of Meshullam (NEH 3:6),male,,,1,2265
+Melatiah_1,Melatiah,,"the Gibeonite, made repairs for the official seat of the governor (NEH 3:7)",male,,,1,2266
+Jadon_1,Jadon,,"the Meronothite, made repairs for the official seat of the governor (NEH 3:7)",male,,,1,2267
+Uzziel_6,Uzziel,,made repairs to the wall of Jerusalem (NEH 3:8),male,,,6,2268
+Harhaiah_1,Harhaiah,,"of the goldsmiths, father of Uzziel (NEH 3:8)",male,,,1,2269
+Hananiah_6,Hananiah,,"one of the perfumers, made repairs to the wall of Jerusalem (NEH 3:8)",male,,,6,2270
+Rephaiah_4,Rephaiah,,made repairs to the wall of Jerusalem (NEH 3:9),male,,,4,2271
+Hur_3,Hur,,official of half the district of Jerusalem and father of Rephaiah (NEH 3:9),male,,,3,2272
+Jedaiah_4,Jedaiah,,made repairs to the wall of Jerusalem opposite his house (NEH 3:10),male,,,4,2273
+Harumaph_1,Harumaph,,father of Jedaiah (NEH 3:10),male,,,1,2274
+Hattush_2,Hattush,,made repairs to the wall of Jerusalem (NEH 3:10),male,,,2,2275
+Hashabneiah_1,Hashabneiah,,father of Hattush (NEH 3:10),male,,,1,2276
+Malchijah_6,Malchijah,,repaired a section of wall and the Tower of Furnaces (NEH 3:11),male,,,6,2277
+Harim_2,Harim,,father of Malchijah (NEH 3:11),male,,,2,2278
+Hasshub_2,Hasshub,,"repaired a section of wall and the Tower of Furnaces, from (""son of"") Pahath-moab (NEH 3:11)",male,,,2,2279
+Shallum_11,Shallum,,he and his daughters made repairs to the wall of Jerusalem (NEH 3:12),male,,,11,2280
+Hallohesh_1,Hallohesh,,official of half the district of Jerusalem and father of Shallum (NEH 3:12),male,,,1,2281
+Hanun_2,Hanun,,repaired the Valley Gate and the wall to the Refuse Gate (NEH 3:13),male,,,2,2282
+Malchijah_7,Malchijah,,repaired the Refuse Gate (NEH 3:14),male,,,7,2283
+Rechab_3,Rechab,,official of the district of Beth-haccherem and father of Malchijah (NEH 3:14),male,,,3,2284
+Shallum_12,Shallum,,repaired the Fountain Gate (NEH 3:15),male,,,12,2285
+Col-hozeh_1,Col-hozeh,,official of the distrct of Mizpah and father of Shallum (NEH 3:15),male,,,1,2286
+Nehemiah_2,Nehemiah,,made repairs to the wall of Jerusalem (NEH 3:16),male,,,2,2287
+Azbuk_1,Azbuk,,official of the district of Beth-zur and father of Nehemiah (NEH 3:16),male,,,1,2288
+Rehum_3,Rehum,,supervised the Levites' repairs to the wall (NEH 3:17),male,,,3,2289
+Bani_5,Bani,,father of Rehum (NEH 3:17),male,,,5,2290
+Hashabiah_5,Hashabiah,,official of half the district of Keilah (NEH 3:17),male,,,5,2291
+Bavvai_1,Bavvai,,carried out repairs (NEH 3:18),male,,,1,2292
+Henadad_1,Henadad,,official of the other half of the district of Keilah and father of Bavvai (NEH 3:18),male,,,1,2293
+Ezer_5,Ezer,,repaired the wall in front of the ascent of the armory (NEH 3:19),male,,,5,2294
+Jeshua_4,Jeshua,,official of Mizpah and father of Ezer (NEH 3:19),male,,,4,2295
+Baruch_1,Baruch,,zealously repaired another section of wall (NEH 3:20),male,,,1,2296
+Zabbai_2,Zabbai,,father of Baruch (NEH 3:20),male,,,2,2297
+Benjamin_4,Benjamin,,carried out repairs in front of their house (NEH 3:23),male,,,4,2298
+Hasshub_3,Hasshub,,carried out repairs in front of their house (NEH 3:23),male,,,3,2299
+Azariah_16,Azariah,,carried out repairs beside his house (NEH 3:23),male,,,16,2300
+Maaseiah_9,Maaseiah,,father of Azariah_16 (NEH 3:23),male,,,9,2301
+Ananiah_1,Ananiah,,father of Maaseiah_9 (NEH 3:23),male,,,1,2302
+Binnui_4,Binnui,,repaired a section of the wall of Jerusalem (NEH 3:24),male,,,4,2303
+Henadad_2,Henadad,,father of Binnui_4 (NEH 3:24),male,,,2,2304
+Palal_1,Palal,,repaired the wall of Jerusalem in front of the Angle (NEH 3:25),male,,,1,2305
+Uzai_1,Uzai,,father of Palal (NEH 3:25),male,,,1,2306
+Pedaiah_4,Pedaiah,,repaired the wall of Jerusalem (NEH 3:25),male,,,4,2307
+Parosh_1,Parosh,,father of Pedaiah_4 (NEH 3:25),male,,,1,2308
+Zadok_4,Zadok,,repaired Jerusalem's wall in front of his house (NEH 3:29),male,,,4,2309
+Immer_3,Immer,,father of Zadok (NEH 3:29),male,,,3,2310
+Shemaiah_17,Shemaiah,,repaired the wall of Jerusalem (NEH 3:29),male,,,17,2311
+Shecaniah_6,Shecaniah,,father of Shemaiah_17 (NEH 3:29),male,,,6,2312
+Hananiah_7,Hananiah,,repaired the wall of Jerusalem (NEH 3:30),male,,,7,2313
+Shelemiah_3,Shelemiah,,father of Hananiah_7 (NEH 3:30),male,,,3,2314
+Hanun_3,Hanun,,"the sixth son of Zalaph, repaired a section of Jerusalem's wall (NEH 3:30)",male,,,3,2315
+Zalaph_1,Zalaph,,father of Hanun_3 (NEH 3:30),male,,,1,2316
+Malchijah_8,Malchijah,,one of the goldsmiths who repaired the wall of Jerusalem (NEH 3:31),male,,,8,2317
+Shemaiah_18,Shemaiah,,suggested Nehemiah hide in the Temple (NEH 6:10),male,,,18,2318
+Delaiah_4,Delaiah,,father of Shemaiah_18 (NEH 6:10),male,,,4,2319
+Mehetabel_2,Mehetabel,,father of Delaiah_4 (NEH 6:10),male,,,2,2320
+_0,,,,,,,0,2321
+_0,,,,,,,0,2322
+_0,,,,,,,0,2323
+_0,,,,,,,0,2324
+_0,,,,,,,0,2325
+_0,,,,,,,0,2326
+_0,,,,,,,0,2327
+_0,,,,,,,0,2328
+_0,,,,,,,0,2329
+_0,,,,,,,0,2330
+_0,,,,,,,0,2331
+_0,,,,male,,,0,
 Jucam_1,Jucam,,son of Ezer in Rahlf's Septuaginta (GEN 36:27),male,,name is not present in the BHS Hebrew text but is present in Rahlfs Septuaginta,1,
 Abdeel_1,Abdeel,,son of Dedan in Rahlf's Septuaginta (GEN 25:3),male,,name is not present in the BHS Hebrew text but is present in Rahlfs Septuaginta,1,
 Reuel_4,Reuel,,son of Dedan in Rahlf's Septuaginta (GEN 25:3),male,,name is not present in the BHS Hebrew text but is present in Rahlfs Septuaginta,4,
 Tema_2,Tema,,son of Jokshan in Rahlf's Septuaginta (GEN 25:3),male,,name is not present in the BHS Hebrew text but is present in Rahlfs Septuaginta,2,
 Elishah_2,Elishah,,son of Japheth in Rahlf's Septuaginta (GEN 10:2),male,,name is not present in the BHS Hebrew text but is present in Rahlfs Septuaginta,2,
 Zaboud_1,Zaboud,,son of Hammuel and father of Zaccur (1CH 4:26),male,,name is not present in the BHS Hebrew text but is present in Rahlfs Septuaginta,1,
-,,,,,,,,
+Rokeim_1,Rokeim,,father of Hananiah_6 in Ralhlf's Septuaginta (NEH 3:8),male,,name is not present in the BHS Hebrew text but is present in Rahlfs Septuaginta,1,
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
