@@ -4913,3 +4913,49 @@ Micaiah_4:Mattaniah_4:4911,4911,Micaiah_4,father,Mattaniah_4,inferred,NEH 12:35,
 Mattaniah_4:Micaiah_4:4912,4912,Mattaniah_4,son,Micaiah_4,explicit,NEH 12:35,
 Zaccur_4:Micaiah_4:4913,4913,Zaccur_4,father,Micaiah_4,inferred,NEH 12:35,
 Micaiah_4:Zaccur_4:4914,4914,Micaiah_4,son,Zaccur_4,explicit,NEH 12:35,
+Levi_1:Milalai_1:4915,4915,Levi_1,ancestor,Milalai_1,inferred,NEH 12:36,"""and his kinsmen"" (NEH 12:36) usually refers to Levite ""brothers"" of the priests"
+Milalai_1:Levi_1:4916,4916,Milalai_1,descendant,Levi_1,inferred,NEH 12:36,"""and his kinsmen"" (NEH 12:36) usually refers to Levite ""brothers"" of the priests"
+Levi_1:Gilalai_1:4917,4917,Levi_1,ancestor,Gilalai_1,inferred,NEH 12:36,"""and his kinsmen"" (NEH 12:36) usually refers to Levite ""brothers"" of the priests"
+Gilalai_1:Levi_1:4918,4918,Gilalai_1,descendant,Levi_1,inferred,NEH 12:36,"""and his kinsmen"" (NEH 12:36) usually refers to Levite ""brothers"" of the priests"
+Levi_1:Maai_1:4919,4919,Levi_1,ancestor,Maai_1,inferred,NEH 12:36,"""and his kinsmen"" (NEH 12:36) usually refers to Levite ""brothers"" of the priests"
+Maai_1:Levi_1:4920,4920,Maai_1,descendant,Levi_1,inferred,NEH 12:36,"""and his kinsmen"" (NEH 12:36) usually refers to Levite ""brothers"" of the priests"
+Aaron_1:Eliakim_3:4921,4921,Aaron_1,ancestor,Eliakim_3,inferred,NEH 12:41,
+Eliakim_3:Aaron_1:4922,4922,Eliakim_3,descendant,Aaron_1,inferred,NEH 12:41,
+Aaron_1:Maaseiah_13:4923,4923,Aaron_1,ancestor,Maaseiah_13,inferred,NEH 12:41,
+Maaseiah_13:Aaron_1:4924,4924,Maaseiah_13,descendant,Aaron_1,inferred,NEH 12:41,
+Aaron_1:Miniamin_3:4925,4925,Aaron_1,ancestor,Miniamin_3,inferred,NEH 12:41,
+Miniamin_3:Aaron_1:4926,4926,Miniamin_3,descendant,Aaron_1,inferred,NEH 12:41,
+Aaron_1:Micaiah_5:4927,4927,Aaron_1,ancestor,Micaiah_5,inferred,NEH 12:41,
+Micaiah_5:Aaron_1:4928,4928,Micaiah_5,descendant,Aaron_1,inferred,NEH 12:41,
+Aaron_1:Elioenai_6:4929,4929,Aaron_1,ancestor,Elioenai_6,inferred,NEH 12:41,
+Elioenai_6:Aaron_1:4930,4930,Elioenai_6,descendant,Aaron_1,inferred,NEH 12:41,
+Levi_1:Jezrahiah_1:4931,4931,Levi_1,ancestor,Jezrahiah_1,inferred,NEH 12:42,
+Jezrahiah_1:Levi_1:4932,4932,Jezrahiah_1,descendant,Levi_1,inferred,NEH 12:42,
+Aaron_1:Shelemiah_4:4933,4933,Aaron_1,ancestor,Shelemiah_4,inferred,NEH 13:13,
+Shelemiah_4:Aaron_1:4934,4934,Shelemiah_4,descendant,Aaron_1,inferred,NEH 13:13,
+Zaccur_6:Hanan_7:4935,4935,Zaccur_6,father,Hanan_7,inferred,NEH 13:13,
+Hanan_7:Zaccur_6:4936,4936,Hanan_7,son,Zaccur_6,explicit,NEH 13:13,
+Mattaniah_10:Zaccur_6:4937,4937,Mattaniah_10,father,Zaccur_6,inferred,NEH 13:13,
+Zaccur_6:Mattaniah_10:4938,4938,Zaccur_6,son,Mattaniah_10,explicit,NEH 13:13,
+Levi_1:Mattaniah_10:4939,4939,Levi_1,father,Mattaniah_10,inferred,NEH 13:13,
+Mattaniah_10:Levi_1:4940,4940,Mattaniah_10,son,Levi_1,inferred,NEH 13:13,
+Eliashib_7:Joiada_3:4941,4941,Eliashib_7,father,Joiada_3,inferred,NEH 13:28,
+Joiada_3:Eliashib_7:4942,4942,Joiada_3,son,Eliashib_7,explicit,NEH 13:28,
+Ahasuerus_1:Vashti_1:4943,4943,Ahasuerus_1,husband,Vashti_1,inferred,EST 1:9,
+Vashti_1:Ahasuerus_1:4944,4944,Vashti_1,wife,Ahasuerus_1,inferred,EST 1:9,
+Jair_2:Mordecai_2:4945,4945,Jair_2,father,Mordecai_2,inferred,EST 2:5,
+Mordecai_2:Jair_2:4946,4946,Mordecai_2,son,Jair_2,explicit,EST 2:5,
+Shimei_17:Jair_2:4947,4947,Shimei_17,father,Jair_2,inferred,EST 2:5,
+Jair_2:Shimei_17:4948,4948,Jair_2,son,Shimei_17,explicit,EST 2:5,
+Kish_4:Shimei_17:4949,4949,Kish_4,father,Shimei_17,inferred,EST 2:5,
+Shimei_17:Kish_4:4950,4950,Shimei_17,son,Kish_4,explicit,EST 2:5,
+Benjamin_1:Kish_4:4951,4951,Benjamin_1,ancestor,Kish_4,inferred,EST 2:5,
+Kish_4:Benjamin_1:4952,4952,Kish_4,descendant,Benjamin_1,explicit,EST 2:5,
+Nebuchadnezzar_1:Jehoiachin_1:4953,4953,Nebuchadnezzar_1,exiled,Jehoiachin_1,inferred,EST 2:6,
+Jehoiachin_1:Nebuchadnezzar_1:4954,4954,Jehoiachin_1,exiled by,Nebuchadnezzar_1,explicit,EST 2:6,
+Mordecai_2:Hadassah_1:4955,4955,Mordecai_2,cousin,Hadassah_1,explicit,EST 2:7,
+Hadassah_1:Mordecai_2:4956,4956,Hadassah_1,cousin,Mordecai_2,explicit,EST 2:7,
+Mordecai_2:Hadassah_1:4957,4957,Mordecai_2,father,Hadassah_1,inferred,EST 2:7,adoptive father (EST 2:7)
+Hadassah_1:Mordecai_2:4958,4958,Hadassah_1,daughter,Mordecai_2,explicit,EST 2:7,adopted daughter (EST 2:7)
+Abihail_5:Hadassah_1:4959,4959,Abihail_5,father,Hadassah_1,inferred,EST 2:15,birth father (EST 2:15)
+Hadassah_1:Abihail_5:4960,4960,Hadassah_1,daughter,Abihail_5,explicit,EST 2:15,birth daughter (EST 2:15)
