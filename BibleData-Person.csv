@@ -638,7 +638,7 @@ Goliath_1,Goliath,,"Philistine champion, from Gath (1SA 17:4)",male,,,1,636
 Adriel_1,Adriel,,the Meholathite (1SA 18:19),male,,,1,637
 Ahimelech_1,Ahimelech,,the priest of Nob (1SA 21:1),male,Levi,,1,638
 Doeg_1,Doeg,,the Edomite (1SA 21:7),male,,,1,639
-Achish_1,Achish,,King of Gath (1SA 21:10),male,,,1,640
+Achish_1,Achish,,King of Gath (1SA 21:10) before whom David feigned madness,male,,,1,640
 King of Moab_1,King of Moab,,King of Moab to whom David took his parents (1SA 22:3),male,,,1,641
 Gad_2,Gad,,"the prophet (1SA 22:5), the seer (1CH 21:9, 1CH 29:29)",male,,,2,642
 Abiathar_1,Abiathar,,"son of Ahimelech, the priest (1SA 22:20), counselor to David (1CH 27:34)",male,Levi,,1,643
@@ -999,7 +999,7 @@ Elishama_3,Elishama,,father of Nethaniah (2KI 25:25),male,,"From Judah? 2KI 25:2
 Evil-merodach_1,Evil-merodach,,King of Babylon (2KI 25:27),male,,,1,998
 Bath-shua_1,Bath-shua,,"the Canaanitess, mother of Judah's first three sons (1CH 2:3)",male,,,1,999
 Ethan_2,Ethan,,son of Zerah (1CH 2:6),male,Judah,,2,1000
-Heman_2,Heman,,son of Zerah (1CH 2:6),male,Judah,,2,1001
+Heman_2,Heman,,son of Zerah (1CH 2:6),male,Judah,Author of Psalm 88?,2,1001
 Calcol_2,Calcol,,son of Zerah (1CH 2:6),male,Judah,,2,1002
 Dara_1,Dara,,son of Zerah (1CH 2:6),male,Judah,,1,1003
 Azariah_4,Azariah,,son of Ethan (1CH 2:8),male,Judah,,4,1004
@@ -2582,3 +2582,14 @@ Ram_3,Ram,,ancestor of Barachel (JOB 32:2),male,,,3,2580
 Jemimah_1,Jemimah,,daughter of Job (JOB 42:14),female,,,1,2581
 Keziah_1,Keziah,,daughter of Job (JOB 42:14),female,,,1,2582
 Keren-happuch_1,Keren-happuch,,daughter of Job (JOB 42:14),female,,,1,2583
+Cush_2,Cush,,a Benjamite (Psalm 7:0),male,,,2,2584
+Agur_1,Agur,,"son of Jakeh, the oracle (PRO 30:1)",male,,,1,2585
+Jakeh_1,Jakeh,,father of Agur (PRO 30:1),male,,,1,2586
+Ithiel_2,Ithiel,,audience of Agur (PRO 30:1),male,,,2,2587
+Ucal_1,Ucal,,audience of Agur (PRO 30:1),male,,,1,2588
+Lemuel_1,Lemuel,,king quoted in Proverbs 31 (PRO 31:1),male,,,1,2589
+Shear-jashub_1,Shear-jashub,,son of Isaiah (ISA 7:3),male,,,1,2590
+Immanuel_1,Immanuel,,the child given as a sign by G-d to Ahaz (ISA 7:14),male,,,1,2591
+Zechariah_24,Zechariah,,son of Jeberechiah who witnessed Isaiah's naming of his son (ISA 8:2),male,,,24,2592
+Jeberechiah_1,Jeberechiah,,father of Zechariah (ISA 8:2),male,,,1,2593
+Maher-shalal-hash-baz_1,Maher-shalal-hash-baz,,son of Isaiah (ISA 8:3),male,,,1,2594
