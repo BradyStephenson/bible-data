@@ -945,8 +945,8 @@ Asaph_1,Asaph,,father of Joah (2KI 18:18),male,,,1,943
 Isaiah_1,Isaiah,,the prophet and son of Amoz (2KI 19:2),male,,,1,944
 Amoz_1,Amoz,,father of Isaiah (2KI 19:2),male,,,1,945
 Tirhakah_1,Tirhakah,,King of Cush (2KI 19:9),male,,,1,946
-Adrammelech_1,Adrammelech,,killed King Sennacherib of Assyria (2KI 19:37),male,,,1,947
-Sharezer_1,Sharezer,,killed King Sennacherib of Assyria (2KI 19:37),male,,,1,948
+Adrammelech_1,Adrammelech,,killed King Sennacherib of Assyria (2KI 19:37),male,,son of Sennacherib (ISA 37:28),1,947
+Sharezer_1,Sharezer,,killed King Sennacherib of Assyria (2KI 19:37),male,,son of Sennacherib (ISA 37:28),1,948
 Esarhaddon_1,Esarhaddon,,King of Assyria and son of Sennacherib (2KI 19:37),male,,,1,949
 Berodach-baladan_1,Berodach-baladan,,King of Babylon (2KI 20:12),male,,,1,950
 Baladan_1,Baladan,,father of Berodach-baladan (2KI 20:12),male,,,1,951
@@ -2593,3 +2593,10 @@ Immanuel_1,Immanuel,,the child given as a sign by G-d to Ahaz (ISA 7:14),male,,,
 Zechariah_24,Zechariah,,son of Jeberechiah who witnessed Isaiah's naming of his son (ISA 8:2),male,,,24,2592
 Jeberechiah_1,Jeberechiah,,father of Zechariah (ISA 8:2),male,,,1,2593
 Maher-shalal-hash-baz_1,Maher-shalal-hash-baz,,son of Isaiah (ISA 8:3),male,,,1,2594
+Pharaoh_6,Pharaoh,,Pharaoh of Isaiah's day (ISA 19:11),male,,,6,2595
+Sargon_1,Sargon,,king of Assyria (ISA 20:1),male,,,1,2596
+King of Hamath_1,King of Hamath,,(ISA 37:13),male,,,1,2597
+King of Arpad_1,King of Arpad,,(ISA 37:13),male,,,1,2598
+King of Sepharvaim_1,King of Sepharvaim,,(ISA 37:13),male,,,1,2599
+King of Hena_1,King of Hena,,(ISA 37:13),male,,,1,2600
+King of Ivvah_1,King of Ivvah,,(ISA 37:13),male,,,1,2601
