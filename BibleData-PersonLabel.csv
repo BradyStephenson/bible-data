@@ -2968,3 +2968,23 @@ G-d_1_57,G-d_1,King of the Nations,מֶלֶךְ הַגּוֹיִם,melekh hagoyi
 Jesus_1_68,Jesus_1,King of the Nations,מֶלֶךְ עוֹלָם,melekh hagoyim,king [of the] nations,"H4427, H1471",[none],,,,JER 10:7,title,Y,Christian only.  This title is not present in the equivalent passage in Rahlfs' Septuaginta.,68,2967
 G-d_1_58,G-d_1,Everlasting King,מֶלֶךְ עוֹלָם,melekh olam,king everlasting/eternal,"H4427, H5769",[none],,,,JER 10:10,title,Y,This title is not present in the equivalent passage in Rahlfs' Septuaginta.,58,2968
 Jesus_1_69,Jesus_1,Everlasting King,מֶלֶךְ עוֹלָם,melekh olam,king everlasting/eternal,"H4427, H5769",[none],,,,JER 10:10,title,Y,Christian only.  This title is not present in the equivalent passage in Rahlfs' Septuaginta.,69,2969
+G-d_1_59,G-d_1,Maker of All,יוֹצֵר הַכֹּל,yotser hakol,creator [of] all,"H3335, H3605",ὁ πλάσας τὰ πάντα,ho plásas tà pánta,the maker of all,"G3588, G4111, G3588, G3956",JER 10:16,title,Y,,59,2970
+Jesus_1_70,Jesus_1,Maker of All,יוֹצֵר הַכֹּל,yotser hakol,creator [of] all,"H3335, H3605",ὁ πλάσας τὰ πάντα,ho plásas tà pánta,the maker of all,"G3588, G4111, G3588, G3956",JER 10:16,title,Y,Christian only,70,2971
+Pashhur_2_1,Pashhur_2,Pashhur,פַּשְׁחוּר,pashəchur,[perhaps] be quiet and round about,H6583,Πασχωρ,Pasxōr,,none,JER 20:1,name,,,1,2972
+Pashhur_2_2,Pashhur_2,Magor-missabib,מָגוֹר מִסָּבִיב,magor misaviyv,terror on every side,H4036,Μέτοικον,Métoikon,"to cause to change abode, cause to emigrate",G3351,JER 20:3,title,Y,,2,2973
+Jehoiachin_1_3,Jehoiachin_1,Coniah,כָּנְיָהוּ,konəyahu,Jehoiachin,H3659,Ιεχονιας,Iexonias,Jechoniah,G2423,JER 22:24,name,,,3,2974
+Jesus_1_71,Jesus_1,Righteous Branch,צֶמַח צַדִּיק,tsemach tsadiyq,branch righteous,"H6779, H6662",ἀνατολὴν δικαίαν,anatolḕn dikaían,a shoot righteous,"G395, G1342",JER 23:5,title,Y,Christian only,71,2975
+Jesus_1_72,Jesus_1,The LORD our Righteousness,יְהוָה צִדְקֵנוּ,y-h-v-h tsidəqenu,[special name of G-d] [our] righteousness,"H3068, H6663",κύριος Ιωσεδεκ,kýrios Iōsedek,lord [our] Jozadak,"G2962, [none]",JER 23:6,title,Y,Christian only,72,2976
+Uriah_4_1,Uriah_4,Uriah,אוּרִיָּהוּ,uriyahu,"Yahweh is [my] flame, light",H223,Οὐρίας,Ourías,,G3774,JER 26:20,name,,,1,2977
+Shemaiah_20_1,Shemaiah_20,Shemaiah,שְׁמַעְיָהוּ,shəmaəyahu,Yahweh hears,H8098,Σαμαιου,Samaiou,,none,JER 26:20,name,,,1,2978
+Hananiah_10_1,Hananiah_10,Hananiah,חֲנַנְיָה,chananəyah,Yahweh is gracious,H2608,Ανανιας,Ananias,,G367,JER 28:1,name,,,1,2979
+Azzur_2_1,Azzur_2,Azzur,עַזֻּר,Azur,help,H5809,Αζωρ,Azōr,,G107,JER 28:1,name,,,1,2980
+Elasah_2_1,Elasah_2,Elasah,אֶלְעָשָׂה,eləasah,G-d [El] has fashioned,H501,Ελεασα,Eleasa,,none,JER 29:3,name,,,1,2981
+Shaphan_2_1,Shaphan_2,Shaphan,שָׁפָן,shaphan,rock badger,H8227,Σαφαν,Saphan,,none,JER 29:3,name,,,1,2982
+Gemariah_1_1,Gemariah_1,Gemariah,גְּמַרְיָה,gəmarəyah,Yahweh has accomplished,H1587,Γαμαριου,Gamariou,,none,JER 29:3,name,,,1,2983
+Ahab_2_1,Ahab_2,Ahab,אַחְאָב,achəav,brother of father,H256,Αχιαβ,Achiab,,none,JER 29:21,name,,,1,2984
+Kolaiah_2_1,Kolaiah_2,Kolaiah,קוֹלָיָה,qolayah,Yahweh’s voice,H6964,[none],,,,JER 29:21,name,,,1,2985
+Zedekiah_4_1,Zedekiah_4,Zedekiah,צִדְקִיָּהוּ,tsidəqyahu,Yahweh is [my] righteousness,H6667,Σεδεκιαν,Sedekian,,none,JER 29:21,name,,,1,2986
+G-d_1_60,G-d_1,He who knows,הוּיֹדֵעַ,huyodaa,he who knows,H3045,[none],,,,JER 29:23,title,Y,,60,2987
+Jesus_1_73,Jesus_1,He who knows,הוּיֹדֵעַ,huyodaa,he who knows,H3045,[none],,,,JER 29:23,title,Y,Christian only,73,2988
+Shemaiah_21_1,Shemaiah_21,Shemaiah,שְׁמַעְיָהוּ,shəmaəyahu,Yahweh hears,H8098,Σαμαιαν,Samaian,,none,JER 29:24,name,,,1,2989
