@@ -983,7 +983,7 @@ Jehoiachin_1,Jehoiachin,,"King of Judah, son of Eliakim [Jehoiakim] (2KI 24:6)",
 Nehushta_1,Nehushta,,mother of Jehoiachin (2KI 24:8),female,,,1,982
 Elnathan_1,Elnathan,,"from Jerusalem, father of Nehushta (2KI 24:8)",male,,,1,983
 Mattaniah_1,Mattaniah,,"King of Judah, uncle of Jehoiachin (2KI 24:17)",male,,He did evil in the sight of the LORD (2KI 24:19),1,984
-Nebuzaradan_1,Nebuzaradan,,captain of the guard of the King of Babylon (2KI 25:8),male,,,1,985
+Nebuzaradan_1,Nebuzaradan,,captain of the guard of the King of Babylon (2KI 25:8) who took captives into exile (JER 39:9),male,,,1,985
 Seraiah_2,Seraiah,,the chief priest (2KI 25:18) who was killed by the king of Babylon (2KI 25:21),male,Levi,Aaronic priest in the line of Eleazar (full lineage in 1CH 6:14),2,986
 Zephaniah_1,Zephaniah,,the second-in-charge priest (2KI 25:18) who was killed by the king of Babylon (2KI 25:21),male,Levi,Aaronic priest,1,987
 Gedaliah_1,Gedaliah,,"son of Ahikam, appointed King of Judah by Nebuchadnezzar (2KI 25:22)",male,,,1,988
@@ -2639,4 +2639,20 @@ Seraiah_9,Seraiah,,"son of Azriel, sent to sieze Baruch and Jeremiah (JER 36:26)
 Azriel_3,Azriel,,father of Seraiah_9 (JER 36:26),male,,,3,2638
 Shelemiah_6,Shelemiah,,"son of Adbeel, sent to sieze Baruch and Jeremiah (JER 36:26)",male,,,6,2639
 Abdeel_1,Abdeel,,father of Shelemiah_6 (JER 36:26),male,,,1,2640
-Jehucal_1,Jehucal,,son of Shelemiah (JER 37:3),,,,1,2641
+Jehucal_1,Jehucal,,son of Shelemiah (JER 37:3),male,,,1,2641
+Irijah_1,Irijah,,a captain of the guard (JER 37:13),male,,,1,2642
+Shelemiah_7,Shelemiah,,father of Irijah (JER 37:13),male,,,7,2643
+Hananiah_11,Hananiah,,father of Shelemiah (JER 37:13),male,,,11,2644
+Jonathan_13,Jonathan,,the scribe in whose house Jeremiah was jailed (JER 37:15),male,,,13,2645
+Shephatiah_8,Shephatiah,,son of Mattan (JER 38:1),male,,,8,2646
+Mattan_2,Mattan,,father of Shephatiah (JER 38:1),male,,,2,2647
+Gedaliah_4,Gedaliah,,son of Pashhur_1 (JER 38:1),male,,,4,2648
+Pashhur_3,Pashhur,,father of Gedaliah (JER 38:1),male,,,3,2649
+Jucal_1,Jucal,,son of Shelemiah (JER 38:1),male,,,1,2650
+Shelemiah_8,Shelemiah,,father of Jucal (JER 38:1),male,,,8,2651
+Malchijah_10,Malchijah,,son of King Zedekiah (JER 38:6),male,,,10,2652
+Ebed-melech_1,Ebed-melech,,the Ethiopian eunuch who spoke up for Jeremiah (JER 38:7),male,,,1,2653
+Nergal-sar-ezer_1,Nergal-sar-ezer,,Babylonian official who sat in the Middle Gate of Jerusalem (JER 39:3),male,,,1,2654
+Samgar-nebu_1,Samgar-nebu,,Babylonian official who sat in the Middle Gate of Jerusalem (JER 39:3),male,,,1,2655
+Sar-sekim_1,Sar-sekim,,the Rab-saris [chief official] (JER 39:3),male,,,1,2656
+Nergal-sar-ezer_2,Nergal-sar-ezer,,the Rab-mag [high official] (JER 39:3),male,,,2,2657
