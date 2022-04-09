@@ -799,44 +799,44 @@ Gareb_1,Gareb,,"the Ithrite, thirty-sixth of ""the thirty"" of David's men (2SA 
 Araunah_1,Araunah,,the Jebusite (2SA 24:16),male,,,1,798
 Abishag_1,Abishag,,"the Shunammite, David's nurse (1KI 1:3-4)",female,,,1,799
 Rei_1,Rei,,supported David when Adonijah attempted a coup (1KI 1:8),male,,,1,800
-Azariah_1,Azariah,,"son [descendant] of Zadok, served as priest (1KI 4:2) in the temple which Solomon built (1CH 6:10)",male,Levi,,1,801
-Elihoreph_1,Elihoreph,,secretary for King Solomon (1KI 4:3),male,,,1,802
-Ahijah_2,Ahijah,,secretary for King Solomon (1KI 4:3),male,,,2,803
-Shisha_1,Shisha,,father of Elihoreph and Ahijah (1KI 4:3),male,,,1,804
-Azariah_2,Azariah,,"son of Nathan, was over the deputies (1KI 4:5)",male,,,2,805
-Nathan_4,Nathan,,father of Azariah (1KI 4:5),male,,,4,806
-Zabud_1,Zabud,,"son of Nathan, a friend of King Solomon (1KI 4:5)",male,,,1,807
-Nathan_5,Nathan,,"a priest, father of Zabud (1KI 4:5)",male,Levi,,5,808
-Ahishar_1,Ahishar,,over Solomon's household (1KI 4:6),male,,,1,809
-Adoniram_1,Adoniram,,over the men subject to forced labor (1KI 4:6),male,,,1,810
-Abda_1,Abda,,father of Adoniram (1KI 4:6),male,,,1,811
-Ben-hur_1,Ben-hur,,"one of Solomon's twelve deputies (1KI 4:7), in Ephraim (1KI 4:8)",male,,,1,812
-Ben-deker_1,Ben-deker,,"one of Solomon's twelve deputies (1KI 4:7), in Makaz (1KI 4:9)",male,,,1,813
-Ben-hesed_1,Ben-hesed,,"one of Solomon's twelve deputies (1KI 4:7), in Arubboth (1KI 4:10)",male,,,1,814
-Ben-abinadab_1,Ben-abinadab,,"one of Solomon's twelve deputies (1KI 4:7), in Dor (1KI 4:11)",male,,,1,815
-Taphath_1,Taphath,,"daughter of Solomon, wife of Ben-abinadab (1KI 4:11)",female,Judah,,1,816
-Baana_1,Baana,,"one of Solomon's twelve deputies (1KI 4:7), in Taanach and Megiddo (1KI 4:12)",male,,,1,817
-Ahilud_2,Ahilud,,father of Baana (1KI 4:12),male,,,2,818
-Ben-geber_1,Ben-geber,,"one of Solomon's twelve deputies (1KI 4:7), in Ramoth-gilead (1KI 4:13)",male,,,1,819
-Ahinadab_1,Ahinadab,,"one of Solomon's twelve deputies (1KI 4:7), in Mahanaim (1KI 4:14)",male,,,1,820
-Iddo_1,Iddo,,father of Ahinadab (1KI 4:14),male,,,1,821
-Ahimaaz_3,Ahimaaz,,"one of Solomon's twelve deputies (1KI 4:7), in Naphtali (1KI 4:15)",male,,,3,822
-Basemath_2,Basemath,,"daughter of Solomon, wife of Ahimaaz (1KI 4:15)",female,,,2,823
-Baana_2,Baana,,"one of Solomon's twelve deputies (1KI 4:7), in Asher (1KI 4:16)",male,,,2,824
-Hushai_2,Hushai,,father of Baana (1KI 4:16),male,,,2,825
-Jehoshaphat_2,Jehoshaphat,,"one of Solomon's twelve deputies (1KI 4:7), in Issachar (1KI 4:17)",male,,,2,826
-Paruah_1,Paruah,,father of Jehoshaphat (1KI 4:17),male,,,1,827
-Shimei_3,Shimei,,"one of Solomon's twelve deputies (1KI 4:7), in Benjamin (1KI 4:18)",male,,,3,828
-Ela_1,Ela,,father of Shimei (1KI 4:18),male,,,1,829
-Geber_1,Geber,,"one of Solomon's twelve deputies (1KI 4:7), in Gilead (1KI 4:18)",male,,,1,830
-Uri_2,Uri,,father of Geber (1KI 4:19),male,,,2,831
-Ethan_1,Ethan,,the Ezrahite (1KI 4:31),male,,"This Ethan may be the same person as the son of Zerah, son of Judah.  Ethan the ""EZrahite"" may be a scribal transposition of ""ZErahite"". However, Ethan the Ezrahite is called out as the author of Psalm 89.",1,832
-Heman_1,Heman,,Solomon was wiser than him (1KI 4:31),male,,,1,833
-Calcol_1,Calcol,,Solomon was wiser than him (1KI 4:31),male,,,1,834
-Darda_1,Darda,,Solomon was wiser than him (1KI 4:31),male,,,1,835
-Mahol_1,Mahol,,"father of Heman, Calcol, and Darda (1KI 4:31)",male,,"Is ""Mahol"" a proper name or a label?  The ""sons of Mahol"" [מָח֑וֹל- circle-dancing, round-dancing] may be a euphemism for the around-the-family relationship of Tamar to Er, Onan, and Judah.",1,836
-Hiram_2,Hiram,,worked to build Solomon's temple (1KI 7:14),male,,,2,837
-Pharaoh_4,Pharaoh,,"Pharaoh, father of Solomon's wife (1KI 9:16)",male,,,4,838
+Pharaoh_4,Pharaoh,,"Pharaoh, father of Solomon's wife (1KI 3:1, 9:16)",male,,,4,801
+Azariah_1,Azariah,,"son [descendant] of Zadok, served as priest (1KI 4:2) in the temple which Solomon built (1CH 6:10)",male,Levi,,1,802
+Elihoreph_1,Elihoreph,,secretary for King Solomon (1KI 4:3),male,,,1,803
+Ahijah_2,Ahijah,,secretary for King Solomon (1KI 4:3),male,,,2,804
+Shisha_1,Shisha,,father of Elihoreph and Ahijah (1KI 4:3),male,,,1,805
+Azariah_2,Azariah,,"son of Nathan, was over the deputies (1KI 4:5)",male,,,2,806
+Nathan_4,Nathan,,father of Azariah (1KI 4:5),male,,,4,807
+Zabud_1,Zabud,,"son of Nathan, a friend of King Solomon (1KI 4:5)",male,,,1,808
+Nathan_5,Nathan,,"a priest, father of Zabud (1KI 4:5)",male,Levi,,5,809
+Ahishar_1,Ahishar,,over Solomon's household (1KI 4:6),male,,,1,810
+Adoniram_1,Adoniram,,over the men subject to forced labor (1KI 4:6),male,,,1,811
+Abda_1,Abda,,father of Adoniram (1KI 4:6),male,,,1,812
+Ben-hur_1,Ben-hur,,"one of Solomon's twelve deputies (1KI 4:7), in Ephraim (1KI 4:8)",male,,,1,813
+Ben-deker_1,Ben-deker,,"one of Solomon's twelve deputies (1KI 4:7), in Makaz (1KI 4:9)",male,,,1,814
+Ben-hesed_1,Ben-hesed,,"one of Solomon's twelve deputies (1KI 4:7), in Arubboth (1KI 4:10)",male,,,1,815
+Ben-abinadab_1,Ben-abinadab,,"one of Solomon's twelve deputies (1KI 4:7), in Dor (1KI 4:11)",male,,,1,816
+Taphath_1,Taphath,,"daughter of Solomon, wife of Ben-abinadab (1KI 4:11)",female,Judah,,1,817
+Baana_1,Baana,,"one of Solomon's twelve deputies (1KI 4:7), in Taanach and Megiddo (1KI 4:12)",male,,,1,818
+Ahilud_2,Ahilud,,father of Baana (1KI 4:12),male,,,2,819
+Ben-geber_1,Ben-geber,,"one of Solomon's twelve deputies (1KI 4:7), in Ramoth-gilead (1KI 4:13)",male,,,1,820
+Ahinadab_1,Ahinadab,,"one of Solomon's twelve deputies (1KI 4:7), in Mahanaim (1KI 4:14)",male,,,1,821
+Iddo_1,Iddo,,father of Ahinadab (1KI 4:14),male,,,1,822
+Ahimaaz_3,Ahimaaz,,"one of Solomon's twelve deputies (1KI 4:7), in Naphtali (1KI 4:15)",male,,,3,823
+Basemath_2,Basemath,,"daughter of Solomon, wife of Ahimaaz (1KI 4:15)",female,,,2,824
+Baana_2,Baana,,"one of Solomon's twelve deputies (1KI 4:7), in Asher (1KI 4:16)",male,,,2,825
+Hushai_2,Hushai,,father of Baana (1KI 4:16),male,,,2,826
+Jehoshaphat_2,Jehoshaphat,,"one of Solomon's twelve deputies (1KI 4:7), in Issachar (1KI 4:17)",male,,,2,827
+Paruah_1,Paruah,,father of Jehoshaphat (1KI 4:17),male,,,1,828
+Shimei_3,Shimei,,"one of Solomon's twelve deputies (1KI 4:7), in Benjamin (1KI 4:18)",male,,,3,829
+Ela_1,Ela,,father of Shimei (1KI 4:18),male,,,1,830
+Geber_1,Geber,,"one of Solomon's twelve deputies (1KI 4:7), in Gilead (1KI 4:18)",male,,,1,831
+Uri_2,Uri,,father of Geber (1KI 4:19),male,,,2,832
+Ethan_1,Ethan,,the Ezrahite (1KI 4:31),male,,"This Ethan may be the same person as the son of Zerah, son of Judah.  Ethan the ""EZrahite"" may be a scribal transposition of ""ZErahite"". However, Ethan the Ezrahite is called out as the author of Psalm 89.",1,833
+Heman_1,Heman,,Solomon was wiser than him (1KI 4:31),male,,,1,834
+Calcol_1,Calcol,,Solomon was wiser than him (1KI 4:31),male,,,1,835
+Darda_1,Darda,,Solomon was wiser than him (1KI 4:31),male,,,1,836
+Mahol_1,Mahol,,"father of Heman, Calcol, and Darda (1KI 4:31)",male,,"Is ""Mahol"" a proper name or a label?  The ""sons of Mahol"" [מָח֑וֹל- circle-dancing, round-dancing] may be a euphemism for the around-the-family relationship of Tamar to Er, Onan, and Judah.",1,837
+Hiram_2,Hiram,,worked to build Solomon's temple (1KI 7:14),male,,,2,838
 Queen of Sheba_1,Queen of Sheba,,tested Solomon (1KI 10:1),female,,,1,839
 Hadad_3,Hadad,,the Edomite (1KI 11:14),male,,,3,840
 Tahpenes_1,Tahpenes,,queen of Egypt (1KI 11:19),female,,,1,841
