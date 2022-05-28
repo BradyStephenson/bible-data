@@ -856,9 +856,9 @@ Shishak_1,Shishak,,King of Egypt (1KI 14:25),male,,,1,854
 Abijam_1,Abijam,,"King of Judah, son of Rehoboam (1KI 14:31) [Abijah in 2CH 12:16]",male,Judah,,1,855
 Maacah_3,Maacah,,"mother of Abijam (1KI 15:2) and Asa (1KI 15:10), daughter of Uriel_2 of Gibeah (2CH 13:2)",female,,,3,856
 Abishalom_1,Abishalom,,father of Maacah the mother of Abijam (1KI 15:2),male,,,1,857
-Asa_1,Asa,,"son of incestuous relationship between Abijah and his mother, Maacah (1KI 15:10)",male,Judah,the heart of Asa was wholly devoted to the LORD all his days (1KI 15:14),1,858
+Asa_1,Asa,,"King of Judah (1KI 15:9), son of incestuous relationship between Abijah and his mother, Maacah (1KI 15:10)",male,Judah,the heart of Asa was wholly devoted to the LORD all his days (1KI 15:14),1,858
 Baasha_1,Baasha,,King of Israel (1KI 15:16),male,,,1,859
-Ben-hadad_1,Ben-hadad,,King of Aram (1KI 15:18),male,,the king whom Naaman served (2KI 5:1),1,860
+Ben-hadad_1,Ben-hadad,,King of Aram (1KI 15:18),male,,"the king whom Naaman served (2KI 5:1), King Asa supported (1KI 15:18), and who warred against Ahab (1KI 20:12)",1,860
 Tabrimmon_1,Tabrimmon,,father of Ben-hadad (1KI 15:18),male,,,1,861
 Hezion_1,Hezion,,father of Tabrimmon (1KI 15:18),male,,,1,862
 Jehoshaphat_3,Jehoshaphat,,son of Asa and King of Judah (1KI 15:24),male,Judah,,3,863
@@ -885,7 +885,7 @@ Jehu_2,Jehu,,anointed king over Israel (1KI 19:16) at the direction of Elisha (2
 Nimshi_1,Nimshi,,"[grand]father of Jehu, King of Israel (1KI 19:16, 2KI 9:2)",male,,,1,884
 Elisha_1,Elisha,,anointed prophet in Elijah's place (1KI 19:16),male,,,1,885
 Shaphat_2,Shaphat,,father of Elisha the prophet (1KI 19:16),male,,,2,886
-Naboth_1,Naboth,,the Jezreelite whose vineyard Aham took (1KI 21:1),male,,,1,887
+Naboth_1,Naboth,,the Jezreelite whose vineyard Ahab took (1KI 21:1),male,,,1,887
 Micaiah_1,Micaiah,,"prophet (1KI 22:8, 2CH 18:7)",male,,,1,888
 Imlah_1,Imlah,,father of Micaiah (1KI 22:8),male,,,1,889
 Zedekiah_1,Zedekiah,,"made horns of iron (1KI 22:11, 2CH 18:10)",male,,,1,890
@@ -910,7 +910,7 @@ Rechab_2,Rechab,,"father of Jehonadab (2KI 10:15), a Kenite (1CH 2:55)",male,,Re
 Jehoahaz_1,Jehoahaz,,"King of Israel, son of Jehu (2KI 10:35)",male,,,1,909
 Jehosheba_1,Jehosheba,,"daughter of King Joram [of Judah], sister of Ahaziah (2KI 11:2)",female,,,1,910
 Joash_3,Joash,,"King of Judah (2KI 11:21), son of Ahaziah (2KI 11:2)",male,Judah,,3,911
-Jehoiada_2,Jehoiada,,the priest (2KI 11:9),male,Levi,,2,912
+Jehoiada_2,Jehoiada,,the priest (2KI 11:9) who protected Joash in his youth (2KI 11:4),male,Levi,,2,912
 Mattan_1,Mattan,,"priest of Baal (2KI 11:18, 2CH 23:17)",male,,,1,913
 Zibiah_1,Zibiah,,"of Beersheba, mother of King Jehoash (2KI 12:1, 2CH 24:1) ['Joash' in 2KI 11:2]",male,,,1,914
 Jozacar_1,Jozacar,,killed King Joash (2KI 12:21),male,,,1,915
@@ -918,29 +918,29 @@ Shimeath_1,Shimeath,,mother of Jozacar (2KI 12:21) an Ammonitess (2CH 24:26),fem
 Jehozabad_1,Jehozabad,,killed King Joash (2KI 12:21),male,,,1,917
 Shomer_1,Shomer,,"mother of Jehozabad (2KI 12:21), a Moabitess (2CH 24:26)",female,,,1,918
 Amaziah_1,Amaziah,,"King of Judah, son of Joash (2KI 12:21)",male,Judah,"He did right in the sight of the LORD, yet not with a whole heart. (2CH 25:2)",1,919
-Joash_4,Joash,,"King of Israel, son of Jehoahaz (2KI 13:9)",male,,,4,920
-Jeroboam_2,Jeroboam,,"King of Israel (2KI 13:13), son of Joash [Jehoash] (2KI 14:16)",male,,,2,921
-Jehoaddin_1,Jehoaddin,,"of Jerusalem, mother of Amaziah (2KI 14:2)",female,,,1,922
-Azariah_3,Azariah,,"[Uzziah] King of Judah, son of Amaziah (2KI 14:21)",male,Judah,He did right in the sight of the LORD according to all that his father Amaziah had done. (2CH 26:4),3,923
-Jonah_1,Jonah,,"the prophet, son of Amittai, from Gath-hepher (2KI 14:25)",male,,,1,924
-Amittai_1,Amittai,,"father of Jonah, the prophet (2KI 14:25)",male,,,1,925
-Zechariah_1,Zechariah,,"King of Israel, son of Jeroboam (2KI 14:29)",male,,,1,926
-Jecoliah_1,Jecoliah,,mother of Azariah (2KI 15:2),female,,,1,927
-Jotham_2,Jotham,,"King of Judah (2KI 15:7), son of Azariah (2KI 15:5)",male,Judah,"He did right in the sight of the LORD, according to all that his father Uzziah had done;",2,928
-Shallum_1,Shallum,,conspired against King Zechariah and became king of Israel in his place (2KI 15:10),male,,,1,929
-Jabesh_1,Jabesh,,father of Shallum (2KI 15:10),male,,,1,930
-Menachem_1,Menachem,,King of Israel (2KI 15:14),male,,,1,931
-Gadi_1,Gadi,,father of Menachem (2KI 15:14),male,,,1,932
-Pul_1,Pul,,King of Assyria (2KI 15:19),male,,,1,933
-Pekahiah_1,Pekahiah,,son of Menachem and King of Israel (2KI 15:22),male,,,1,934
-Pekah_1,Pekah,,son of Remaliah who killed King Pekahiah and became King of Israel in his place (2KI 15:25),male,,,1,935
-Remaliah_1,Remaliah,,father of Pekah (2KI 15:25),male,,,1,936
-Argob_1,Argob,,conspired with Pekah against Pekahiah (2KI 15:25),male,,,1,937
-Arieh_1,Arieh,,conspired with Pekah against Pekahiah (2KI 15:25),male,,,1,938
-Tiglath-pileser_1,Tiglath-pileser,,King of Assyria (2KI 15:29),male,,,1,939
-Hoshea_1,Hoshea,,son of Elah who killed King Pekah and became King of Israel in his place (2KI 15:30),male,,,1,940
-Elah_3,Elah,,"father of Hoshea, King of Israel (2KI 15:30)",male,,,3,941
-Jotham_3,Jotham,,"King of Judah, son of King Uzziah [Azariah_3] (2KI 15:30)",male,Judah,,3,942
+Ben-hadad_2,Ben-hadad,,"King of Aram, son of Hazael (2KI 13:3)",male,,,2,920
+Joash_4,Joash,,"King of Israel, son of Jehoahaz (2KI 13:9)",male,,,4,921
+Jeroboam_2,Jeroboam,,"King of Israel (2KI 13:13), son of Joash [Jehoash] (2KI 14:16)",male,,,2,922
+Jehoaddin_1,Jehoaddin,,"of Jerusalem, mother of Amaziah (2KI 14:2)",female,,,1,923
+Azariah_3,Azariah,,"[Uzziah] King of Judah, son of Amaziah (2KI 14:21)",male,Judah,He did right in the sight of the LORD according to all that his father Amaziah had done. (2CH 26:4),3,924
+Jonah_1,Jonah,,"the prophet, son of Amittai, from Gath-hepher (2KI 14:25)",male,,,1,925
+Amittai_1,Amittai,,"father of Jonah, the prophet (2KI 14:25)",male,,,1,926
+Zechariah_1,Zechariah,,"King of Israel, son of Jeroboam (2KI 14:29)",male,,,1,927
+Jecoliah_1,Jecoliah,,mother of Azariah (2KI 15:2),female,,Jecoliah of Jerusalem,1,928
+Jotham_2,Jotham,,"King of Judah, son of King Uzziah [Azariah_3] (2KI 15:30)",male,Judah,"He did right in the sight of the LORD, according to all that his father Uzziah had done;",2,929
+Shallum_1,Shallum,,conspired against King Zechariah and became king of Israel in his place (2KI 15:10),male,,,1,930
+Jabesh_1,Jabesh,,father of Shallum (2KI 15:10),male,,,1,931
+Menachem_1,Menachem,,King of Israel (2KI 15:14),male,,,1,932
+Gadi_1,Gadi,,father of Menachem (2KI 15:14),male,,,1,933
+Pul_1,Pul,,King of Assyria (2KI 15:19),male,,,1,934
+Pekahiah_1,Pekahiah,,son of Menachem and King of Israel (2KI 15:22),male,,,1,935
+Pekah_1,Pekah,,son of Remaliah who killed King Pekahiah and became King of Israel in his place (2KI 15:25),male,,,1,936
+Remaliah_1,Remaliah,,father of Pekah (2KI 15:25),male,,,1,937
+Argob_1,Argob,,conspired with Pekah against Pekahiah (2KI 15:25),male,,,1,938
+Arieh_1,Arieh,,conspired with Pekah against Pekahiah (2KI 15:25),male,,,1,939
+Tiglath-pileser_1,Tiglath-pileser,,King of Assyria (2KI 15:29),male,,,1,940
+Hoshea_1,Hoshea,,son of Elah who killed King Pekah and became King of Israel in his place (2KI 15:30),male,,,1,941
+Elah_3,Elah,,"father of Hoshea, King of Israel (2KI 15:30)",male,,,3,942
 Jerusha_1,Jerusha,,"mother of Jotham, King of Israel (2KI 15:33)",female,,,1,943
 Zadok_2,Zadok,,father of Jerusha (2KI 15:33),male,,,2,944
 Rezin_1,Rezin,,King of Aram (2KI 15:37),male,,,1,945
@@ -1095,7 +1095,7 @@ Gazez_1,Gazez,,son of Chelubai [Caleb] by Ephah (1CH 2:46),male,Judah,,1,1093
 Gazez_2,Gazez,,son of Haran (1CH 2:46),male,Judah,,2,1094
 Jahdai_1,Jahdai,,son of Chelubai [Caleb]? (1CH 2:47),male,Judah,,1,1095
 Regem_1,Regem,,son of Jahdai (1CH 2:47),male,Judah,,1,1096
-Jotham_4,Jotham,,son of Jahdai (1CH 2:47),male,Judah,,4,1097
+Jotham_3,Jotham,,son of Jahdai (1CH 2:47),male,Judah,,3,1097
 Geshan_1,Geshan,,son of Jahdai (1CH 2:47),male,Judah,,1,1098
 Pelet_1,Pelet,,son of Jahdai (1CH 2:47),male,Judah,,1,1099
 Ephah_3,Ephah,,son of Jahdai (1CH 2:47),male,Judah,,3,1100
