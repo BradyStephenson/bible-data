@@ -705,8 +705,8 @@ Toi_1,Toi,,King of Hamath (2SA 8:9),male,,,1,703
 Joram_1,Joram,,son of Toi (2SA 8:10),male,,,1,704
 Jehoshaphat_1,Jehoshaphat,,son of Ahilud and recorder in David's kingdom (2SA 8:16),male,,,1,705
 Ahilud_1,Ahilud,,father of Jehoshaphat (2SA 6:16),male,,,1,706
-Zadok_1,Zadok,,"son of Ahitub (2SA 8:17), mighty of valor (1CH 12:28), and father of Shallum (1CH 6:12)",male,Levi,Aaronic priest through Eleazar,1,707
-Ahitub_2,Ahitub,,"father of Zadok the priest (2SA 8:17, 1CH 6:12), son of Amariah (1CH 6:11)",male,Levi,Aaronic priest through Eleazar,2,708
+Zadok_1,Zadok,,"son of Ahitub and priest during King David's reign (2SA 8:17), a mighty of valor (1CH 12:28)",male,Levi,Aaronic priest through Eleazar,1,707
+Ahitub_2,Ahitub,,"(grand) father of Zadok the priest (2SA 8:17, 1CH 9:11), son of Amariah (1CH 6:11)",male,Levi,Aaronic priest through Eleazar,2,708
 Ahimelech_3,Ahimelech,,"son of Abiathar (2SA 8:17, 1CH 24:6)",male,Levi,,3,709
 Seraiah_1,Seraiah,,secretary to David (2SA 8:17),male,,,1,710
 Benaiah_1,Benaiah,,"over the Cherethites and the Pelethites (2SA 8:18), the fifth of ""the thirty"" of David's men (2SA 23:20)",male,Levi,commander of the third division (1CH 27:5),1,711
@@ -1947,7 +1947,7 @@ Elishaphat_1,Elishaphat,,"son of Zichri (2CH 23:1), supported Joash as king of J
 Zichri_9,Zichri,,father of Elishaphat (2CH 23:1),male,,,9,1946
 Zechariah_12,Zechariah,,son of Jehoiada the priest (2CH 24:20),male,Levi,stoned to death in the court of the house of the Lord (2CH 24:21),12,1947
 King of Damascus_1,King of Damascus,,received the spoil of Judah from the Arameans (2CH 24:23),male,,,1,1948
-Zechariah_13,Zechariah,,"2CH 26:5, the prophet (EZR 5:1) of the book of Zechariah, who went up with Ezra (EZR 8:2)",male,Levi,,13,1949
+Zechariah_13,Zechariah,,"2CH 26:5, the prophet (EZR 5:1) of the book of Zechariah, who went up with Ezra (EZR 8:2)",male,Levi,grandfather (Iddo- ZEC 1:1) is listed among the priests of NEH 12:1-4,13,1949
 Jeiel_6,Jeiel,,the scribe who prepared Uzziah's army divisions (2CH 26:11),male,,,6,1950
 Maaseiah_3,Maaseiah,,the official who prepared Uzziah's army divisions (2CH 26:11),male,,,3,1951
 Hananiah_4,Hananiah,,the king's officer over Jeiel and Maaseiah (2CH 26:11),male,,,4,1952
@@ -1990,678 +1990,677 @@ Eliel_8,Eliel,,overseer of the consecrated things under Conaniah (2CH 31:13),mal
 Ismachiah_1,Ismachiah,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,1,1989
 Mahath_2,Mahath,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,2,1990
 Benaiah_6,Benaiah,,overseer of the consecrated things under Conaniah (2CH 31:13),male,Levi,,6,1991
-Imnah_2,Imnah,,"father of Kore, the gatekeeper (2CH 31:14)",male,Levi,,2,1992
-Miniamin_1,Miniamin,,distributed portions to their brothers (2CH 31:15),male,Levi,,1,1993
-Jeshua_2,Jeshua,,distributed portions to their brothers (2CH 31:15),male,Levi,,2,1994
-Shemaiah_12,Shemaiah,,distributed portions to their brothers (2CH 31:15),male,Levi,,12,1995
-Amariah_4,Amariah,,distributed portions to their brothers (2CH 31:15),male,Levi,,4,1996
-Shecaniah_3,Shecaniah,,distributed portions to their brothers (2CH 31:15),male,Levi,,3,1997
-Maaseiah_5,Maaseiah,,sent by Josiah to repair the house of the Lord (2CH 34:8),male,,,5,1998
-Joah_4,Joah,,sent by Josiah to repair the house of the Lord (2CH 34:8),male,,,4,1999
-Joahaz_1,Joahaz,,father of Joah (2CH 34:8),male,,,1,2000
-Jahath_6,Jahath,,foreman over reconstruction of the Temple during Josiah's reign (2CH 34:12),male,Levi,"Merarites (from Merari, son of Levi)",6,2001
-Obadiah_8,Obadiah,,foreman over reconstruction of the Temple during Josiah's reign (2CH 34:12),male,Levi,"Merarites (from Merari, son of Levi)",8,2002
-Zechariah_15,Zechariah,,foreman over reconstruction of the Temple during Josiah's reign (2CH 34:12),male,Levi,Kohathite,15,2003
-Meshullam_7,Meshullam,,foreman over reconstruction of the Temple during Josiah's reign (2CH 34:12),male,Levi,Kohathite,7,2004
-Jeremiah_6,Jeremiah,,"the prophet (2CH 36:12), son of Hilkiah (JER 1:1)",male,Levi,,6,2005
-Cyrus_1,Cyrus,,King of Persia (2CH 36:22),male,,,1,2006
-Mithredath_1,Mithredath,,treasurer of Cyrus (EZR 1:8),male,,,1,2007
-Sheshbazzar_1,Sheshbazzar,,the prince of Judah (EZR 1:8),male,Judah,,1,2008
-Zerubbabel_2,Zerubbabel,,"returned to Judah after the Babylonian captivity (EZR 2:2, NEH 7:7), son of Shealtiel (EZR 3:2)",male,Levi,,2,2009
-Jeshua_3,Jeshua,,"returned to Judah after the Babylonian captivity (EZR 2:2, NEH 7:7)",male,Levi,son of Jozadak who helped to build the altar (EZR 3:2),3,2010
-Nehemiah_1,Nehemiah,,"returned to Judah after the Babylonian captivity (EZR 2:2, NEH 7:7), son of Hacaliah (Neh 1:1)",male,,cup-bearer to King Artaxerxes (NEH 2:1),1,2011
-Seraiah_6,Seraiah,,"returned to Judah after the Babylonian captivity (EZR 2:2, NEH 7:7) [called Azariah in NEH 7:7]",male,,,6,2012
-Reelaiah_1,Reelaiah,,"returned to Judah after the Babylonian captivity (EZR 2:2, NEH 7:7) [called Raamiah in NEH 7:7]",male,,,1,2013
-Mordecai_1,Mordecai,,"returned to Judah after the Babylonian captivity (EZR 2:2, NEH 7:7)",male,,,1,2014
-Bilshan_1,Bilshan,,"returned to Judah after the Babylonian captivity (EZR 2:2, NEH 7:7)",male,,,1,2015
-Mispar_1,Mispar,,"returned to Judah after the Babylonian captivity (EZR 2:2, NEH 7:7) [called Misperethin NEH 7:7]",male,,,1,2016
-Bigvai_1,Bigvai,,"returned to Judah after the Babylonian captivity (EZR 2:2, NEH 7:7)",male,,named on the sealed document of NEH 9:5-38 (NEH 10:16),1,2017
-Rehum_1,Rehum,,"returned to Judah after the Babylonian captivity (EZR 2:2, NEH 7:7) [called Nehum NEH 7:7]",male,,,1,2018
-Baanah_3,Baanah,,"returned to Judah after the Babylonian captivity (EZR 2:2, NEH 7:7)",male,,,3,2019
-Parosh_1,Parosh,,his sons (descendants) returned to Judah after captivity (EZR 2:3),male,,,1,2020
-Shephatiah_5,Shephatiah,,his sons (descendants) returned to Judah after captivity (EZR 2:4),male,,,5,2021
-Arah_2,Arah,,his sons (descendants) returned to Judah after captivity (EZR 2:5),male,,,2,2022
-Pahath-moab_1,Pahath-moab,,his sons (descendants) returned to Judah after captivity (EZR 2:5),male,,named on the sealed document of NEH 9:5-38 (NEH 10:14),1,2023
-Jeshua_4,Jeshua,,"his sons (descendants) returned to Judah after captivity (EZR 2:6, NEH 7:11)",male,,,4,2024
-Joab_3,Joab,,his sons (descendants) returned to Judah after captivity (EZR 2:6),male,,,3,2025
-Elam_4,Elam,,his sons (descendants) returned to Judah after captivity (EZR 2:7),male,,"father of Jehiel_6 (EZR 10:2), named on the sealed document of NEH 9:5-38 (NEH 10:14)",4,2026
-Zattu_1,Zattu,,his sons (descendants) returned to Judah after captivity (EZR 2:8),male,,,1,2027
-Zaccai_1,Zaccai,,his sons (descendants) returned to Judah after captivity (EZR 2:9),male,,,1,2028
-Bani_4,Bani,,his sons (descendants) returned to Judah after captivity (EZR 2:10),male,,Binnui in NEH 7:15,4,2029
-Bebai_1,Bebai,,his sons (descendants) returned to Judah after captivity (EZR 2:11),male,,"father of Zechariah who went up with Ezra (EZR 8:11), named on the sealed document of NEH 9:5-38 (NEH 10:15)",1,2030
-Azgad_1,Azgad,,his sons (descendants) returned to Judah after captivity (EZR 2:12),male,,,1,2031
-Adonikam_1,Adonikam,,his sons (descendants) returned to Judah after captivity (EZR 2:13),male,,,1,2032
-Adin_1,Adin,,his sons (descendants) returned to Judah after captivity (EZR 2:15),male,,,1,2033
-Ater_1,Ater,,his sons (descendants) returned to Judah after captivity (EZR 2:16),male,,,1,2034
-Hezekiah_2,Hezekiah,,his sons (descendants) returned to Judah after captivity (EZR 2:16),male,,,2,2035
-Bezai_1,Bezai,,his sons (descendants) returned to Judah after captivity (EZR 2:17),male,,,1,2036
-Jorah_1,Jorah,,his sons (descendants) returned to Judah after captivity (EZR 2:18),male,,Hariph in NEH 7:24,1,2037
-Hashum_1,Hashum,,his sons (descendants) returned to Judah after captivity (EZR 2:19),male,,,1,2038
-Gibbar_1,Gibbar,,his sons (descendants) returned to Judah after captivity (EZR 2:20),male,,Gibeon in NEH 7:25,1,2039
-Azmaveth_4,Azmaveth,,his sons (descendants) returned to Judah after captivity (EZR 2:24),male,,Beth-azmaveth in NEH 7:28,4,2040
-Nebo_1,Nebo,,his sons (descendants) returned to Judah after captivity (EZR 2:29),male,,,1,2041
-Magbish_1,Magbish,,his sons (descendants) returned to Judah after captivity (EZR 2:30),male,,,1,2042
-Elam_5,Elam,,"""the other Elam"" whose sons (descendants) returned to Judah after captivity (EZR 2:31)",male,,,5,2043
-Harim_2,Harim,,his sons (descendants) returned to Judah after captivity (EZR 2:32),male,,,2,2044
-Lod_1,Lod,,his sons (descendants) returned to Judah after captivity (EZR 2:33),male,,,1,2045
-Hadid_1,Hadid,,his sons (descendants) returned to Judah after captivity (EZR 2:33),male,,,1,2046
-Ono_1,Ono,,his sons (descendants) returned to Judah after captivity (EZR 2:33),male,,,1,2047
-Senaah_1,Senaah,,his sons (descendants) returned to Judah after captivity (EZR 2:35),male,,,1,2048
-Harim_3,Harim,,his sons (descendants) returned to Judah after captivity (EZR 2:39),male,Levi,"Aaronic priest, named on the sealed document of NEH 9:5-38 (NEH 10:5), Aaronic priest (NEH 10:8)",3,2049
-Jeshua_5,Jeshua,,Levite whose sons (descendants) returned to Judah after captivity (EZR 2:40),male,Levi,of the sons of Hodaviah.  A peer/brother of Kadmiel? (EZR 2:40). Father of Jozabad (EZR 8:33),5,2050
-Kadmiel_1,Kadmiel,,his sons (descendants) returned to Judah after captivity (EZR 2:40),male,Levi,son of Hodaviah (EZR 2:40),1,2051
-Hodaviah_5,Hodaviah,,his sons (descendants) returned to Judah after captivity (EZR 2:40),male,Levi,,5,2052
-Ater_2,Ater,,his sons (descendants) returned to Judah after captivity (EZR 2:42),male,Levi,,2,2053
-Hatita_1,Hatita,,his sons (descendants) returned to Judah after captivity (EZR 2:42),male,Levi,,1,2054
-Shobai_1,Shobai,,his sons (descendants) returned to Judah after captivity (EZR 2:42),male,Levi,,1,2055
-Ziha_1,Ziha,,temple servant (EZR 2:43),male,Levi,in charge of the temple servants (NEH 11:21),1,2056
-Hasupha_1,Hasupha,,temple servant (EZR 2:43),male,Levi,,1,2057
-Tabbaoth_1,Tabbaoth,,temple servant (EZR 2:43),male,Levi,,1,2058
-Keros_1,Keros,,temple servant (EZR 2:43),male,Levi,,1,2059
-Siaha_1,Siaha,,temple servant (EZR 2:44),male,Levi,,1,2060
-Padon_1,Padon,,temple servant (EZR 2:44),male,Levi,,1,2061
-Lebanah_1,Lebanah,,temple servant (EZR 2:45),male,Levi,,1,2062
-Hagabah_1,Hagabah,,temple servant (EZR 2:45),male,Levi,,1,2063
-Akkub_3,Akkub,,"temple servant (EZR 2:45), explained the law to the people (NEH 8:7)",male,Levi,,3,2064
-Hagab_1,Hagab,,temple servant (EZR 2:46),male,Levi,,1,2065
-Shalmai_1,Shalmai,,temple servant (EZR 2:46),male,Levi,,1,2066
-Hanan_4,Hanan,,"temple servant (EZR 2:46), explained the law to the people (NEH 8:7), named on the sealed document of NEH 9:5-38 (NEH 10:10)",male,Levi,,4,2067
-Giddel_1,Giddel,,temple servant (EZR 2:47),male,Levi,,1,2068
-Gahar_1,Gahar,,temple servant (EZR 2:47),male,Levi,,1,2069
-Reaiah_3,Reaiah,,temple servant (EZR 2:47),male,Levi,,3,2070
-Rezin_2,Rezin,,temple servant (EZR 2:48),male,Levi,,2,2071
-Nekoda_1,Nekoda,,temple servant (EZR 2:48),male,Levi,,1,2072
-Gazzam_1,Gazzam,,temple servant (EZR 2:48),male,Levi,,1,2073
-Uzza_2,Uzza,,temple servant (EZR 2:49),male,Levi,,2,2074
-Paseah_2,Paseah,,temple servant (EZR 2:49),male,Levi,,2,2075
-Besai_1,Besai,,temple servant (EZR 2:49),male,Levi,,1,2076
-Asnah_1,Asnah,,temple servant (EZR 2:50),male,Levi,,1,2077
-Meunim_1,Meunim,,temple servant (EZR 2:50),male,Levi,,1,2078
-Nephisim_1,Nephisim,,temple servant (EZR 2:50),male,Levi,,1,2079
-Bakbuk_1,Bakbuk,,temple servant (EZR 2:51),male,Levi,,1,2080
-Hakupha_1,Hakupha,,temple servant (EZR 2:51),male,Levi,,1,2081
-Harhur_1,Harhur,,temple servant (EZR 2:51),male,Levi,,1,2082
-Bazluth_1,Bazluth,,temple servant (EZR 2:52),male,Levi,,1,2083
-Mehida_1,Mehida,,temple servant (EZR 2:52),male,Levi,,1,2084
-Harsha_1,Harsha,,temple servant (EZR 2:52),male,Levi,,1,2085
-Barkos_1,Barkos,,temple servant (EZR 2:53),male,Levi,,1,2086
-Sisera_2,Sisera,,temple servant (EZR 2:53),male,Levi,,2,2087
-Temah_1,Temah,,temple servant (EZR 2:53),male,Levi,,1,2088
-Neziah_1,Neziah,,temple servant (EZR 2:54),male,Levi,,1,2089
-Hatipha_1,Hatipha,,temple servant (EZR 2:54),male,Levi,,1,2090
-Sotai_1,Sotai,,Solomon's servant (EZR 2:55),male,,,1,2091
-Hassophereth_1,Hassophereth,,Solomon's servant (EZR 2:55),male,,,1,2092
-Peruda_1,Peruda,,Solomon's servant (EZR 2:55),male,,,1,2093
-Jaalah_1,Jaalah,,Solomon's servant (EZR 2:55),male,,,1,2094
-Darkon_1,Darkon,,Solomon's servant (EZR 2:55),male,,,1,2095
-Giddel_2,Giddel,,Solomon's servant (EZR 2:55),male,,,2,2096
-Shephatiah_6,Shephatiah,,Solomon's servant (EZR 2:55),male,,,6,2097
-Hattil_1,Hattil,,Solomon's servant (EZR 2:55),male,,,1,2098
-Pochereth-hazzebaim_1,Pochereth-hazzebaim,,Solomon's servant (EZR 2:55),male,,,1,2099
-Ami_1,Ami,,Solomon's servant (EZR 2:55),male,,,1,2100
-Delaiah_3,Delaiah,,unable to give evidence if they were from Israel (EZR 2:60),male,,,3,2101
-Tobiah_1,Tobiah,,unable to give evidence if they were from Israel (EZR 2:60),male,,,1,2102
-Habaiah_1,Habaiah,,unable to give evidence if they were from the priesthood (EZR 2:61),male,,,1,2103
-Barzillai_3,Barzillai,,man who took a wife from the the daughters of Barzillai and was called by their name (EZR 2:61),male,,,3,2104
-Jozadak_1,Jozadak,,father of Jeshua_3 who built the altar (EZR 3:2),male,Levi,priest,1,2105
-Shealtiel_2,Shealtiel,,father of Zerubbabel (EZR 3:2),male,Levi,,2,2106
-Darius_1,Darius,,King of Persia (EZR 4:5),male,,,1,2107
-Ahasuerus_1,Ahasuerus,,King of Persia (EZR 4:6),male,,This is the same person in Esther 1:1 and Daniel 9:1,1,2108
-Artaxerxes_1,Artaxerxes,,King of Persia (EZR 4:7),male,,,1,2109
-Bishlam_1,Bishlam,,wrote against Judah (EZR 4:7),male,,,1,2110
-Mithredath_2,Mithredath,,wrote against Judah (EZR 4:7),male,,,2,2111
-Tabeel_1,Tabeel,,wrote against Judah (EZR 4:7),male,,,1,2112
-Rehum_2,Rehum,,the commander who wrote against Judah (EZR 4:8),male,,,2,2113
-Shimshai_1,Shimshai,,the scribe who wrote against Judah (EZR 4:8),male,,,1,2114
-Osnappar_1,Osnappar,,deported and settled people in the city of Samaria (EZR 4:10),male,,,1,2115
-Haggai_1,Haggai,,the prophet (EZR 5:1) of the book of Haggai,male,,,1,2116
-Iddo_5,Iddo,,"[grand] father of Zechariah the prophet (EZR 5:1, ZEC 1:1)",male,Levi,"listed among the priests of NEH 12:1-4, and was father of Zechariah (NEH 12:16)",5,2117
-Tattenai_1,Tattenai,,governor who opposed Israel rebuilding the Temple (EZR 5:3),male,,,1,2118
-Shethar-bozenai_1,Shethar-bozenai,,opposed Israel rebuilding the Temple (EZR 5:3),male,,,1,2119
-Ezra_1,Ezra,,"son of Seraiah (EZR 7:1), scribe skilled in the Law (EZR 7:6)",male,Levi,"as ""priest"" would be a descendant of Aaron",1,2120
-Gershom_3,Gershom,,descendant of Phinehas who went up with Ezra (EZR 8:2),male,Levi,,3,2121
-Daniel_1,Daniel,,"descendant of Ithamar who went up with Ezra (EZR 8:2), named on the sealed document of NEH 9:5-38 (NEH 10:6)",male,Levi,Aaronic priest (NEH 10:8),1,2122
-Eliehoenai_2,Eliehoenai,,descendant of Pahath-moab and son of Zerahiah who went up with Ezra (EZR 8:4),male,,,2,2123
-Zerahiah_2,Zerahiah,,father of Eliehoenai who went up with Ezra (EZR 8:4),male,,,2,2124
-Shecaniah_4,Shecaniah,,"descendant of Zattu, son of Jahaziel who went up with Ezra (EZR 8:5)",male,,,4,2125
-Jahaziel_4,Jahaziel,,father of Shecaniah who went up with Ezra (EZR 8:5),male,,,4,2126
-Ebed_2,Ebed,,"descendant of Adin, son of Jonathan who went up with Ezra (EZR 8:6)",male,,,2,2127
-Jonathan_8,Jonathan,,father of Ebed who went up with Ezra (EZR 8:6),male,,,8,2128
-Jeshaiah_3,Jeshaiah,,"descendant of Elam, son of Athaliah who went up with Ezra (EZR 8:7)",male,,,3,2129
-Athaliah_3,Athaliah,,father of Jeshaiah who went up with Ezra (EZR 8:7),male,,,3,2130
-Zebadiah_8,Zebadiah,,"descendant of Shephatiah, son of Michael who went up with Ezra (EZR 8:8)",male,,,8,2131
-Michael_8,Michael,,father of Zebadiah who went up with Ezra (EZR 8:8),male,,,8,2132
-Obadiah_9,Obadiah,,"descendant of Joab, son of Jehiel who went up with Ezra (EZR 8:9)",male,,,9,2133
-Jehiel_5,Jehiel,,father of Obadiah who went up with Ezra (EZR 8:9),male,,,5,2134
-Shelomith_5,Shelomith,,"descendant of Bani, son of Josiphia who went up with Ezra (EZR 8:10)",male,,,5,2135
-Josiphiah_1,Josiphiah,,father of Shelomith who went up with Ezra (EZR 8:10),male,,,1,2136
-Zechariah_16,Zechariah,,son of Bebai who went up with Ezra (EZR 8:11),male,,,16,2137
-Johanan_10,Johanan,,"descendant of Azgad, son of Hakkatan who went up with Ezra (EZR 8:12)",male,,,10,2138
-Hakkatan_1,Hakkatan,,father of Johanan who went up with Ezra (EZR 8:12),male,,,1,2139
-Eliphelet_5,Eliphelet,,"descendant of Adonikam, went up with Ezra (EZR 8:13)",male,,,5,2140
-Jeuel_2,Jeuel,,"descendant of Adonikam, went up with Ezra (EZR 8:13)",male,,,2,2141
-Shemaiah_13,Shemaiah,,"descendant of Adonikam, went up with Ezra (EZR 8:13)",male,,,13,2142
-Uthai_2,Uthai,,"descendant of Bigvai, went up with Ezra (EZR 8:14)",male,,,2,2143
-Zabbud_1,Zabbud,,"descendant of Bigvai, went up with Ezra (EZR 8:14)",male,,,1,2144
-Eliezer_7,Eliezer,,"Priest Ezra sent to Iddo (EZR 8:16), married a foreign wife (EZR 10:18, EZ 10:23)",male,Levi,Aaronic priest (EZR 10:18),7,2145
-Ariel_2,Ariel,,Levite Ezra sent to Iddo (EZR 8:16),male,Levi,,2,2146
-Shemaiah_14,Shemaiah,,Levite Ezra sent to Iddo (EZR 8:16),male,Levi,,14,2147
-Elnathan_2,Elnathan,,Levite Ezra sent to Iddo (EZR 8:16),male,Levi,,2,2148
-Jarib_1,Jarib,,"Priest Ezra sent to Iddo (EZR 8:16), married a foreign wife (EZR 10:18)",male,Levi,Aaronic priest (EZR 10:18),1,2149
-Elnathan_3,Elnathan,,second Levite Ezra sent to Iddo named Elnathan (EZR 8:16),male,Levi,,3,2150
-Nathan_7,Nathan,,Levite Ezra sent to Iddo (EZR 8:16),male,Levi,,7,2151
-Zechariah_17,Zechariah,,Levite Ezra sent to Iddo (EZR 8:16),male,Levi,,17,2152
-Meshullam_8,Meshullam,,Levite Ezra sent to Iddo (EZR 8:16),male,Levi,,8,2153
-Joiarib_1,Joiarib,,Levite teacher Ezra sent to Iddo (EZR 8:16),male,Levi,,1,2154
-Elnathan_4,Elnathan,,Levite teacher Ezra sent to Iddo (EZR 8:16),male,Levi,,4,2155
-Iddo_6,Iddo,,the leading man at the place Casiphia (EZR 8:17),male,Levi,,6,2156
-Sherebiah_1,Sherebiah,,a man of insight sent to Ezra (EZR 8:18),male,Levi,descendant of Mahli,1,2157
-Hashabiah_4,Hashabiah,,"Levite sent to Ezra (EZR 8:19), named on the sealed document of NEH 9:5-38 (NEH 10:11)",male,Levi,descendant of Merari,4,2158
-Jeshaiah_4,Jeshaiah,,Levite sent to Ezra (EZR 8:19),male,Levi,descendant of Merari,4,2159
-Meremoth_1,Meremoth,,"son of Uriah the priest (EZR 8:33), named on the sealed document of NEH 9:5-38 (NEH 10:5)",male,Levi,"made repairs to the wall of Jerusalem (NEH 3:4, NEH 3:21), Aaronic priest (NEH 10:8)",1,2160
-Uriah_2,Uriah,,"the priest, father of Meremoth (EZR 8:33)",male,Levi,"father of Meremoth (NEH 3:4, NEH 3:21)",2,2161
-Eleazar_6,Eleazar,,"the priest, descendant of Phinehas (EZR 8:33)",male,Levi,,6,2162
-Jozabad_5,Jozabad,,"Levite present at the counting of the silver, gold, and utensils (EZR 8:33)",male,Levi,from the leaders of the Levites (NEH 11:16),5,2163
-Noadiah_1,Noadiah,,"Levite present at the counting of the silver, gold, and utensils (EZR 8:33)",male,Levi,,1,2164
-Binnui_1,Binnui,,father of Noadiah (EZR 8:33),male,Levi,,1,2165
-Shecaniah_5,Shecaniah,,son of Jehiel (EZR 10:2),male,,,5,2166
-Jehiel_6,Jehiel,,son of Elam and father of Shecaniah (EZR 10:2),male,,,6,2167
-Jehohanan_1,Jehohanan,,"in his house, Ezra mourned over the unfaithfulness of Israel (EZR 10:6)",male,Levi,Levite based on NEH 12:23,1,2168
-Eliashib_3,Eliashib,,father of Jehohanan in whose house Ezra mourned (EZR 10:6),male,Levi,Levite based on NEH 12:23,3,2169
-Jonathan_9,Jonathan,,opposed Israel's decision to set apart foreign wives (EZR 10:15),male,,,9,2170
-Asahel_4,Asahel,,opposed Israel's decision to set apart foreign wives (EZR 10:15),male,,,4,2171
-Jahzeiah_1,Jahzeiah,,opposed Israel's decision to set apart foreign wives (EZR 10:15),male,,,1,2172
-Tikvah_2,Tikvah,,opposed Israel's decision to set apart foreign wives (EZR 10:15),male,,,2,2173
-Meshullam_9,Meshullam,,opposed Israel's decision to set apart foreign wives (EZR 10:15),male,,,9,2174
-Shabbethai_1,Shabbethai,,the Levite who opposed Israel's decision to set apart foreign wives (EZR 10:15),male,,,1,2175
-Maaseiah_6,Maaseiah,,"priest who had married a foreign wife (EZR 10:18), son of Harim (EZR 10:21)",male,Levi,,6,2176
-Gedaliah_3,Gedaliah,,priest who had married a foreign wife (EZR 10:18),male,Levi,,3,2177
-Hanani_3,Hanani,,son of Immer who had married a foreign wife (EZR 10:20),male,Levi,,3,2178
-Zebadiah_9,Zebadiah,,son of Immer who had married a foreign wife (EZR 10:20),male,Levi,,9,2179
-Elijah_3,Elijah,,son of Harim who had married a foreign wife (EZR 10:21),male,Levi,,3,2180
-Shemaiah_15,Shemaiah,,son of Harim who had married a foreign wife (EZR 10:21),male,Levi,,15,2181
-Jehiel_7,Jehiel,,son of Harim who had married a foreign wife (EZR 10:21),male,Levi,,7,2182
-Uzziah_2,Uzziah,,son of Harim who had married a foreign wife (EZR 10:21),male,Levi,,2,2183
-Elioenai_4,Elioenai,,son of Pashhur who had married a foreign wife (EZR 10:22),male,Levi,,4,2184
-Maaseiah_7,Maaseiah,,son of Pashhur who had married a foreign wife (EZR 10:22),male,Levi,,7,2185
-Ishmael_6,Ishmael,,son of Pashhur who had married a foreign wife (EZR 10:22),male,Levi,,6,2186
-Netanel_1,Netanel,,son of Pashhur who had married a foreign wife (EZR 10:22),male,Levi,,1,2187
-Jozabad_6,Jozabad,,son of Pashhur who had married a foreign wife (EZR 10:22),male,Levi,,6,2188
-Elasah_1,Elasah,,son of Pashhur who had married a foreign wife (EZR 10:22),male,Levi,,1,2189
-Jozabad_7,Jozabad,,Levite who had married a foreign wife (EZR 10:23),male,Levi,,7,2190
-Shimei_14,Shimei,,Levite who had married a foreign wife (EZR 10:23),male,Levi,,14,2191
-Kelaiah_1,Kelaiah,,Levite who had married a foreign wife (EZR 10:23),male,Levi,,1,2192
-Pethahiah_2,Pethahiah,,Levite who had married a foreign wife (EZR 10:23),male,Levi,,2,2193
-Judah_2,Judah,,Levite who had married a foreign wife (EZR 10:23),male,Levi,,2,2194
-Eliashib_4,Eliashib,,Levite singer who had married a foreign wife (EZR 10:24),male,Levi,,4,2195
-Shallum_9,Shallum,,Levite singer who had married a foreign wife (EZR 10:24),male,Levi,,9,2196
-Telem_1,Telem,,Levite gatekeeper who had married a foreign wife (EZR 10:24),male,Levi,,1,2197
-Uri_3,Uri,,Levite gatekeeper who had married a foreign wife (EZR 10:24),male,Levi,,3,2198
-Ramiah_1,Ramiah,,descendant of Parosh who had married a foreign wife (EZR 10:25),male,,,1,2199
-Izziah_1,Izziah,,descendant of Parosh who had married a foreign wife (EZR 10:25),male,,,1,2200
-Malchijah_4,Malchijah,,descendant of Parosh who had married a foreign wife (EZR 10:25),male,,,4,2201
-Mijamin_2,Mijamin,,descendant of Parosh who had married a foreign wife (EZR 10:25),male,,,2,2202
-Eleazar_7,Eleazar,,descendant of Parosh who had married a foreign wife (EZR 10:25),male,,,7,2203
-Malchijah_5,Malchijah,,descendant of Parosh who had married a foreign wife (EZR 10:25),male,,,5,2204
-Benaiah_7,Benaiah,,descendant of Parosh who had married a foreign wife (EZR 10:25),male,,,7,2205
-Mattaniah_5,Mattaniah,,descendant of Elam who had married a foreign wife (EZR 10:26),male,,,5,2206
-Zechariah_18,Zechariah,,descendant of Elam who had married a foreign wife (EZR 10:26),male,,,18,2207
-Jehiel_8,Jehiel,,descendant of Elam who had married a foreign wife (EZR 10:26),male,,,8,2208
-Abdi_2,Abdi,,descendant of Elam who had married a foreign wife (EZR 10:26),male,,,2,2209
-Jeremoth_5,Jeremoth,,descendant of Elam who had married a foreign wife (EZR 10:26),male,,,5,2210
-Elijah_4,Elijah,,descendant of Elam who had married a foreign wife (EZR 10:26),male,,,4,2211
-Elioenai_5,Elioenai,,descendant of Zattu who had married a foreign wife (EZR 10:27),male,,,5,2212
-Eliashib_5,Eliashib,,descendant of Zattu who had married a foreign wife (EZR 10:27),male,,,5,2213
-Mattaniah_6,Mattaniah,,descendant of Zattu who had married a foreign wife (EZR 10:27),male,,,6,2214
-Jeremoth_6,Jeremoth,,descendant of Zattu who had married a foreign wife (EZR 10:27),male,,,6,2215
-Zabad_4,Zabad,,descendant of Zattu who had married a foreign wife (EZR 10:27),male,,,4,2216
-Aziza_1,Aziza,,descendant of Zattu who had married a foreign wife (EZR 10:27),male,,,1,2217
-Jehohanan_2,Jehohanan,,descendant of Bebai who had married a foreign wife (EZR 10:28),male,,,2,2218
-Hananiah_5,Hananiah,,descendant of Bebai who had married a foreign wife (EZR 10:28),male,,,5,2219
-Zabbai_1,Zabbai,,descendant of Bebai who had married a foreign wife (EZR 10:28),male,,,1,2220
-Athlai_1,Athlai,,descendant of Bebai who had married a foreign wife (EZR 10:28),male,,,1,2221
-Meshullam_10,Meshullam,,descendant of Bani who had married a foreign wife (EZR 10:29),male,,,10,2222
-Malluch_2,Malluch,,descendant of Bani who had married a foreign wife (EZR 10:29),male,,,2,2223
-Adaiah_6,Adaiah,,descendant of Bani who had married a foreign wife (EZR 10:29),male,,,6,2224
-Jashub_1,Jashub,,descendant of Bani who had married a foreign wife (EZR 10:29),male,,,1,2225
-Sheal_1,Sheal,,descendant of Bani who had married a foreign wife (EZR 10:29),male,,,1,2226
-Jeremoth_7,Jeremoth,,descendant of Bani who had married a foreign wife (EZR 10:29),male,,,7,2227
-Adna_1,Adna,,descendant of Pahath-moab who had married a foreign wife (EZR 10:30),male,,,1,2228
-Chelal_1,Chelal,,descendant of Pahath-moab who had married a foreign wife (EZR 10:30),male,,,1,2229
-Benaiah_8,Benaiah,,descendant of Pahath-moab who had married a foreign wife (EZR 10:30),male,,,8,2230
-Maaseiah_8,Maaseiah,,descendant of Pahath-moab who had married a foreign wife (EZR 10:30),male,,,8,2231
-Mattaniah_7,Mattaniah,,descendant of Pahath-moab who had married a foreign wife (EZR 10:30),male,,,7,2232
-Bezalel_2,Bezalel,,descendant of Pahath-moab who had married a foreign wife (EZR 10:30),male,,,2,2233
-Binnui_2,Binnui,,descendant of Pahath-moab who had married a foreign wife (EZR 10:30),male,,,2,2234
-Manasseh_4,Manasseh,,descendant of Pahath-moab who had married a foreign wife (EZR 10:30),male,,,4,2235
-Eliezer_8,Eliezer,,descendant of Harim who had married a foreign wife (EZR 10:31),male,,,8,2236
-Isshijah_1,Isshijah,,descendant of Harim who had married a foreign wife (EZR 10:31),male,,,1,2237
-Malchijah_6,Malchijah,,descendant of Harim who had married a foreign wife (EZR 10:31),male,,,6,2238
-Shemaiah_16,Shemaiah,,descendant of Harim who had married a foreign wife (EZR 10:31),male,,,16,2239
-Shimeon_1,Shimeon,,descendant of Harim who had married a foreign wife (EZR 10:31),male,,,1,2240
-Benjamin_3,Benjamin,,descendant of Harim who had married a foreign wife (EZR 10:32),male,,,3,2241
-Malluch_3,Malluch,,descendant of Harim who had married a foreign wife (EZR 10:32),male,,,3,2242
-Shemariah_3,Shemariah,,descendant of Harim who had married a foreign wife (EZR 10:32),male,,,3,2243
-Mattenai_1,Mattenai,,descendant of Hashum who had married a foreign wife (EZR 10:33),male,,,1,2244
-Mattattah_1,Mattattah,,descendant of Hashum who had married a foreign wife (EZR 10:33),male,,,1,2245
-Zabad_5,Zabad,,descendant of Hashum who had married a foreign wife (EZR 10:33),male,,,5,2246
-Eliphelet_6,Eliphelet,,descendant of Hashum who had married a foreign wife (EZR 10:33),male,,,6,2247
-Jeremai_1,Jeremai,,descendant of Hashum who had married a foreign wife (EZR 10:33),male,,,1,2248
-Manasseh_5,Manasseh,,descendant of Hashum who had married a foreign wife (EZR 10:33),male,,,5,2249
-Shimei_15,Shimei,,descendant of Hashum who had married a foreign wife (EZR 10:33),male,,,15,2250
-Maadai_1,Maadai,,descendant of Bani who had married a foreign wife (EZR 10:34),male,,,1,2251
-Amram_2,Amram,,descendant of Bani who had married a foreign wife (EZR 10:34),male,,,2,2252
-Uel_1,Uel,,descendant of Bani who had married a foreign wife (EZR 10:34),male,,,1,2253
-Benaiah_9,Benaiah,,descendant of Bani who had married a foreign wife (EZR 10:35),male,,,9,2254
-Bedeiah_1,Bedeiah,,descendant of Bani who had married a foreign wife (EZR 10:35),male,,,1,2255
-Cheluhi_1,Cheluhi,,descendant of Bani who had married a foreign wife (EZR 10:35),male,,,1,2256
-Vaniah_1,Vaniah,,descendant of Bani who had married a foreign wife (EZR 10:36),male,,,1,2257
-Meremoth_2,Meremoth,,descendant of Bani who had married a foreign wife (EZR 10:36),male,,,2,2258
-Eliashib_6,Eliashib,,descendant of Bani who had married a foreign wife (EZR 10:36),male,,,6,2259
-Mattaniah_8,Mattaniah,,descendant of Bani who had married a foreign wife (EZR 10:37),male,,,8,2260
-Mattenai_2,Mattenai,,descendant of Bani who had married a foreign wife (EZR 10:37),male,,,2,2261
-Jaasu_1,Jaasu,,descendant of Bani who had married a foreign wife (EZR 10:37),male,,,1,2262
-Bani_5,Bani,,descendant of Bani who had married a foreign wife (EZR 10:38),male,,,5,2263
-Binnui_3,Binnui,,descendant of Bani who had married a foreign wife (EZR 10:38),male,,,3,2264
-Shimei_16,Shimei,,descendant of Bani who had married a foreign wife (EZR 10:38),male,,,16,2265
-Shelemiah_1,Shelemiah,,descendant of Bani who had married a foreign wife (EZR 10:39),male,,,1,2266
-Nathan_8,Nathan,,descendant of Bani who had married a foreign wife (EZR 10:39),male,,,8,2267
-Adaiah_7,Adaiah,,descendant of Bani who had married a foreign wife (EZR 10:39),male,,,7,2268
-Machnadebai_1,Machnadebai,,descendant of Bani who had married a foreign wife (EZR 10:40),male,,,1,2269
-Shashai_1,Shashai,,descendant of Bani who had married a foreign wife (EZR 10:40),male,,,1,2270
-Sharai_1,Sharai,,descendant of Bani who had married a foreign wife (EZR 10:40),male,,,1,2271
-Azarel_3,Azarel,,descendant of Bani who had married a foreign wife (EZR 10:41),male,,,3,2272
-Shelemiah_2,Shelemiah,,descendant of Bani who had married a foreign wife (EZR 10:41),male,,,2,2273
-Shemariah_4,Shemariah,,descendant of Bani who had married a foreign wife (EZR 10:41),male,,,4,2274
-Shallum_10,Shallum,,descendant of Bani who had married a foreign wife (EZR 10:42),male,,,10,2275
-Amariah_5,Amariah,,descendant of Bani who had married a foreign wife (EZR 10:42),male,,,5,2276
-Joseph_4,Joseph,,descendant of Bani who had married a foreign wife (EZR 10:42),male,,,4,2277
-Jeiel_8,Jeiel,,descendant of Nebo who had married a foreign wife (EZR 10:43),male,,,8,2278
-Mattithiah_4,Mattithiah,,descendant of Nebo who had married a foreign wife (EZR 10:43),male,,,4,2279
-Zabad_6,Zabad,,descendant of Nebo who had married a foreign wife (EZR 10:43),male,,,6,2280
-Zebina_1,Zebina,,descendant of Nebo who had married a foreign wife (EZR 10:43),male,,,1,2281
-Jaddai_1,Jaddai,,descendant of Nebo who had married a foreign wife (EZR 10:43),male,,,1,2282
-Joel_9,Joel,,descendant of Nebo who had married a foreign wife (EZR 10:43),male,,,9,2283
-Benaiah_10,Benaiah,,descendant of Nebo who had married a foreign wife (EZR 10:43),male,,,10,2284
-Hacaliah_1,Hacaliah,,father of Nehemiah (NEH 1:1),male,,,1,2285
-Hanani_4,Hanani,,brother of Nehemiah (NEH 1:2),male,,,4,2286
-Asaph_4,Asaph,,keeper of King Artaxerxes' forest (NEH 2:8),male,,,4,2287
-Sanballat_1,Sanballat,,the Horonite who opposed Nehemiah (NEH 2:10),male,,,1,2288
-Tobiah_2,Tobiah,,the Ammonite official who opposed Nehemiah (NEH 2:10),male,Ammonite,,2,2289
-Geshem_1,Geshem,,the Arab who opposed Nehemiah (NEH 2:19),male,,,1,2290
-Eliashib_7,Eliashib,,the high priest with Nehemiah during the reconstruction of Jerusalem (NEH 3:1),male,Levi,,7,2291
-Zaccur_5,Zaccur,,rebuilt part of the Jerusalem wall (NEH 3:2),male,,,5,2292
-Imri_2,Imri,,father of Zaccur (NEH 3:2),male,,,2,2293
-Hassenaah_1,Hassenaah,,his sons built the fish gate (NEH 3:3),male,,,1,2294
-Hakkoz_2,Hakkoz,,"father of Uriah (NEH 3:4, NEH 3:21)",male,,,2,2295
-Meshullam_11,Meshullam,,"made repairs to the wall of Jerusalem (NEH 3:4, NEH 3:30), named on the sealed document of NEH 9:5-38 (NEH 10:20)",male,,,11,2296
-Berechiah_5,Berechiah,,father of Meshullam (NEH 3:4),male,,,5,2297
-Meshezabel_1,Meshezabel,,father of Berechiah (NEH 3:4),male,,,1,2298
-Zadok_4,Zadok,,"made repairs to the wall of Jerusalem (NEH 3:4), named on the sealed document of NEH 9:5-38 (NEH 10:21)",male,,,4,2299
-Baana_3,Baana,,father of Zadok (NEH 3:4),male,,,3,2300
-Joiada_1,Joiada,,repaired the Old Gate (NEH 3:6),male,,,1,2301
-Paseah_3,Paseah,,father of Joiada (NEH 3:6),male,,,3,2302
-Meshullam_12,Meshullam,,repaired the Old Gate (NEH 3:6),male,,,12,2303
-Besodeiah_1,Besodeiah,,father of Meshullam (NEH 3:6),male,,,1,2304
-Melatiah_1,Melatiah,,"the Gibeonite, made repairs for the official seat of the governor (NEH 3:7)",male,,,1,2305
-Jadon_1,Jadon,,"the Meronothite, made repairs for the official seat of the governor (NEH 3:7)",male,,,1,2306
-Uzziel_6,Uzziel,,made repairs to the wall of Jerusalem (NEH 3:8),male,,,6,2307
-Harhaiah_1,Harhaiah,,"of the goldsmiths, father of Uzziel (NEH 3:8)",male,,,1,2308
-Hananiah_6,Hananiah,,"one of the perfumers, made repairs to the wall of Jerusalem (NEH 3:8)",male,,,6,2309
-Rephaiah_4,Rephaiah,,made repairs to the wall of Jerusalem (NEH 3:9),male,,,4,2310
-Hur_3,Hur,,official of half the district of Jerusalem and father of Rephaiah (NEH 3:9),male,,,3,2311
-Jedaiah_4,Jedaiah,,made repairs to the wall of Jerusalem opposite his house (NEH 3:10),male,,,4,2312
-Harumaph_1,Harumaph,,father of Jedaiah (NEH 3:10),male,,,1,2313
-Hattush_2,Hattush,,made repairs to the wall of Jerusalem (NEH 3:10),male,,,2,2314
-Hashabneiah_1,Hashabneiah,,father of Hattush (NEH 3:10),male,,,1,2315
-Malchijah_7,Malchijah,,repaired a section of wall and the Tower of Furnaces (NEH 3:11),male,,,7,2316
-Harim_4,Harim,,father of Malchijah (NEH 3:11),male,,,4,2317
-Hasshub_2,Hasshub,,"repaired a section of wall and the Tower of Furnaces, son of Pahath-moab (NEH 3:11)",male,,,2,2318
-Shallum_11,Shallum,,he and his daughters made repairs to the wall of Jerusalem (NEH 3:12),male,,,11,2319
-Hallohesh_1,Hallohesh,,official of half the district of Jerusalem and father of Shallum (NEH 3:12),male,,,1,2320
-Hanun_2,Hanun,,repaired the Valley Gate and the wall to the Refuse Gate (NEH 3:13),male,,,2,2321
-Malchijah_8,Malchijah,,repaired the Refuse Gate (NEH 3:14),male,,,8,2322
-Rechab_3,Rechab,,official of the district of Beth-haccherem and father of Malchijah (NEH 3:14),male,,,3,2323
-Shallum_12,Shallum,,repaired the Fountain Gate (NEH 3:15),male,,,12,2324
-Col-hozeh_1,Col-hozeh,,official of the distrct of Mizpah and father of Shallum (NEH 3:15),male,Judah,tribe of Judah (NEH 11:4-5),1,2325
-Nehemiah_2,Nehemiah,,made repairs to the wall of Jerusalem (NEH 3:16),male,,,2,2326
-Azbuk_1,Azbuk,,official of the district of Beth-zur and father of Nehemiah (NEH 3:16),male,,,1,2327
-Rehum_3,Rehum,,supervised the Levites' repairs to the wall (NEH 3:17),male,,,3,2328
-Bani_6,Bani,,"father of Rehum (NEH 3:17), named on the sealed document of NEH 9:5-38 (NEH 10:14)",male,,,6,2329
-Hashabiah_5,Hashabiah,,official of half the district of Keilah (NEH 3:17),male,,,5,2330
-Bavvai_1,Bavvai,,carried out repairs (NEH 3:18),male,,,1,2331
-Henadad_1,Henadad,,official of the other half of the district of Keilah and father of Bavvai (NEH 3:18),male,,,1,2332
-Ezer_5,Ezer,,repaired the wall in front of the ascent of the armory (NEH 3:19),male,,,5,2333
-Jeshua_6,Jeshua,,official of Mizpah and father of Ezer_5 (NEH 3:19),male,,,6,2334
-Baruch_1,Baruch,,zealously repaired another section of wall (NEH 3:20),male,,,1,2335
-Zabbai_2,Zabbai,,father of Baruch (NEH 3:20),male,,,2,2336
-Benjamin_4,Benjamin,,carried out repairs in front of their house (NEH 3:23),male,,,4,2337
-Hasshub_3,Hasshub,,carried out repairs in front of their house (NEH 3:23),male,,,3,2338
-Azariah_16,Azariah,,carried out repairs beside his house (NEH 3:23),male,,,16,2339
-Maaseiah_9,Maaseiah,,father of Azariah_16 (NEH 3:23),male,,,9,2340
-Ananiah_1,Ananiah,,father of Maaseiah_9 (NEH 3:23),male,,,1,2341
-Binnui_4,Binnui,,repaired a section of the wall of Jerusalem (NEH 3:24),male,Levi,a Levite named on the sealed document of NEH 9:5-38 (NEH 10:9),4,2342
-Henadad_2,Henadad,,"father of Binnui_4 (NEH 3:24), a Levite named on the sealed document of NEH 9:5-38 (NEH 10:9)",male,Levi,,2,2343
-Palal_1,Palal,,repaired the wall of Jerusalem in front of the Angle (NEH 3:25),male,,,1,2344
-Uzai_1,Uzai,,father of Palal (NEH 3:25),male,,,1,2345
-Pedaiah_4,Pedaiah,,repaired the wall of Jerusalem (NEH 3:25),male,,,4,2346
-Parosh_2,Parosh,,"father of Pedaiah_4 (NEH 3:25), named on the sealed document of NEH 9:5-38 (NEH 10:14)",male,,,2,2347
-Zadok_5,Zadok,,repaired Jerusalem's wall in front of his house (NEH 3:29),male,,,5,2348
-Immer_3,Immer,,father of Zadok (NEH 3:29),male,,,3,2349
-Shemaiah_17,Shemaiah,,repaired the wall of Jerusalem (NEH 3:29),male,,,17,2350
-Shecaniah_6,Shecaniah,,father of Shemaiah_17 (NEH 3:29),male,,,6,2351
-Hananiah_7,Hananiah,,"repaired the wall of Jerusalem (NEH 3:30), named on the sealed document of NEH 9:5-38 (NEH 10:23)",male,,,7,2352
-Shelemiah_3,Shelemiah,,father of Hananiah_7 (NEH 3:30),male,,,3,2353
-Hanun_3,Hanun,,"the sixth son of Zalaph, repaired a section of Jerusalem's wall (NEH 3:30)",male,,,3,2354
-Zalaph_1,Zalaph,,father of Hanun_3 (NEH 3:30),male,,,1,2355
-Malchijah_9,Malchijah,,one of the goldsmiths who repaired the wall of Jerusalem (NEH 3:31),male,,,9,2356
-Shemaiah_18,Shemaiah,,suggested Nehemiah hide in the Temple (NEH 6:10),male,,,18,2357
-Delaiah_4,Delaiah,,father of Shemaiah_18 (NEH 6:10),male,,,4,2358
-Mehetabel_2,Mehetabel,,father of Delaiah_4 (NEH 6:10),male,,,2,2359
-Noadiah_2,Noadiah,,the prophetess who tried to frighten Nehemiah (NEH 6:14),female,,,2,2360
-Shecaniah_7,Shecaniah,,father-in-law of Tobiah_2 (NEH 6:18),male,,,7,2361
-Arah_3,Arah,,father of Shecaniah_7 (NEH 6:18),male,,,3,2362
-Jehohanan_3,Jehohanan,,son of Tobiah_2 who married daughter of Meshullam_11 (NEH 6:18),male,,,3,2363
-Hananiah_8,Hananiah,,the commander of the fortress in Jerusalem (NEH 7:2),male,,,8,2364
-Nahamani_1,Nahamani,,returned to Judah after the Babylonian captivity (NEH 7:7),male,,,1,2365
-Mattithiah_5,Mattithiah,,stood on Ezra's right hand as he read from the Law (NEH 8:4),male,Levi,*assumed Levite given this event,5,2366
-Shema_4,Shema,,stood on Ezra's right hand as he read from the Law (NEH 8:4),male,Levi,*assumed Levite given this event,4,2367
-Anaiah_1,Anaiah,,"stood on Ezra's right hand as he read from the Law (NEH 8:4), named on the sealed document of NEH 9:5-38 (NEH 10:22)",male,Levi,,1,2368
-Uriah_3,Uriah,,stood on Ezra's right hand as he read from the Law (NEH 8:4),male,Levi,*assumed Levite given this event,3,2369
-Maaseiah_10,Maaseiah,,stood on Ezra's right hand as he read from the Law (NEH 8:4) and explained the law to the people (NEH 8:7),male,,,10,2370
-Pedaiah_5,Pedaiah,,stood on Ezra's left hand as he read from the Law (NEH 8:4),male,Levi,*assumed Levite given this event,5,2371
-Mishael_2,Mishael,,stood on Ezra's left hand as he read from the Law (NEH 8:4),male,Levi,*assumed Levite given this event,2,2372
-Hashum_2,Hashum,,"stood on Ezra's left hand as he read from the Law (NEH 8:4), named on the sealed document of NEH 9:5-38 (NEH 10:18)",male,,,2,2373
-Hashbaddanah_1,Hashbaddanah,,stood on Ezra's left hand as he read from the Law (NEH 8:4),male,Levi,*assumed Levite given this event,1,2374
-Zechariah_19,Zechariah,,"stood on Ezra's left hand as he read from the Law (NEH 8:4), son of Iddo (NEH 12:16)",male,Levi,*assumed Levite given this event,19,2375
-Meshullam_13,Meshullam,,"stood on Ezra's left hand as he read from the Law (NEH 8:4), named on the sealed document of NEH 9:5-38 (NEH 10:7), son of Ginnethon_1 (NEH 12:16)",male,Levi,Aaronic priest (NEH 10:8),13,2376
-Jeshua_7,Jeshua,,"explained the law to the people (NEH 8:7), stood on the Levites platform (NEH 9:4), and exhorted Israel to bless the Lord (NEH 9:5)",male,Levi,"""of"" Kadmiel (NEH 7:43), son of Kadmiel (NEH 12:24). Father of Joiakim (NEH 12:10)",7,2377
-Bani_7,Bani,,"explained the law to the people (NEH 8:7), stood on the Levites platform (NEH 9:4), and exhorted Israel to bless the Lord (NEH 9:5), named on the sealed document of NEH 9:5-38 (NEH 10:13)",male,Levi,,7,2378
-Sherebiah_2,Sherebiah,,"explained the law to the people (NEH 8:7), stood on the Levites platform (NEH 9:4), and exhorted Israel to bless the Lord (NEH 9:5), named on the sealed document of NEH 9:5-38 (NEH 10:12)",male,Levi,,2,2379
-Jamin_3,Jamin,,explained the law to the people (NEH 8:7),male,Levi,,3,2380
-Shabbethai_2,Shabbethai,,explained the law to the people (NEH 8:7),male,Levi,from the leaders of the Levites (NEH 11:16),2,2381
-Hodiah_2,Hodiah,,"explained the law to the people (NEH 8:7) and exhorted Israel to bless the Lord (NEH 9:5), named on the sealed document of NEH 9:5-38 (NEH 10:10)",male,Levi,,2,2382
-Kelita_1,Kelita,,"explained the law to the people (NEH 8:7), named on the sealed document of NEH 9:5-38 (NEH 10:10)",male,Levi,,1,2383
-Jozabad_8,Jozabad,,explained the law to the people (NEH 8:7),male,Levi,,8,2384
-Pelaiah_2,Pelaiah,,"explained the law to the people (NEH 8:7), named on the sealed document of NEH 9:5-38 (NEH 10:10)",male,Levi,,2,2385
-Kadmiel_2,Kadmiel,,"stood on the Levites platform (NEH 9:4) and exhorted Israel to bless the Lord (NEH 9:5), named on the sealed document of NEH 9:5-38 (NEH 10:9)",male,Levi,,2,2386
-Shebaniah_2,Shebaniah,,"stood on the Levites platform (NEH 9:4) and exhorted Israel to bless the Lord (NEH 9:5), named on the sealed document of NEH 9:5-38 (NEH 10:12)",male,Levi,,2,2387
-Bunni_1,Bunni,,stood on the Levites platform (NEH 9:4),male,Levi,,1,2388
-Bani_8,Bani,,the other Bani who stood on the Levites platform (NEH 9:4),male,Levi,,8,2389
-Chenani_1,Chenani,,stood on the Levites platform (NEH 9:4),male,Levi,,1,2390
-Hashabneiah_2,Hashabneiah,,exhorted Israel to bless the Lord (NEH 9:5),male,Levi,,2,2391
-Pethahiah_3,Pethahiah,,exhorted Israel to bless the Lord (NEH 9:5),male,Levi,,3,2392
-Zedekiah_3,Zedekiah,,named on the sealed document of NEH 9:5-38 (NEH 10:1),male,Levi,Aaronic priest (NEH 10:8),3,2393
-Seraiah_7,Seraiah,,named on the sealed document of NEH 9:5-38 (NEH 10:2),male,Levi,Aaronic priest (NEH 10:8),7,2394
-Jeremiah_7,Jeremiah,,named on the sealed document of NEH 9:5-38 (NEH 10:2),male,Levi,Aaronic priest (NEH 10:8),7,2395
-Amariah_6,Amariah,,named on the sealed document of NEH 9:5-38 (NEH 10:3),male,Levi,Aaronic priest (NEH 10:8),6,2396
-Hattush_3,Hattush,,named on the sealed document of NEH 9:5-38 (NEH 10:4),male,Levi,Aaronic priest (NEH 10:8),3,2397
-Shebaniah_3,Shebaniah,,named on the sealed document of NEH 9:5-38 (NEH 10:4),male,Levi,Aaronic priest (NEH 10:8),3,2398
-Malluch_4,Malluch,,named on the sealed document of NEH 9:5-38 (NEH 10:4),male,Levi,Aaronic priest (NEH 10:8),4,2399
-Obadiah_10,Obadiah,,named on the sealed document of NEH 9:5-38 (NEH 10:5),male,Levi,Aaronic priest (NEH 10:8),10,2400
-Ginnethon_1,Ginnethon,,named on the sealed document of NEH 9:5-38 (NEH 10:6),male,Levi,Aaronic priest (NEH 10:8),1,2401
-Baruch_2,Baruch,,named on the sealed document of NEH 9:5-38 (NEH 10:6),male,Levi,Aaronic priest (NEH 10:8),2,2402
-Abijah_6,Abijah,,named on the sealed document of NEH 9:5-38 (NEH 10:7),male,Levi,Aaronic priest (NEH 10:8),6,2403
-Mijamin_3,Mijamin,,named on the sealed document of NEH 9:5-38 (NEH 10:7),male,Levi,Aaronic priest (NEH 10:8),3,2404
-Maaziah_2,Maaziah,,named on the sealed document of NEH 9:5-38 (NEH 10:8),male,Levi,Aaronic priest (NEH 10:8),2,2405
-Bilgai_1,Bilgai,,named on the sealed document of NEH 9:5-38 (NEH 10:8),male,Levi,Aaronic priest (NEH 10:8),1,2406
-Shemaiah_19,Shemaiah,,named on the sealed document of NEH 9:5-38 (NEH 10:8),male,Levi,Aaronic priest (NEH 10:8),19,2407
-Jeshua_8,Jeshua,,named on the sealed document of NEH 9:5-38 (NEH 10:9),male,Levi,"son of Azaniah (NEH 10:9), a levite rather than priest",8,2408
-Azaniah_1,Azaniah,,father of Jeshua_8 (NEH 10:9),male,Levi,,1,2409
-Rehob_2,Rehob,,named on the sealed document of NEH 9:5-38 (NEH 10:11),male,Levi,,2,2410
-Hashabiah_6,Hashabiah,,named on the sealed document of NEH 9:5-38 (NEH 10:11),male,Levi,,6,2411
-Zaccur_6,Zaccur,,named on the sealed document of NEH 9:5-38 (NEH 10:12),male,Levi,,6,2412
-Shebaniah_4,Shebaniah,,named on the sealed document of NEH 9:5-38 (NEH 10:12),male,Levi,second Levite named Shebaniah in the list (v10 and v12),4,2413
-Hodiah_3,Hodiah,,named on the sealed document of NEH 9:5-38 (NEH 10:13),male,Levi,second Levite named Hodiah in the list (v10 and v13),3,2414
-Beninu_1,Beninu,,named on the sealed document of NEH 9:5-38 (NEH 10:13),male,Levi,,1,2415
-Adonijah_3,Adonijah,,named on the sealed document of NEH 9:5-38 (NEH 10:16),male,,,3,2416
-Azzur_1,Azzur,,named on the sealed document of NEH 9:5-38 (NEH 10:17),male,,,1,2417
-Hodiah_4,Hodiah,,named on the sealed document of NEH 9:5-38 (NEH 10:18),male,,non-Levite leader (NEH 10:14),4,2418
-Hariph_1,Hariph,,named on the sealed document of NEH 9:5-38 (NEH 10:19),male,,,1,2419
-Ananthoth_1,Ananthoth,,named on the sealed document of NEH 9:5-38 (NEH 10:19),male,,,1,2420
-Nebai_1,Nebai,,named on the sealed document of NEH 9:5-38 (NEH 10:19),male,,,1,2421
-Magpiash_1,Magpiash,,named on the sealed document of NEH 9:5-38 (NEH 10:20),male,,,1,2422
-Hezir_2,Hezir,,named on the sealed document of NEH 9:5-38 (NEH 10:20),male,,,2,2423
-Jaddua_1,Jaddua,,named on the sealed document of NEH 9:5-38 (NEH 10:21),male,,,1,2424
-Pelatiah_3,Pelatiah,,named on the sealed document of NEH 9:5-38 (NEH 10:22),male,,,3,2425
-Hanan_5,Hanan,,named on the sealed document of NEH 9:5-38 (NEH 10:22),male,,non-Levite leader (NEH 10:14),5,2426
-Anaiah_2,Anaiah,,named on the sealed document of NEH 9:5-38 (NEH 10:22),male,,non-Levite leader (NEH 10:14),2,2427
-Hoshea_3,Hoshea,,named on the sealed document of NEH 9:5-38 (NEH 10:23),male,,,3,2428
-Pilha_1,Pilha,,named on the sealed document of NEH 9:5-38 (NEH 10:24),male,,,1,2429
-Shobek_1,Shobek,,named on the sealed document of NEH 9:5-38 (NEH 10:24),male,,,1,2430
-Hashabnah_1,Hashabnah,,named on the sealed document of NEH 9:5-38 (NEH 10:25),male,,,1,2431
-Ahiah_1,Ahiah,,named on the sealed document of NEH 9:5-38 (NEH 10:26),male,,,1,2432
-Hanan_6,Hanan,,named on the sealed document of NEH 9:5-38 (NEH 10:26),male,,,6,2433
-Anan_1,Anan,,named on the sealed document of NEH 9:5-38 (NEH 10:26),male,,,1,2434
-Athaiah_1,Athaiah,,"son of Uzziah, descendant of Judah who lived in Jerusalem (NEH 11:4)",male,Judah,Lived in Jerusalem (NEH 11:4),1,2435
-Uzziah_3,Uzziah,,son of Zechariah (NEH 11:4),male,Judah,,3,2436
-Zechariah_20,Zechariah,,son of Amariah (NEH 11:4),male,Judah,,20,2437
-Amariah_7,Amariah,,son of Shephatiah (NEH 11:4),male,Judah,,7,2438
-Shephatiah_7,Shephatiah,,son of Mahalalel (NEH 11:4),male,Judah,,7,2439
-Mahalalel_2,Mahalalel,,son of Perez (NEH 11:4),male,Judah,,2,2440
-Maaseiah_11,Maaseiah,,son of Baruch (NEH 11:5),male,Judah,Lived in Jerusalem (NEH 11:4),11,2441
-Baruch_3,Baruch,,son of Col-hozeh (NEH 11:5),male,Judah,,3,2442
-Hazaiah_1,Hazaiah,,son of Adaiah (NEH 11:5),male,Judah,,1,2443
-Adaiah_8,Adaiah,,son of Joiarib (NEH 11:5),male,Judah,,8,2444
-Joiarib_2,Joiarib,,son of Zechariah (NEH 11:5),male,Judah,,2,2445
-Zechariah_21,Zechariah,,son of the Shilonite (NEH 11:5),male,Judah,,21,2446
-Sallu_2,Sallu,,son of Meshullam (NEH 11:7),male,Benjamin,Lived in Jerusalem (NEH 11:4),2,2447
-Meshullam_14,Meshullam,,son of Joed (NEH 11:7),male,Benjamin,,14,2448
-Joed_1,Joed,,son of Pedaiah (NEH 11:7),male,Benjamin,,1,2449
-Pedaiah_6,Pedaiah,,son of Kolaiah (NEH 11:7),male,Benjamin,,6,2450
-Kolaiah_1,Kolaiah,,son of Maaseiah (NEH 11:7),male,Benjamin,,1,2451
-Maaseiah_12,Maaseiah,,son of Ithiel (NEH 11:7),male,Benjamin,,12,2452
-Ithiel_1,Ithiel,,son of Jeshaiah (NEH 11:7),male,Benjamin,,1,2453
-Jeshaiah_5,Jeshaiah,,descendant of Benjamin (NEH 11:7),male,Benjamin,,5,2454
-Gabbai_1,Gabbai,,descendant of Benjamin (NEH 11:8),male,Benjamin,Lived in Jerusalem (NEH 11:4),1,2455
-Sallai_1,Sallai,,descendant of Benjamin (NEH 11:8),male,Benjamin,Lived in Jerusalem (NEH 11:4),1,2456
-Joel_10,Joel,,overseer of Benjamites (NEH 11:9),male,Benjamin,Lived in Jerusalem (NEH 11:4),10,2457
-Zichri_11,Zichri,,father of Joel (NEH 11:9),male,Benjamin,,11,2458
-Judah_3,Judah,,second in command of Jerusalem (NEH 11:9),male,Benjamin,Lived in Jerusalem (NEH 11:4),3,2459
-Hassenuah_2,Hassenuah,,father of Judah (NEH 11:9),male,Benjamin,,2,2460
-Jedaiah_5,Jedaiah,,"priest, son of Joiarib (NEH 11:10, NEH 12:7)",male,Levi,Lived in Jerusalem (NEH 11:4),5,2461
-Joiarib_3,Joiarib,,"priest, father of Jedaiah (NEH 11:10)",male,Levi,,3,2462
-Jachin_4,Jachin,,priest who lived in Jerusalem (NEH 11:10),male,Levi,Lived in Jerusalem (NEH 11:4),4,2463
-Seraiah_8,Seraiah,,"priest, son of Hilkiah (NEH 11:11)",male,Levi,Lived in Jerusalem (NEH 11:4),8,2464
-Hilkiah_6,Hilkiah,,son of Meshullam (NEH 11:11),male,Levi,,6,2465
-Meshullam_15,Meshullam,,son of Zadok (NEH 11:11),male,Levi,,15,2466
-Zadok_6,Zadok,,son of Meraioth (NEH 11:11),male,Levi,,6,2467
-Meraioth_3,Meraioth,,son of Ahitub (NEH 11:11),male,Levi,,3,2468
-Ahitub_4,Ahitub,,leader of the house of God (NEH 11:11),male,Levi,,4,2469
-Adaiah_9,Adaiah,,"priest, son of Jeroham (NEH 11:12)",male,Levi,Lived in Jerusalem (NEH 11:4),9,2470
-Jeroham_7,Jeroham,,son of Pelaliah (NEH 11:12),male,Levi,,7,2471
-Pelaliah_1,Pelaliah,,son of Amzi (NEH 11:12),male,Levi,,1,2472
-Amzi_2,Amzi,,son of Zechariah (NEH 11:12),male,Levi,,2,2473
-Zechariah_22,Zechariah,,son of Pashhur (NEH 11:12),male,Levi,,22,2474
-Amashsai_1,Amashsai,,"priest, son of Azarel (NEH 11:13)",male,Levi,Lived in Jerusalem (NEH 11:4),1,2475
-Azarel_4,Azarel,,son of Ahzai (NEH 11:13),male,Levi,,4,2476
-Ahzai_1,Ahzai,,son of Meshillemoth (NEH 11:13),male,Levi,,1,2477
-Zabdiel_2,Zabdiel,,overseer of the priests and son of Haggedolim (NEH 11:14),male,Levi,,2,2478
-Haggedolim_1,Haggedolim,,father of Zabdiel (NEH 11:14),male,Levi,,1,2479
-Bunni_2,Bunni,,father of Hashabiah (NEH 11:15),male,Levi,descendant of Merari (1CH 9:14),2,2480
-Mattaniah_9,Mattaniah,,descendant of Mica (NEH 11:17),male,Levi,"leader in beginning the thanksgiving at prayer (NEH 11:17), gatekeeper (NEH 12:25)",9,2481
-Bakbukiah_1,Bakbukiah,,second among his brethren (NEH 11:17),male,Levi,,1,2482
-Gishpa_1,Gishpa,,in charge of the temple servants (NEH 11:21),male,Levi,,1,2483
-Uzzi_5,Uzzi,,"overseer of the Levites in Jerusalem, son of Bani (NEH 11:22)",male,Levi,,5,2484
-Bani_9,Bani,,son of Hashabiah (NEH 11:22),male,Levi,,9,2485
-Hashabiah_7,Hashabiah,,son of Mattaniah_2 (NEH 11:22),male,Levi,,7,2486
-Pethahiah_4,Pethahiah,,the king's representative in all matters concerning the people (NEH 11:24),male,Judah,,4,2487
-Meshezabel_2,Meshezabel,,father of Pethahiah (NEH 11:24),male,Judah,,2,2488
-Shecaniah_8,Shecaniah,,among the priests who came up with Zerubbabel (NEH 12:3),male,Levi,"as ""priest"", a descendant of Aaron ",8,2489
-Rehum_4,Rehum,,among the priests who came up with Zerubbabel (NEH 12:3),male,Levi,"as ""priest"", a descendant of Aaron ",4,2490
-Sallu_3,Sallu,,among the priests who came up with Zerubbabel (NEH 12:7),male,Levi,"as ""priest"", a descendant of Aaron ",3,2491
-Amok_1,Amok,,among the priests who came up with Zerubbabel (NEH 12:7),male,Levi,"as ""priest"", a descendant of Aaron ",1,2492
-Judah_4,Judah,,among the Levites who came up with Zerubabbel (NEH 12:8),male,Levi,,4,2493
-Unni_2,Unni,,among the Levites who came up with Zerubabbel (NEH 12:9),male,Levi,,2,2494
-Joiakim_1,Joiakim,,son of Jeshua_7 and father of Eliashib (NEH 12:10),male,Levi,"could be Jeshua_5, Jeshua_7, or Jeshua_8 (all Levites)",1,2495
-Eliashib_8,Eliashib,,son of Joiakim (NEH 12:10),male,Levi,,8,2496
-Joiada_2,Joiada,,son of Eliashib (NEH 12:10),male,Levi,,2,2497
-Jonathan_10,Jonathan,,son of Joiada (NEH 12:11),male,Levi,,10,2498
-Jaddua_2,Jaddua,,son of Jonathan (NEH 12:11),male,Levi,,2,2499
-Meraiah_1,Meraiah,,son of Seraiah_7 (NEH 12:12),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",1,2500
-Hananiah_9,Hananiah,,son of Jeremiah_7 (NEH 12:12),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",9,2501
-Meshullam_16,Meshullam,,son of Ezra_1 (NEH 12:13),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",16,2502
-Jehohanan_4,Jehohanan,,son of Amariah_6 (NEH 12:13),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",4,2503
-Jonathan_11,Jonathan,,son of Malluch_4 [Malluchi] (NEH 12:14),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",11,2504
-Joseph_5,Joseph,,son of Shebaniah_3 (NEH 12:14),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",5,2505
-Adna_2,Adna,,son of Harim_3 (NEH 12:15),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",2,2506
-Helkai_1,Helkai,,son of Meraioth_2 (NEH 12:15),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",1,2507
-Zichri_12,Zichri,,son of Abijah_6 (NEH 12:17),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",12,2508
-Miniamin_2,Miniamin,,ancestor of Piltai (NEH 12:17),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",2,2509
-Moadiah_1,Moadiah,,ancestor of Piltai (NEH 12:17),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",1,2510
-Piltai_1,Piltai,,son of Miniamin (NEH 12:17),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",1,2511
-Shammua_3,Shammua,,descendant of Bilgah (NEH 12:18),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",3,2512
-Jehonathan_2,Jehonathan,,son of Shemaiah_19 (NEH 12:18),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",2,2513
-Mattenai_3,Mattenai,,son of Joiarib_3 (NEH 12:19),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",3,2514
-Uzzi_6,Uzzi,,son of Jedaiah_2 (NEH 12:19),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",6,2515
-Sallai_2,Sallai,,father of Kallai (NEH 12:20),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",2,2516
-Kallai_1,Kallai,,son of Sallai_2 (NEH 12:20),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",1,2517
-Eber_5,Eber,,son of Amok_1 (NEH 12:20),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",5,2518
-Hashabiah_8,Hashabiah,,son of Hilkiah_3 (NEH 12:21),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",8,2519
-Nethanel_7,Nethanel,,son of Jedaiah_5 (NEH 12:21),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",7,2520
-Hoshaiah_1,Hoshaiah,,followed the choir to the right on top of the wall (NEH 12:32),male,,,1,2521
-Zechariah_23,Zechariah,,son of Jonathan (NEH 12:35),male,Levi,descendant of Asaph_2,23,2522
-Jonathan_12,Jonathan,,son of Shemaiah_14 (NEH 12:35),male,Levi,descendant of Asaph_2,12,2523
-Micaiah_4,Micaiah,,son of Zaccur_4 (NEH 12:35),male,Levi,descendant of Asaph_2,4,2524
-Milalai_1,Milalai,,Levite with music instruments (NEH 12:36),male,Levi,,1,2525
-Gilalai_1,Gilalai,,Levite with music instruments (NEH 12:36),male,Levi,,1,2526
-Maai_1,Maai,,Levite with music instruments (NEH 12:36),male,Levi,,1,2527
-Eliakim_3,Eliakim,,priest with a trumpet (NEH 12:41),male,Levi,"As ""priest"", a descendant of Aaron",3,2528
-Maaseiah_13,Maaseiah,,priest with a trumpet (NEH 12:41),male,Levi,"As ""priest"", a descendant of Aaron",13,2529
-Miniamin_3,Miniamin,,priest with a trumpet (NEH 12:41),male,Levi,"As ""priest"", a descendant of Aaron",3,2530
-Micaiah_5,Micaiah,,priest with a trumpet (NEH 12:41),male,Levi,"As ""priest"", a descendant of Aaron",5,2531
-Elioenai_6,Elioenai,,priest with a trumpet (NEH 12:41),male,Levi,"As ""priest"", a descendant of Aaron",6,2532
-Eleazar_8,Eleazar,,with the officials and priests in the house of G-d (NEH 12:42),male,,,8,2533
-Jezrahiah_1,Jezrahiah,,the leader of the singers (NEH 12:42),male,Levi,,1,2534
-Shelemiah_4,Shelemiah,,priest appointed by Nehemiah (NEH 13:13),male,Levi,"As ""priest"", a descendant of Aaron",4,2535
-Hanan_7,Hanan,,distributed portions to their kinsmen (NEH 13:13),male,Levi,,7,2536
-Mattaniah_10,Mattaniah,,grandfather of Hanan_7 (NEH 13:13),male,Levi,,10,2537
-Joiada_3,Joiada,,son of Eliashib the high priest (NEH 13:28),male,Levi,a descendant of Aaron,3,2538
-Vashti_1,Vashti,,queen of Persia (EST 1:9),female,,,1,2539
-Mehuman_1,Mehuman,,one of the seven eunuchs who served in the presence of King Ahasuerus (EST 1:10),male,,,1,2540
-Biztha_1,Biztha,,one of the seven eunuchs who served in the presence of King Ahasuerus (EST 1:10),male,,,1,2541
-Harbona_1,Harbona,,one of the seven eunuchs who served in the presence of King Ahasuerus (EST 1:10),male,,,1,2542
-Bigtha_1,Bigtha,,one of the seven eunuchs who served in the presence of King Ahasuerus (EST 1:10),male,,,1,2543
-Abagtha_1,Abagtha,,one of the seven eunuchs who served in the presence of King Ahasuerus (EST 1:10),male,,,1,2544
-Zethar_1,Zethar,,one of the seven eunuchs who served in the presence of King Ahasuerus (EST 1:10),male,,,1,2545
-Carkas_1,Carkas,,one of the seven eunuchs who served in the presence of King Ahasuerus (EST 1:10),male,,,1,2546
-Carshena_1,Carshena,,one of the seven princes of Persia and Media (EST 1:14),male,,,1,2547
-Shethar_1,Shethar,,one of the seven princes of Persia and Media (EST 1:14),male,,,1,2548
-Admatha_1,Admatha,,one of the seven princes of Persia and Media (EST 1:14),male,,,1,2549
-Tarshish_3,Tarshish,,one of the seven princes of Persia and Media (EST 1:14),male,,,3,2550
-Meres_1,Meres,,one of the seven princes of Persia and Media (EST 1:14),male,,,1,2551
-Marsena_1,Marsena,,one of the seven princes of Persia and Media (EST 1:14),male,,,1,2552
-Memucan_1,Memucan,,one of the seven princes of Persia and Media (EST 1:14),male,,,1,2553
-Hegai_1,Hegai,,the king's eunuch (EST 2:3),male,,,1,2554
-Mordecai_2,Mordecai,,a Jew who lived in Susa (EST 2:5),male,,,2,2555
-Jair_3,Jair,,father of Mordecai (EST 2:5),male,,,3,2556
-Shimei_17,Shimei,,father of Jair (EST 2:5),male,,,17,2557
-Kish_4,Kish,,"a Benjamite, father (ancestor?) of Shimei (EST 2:5)",male,,"assuming this is not Kish, the father of Saul, because he is simply listed as ""a Benjamite"" rather than ""father of King Saul"" or something similar",4,2558
-Hadassah_1,Hadassah,,cousin of Mordecai (EST 2:7),female,,,1,2559
-Shaashgaz_1,Shaashgaz,,king's eunuch in charge of the concubines (EST 2:14),male,,,1,2560
-Abihail_5,Abihail,,Esther's father and Mordecai's uncle (EST 2:15),male,,,5,2561
-Bigthan_1,Bigthan,,plotted against Ahasuerus (EST 2:21),male,,,1,2562
-Teresh_1,Teresh,,plotted against Ahasuerus (EST 2:21),male,,,1,2563
-Haman_1,Haman,,son of Hammedatha the Agagite (EST 3:1),male,,יִמַּח שְׁמוֹ [may his name be erased],1,2564
-Hammedatha_1,Hammedatha,,the Agagite (EST 3:1),male,,,1,2565
-Hathach_1,Hathach,,king's eunuch appointed to attend Esther (EST 4:5),male,,,1,2566
-Zeresh_1,Zeresh,,wife of Haman (EST 5:10),female,,,1,2567
-Parshandatha_1,Parshandatha,,son of Haman (EST 9:7),male,,,1,2568
-Dalphon_1,Dalphon,,son of Haman (EST 9:7),male,,,1,2569
-Aspatha_1,Aspatha,,son of Haman (EST 9:7),male,,,1,2570
-Poratha_1,Poratha,,son of Haman (EST 9:8),male,,,1,2571
-Adalia_1,Adalia,,son of Haman (EST 9:8),male,,,1,2572
-Aridatha_1,Aridatha,,son of Haman (EST 9:8),male,,,1,2573
-Parmashta_1,Parmashta,,son of Haman (EST 9:9),male,,,1,2574
-Arisai_1,Arisai,,son of Haman (EST 9:9),male,,,1,2575
-Aridai_1,Aridai,,son of Haman (EST 9:9),male,,,1,2576
-Vaizatha_1,Vaizatha,,son of Haman (EST 9:9),male,,,1,2577
-Job_1,Job,,"a blameless, upright, G-d fearing man in the land of Uz (JOB 1:1)",male,,,1,2578
-Eliphaz_2,Eliphaz,,"the Temanite, friend of Job (JOB 2:11)",male,,,2,2579
-Bildad_1,Bildad,,"the Shuhite, friend of Job (JOB 2:11)",male,,,1,2580
-Zophar_1,Zophar,,"the Naamathite, friend of Job (JOB 2:11)",male,,,1,2581
-Elihu_5,Elihu,,"son of Barachel, who spoke to Job (JOB 32:2)",male,,,5,2582
-Barachel_1,Barachel,,"the Buzite, of the family of Ram (JOB 32:2)",male,,,1,2583
-Ram_3,Ram,,ancestor of Barachel (JOB 32:2),male,,,3,2584
-Jemimah_1,Jemimah,,daughter of Job (JOB 42:14),female,,,1,2585
-Keziah_1,Keziah,,daughter of Job (JOB 42:14),female,,,1,2586
-Keren-happuch_1,Keren-happuch,,daughter of Job (JOB 42:14),female,,,1,2587
-Cush_2,Cush,,a Benjamite (Psalm 7:0),male,,,2,2588
-Agur_1,Agur,,"son of Jakeh, the oracle (PRO 30:1)",male,,,1,2589
-Jakeh_1,Jakeh,,father of Agur (PRO 30:1),male,,,1,2590
-Ithiel_2,Ithiel,,audience of Agur (PRO 30:1),male,,,2,2591
-Ucal_1,Ucal,,audience of Agur (PRO 30:1),male,,,1,2592
-Lemuel_1,Lemuel,,king quoted in Proverbs 31 (PRO 31:1),male,,,1,2593
-Shear-jashub_1,Shear-jashub,,son of Isaiah (ISA 7:3),male,,,1,2594
-Immanuel_1,Immanuel,,the child given as a sign by G-d to Ahaz (ISA 7:14),male,,,1,2595
-Zechariah_24,Zechariah,,son of Jeberechiah who witnessed Isaiah's naming of his son (ISA 8:2),male,,,24,2596
-Jeberechiah_1,Jeberechiah,,father of Zechariah (ISA 8:2),male,,,1,2597
-Maher-shalal-hash-baz_1,Maher-shalal-hash-baz,,son of Isaiah (ISA 8:3),male,,,1,2598
-Pharaoh_7,Pharaoh,,Pharaoh of Isaiah's day (ISA 19:11),male,,,7,2599
-Sargon_1,Sargon,,king of Assyria (ISA 20:1),male,,,1,2600
-King of Hamath_2,King of Hamath,,(ISA 37:13),male,,,2,2601
-King of Arpad_2,King of Arpad,,(ISA 37:13),male,,,2,2602
-King of Sepharvaim_2,King of Sepharvaim,,(ISA 37:13),male,,,2,2603
-King of Hena_1,King of Hena,,(ISA 37:13),male,,,1,2604
-King of Ivvah_1,King of Ivvah,,(ISA 37:13),male,,,1,2605
-Pashhur_2,Pashhur,,"son (descendant?) of Immer, chief officer in the Temple (JER 20:1)",male,,,2,2606
-Zephaniah_2,Zephaniah,,"the priest, son of Maaseiah (JER 21:1)",male,,,2,2607
-Maaseiah_14,Maaseiah,,father of Zephaniah (JER 21:1),male,,,14,2608
-Pharaoh_8,Pharaoh,,Pharaoh of Jeremiah's day (JER 25:19),male,,,8,2609
-Uriah_4,Uriah,,prophesied in the name of the LORD (JER 26:20),male,,,4,2610
-Shemaiah_20,Shemaiah,,"father of Uriah, from Kiriath-jearim (JER 26:20)",male,,,20,2611
-Hananiah_10,Hananiah,,"the [false] prophet, son of Azzur (JER 28:1)",male,,,10,2612
-Azzur_2,Azzur,,father of Hananiah (JER 28:1),male,,,2,2613
-Elasah_2,Elasah,,son of Shaphan (JER 29:3),male,,,2,2614
-Shaphan_2,Shaphan,,father of Elasah (JER 29:3),male,,,2,2615
-Gemariah_1,Gemariah,,son of Hilkiah_3 (JER 29:3),male,,,1,2616
-Ahab_2,Ahab,,prophesied falsely (JER 29:21),male,,,2,2617
-Kolaiah_2,Kolaiah,,father of Ahab_2 (JER 29:21),male,,,2,2618
-Zedekiah_4,Zedekiah,,"prophesied falsely, son of Maaseiah_6 (JER 29:21)",male,,,4,2619
-Shemaiah_21,Shemaiah,,the Nehelamite (JER 29:24) who prophesied a lie (JER 29:31),male,,,21,2620
-Hanamel_1,Hanamel,,"son of Shallum (JER 32:7), Jeremiah's cousin",male,,,1,2621
-Shallum_13,Shallum,,"father of Hanamel (JER 32:7), Jeremiah's uncle",male,,,13,2622
-Baruch_4,Baruch,,scribe and friend (?) of Jeremiah (JER 32:12),male,,,4,2623
-Neriah_1,Neriah,,father of Baruch (JER 32:12),male,,,1,2624
-Mahseiah_1,Mahseiah,,father of Neriah (JER 32:12),male,,,1,2625
-Jaazaniah_2,Jaazaniah,,"son of Jeremiah, the Rechabite (JER 35:3)",male,,,2,2626
-Jeremiah_8,Jeremiah,,"son of Habazziniah, the Rechabite (JER 35:3)",male,,,8,2627
-Habazziniah_1,Habazziniah,,the Rechabite (JER 35:3),male,,,1,2628
-Hanan_8,Hanan,,had a chamber in the Temple (JER 35:4),male,,,8,2629
-Igdaliah_1,Igdaliah,,"the man of G-d, father of Hanan (JER 35:4)",male,,,1,2630
-Gemariah_2,Gemariah,,son of Shaphan_1 the scribe (JER 36:10),male,,,2,2631
-Micaiah_6,Micaiah,,son of Gemariah_2 (JER 36:10),male,,,6,2632
-Elishama_6,Elishama,,"the scribe, an official (JER 36:12)",male,,,6,2633
-Delaiah_5,Delaiah,,"son of Shemaiah_21, an official (JER 36:12)",male,,,5,2634
-Elnathan_5,Elnathan,,"son of Achbor_2, an official (JER 36:12)",male,,,5,2635
-Zedekiah_5,Zedekiah,,"son of Hananiah_10, an official (JER 36:12)",male,,,5,2636
-Jehudi_1,Jehudi,,son of Nethaniah (JER 36:14),male,,,1,2637
-Nethaniah_4,Nethaniah,,son of Shelemiah (JER 36:14),male,,,4,2638
-Shelemiah_5,Shelemiah,,son of Cushi (JER 36:14),male,,,5,2639
-Cushi_1,Cushi,,father of Shelamiah (JER 36:14),male,,,1,2640
-Jerahmeel_3,Jerahmeel,,"son of King Jehoiakim (Eliakim_2), sent to sieze Baruch and Jeremiah (JER 36:26)",male,,,3,2641
-Seraiah_9,Seraiah,,"son of Azriel, sent to sieze Baruch and Jeremiah (JER 36:26)",male,,,9,2642
-Azriel_3,Azriel,,father of Seraiah_9 (JER 36:26),male,,,3,2643
-Shelemiah_6,Shelemiah,,"son of Adbeel, sent to sieze Baruch and Jeremiah (JER 36:26)",male,,,6,2644
-Abdeel_1,Abdeel,,father of Shelemiah_6 (JER 36:26),male,,,1,2645
-Jehucal_1,Jehucal,,son of Shelemiah (JER 37:3),male,,,1,2646
-Irijah_1,Irijah,,a captain of the guard (JER 37:13),male,,,1,2647
-Shelemiah_7,Shelemiah,,father of Irijah (JER 37:13),male,,,7,2648
-Hananiah_11,Hananiah,,father of Shelemiah (JER 37:13),male,,,11,2649
-Jonathan_13,Jonathan,,the scribe in whose house Jeremiah was jailed (JER 37:15),male,,,13,2650
-Shephatiah_8,Shephatiah,,son of Mattan (JER 38:1),male,,,8,2651
-Mattan_2,Mattan,,father of Shephatiah (JER 38:1),male,,,2,2652
-Gedaliah_4,Gedaliah,,son of Pashhur_1 (JER 38:1),male,,,4,2653
-Pashhur_3,Pashhur,,father of Gedaliah (JER 38:1),male,,,3,2654
-Jucal_1,Jucal,,son of Shelemiah (JER 38:1),male,,,1,2655
-Shelemiah_8,Shelemiah,,father of Jucal (JER 38:1),male,,,8,2656
-Malchijah_10,Malchijah,,son of King Zedekiah (JER 38:6),male,,,10,2657
-Ebed-melech_1,Ebed-melech,,the Ethiopian eunuch who spoke up for Jeremiah (JER 38:7),male,,,1,2658
-Nergal-sar-ezer_1,Nergal-sar-ezer,,Babylonian official who sat in the Middle Gate of Jerusalem (JER 39:3),male,,,1,2659
-Samgar-nebu_1,Samgar-nebu,,Babylonian official who sat in the Middle Gate of Jerusalem (JER 39:3),male,,,1,2660
-Sar-sekim_1,Sar-sekim,,the Rab-saris [chief official] (JER 39:3),male,,,1,2661
-Nergal-sar-ezer_2,Nergal-sar-ezer,,the Rab-mag [high official] (JER 39:3),male,,,2,2662
-Nebushazban_1,Nebushazban,,the Rab-saris [chief official] (JER 39:13),male,,,1,2663
-Jonathan_14,Jonathan,,son of Kareah (JER 40:8),male,,,14,2664
-Ephai_1,Ephai,,the Netophathite (JER 40:8),male,,,1,2665
-Baalis_1,Baalis,,king of the sons of Ammon (JER 40:14),male,,,1,2666
+Kore_2,Kore,,Levite gatekeeper of the eastern gate (2CH 31:14),male,Levi,apportioned the contributions for the LORD and the most holy things (2CH 31:14),2,1992
+Imnah_2,Imnah,,"father of Kore, the gatekeeper (2CH 31:14)",male,Levi,,2,1993
+Miniamin_1,Miniamin,,distributed portions to their brothers (2CH 31:15),male,Levi,,1,1994
+Jeshua_2,Jeshua,,distributed portions to their brothers (2CH 31:15),male,Levi,,2,1995
+Shemaiah_12,Shemaiah,,distributed portions to their brothers (2CH 31:15),male,Levi,,12,1996
+Amariah_4,Amariah,,distributed portions to their brothers (2CH 31:15),male,Levi,,4,1997
+Shecaniah_3,Shecaniah,,distributed portions to their brothers (2CH 31:15),male,Levi,,3,1998
+Maaseiah_5,Maaseiah,,sent by Josiah to repair the house of the Lord (2CH 34:8),male,,,5,1999
+Joah_4,Joah,,sent by Josiah to repair the house of the Lord (2CH 34:8),male,,,4,2000
+Joahaz_1,Joahaz,,father of Joah (2CH 34:8),male,,,1,2001
+Jahath_6,Jahath,,foreman over reconstruction of the Temple during Josiah's reign (2CH 34:12),male,Levi,"Merarites (from Merari, son of Levi)",6,2002
+Obadiah_8,Obadiah,,foreman over reconstruction of the Temple during Josiah's reign (2CH 34:12),male,Levi,"Merarites (from Merari, son of Levi)",8,2003
+Zechariah_15,Zechariah,,foreman over reconstruction of the Temple during Josiah's reign (2CH 34:12),male,Levi,Kohathite,15,2004
+Meshullam_7,Meshullam,,foreman over reconstruction of the Temple during Josiah's reign (2CH 34:12),male,Levi,Kohathite,7,2005
+Jeremiah_6,Jeremiah,,"the prophet (2CH 36:12), son of Hilkiah (JER 1:1)",male,Levi,,6,2006
+Cyrus_1,Cyrus,,King of Persia (2CH 36:22),male,,,1,2007
+Mithredath_1,Mithredath,,treasurer of Cyrus (EZR 1:8),male,,,1,2008
+Sheshbazzar_1,Sheshbazzar,,the prince of Judah (EZR 1:8),male,Judah,"Same as Shenazzar_1? EZR 1:7 labels him the ""prince"" of Judah.",1,2009
+Zerubbabel_2,Zerubbabel,,"returned to Judah after the Babylonian captivity (EZR 2:2, NEH 7:7), son of Shealtiel (EZR 3:2)",male,Levi,,2,2010
+Jeshua_3,Jeshua,,"returned to Judah after the Babylonian captivity (EZR 2:2, NEH 7:7)",male,Levi,son of Jozadak who helped to build the altar (EZR 3:2),3,2011
+Nehemiah_1,Nehemiah,,"returned to Judah after the Babylonian captivity (EZR 2:2, NEH 7:7), son of Hacaliah (Neh 1:1)",male,,cup-bearer to King Artaxerxes (NEH 2:1),1,2012
+Seraiah_6,Seraiah,,"returned to Judah after the Babylonian captivity (EZR 2:2, NEH 7:7) [called Azariah in NEH 7:7]",male,,,6,2013
+Reelaiah_1,Reelaiah,,"returned to Judah after the Babylonian captivity (EZR 2:2, NEH 7:7) [called Raamiah in NEH 7:7]",male,,,1,2014
+Mordecai_1,Mordecai,,"returned to Judah after the Babylonian captivity (EZR 2:2, NEH 7:7)",male,,,1,2015
+Bilshan_1,Bilshan,,"returned to Judah after the Babylonian captivity (EZR 2:2, NEH 7:7)",male,,,1,2016
+Mispar_1,Mispar,,"returned to Judah after the Babylonian captivity (EZR 2:2, NEH 7:7) [called Misperethin NEH 7:7]",male,,,1,2017
+Bigvai_1,Bigvai,,"returned to Judah after the Babylonian captivity (EZR 2:2, NEH 7:7)",male,,named on the sealed document of NEH 9:5-38 (NEH 10:16),1,2018
+Rehum_1,Rehum,,"returned to Judah after the Babylonian captivity (EZR 2:2, NEH 7:7) [called Nehum NEH 7:7]",male,,,1,2019
+Baanah_3,Baanah,,"returned to Judah after the Babylonian captivity (EZR 2:2, NEH 7:7)",male,,,3,2020
+Parosh_1,Parosh,,his sons (descendants) returned to Judah after captivity (EZR 2:3),male,,,1,2021
+Shephatiah_5,Shephatiah,,his sons (descendants) returned to Judah after captivity (EZR 2:4),male,,,5,2022
+Arah_2,Arah,,his sons (descendants) returned to Judah after captivity (EZR 2:5),male,,,2,2023
+Pahath-moab_1,Pahath-moab,,his sons (descendants) returned to Judah after captivity (EZR 2:5),male,,named on the sealed document of NEH 9:5-38 (NEH 10:14),1,2024
+Jeshua_4,Jeshua,,"his sons (descendants) returned to Judah after captivity (EZR 2:6, NEH 7:11)",male,,,4,2025
+Joab_3,Joab,,his sons (descendants) returned to Judah after captivity (EZR 2:6),male,,,3,2026
+Elam_4,Elam,,his sons (descendants) returned to Judah after captivity (EZR 2:7),male,,"father of Jehiel_6 (EZR 10:2), named on the sealed document of NEH 9:5-38 (NEH 10:14)",4,2027
+Zattu_1,Zattu,,his sons (descendants) returned to Judah after captivity (EZR 2:8),male,,,1,2028
+Zaccai_1,Zaccai,,his sons (descendants) returned to Judah after captivity (EZR 2:9),male,,,1,2029
+Bani_4,Bani,,his sons (descendants) returned to Judah after captivity (EZR 2:10),male,,Binnui in NEH 7:15,4,2030
+Bebai_1,Bebai,,his sons (descendants) returned to Judah after captivity (EZR 2:11),male,,"father of Zechariah who went up with Ezra (EZR 8:11), named on the sealed document of NEH 9:5-38 (NEH 10:15)",1,2031
+Azgad_1,Azgad,,his sons (descendants) returned to Judah after captivity (EZR 2:12),male,,,1,2032
+Adonikam_1,Adonikam,,his sons (descendants) returned to Judah after captivity (EZR 2:13),male,,,1,2033
+Adin_1,Adin,,his sons (descendants) returned to Judah after captivity (EZR 2:15),male,,,1,2034
+Ater_1,Ater,,his sons (descendants) returned to Judah after captivity (EZR 2:16),male,,,1,2035
+Hezekiah_2,Hezekiah,,his sons (descendants) returned to Judah after captivity (EZR 2:16),male,,,2,2036
+Bezai_1,Bezai,,his sons (descendants) returned to Judah after captivity (EZR 2:17),male,,,1,2037
+Jorah_1,Jorah,,his sons (descendants) returned to Judah after captivity (EZR 2:18),male,,Hariph in NEH 7:24,1,2038
+Hashum_1,Hashum,,his sons (descendants) returned to Judah after captivity (EZR 2:19),male,,,1,2039
+Gibbar_1,Gibbar,,his sons (descendants) returned to Judah after captivity (EZR 2:20),male,,Gibeon in NEH 7:25,1,2040
+Azmaveth_4,Azmaveth,,his sons (descendants) returned to Judah after captivity (EZR 2:24),male,,Beth-azmaveth in NEH 7:28,4,2041
+Nebo_1,Nebo,,his sons (descendants) returned to Judah after captivity (EZR 2:29),male,,,1,2042
+Magbish_1,Magbish,,his sons (descendants) returned to Judah after captivity (EZR 2:30),male,,,1,2043
+Elam_5,Elam,,"""the other Elam"" whose sons (descendants) returned to Judah after captivity (EZR 2:31)",male,,,5,2044
+Harim_2,Harim,,his sons (descendants) returned to Judah after captivity (EZR 2:32),male,,,2,2045
+Senaah_1,Senaah,,his sons (descendants) returned to Judah after captivity (EZR 2:35),male,,,1,2046
+Harim_3,Harim,,his sons (descendants) returned to Judah after captivity (EZR 2:39),male,Levi,"Aaronic priest, named on the sealed document of NEH 9:5-38 (NEH 10:5), Aaronic priest (NEH 10:8)",3,2047
+Jeshua_5,Jeshua,,Levite whose sons (descendants) returned to Judah after captivity (EZR 2:40),male,Levi,of the sons of Hodaviah.  A peer/brother of Kadmiel? (EZR 2:40). Father of Jozabad (EZR 8:33),5,2048
+Kadmiel_1,Kadmiel,,his sons (descendants) returned to Judah after captivity (EZR 2:40),male,Levi,son of Hodaviah (EZR 2:40),1,2049
+Hodaviah_5,Hodaviah,,his sons (descendants) returned to Judah after captivity (EZR 2:40),male,Levi,,5,2050
+Ater_2,Ater,,his sons (descendants) returned to Judah after captivity (EZR 2:42),male,Levi,,2,2051
+Hatita_1,Hatita,,his sons (descendants) returned to Judah after captivity (EZR 2:42),male,Levi,,1,2052
+Shobai_1,Shobai,,his sons (descendants) returned to Judah after captivity (EZR 2:42),male,Levi,,1,2053
+Ziha_1,Ziha,,temple servant (EZR 2:43),male,Levi,in charge of the temple servants (NEH 11:21),1,2054
+Hasupha_1,Hasupha,,temple servant (EZR 2:43),male,Levi,,1,2055
+Tabbaoth_1,Tabbaoth,,temple servant (EZR 2:43),male,Levi,,1,2056
+Keros_1,Keros,,temple servant (EZR 2:43),male,Levi,,1,2057
+Siaha_1,Siaha,,temple servant (EZR 2:44),male,Levi,,1,2058
+Padon_1,Padon,,temple servant (EZR 2:44),male,Levi,,1,2059
+Lebanah_1,Lebanah,,temple servant (EZR 2:45),male,Levi,,1,2060
+Hagabah_1,Hagabah,,temple servant (EZR 2:45),male,Levi,,1,2061
+Akkub_3,Akkub,,"temple servant (EZR 2:45), explained the law to the people (NEH 8:7)",male,Levi,,3,2062
+Hagab_1,Hagab,,temple servant (EZR 2:46),male,Levi,,1,2063
+Shalmai_1,Shalmai,,temple servant (EZR 2:46),male,Levi,,1,2064
+Hanan_4,Hanan,,"temple servant (EZR 2:46), explained the law to the people (NEH 8:7), named on the sealed document of NEH 9:5-38 (NEH 10:10)",male,Levi,,4,2065
+Giddel_1,Giddel,,temple servant (EZR 2:47),male,Levi,,1,2066
+Gahar_1,Gahar,,temple servant (EZR 2:47),male,Levi,,1,2067
+Reaiah_3,Reaiah,,temple servant (EZR 2:47),male,Levi,,3,2068
+Rezin_2,Rezin,,temple servant (EZR 2:48),male,Levi,,2,2069
+Nekoda_1,Nekoda,,temple servant (EZR 2:48),male,Levi,,1,2070
+Gazzam_1,Gazzam,,temple servant (EZR 2:48),male,Levi,,1,2071
+Uzza_2,Uzza,,temple servant (EZR 2:49),male,Levi,,2,2072
+Paseah_2,Paseah,,temple servant (EZR 2:49),male,Levi,,2,2073
+Besai_1,Besai,,temple servant (EZR 2:49),male,Levi,,1,2074
+Asnah_1,Asnah,,temple servant (EZR 2:50),male,Levi,,1,2075
+Meunim_1,Meunim,,temple servant (EZR 2:50),male,Levi,,1,2076
+Nephisim_1,Nephisim,,temple servant (EZR 2:50),male,Levi,,1,2077
+Bakbuk_1,Bakbuk,,temple servant (EZR 2:51),male,Levi,,1,2078
+Hakupha_1,Hakupha,,temple servant (EZR 2:51),male,Levi,,1,2079
+Harhur_1,Harhur,,temple servant (EZR 2:51),male,Levi,,1,2080
+Bazluth_1,Bazluth,,temple servant (EZR 2:52),male,Levi,,1,2081
+Mehida_1,Mehida,,temple servant (EZR 2:52),male,Levi,,1,2082
+Harsha_1,Harsha,,temple servant (EZR 2:52),male,Levi,,1,2083
+Barkos_1,Barkos,,temple servant (EZR 2:53),male,Levi,,1,2084
+Sisera_2,Sisera,,temple servant (EZR 2:53),male,Levi,,2,2085
+Temah_1,Temah,,temple servant (EZR 2:53),male,Levi,,1,2086
+Neziah_1,Neziah,,temple servant (EZR 2:54),male,Levi,,1,2087
+Hatipha_1,Hatipha,,temple servant (EZR 2:54),male,Levi,,1,2088
+Sotai_1,Sotai,,Solomon's servant (EZR 2:55),male,,,1,2089
+Hassophereth_1,Hassophereth,,Solomon's servant (EZR 2:55),male,,,1,2090
+Peruda_1,Peruda,,Solomon's servant (EZR 2:55),male,,,1,2091
+Jaalah_1,Jaalah,,Solomon's servant (EZR 2:55),male,,,1,2092
+Darkon_1,Darkon,,Solomon's servant (EZR 2:55),male,,,1,2093
+Giddel_2,Giddel,,Solomon's servant (EZR 2:55),male,,,2,2094
+Shephatiah_6,Shephatiah,,Solomon's servant (EZR 2:55),male,,,6,2095
+Hattil_1,Hattil,,Solomon's servant (EZR 2:55),male,,,1,2096
+Pochereth-hazzebaim_1,Pochereth-hazzebaim,,Solomon's servant (EZR 2:55),male,,,1,2097
+Ami_1,Ami,,Solomon's servant (EZR 2:55),male,,,1,2098
+Delaiah_3,Delaiah,,unable to give evidence if they were from Israel (EZR 2:60),male,,,3,2099
+Tobiah_1,Tobiah,,unable to give evidence if they were from Israel (EZR 2:60),male,,,1,2100
+Habaiah_1,Habaiah,,unable to give evidence if they were from the priesthood (EZR 2:61),male,,,1,2101
+Barzillai_3,Barzillai,,man who took a wife from the the daughters of Barzillai and was called by their name (EZR 2:61),male,,,3,2102
+Jozadak_1,Jozadak,,father of Jeshua_3 who built the altar (EZR 3:2),male,Levi,priest,1,2103
+Shealtiel_2,Shealtiel,,father of Zerubbabel (EZR 3:2),male,Levi,,2,2104
+Darius_1,Darius,,King of Persia (EZR 4:5),male,,,1,2105
+Ahasuerus_1,Ahasuerus,,King of Persia (EZR 4:6),male,,This is the same person in Esther 1:1 and Daniel 9:1,1,2106
+Artaxerxes_1,Artaxerxes,,King of Persia (EZR 4:7),male,,,1,2107
+Bishlam_1,Bishlam,,wrote against Judah (EZR 4:7),male,,,1,2108
+Mithredath_2,Mithredath,,wrote against Judah (EZR 4:7),male,,,2,2109
+Tabeel_1,Tabeel,,wrote against Judah (EZR 4:7),male,,,1,2110
+Rehum_2,Rehum,,the commander who wrote against Judah (EZR 4:8),male,,,2,2111
+Shimshai_1,Shimshai,,the scribe who wrote against Judah (EZR 4:8),male,,,1,2112
+Osnappar_1,Osnappar,,deported and settled people in the city of Samaria (EZR 4:10),male,,,1,2113
+Haggai_1,Haggai,,the prophet (EZR 5:1) of the book of Haggai,male,,,1,2114
+Iddo_5,Iddo,,"[grand] father of Zechariah the prophet (EZR 5:1, ZEC 1:1)",male,Levi,"listed among the priests of NEH 12:1-4, and was father of Zechariah (NEH 12:16)",5,2115
+Tattenai_1,Tattenai,,governor who opposed Israel rebuilding the Temple (EZR 5:3),male,,,1,2116
+Shethar-bozenai_1,Shethar-bozenai,,opposed Israel rebuilding the Temple (EZR 5:3),male,,,1,2117
+Ezra_1,Ezra,,"son of Seraiah (EZR 7:1), scribe skilled in the Law (EZR 7:6)",male,Levi,"as ""priest"" would be a descendant of Aaron",1,2118
+Gershom_3,Gershom,,descendant of Phinehas who went up with Ezra (EZR 8:2),male,Levi,,3,2119
+Daniel_1,Daniel,,"descendant of Ithamar who went up with Ezra (EZR 8:2), named on the sealed document of NEH 9:5-38 (NEH 10:6)",male,Levi,Aaronic priest (NEH 10:8),1,2120
+Eliehoenai_2,Eliehoenai,,descendant of Pahath-moab and son of Zerahiah who went up with Ezra (EZR 8:4),male,,,2,2121
+Zerahiah_2,Zerahiah,,father of Eliehoenai who went up with Ezra (EZR 8:4),male,,,2,2122
+Shecaniah_4,Shecaniah,,"descendant of Zattu, son of Jahaziel who went up with Ezra (EZR 8:5)",male,,,4,2123
+Jahaziel_4,Jahaziel,,father of Shecaniah who went up with Ezra (EZR 8:5),male,,,4,2124
+Ebed_2,Ebed,,"descendant of Adin, son of Jonathan who went up with Ezra (EZR 8:6)",male,,,2,2125
+Jonathan_8,Jonathan,,father of Ebed who went up with Ezra (EZR 8:6),male,,,8,2126
+Jeshaiah_3,Jeshaiah,,"descendant of Elam, son of Athaliah who went up with Ezra (EZR 8:7)",male,,,3,2127
+Athaliah_3,Athaliah,,father of Jeshaiah who went up with Ezra (EZR 8:7),male,,,3,2128
+Zebadiah_8,Zebadiah,,"descendant of Shephatiah, son of Michael who went up with Ezra (EZR 8:8)",male,,,8,2129
+Michael_8,Michael,,father of Zebadiah who went up with Ezra (EZR 8:8),male,,,8,2130
+Obadiah_9,Obadiah,,"descendant of Joab, son of Jehiel who went up with Ezra (EZR 8:9)",male,,,9,2131
+Jehiel_5,Jehiel,,father of Obadiah who went up with Ezra (EZR 8:9),male,,,5,2132
+Shelomith_5,Shelomith,,"descendant of Bani, son of Josiphia who went up with Ezra (EZR 8:10)",male,,,5,2133
+Josiphiah_1,Josiphiah,,father of Shelomith who went up with Ezra (EZR 8:10),male,,,1,2134
+Zechariah_16,Zechariah,,son of Bebai who went up with Ezra (EZR 8:11),male,,,16,2135
+Johanan_10,Johanan,,"descendant of Azgad, son of Hakkatan who went up with Ezra (EZR 8:12)",male,,,10,2136
+Hakkatan_1,Hakkatan,,father of Johanan who went up with Ezra (EZR 8:12),male,,,1,2137
+Eliphelet_5,Eliphelet,,"descendant of Adonikam, went up with Ezra (EZR 8:13)",male,,,5,2138
+Jeuel_2,Jeuel,,"descendant of Adonikam, went up with Ezra (EZR 8:13)",male,,,2,2139
+Shemaiah_13,Shemaiah,,"descendant of Adonikam, went up with Ezra (EZR 8:13)",male,,,13,2140
+Uthai_2,Uthai,,"descendant of Bigvai, went up with Ezra (EZR 8:14)",male,,,2,2141
+Zabbud_1,Zabbud,,"descendant of Bigvai, went up with Ezra (EZR 8:14)",male,,,1,2142
+Eliezer_7,Eliezer,,"Priest Ezra sent to Iddo (EZR 8:16), married a foreign wife (EZR 10:18, EZ 10:23)",male,Levi,Aaronic priest (EZR 10:18),7,2143
+Ariel_2,Ariel,,Levite Ezra sent to Iddo (EZR 8:16),male,Levi,,2,2144
+Shemaiah_14,Shemaiah,,Levite Ezra sent to Iddo (EZR 8:16),male,Levi,,14,2145
+Elnathan_2,Elnathan,,Levite Ezra sent to Iddo (EZR 8:16),male,Levi,,2,2146
+Jarib_1,Jarib,,"Priest Ezra sent to Iddo (EZR 8:16), married a foreign wife (EZR 10:18)",male,Levi,Aaronic priest (EZR 10:18),1,2147
+Elnathan_3,Elnathan,,second Levite Ezra sent to Iddo named Elnathan (EZR 8:16),male,Levi,,3,2148
+Nathan_7,Nathan,,Levite Ezra sent to Iddo (EZR 8:16),male,Levi,,7,2149
+Zechariah_17,Zechariah,,Levite Ezra sent to Iddo (EZR 8:16),male,Levi,,17,2150
+Meshullam_8,Meshullam,,Levite Ezra sent to Iddo (EZR 8:16),male,Levi,,8,2151
+Joiarib_1,Joiarib,,Levite teacher Ezra sent to Iddo (EZR 8:16),male,Levi,,1,2152
+Elnathan_4,Elnathan,,Levite teacher Ezra sent to Iddo (EZR 8:16),male,Levi,,4,2153
+Iddo_6,Iddo,,the leading man at the place Casiphia (EZR 8:17),male,Levi,,6,2154
+Sherebiah_1,Sherebiah,,a man of insight sent to Ezra (EZR 8:18),male,Levi,descendant of Mahli,1,2155
+Hashabiah_4,Hashabiah,,"Levite sent to Ezra (EZR 8:19), named on the sealed document of NEH 9:5-38 (NEH 10:11)",male,Levi,descendant of Merari,4,2156
+Jeshaiah_4,Jeshaiah,,Levite sent to Ezra (EZR 8:19),male,Levi,descendant of Merari,4,2157
+Meremoth_1,Meremoth,,"son of Uriah the priest (EZR 8:33), named on the sealed document of NEH 9:5-38 (NEH 10:5)",male,Levi,"made repairs to the wall of Jerusalem (NEH 3:4, NEH 3:21), Aaronic priest (NEH 10:8)",1,2158
+Uriah_2,Uriah,,"the priest, father of Meremoth (EZR 8:33)",male,Levi,"father of Meremoth (NEH 3:4, NEH 3:21)",2,2159
+Eleazar_6,Eleazar,,"the priest, descendant of Phinehas (EZR 8:33)",male,Levi,,6,2160
+Jozabad_5,Jozabad,,"Levite present at the counting of the silver, gold, and utensils (EZR 8:33)",male,Levi,from the leaders of the Levites (NEH 11:16),5,2161
+Noadiah_1,Noadiah,,"Levite present at the counting of the silver, gold, and utensils (EZR 8:33)",male,Levi,,1,2162
+Binnui_1,Binnui,,father of Noadiah (EZR 8:33),male,Levi,,1,2163
+Shecaniah_5,Shecaniah,,son of Jehiel (EZR 10:2),male,,,5,2164
+Jehiel_6,Jehiel,,son of Elam and father of Shecaniah (EZR 10:2),male,,,6,2165
+Jehohanan_1,Jehohanan,,"in his house, Ezra mourned over the unfaithfulness of Israel (EZR 10:6)",male,Levi,Levite based on NEH 12:23,1,2166
+Eliashib_3,Eliashib,,father of Jehohanan in whose house Ezra mourned (EZR 10:6),male,Levi,Levite based on NEH 12:23,3,2167
+Jonathan_9,Jonathan,,opposed Israel's decision to set apart foreign wives (EZR 10:15),male,,,9,2168
+Asahel_4,Asahel,,opposed Israel's decision to set apart foreign wives (EZR 10:15),male,,,4,2169
+Jahzeiah_1,Jahzeiah,,opposed Israel's decision to set apart foreign wives (EZR 10:15),male,,,1,2170
+Tikvah_2,Tikvah,,opposed Israel's decision to set apart foreign wives (EZR 10:15),male,,,2,2171
+Meshullam_9,Meshullam,,opposed Israel's decision to set apart foreign wives (EZR 10:15),male,,,9,2172
+Shabbethai_1,Shabbethai,,the Levite who opposed Israel's decision to set apart foreign wives (EZR 10:15),male,,,1,2173
+Maaseiah_6,Maaseiah,,"priest who had married a foreign wife (EZR 10:18), son of Harim (EZR 10:21)",male,Levi,,6,2174
+Gedaliah_3,Gedaliah,,priest who had married a foreign wife (EZR 10:18),male,Levi,,3,2175
+Hanani_3,Hanani,,son of Immer who had married a foreign wife (EZR 10:20),male,Levi,,3,2176
+Zebadiah_9,Zebadiah,,son of Immer who had married a foreign wife (EZR 10:20),male,Levi,,9,2177
+Elijah_3,Elijah,,son of Harim who had married a foreign wife (EZR 10:21),male,Levi,,3,2178
+Shemaiah_15,Shemaiah,,son of Harim who had married a foreign wife (EZR 10:21),male,Levi,,15,2179
+Jehiel_7,Jehiel,,son of Harim who had married a foreign wife (EZR 10:21),male,Levi,,7,2180
+Uzziah_2,Uzziah,,son of Harim who had married a foreign wife (EZR 10:21),male,Levi,,2,2181
+Elioenai_4,Elioenai,,son of Pashhur who had married a foreign wife (EZR 10:22),male,Levi,,4,2182
+Maaseiah_7,Maaseiah,,son of Pashhur who had married a foreign wife (EZR 10:22),male,Levi,,7,2183
+Ishmael_6,Ishmael,,son of Pashhur who had married a foreign wife (EZR 10:22),male,Levi,,6,2184
+Netanel_1,Netanel,,son of Pashhur who had married a foreign wife (EZR 10:22),male,Levi,,1,2185
+Jozabad_6,Jozabad,,son of Pashhur who had married a foreign wife (EZR 10:22),male,Levi,,6,2186
+Elasah_1,Elasah,,son of Pashhur who had married a foreign wife (EZR 10:22),male,Levi,,1,2187
+Jozabad_7,Jozabad,,Levite who had married a foreign wife (EZR 10:23),male,Levi,,7,2188
+Shimei_14,Shimei,,Levite who had married a foreign wife (EZR 10:23),male,Levi,,14,2189
+Kelaiah_1,Kelaiah,,Levite who had married a foreign wife (EZR 10:23),male,Levi,,1,2190
+Pethahiah_2,Pethahiah,,Levite who had married a foreign wife (EZR 10:23),male,Levi,,2,2191
+Judah_2,Judah,,Levite who had married a foreign wife (EZR 10:23),male,Levi,,2,2192
+Eliashib_4,Eliashib,,Levite singer who had married a foreign wife (EZR 10:24),male,Levi,,4,2193
+Shallum_9,Shallum,,Levite singer who had married a foreign wife (EZR 10:24),male,Levi,,9,2194
+Telem_1,Telem,,Levite gatekeeper who had married a foreign wife (EZR 10:24),male,Levi,,1,2195
+Uri_3,Uri,,Levite gatekeeper who had married a foreign wife (EZR 10:24),male,Levi,,3,2196
+Ramiah_1,Ramiah,,descendant of Parosh who had married a foreign wife (EZR 10:25),male,,,1,2197
+Izziah_1,Izziah,,descendant of Parosh who had married a foreign wife (EZR 10:25),male,,,1,2198
+Malchijah_4,Malchijah,,descendant of Parosh who had married a foreign wife (EZR 10:25),male,,,4,2199
+Mijamin_2,Mijamin,,descendant of Parosh who had married a foreign wife (EZR 10:25),male,,,2,2200
+Eleazar_7,Eleazar,,descendant of Parosh who had married a foreign wife (EZR 10:25),male,,,7,2201
+Malchijah_5,Malchijah,,descendant of Parosh who had married a foreign wife (EZR 10:25),male,,,5,2202
+Benaiah_7,Benaiah,,descendant of Parosh who had married a foreign wife (EZR 10:25),male,,,7,2203
+Mattaniah_5,Mattaniah,,descendant of Elam who had married a foreign wife (EZR 10:26),male,,,5,2204
+Zechariah_18,Zechariah,,descendant of Elam who had married a foreign wife (EZR 10:26),male,,,18,2205
+Jehiel_8,Jehiel,,descendant of Elam who had married a foreign wife (EZR 10:26),male,,,8,2206
+Abdi_2,Abdi,,descendant of Elam who had married a foreign wife (EZR 10:26),male,,,2,2207
+Jeremoth_5,Jeremoth,,descendant of Elam who had married a foreign wife (EZR 10:26),male,,,5,2208
+Elijah_4,Elijah,,descendant of Elam who had married a foreign wife (EZR 10:26),male,,,4,2209
+Elioenai_5,Elioenai,,descendant of Zattu who had married a foreign wife (EZR 10:27),male,,,5,2210
+Eliashib_5,Eliashib,,descendant of Zattu who had married a foreign wife (EZR 10:27),male,,,5,2211
+Mattaniah_6,Mattaniah,,descendant of Zattu who had married a foreign wife (EZR 10:27),male,,,6,2212
+Jeremoth_6,Jeremoth,,descendant of Zattu who had married a foreign wife (EZR 10:27),male,,,6,2213
+Zabad_4,Zabad,,descendant of Zattu who had married a foreign wife (EZR 10:27),male,,,4,2214
+Aziza_1,Aziza,,descendant of Zattu who had married a foreign wife (EZR 10:27),male,,,1,2215
+Jehohanan_2,Jehohanan,,descendant of Bebai who had married a foreign wife (EZR 10:28),male,,,2,2216
+Hananiah_5,Hananiah,,descendant of Bebai who had married a foreign wife (EZR 10:28),male,,,5,2217
+Zabbai_1,Zabbai,,descendant of Bebai who had married a foreign wife (EZR 10:28),male,,,1,2218
+Athlai_1,Athlai,,descendant of Bebai who had married a foreign wife (EZR 10:28),male,,,1,2219
+Meshullam_10,Meshullam,,descendant of Bani who had married a foreign wife (EZR 10:29),male,,,10,2220
+Malluch_2,Malluch,,descendant of Bani who had married a foreign wife (EZR 10:29),male,,,2,2221
+Adaiah_6,Adaiah,,descendant of Bani who had married a foreign wife (EZR 10:29),male,,,6,2222
+Jashub_1,Jashub,,descendant of Bani who had married a foreign wife (EZR 10:29),male,,,1,2223
+Sheal_1,Sheal,,descendant of Bani who had married a foreign wife (EZR 10:29),male,,,1,2224
+Jeremoth_7,Jeremoth,,descendant of Bani who had married a foreign wife (EZR 10:29),male,,,7,2225
+Adna_1,Adna,,descendant of Pahath-moab who had married a foreign wife (EZR 10:30),male,,,1,2226
+Chelal_1,Chelal,,descendant of Pahath-moab who had married a foreign wife (EZR 10:30),male,,,1,2227
+Benaiah_8,Benaiah,,descendant of Pahath-moab who had married a foreign wife (EZR 10:30),male,,,8,2228
+Maaseiah_8,Maaseiah,,descendant of Pahath-moab who had married a foreign wife (EZR 10:30),male,,,8,2229
+Mattaniah_7,Mattaniah,,descendant of Pahath-moab who had married a foreign wife (EZR 10:30),male,,,7,2230
+Bezalel_2,Bezalel,,descendant of Pahath-moab who had married a foreign wife (EZR 10:30),male,,,2,2231
+Binnui_2,Binnui,,descendant of Pahath-moab who had married a foreign wife (EZR 10:30),male,,,2,2232
+Manasseh_4,Manasseh,,descendant of Pahath-moab who had married a foreign wife (EZR 10:30),male,,,4,2233
+Eliezer_8,Eliezer,,descendant of Harim who had married a foreign wife (EZR 10:31),male,,,8,2234
+Isshijah_1,Isshijah,,descendant of Harim who had married a foreign wife (EZR 10:31),male,,,1,2235
+Malchijah_6,Malchijah,,descendant of Harim who had married a foreign wife (EZR 10:31),male,,,6,2236
+Shemaiah_16,Shemaiah,,descendant of Harim who had married a foreign wife (EZR 10:31),male,,,16,2237
+Shimeon_1,Shimeon,,descendant of Harim who had married a foreign wife (EZR 10:31),male,,,1,2238
+Benjamin_3,Benjamin,,descendant of Harim who had married a foreign wife (EZR 10:32),male,,,3,2239
+Malluch_3,Malluch,,descendant of Harim who had married a foreign wife (EZR 10:32),male,,,3,2240
+Shemariah_3,Shemariah,,descendant of Harim who had married a foreign wife (EZR 10:32),male,,,3,2241
+Mattenai_1,Mattenai,,descendant of Hashum who had married a foreign wife (EZR 10:33),male,,,1,2242
+Mattattah_1,Mattattah,,descendant of Hashum who had married a foreign wife (EZR 10:33),male,,,1,2243
+Zabad_5,Zabad,,descendant of Hashum who had married a foreign wife (EZR 10:33),male,,,5,2244
+Eliphelet_6,Eliphelet,,descendant of Hashum who had married a foreign wife (EZR 10:33),male,,,6,2245
+Jeremai_1,Jeremai,,descendant of Hashum who had married a foreign wife (EZR 10:33),male,,,1,2246
+Manasseh_5,Manasseh,,descendant of Hashum who had married a foreign wife (EZR 10:33),male,,,5,2247
+Shimei_15,Shimei,,descendant of Hashum who had married a foreign wife (EZR 10:33),male,,,15,2248
+Maadai_1,Maadai,,descendant of Bani who had married a foreign wife (EZR 10:34),male,,,1,2249
+Amram_2,Amram,,descendant of Bani who had married a foreign wife (EZR 10:34),male,,,2,2250
+Uel_1,Uel,,descendant of Bani who had married a foreign wife (EZR 10:34),male,,,1,2251
+Benaiah_9,Benaiah,,descendant of Bani who had married a foreign wife (EZR 10:35),male,,,9,2252
+Bedeiah_1,Bedeiah,,descendant of Bani who had married a foreign wife (EZR 10:35),male,,,1,2253
+Cheluhi_1,Cheluhi,,descendant of Bani who had married a foreign wife (EZR 10:35),male,,,1,2254
+Vaniah_1,Vaniah,,descendant of Bani who had married a foreign wife (EZR 10:36),male,,,1,2255
+Meremoth_2,Meremoth,,descendant of Bani who had married a foreign wife (EZR 10:36),male,,,2,2256
+Eliashib_6,Eliashib,,descendant of Bani who had married a foreign wife (EZR 10:36),male,,,6,2257
+Mattaniah_8,Mattaniah,,descendant of Bani who had married a foreign wife (EZR 10:37),male,,,8,2258
+Mattenai_2,Mattenai,,descendant of Bani who had married a foreign wife (EZR 10:37),male,,,2,2259
+Jaasu_1,Jaasu,,descendant of Bani who had married a foreign wife (EZR 10:37),male,,,1,2260
+Bani_5,Bani,,descendant of Bani who had married a foreign wife (EZR 10:38),male,,,5,2261
+Binnui_3,Binnui,,descendant of Bani who had married a foreign wife (EZR 10:38),male,,,3,2262
+Shimei_16,Shimei,,descendant of Bani who had married a foreign wife (EZR 10:38),male,,,16,2263
+Shelemiah_1,Shelemiah,,descendant of Bani who had married a foreign wife (EZR 10:39),male,,,1,2264
+Nathan_8,Nathan,,descendant of Bani who had married a foreign wife (EZR 10:39),male,,,8,2265
+Adaiah_7,Adaiah,,descendant of Bani who had married a foreign wife (EZR 10:39),male,,,7,2266
+Machnadebai_1,Machnadebai,,descendant of Bani who had married a foreign wife (EZR 10:40),male,,,1,2267
+Shashai_1,Shashai,,descendant of Bani who had married a foreign wife (EZR 10:40),male,,,1,2268
+Sharai_1,Sharai,,descendant of Bani who had married a foreign wife (EZR 10:40),male,,,1,2269
+Azarel_3,Azarel,,descendant of Bani who had married a foreign wife (EZR 10:41),male,,,3,2270
+Shelemiah_2,Shelemiah,,descendant of Bani who had married a foreign wife (EZR 10:41),male,,,2,2271
+Shemariah_4,Shemariah,,descendant of Bani who had married a foreign wife (EZR 10:41),male,,,4,2272
+Shallum_10,Shallum,,descendant of Bani who had married a foreign wife (EZR 10:42),male,,,10,2273
+Amariah_5,Amariah,,descendant of Bani who had married a foreign wife (EZR 10:42),male,,,5,2274
+Joseph_4,Joseph,,descendant of Bani who had married a foreign wife (EZR 10:42),male,,,4,2275
+Jeiel_8,Jeiel,,descendant of Nebo who had married a foreign wife (EZR 10:43),male,,,8,2276
+Mattithiah_4,Mattithiah,,descendant of Nebo who had married a foreign wife (EZR 10:43),male,,,4,2277
+Zabad_6,Zabad,,descendant of Nebo who had married a foreign wife (EZR 10:43),male,,,6,2278
+Zebina_1,Zebina,,descendant of Nebo who had married a foreign wife (EZR 10:43),male,,,1,2279
+Jaddai_1,Jaddai,,descendant of Nebo who had married a foreign wife (EZR 10:43),male,,,1,2280
+Joel_9,Joel,,descendant of Nebo who had married a foreign wife (EZR 10:43),male,,,9,2281
+Benaiah_10,Benaiah,,descendant of Nebo who had married a foreign wife (EZR 10:43),male,,,10,2282
+Hacaliah_1,Hacaliah,,father of Nehemiah (NEH 1:1),male,,,1,2283
+Hanani_4,Hanani,,brother of Nehemiah (NEH 1:2),male,,,4,2284
+Asaph_4,Asaph,,keeper of King Artaxerxes' forest (NEH 2:8),male,,,4,2285
+Sanballat_1,Sanballat,,the Horonite who opposed Nehemiah (NEH 2:10),male,,,1,2286
+Tobiah_2,Tobiah,,the Ammonite official who opposed Nehemiah (NEH 2:10),male,Ammonite,,2,2287
+Geshem_1,Geshem,,the Arab who opposed Nehemiah (NEH 2:19),male,,,1,2288
+Eliashib_7,Eliashib,,the high priest with Nehemiah during the reconstruction of Jerusalem (NEH 3:1),male,Levi,,7,2289
+Zaccur_5,Zaccur,,rebuilt part of the Jerusalem wall (NEH 3:2),male,,,5,2290
+Imri_2,Imri,,father of Zaccur (NEH 3:2),male,,,2,2291
+Hassenaah_1,Hassenaah,,his sons built the fish gate (NEH 3:3),male,,,1,2292
+Hakkoz_2,Hakkoz,,"father of Uriah (NEH 3:4, NEH 3:21)",male,,,2,2293
+Meshullam_11,Meshullam,,"made repairs to the wall of Jerusalem (NEH 3:4, NEH 3:30), named on the sealed document of NEH 9:5-38 (NEH 10:20)",male,,,11,2294
+Berechiah_5,Berechiah,,father of Meshullam (NEH 3:4),male,,,5,2295
+Meshezabel_1,Meshezabel,,father of Berechiah (NEH 3:4),male,,,1,2296
+Zadok_4,Zadok,,"made repairs to the wall of Jerusalem (NEH 3:4), named on the sealed document of NEH 9:5-38 (NEH 10:21)",male,,,4,2297
+Baana_3,Baana,,father of Zadok (NEH 3:4),male,,,3,2298
+Joiada_1,Joiada,,repaired the Old Gate (NEH 3:6),male,,,1,2299
+Paseah_3,Paseah,,father of Joiada (NEH 3:6),male,,,3,2300
+Meshullam_12,Meshullam,,repaired the Old Gate (NEH 3:6),male,,,12,2301
+Besodeiah_1,Besodeiah,,father of Meshullam (NEH 3:6),male,,,1,2302
+Melatiah_1,Melatiah,,"the Gibeonite, made repairs for the official seat of the governor (NEH 3:7)",male,,,1,2303
+Jadon_1,Jadon,,"the Meronothite, made repairs for the official seat of the governor (NEH 3:7)",male,,,1,2304
+Uzziel_6,Uzziel,,made repairs to the wall of Jerusalem (NEH 3:8),male,,,6,2305
+Harhaiah_1,Harhaiah,,"of the goldsmiths, father of Uzziel (NEH 3:8)",male,,,1,2306
+Hananiah_6,Hananiah,,"one of the perfumers, made repairs to the wall of Jerusalem (NEH 3:8)",male,,,6,2307
+Rephaiah_4,Rephaiah,,made repairs to the wall of Jerusalem (NEH 3:9),male,,,4,2308
+Hur_3,Hur,,official of half the district of Jerusalem and father of Rephaiah (NEH 3:9),male,,,3,2309
+Jedaiah_4,Jedaiah,,made repairs to the wall of Jerusalem opposite his house (NEH 3:10),male,,,4,2310
+Harumaph_1,Harumaph,,father of Jedaiah (NEH 3:10),male,,,1,2311
+Hattush_2,Hattush,,made repairs to the wall of Jerusalem (NEH 3:10),male,,,2,2312
+Hashabneiah_1,Hashabneiah,,father of Hattush (NEH 3:10),male,,,1,2313
+Malchijah_7,Malchijah,,repaired a section of wall and the Tower of Furnaces (NEH 3:11),male,,,7,2314
+Harim_4,Harim,,father of Malchijah (NEH 3:11),male,,,4,2315
+Hasshub_2,Hasshub,,"repaired a section of wall and the Tower of Furnaces, son of Pahath-moab (NEH 3:11)",male,,,2,2316
+Shallum_11,Shallum,,he and his daughters made repairs to the wall of Jerusalem (NEH 3:12),male,,,11,2317
+Hallohesh_1,Hallohesh,,official of half the district of Jerusalem and father of Shallum (NEH 3:12),male,,,1,2318
+Hanun_2,Hanun,,repaired the Valley Gate and the wall to the Refuse Gate (NEH 3:13),male,,,2,2319
+Malchijah_8,Malchijah,,repaired the Refuse Gate (NEH 3:14),male,,,8,2320
+Rechab_3,Rechab,,official of the district of Beth-haccherem and father of Malchijah (NEH 3:14),male,,,3,2321
+Shallum_12,Shallum,,repaired the Fountain Gate (NEH 3:15),male,,,12,2322
+Col-hozeh_1,Col-hozeh,,official of the distrct of Mizpah and father of Shallum (NEH 3:15),male,Judah,tribe of Judah (NEH 11:4-5),1,2323
+Nehemiah_2,Nehemiah,,made repairs to the wall of Jerusalem (NEH 3:16),male,,,2,2324
+Azbuk_1,Azbuk,,official of the district of Beth-zur and father of Nehemiah (NEH 3:16),male,,,1,2325
+Rehum_3,Rehum,,supervised the Levites' repairs to the wall (NEH 3:17),male,,,3,2326
+Bani_6,Bani,,"father of Rehum (NEH 3:17), named on the sealed document of NEH 9:5-38 (NEH 10:14)",male,,,6,2327
+Hashabiah_5,Hashabiah,,official of half the district of Keilah (NEH 3:17),male,,,5,2328
+Bavvai_1,Bavvai,,carried out repairs (NEH 3:18),male,,,1,2329
+Henadad_1,Henadad,,official of the other half of the district of Keilah and father of Bavvai (NEH 3:18),male,,,1,2330
+Ezer_5,Ezer,,repaired the wall in front of the ascent of the armory (NEH 3:19),male,,,5,2331
+Jeshua_6,Jeshua,,official of Mizpah and father of Ezer_5 (NEH 3:19),male,,,6,2332
+Baruch_1,Baruch,,zealously repaired another section of wall (NEH 3:20),male,,,1,2333
+Zabbai_2,Zabbai,,father of Baruch (NEH 3:20),male,,,2,2334
+Benjamin_4,Benjamin,,carried out repairs in front of their house (NEH 3:23),male,,,4,2335
+Hasshub_3,Hasshub,,carried out repairs in front of their house (NEH 3:23),male,,,3,2336
+Azariah_16,Azariah,,carried out repairs beside his house (NEH 3:23),male,,,16,2337
+Maaseiah_9,Maaseiah,,father of Azariah_16 (NEH 3:23),male,,,9,2338
+Ananiah_1,Ananiah,,father of Maaseiah_9 (NEH 3:23),male,,,1,2339
+Binnui_4,Binnui,,repaired a section of the wall of Jerusalem (NEH 3:24),male,Levi,a Levite named on the sealed document of NEH 9:5-38 (NEH 10:9),4,2340
+Henadad_2,Henadad,,"father of Binnui_4 (NEH 3:24), a Levite named on the sealed document of NEH 9:5-38 (NEH 10:9)",male,Levi,,2,2341
+Palal_1,Palal,,repaired the wall of Jerusalem in front of the Angle (NEH 3:25),male,,,1,2342
+Uzai_1,Uzai,,father of Palal (NEH 3:25),male,,,1,2343
+Pedaiah_4,Pedaiah,,repaired the wall of Jerusalem (NEH 3:25),male,,,4,2344
+Parosh_2,Parosh,,"father of Pedaiah_4 (NEH 3:25), named on the sealed document of NEH 9:5-38 (NEH 10:14)",male,,,2,2345
+Zadok_5,Zadok,,repaired Jerusalem's wall in front of his house (NEH 3:29),male,,,5,2346
+Immer_3,Immer,,father of Zadok (NEH 3:29),male,,,3,2347
+Shemaiah_17,Shemaiah,,repaired the wall of Jerusalem (NEH 3:29),male,,,17,2348
+Shecaniah_6,Shecaniah,,father of Shemaiah_17 (NEH 3:29),male,,,6,2349
+Hananiah_7,Hananiah,,"repaired the wall of Jerusalem (NEH 3:30), named on the sealed document of NEH 9:5-38 (NEH 10:23)",male,,,7,2350
+Shelemiah_3,Shelemiah,,father of Hananiah_7 (NEH 3:30),male,,,3,2351
+Hanun_3,Hanun,,"the sixth son of Zalaph, repaired a section of Jerusalem's wall (NEH 3:30)",male,,,3,2352
+Zalaph_1,Zalaph,,father of Hanun_3 (NEH 3:30),male,,,1,2353
+Malchijah_9,Malchijah,,one of the goldsmiths who repaired the wall of Jerusalem (NEH 3:31),male,,,9,2354
+Shemaiah_18,Shemaiah,,suggested Nehemiah hide in the Temple (NEH 6:10),male,,,18,2355
+Delaiah_4,Delaiah,,father of Shemaiah_18 (NEH 6:10),male,,,4,2356
+Mehetabel_2,Mehetabel,,father of Delaiah_4 (NEH 6:10),male,,,2,2357
+Noadiah_2,Noadiah,,the prophetess who tried to frighten Nehemiah (NEH 6:14),female,,,2,2358
+Shecaniah_7,Shecaniah,,father-in-law of Tobiah_2 (NEH 6:18),male,,,7,2359
+Arah_3,Arah,,father of Shecaniah_7 (NEH 6:18),male,,,3,2360
+Jehohanan_3,Jehohanan,,son of Tobiah_2 who married daughter of Meshullam_11 (NEH 6:18),male,,,3,2361
+Hananiah_8,Hananiah,,the commander of the fortress in Jerusalem (NEH 7:2),male,,,8,2362
+Nahamani_1,Nahamani,,returned to Judah after the Babylonian captivity (NEH 7:7),male,,,1,2363
+Mattithiah_5,Mattithiah,,stood on Ezra's right hand as he read from the Law (NEH 8:4),male,Levi,*assumed Levite given this event,5,2364
+Shema_4,Shema,,stood on Ezra's right hand as he read from the Law (NEH 8:4),male,Levi,*assumed Levite given this event,4,2365
+Anaiah_1,Anaiah,,"stood on Ezra's right hand as he read from the Law (NEH 8:4), named on the sealed document of NEH 9:5-38 (NEH 10:22)",male,Levi,,1,2366
+Uriah_3,Uriah,,stood on Ezra's right hand as he read from the Law (NEH 8:4),male,Levi,*assumed Levite given this event,3,2367
+Maaseiah_10,Maaseiah,,stood on Ezra's right hand as he read from the Law (NEH 8:4) and explained the law to the people (NEH 8:7),male,,,10,2368
+Pedaiah_5,Pedaiah,,stood on Ezra's left hand as he read from the Law (NEH 8:4),male,Levi,*assumed Levite given this event,5,2369
+Mishael_2,Mishael,,stood on Ezra's left hand as he read from the Law (NEH 8:4),male,Levi,*assumed Levite given this event,2,2370
+Hashum_2,Hashum,,"stood on Ezra's left hand as he read from the Law (NEH 8:4), named on the sealed document of NEH 9:5-38 (NEH 10:18)",male,,,2,2371
+Hashbaddanah_1,Hashbaddanah,,stood on Ezra's left hand as he read from the Law (NEH 8:4),male,Levi,*assumed Levite given this event,1,2372
+Meshullam_13,Meshullam,,"stood on Ezra's left hand as he read from the Law (NEH 8:4), named on the sealed document of NEH 9:5-38 (NEH 10:7), son of Ginnethon_1 (NEH 12:16)",male,Levi,Aaronic priest (NEH 10:8),13,2373
+Jeshua_7,Jeshua,,"explained the law to the people (NEH 8:7), stood on the Levites platform (NEH 9:4), and exhorted Israel to bless the Lord (NEH 9:5)",male,Levi,"""of"" Kadmiel (NEH 7:43), son of Kadmiel (NEH 12:24). Father of Joiakim (NEH 12:10)",7,2374
+Bani_7,Bani,,"explained the law to the people (NEH 8:7), stood on the Levites platform (NEH 9:4), and exhorted Israel to bless the Lord (NEH 9:5), named on the sealed document of NEH 9:5-38 (NEH 10:13)",male,Levi,,7,2375
+Sherebiah_2,Sherebiah,,"explained the law to the people (NEH 8:7), stood on the Levites platform (NEH 9:4), and exhorted Israel to bless the Lord (NEH 9:5), named on the sealed document of NEH 9:5-38 (NEH 10:12)",male,Levi,,2,2376
+Jamin_3,Jamin,,explained the law to the people (NEH 8:7),male,Levi,,3,2377
+Shabbethai_2,Shabbethai,,explained the law to the people (NEH 8:7),male,Levi,from the leaders of the Levites (NEH 11:16),2,2378
+Hodiah_2,Hodiah,,"explained the law to the people (NEH 8:7) and exhorted Israel to bless the Lord (NEH 9:5), named on the sealed document of NEH 9:5-38 (NEH 10:10)",male,Levi,,2,2379
+Kelita_1,Kelita,,"explained the law to the people (NEH 8:7), named on the sealed document of NEH 9:5-38 (NEH 10:10)",male,Levi,,1,2380
+Jozabad_8,Jozabad,,explained the law to the people (NEH 8:7),male,Levi,,8,2381
+Pelaiah_2,Pelaiah,,"explained the law to the people (NEH 8:7), named on the sealed document of NEH 9:5-38 (NEH 10:10)",male,Levi,,2,2382
+Kadmiel_2,Kadmiel,,"stood on the Levites platform (NEH 9:4) and exhorted Israel to bless the Lord (NEH 9:5), named on the sealed document of NEH 9:5-38 (NEH 10:9)",male,Levi,,2,2383
+Shebaniah_2,Shebaniah,,"stood on the Levites platform (NEH 9:4) and exhorted Israel to bless the Lord (NEH 9:5), named on the sealed document of NEH 9:5-38 (NEH 10:12)",male,Levi,,2,2384
+Bunni_1,Bunni,,stood on the Levites platform (NEH 9:4),male,Levi,,1,2385
+Bani_8,Bani,,the other Bani who stood on the Levites platform (NEH 9:4),male,Levi,,8,2386
+Chenani_1,Chenani,,stood on the Levites platform (NEH 9:4),male,Levi,,1,2387
+Hashabneiah_2,Hashabneiah,,exhorted Israel to bless the Lord (NEH 9:5),male,Levi,,2,2388
+Pethahiah_3,Pethahiah,,exhorted Israel to bless the Lord (NEH 9:5),male,Levi,,3,2389
+Zedekiah_3,Zedekiah,,named on the sealed document of NEH 9:5-38 (NEH 10:1),male,Levi,Aaronic priest (NEH 10:8),3,2390
+Seraiah_7,Seraiah,,named on the sealed document of NEH 9:5-38 (NEH 10:2),male,Levi,Aaronic priest (NEH 10:8),7,2391
+Jeremiah_7,Jeremiah,,named on the sealed document of NEH 9:5-38 (NEH 10:2),male,Levi,Aaronic priest (NEH 10:8),7,2392
+Amariah_6,Amariah,,named on the sealed document of NEH 9:5-38 (NEH 10:3),male,Levi,Aaronic priest (NEH 10:8),6,2393
+Hattush_3,Hattush,,named on the sealed document of NEH 9:5-38 (NEH 10:4),male,Levi,Aaronic priest (NEH 10:8),3,2394
+Shebaniah_3,Shebaniah,,named on the sealed document of NEH 9:5-38 (NEH 10:4),male,Levi,Aaronic priest (NEH 10:8),3,2395
+Malluch_4,Malluch,,named on the sealed document of NEH 9:5-38 (NEH 10:4),male,Levi,Aaronic priest (NEH 10:8),4,2396
+Obadiah_10,Obadiah,,named on the sealed document of NEH 9:5-38 (NEH 10:5),male,Levi,Aaronic priest (NEH 10:8),10,2397
+Ginnethon_1,Ginnethon,,named on the sealed document of NEH 9:5-38 (NEH 10:6),male,Levi,Aaronic priest (NEH 10:8),1,2398
+Baruch_2,Baruch,,named on the sealed document of NEH 9:5-38 (NEH 10:6),male,Levi,Aaronic priest (NEH 10:8),2,2399
+Abijah_6,Abijah,,named on the sealed document of NEH 9:5-38 (NEH 10:7),male,Levi,Aaronic priest (NEH 10:8),6,2400
+Mijamin_3,Mijamin,,named on the sealed document of NEH 9:5-38 (NEH 10:7),male,Levi,Aaronic priest (NEH 10:8),3,2401
+Maaziah_2,Maaziah,,named on the sealed document of NEH 9:5-38 (NEH 10:8),male,Levi,Aaronic priest (NEH 10:8),2,2402
+Bilgai_1,Bilgai,,named on the sealed document of NEH 9:5-38 (NEH 10:8),male,Levi,Aaronic priest (NEH 10:8),1,2403
+Shemaiah_19,Shemaiah,,named on the sealed document of NEH 9:5-38 (NEH 10:8),male,Levi,Aaronic priest (NEH 10:8),19,2404
+Jeshua_8,Jeshua,,named on the sealed document of NEH 9:5-38 (NEH 10:9),male,Levi,"son of Azaniah (NEH 10:9), a levite rather than priest",8,2405
+Azaniah_1,Azaniah,,father of Jeshua_8 (NEH 10:9),male,Levi,,1,2406
+Rehob_2,Rehob,,named on the sealed document of NEH 9:5-38 (NEH 10:11),male,Levi,,2,2407
+Hashabiah_6,Hashabiah,,named on the sealed document of NEH 9:5-38 (NEH 10:11),male,Levi,,6,2408
+Zaccur_6,Zaccur,,named on the sealed document of NEH 9:5-38 (NEH 10:12),male,Levi,,6,2409
+Shebaniah_4,Shebaniah,,named on the sealed document of NEH 9:5-38 (NEH 10:12),male,Levi,second Levite named Shebaniah in the list (v10 and v12),4,2410
+Hodiah_3,Hodiah,,named on the sealed document of NEH 9:5-38 (NEH 10:13),male,Levi,second Levite named Hodiah in the list (v10 and v13),3,2411
+Beninu_1,Beninu,,named on the sealed document of NEH 9:5-38 (NEH 10:13),male,Levi,,1,2412
+Adonijah_3,Adonijah,,named on the sealed document of NEH 9:5-38 (NEH 10:16),male,,,3,2413
+Azzur_1,Azzur,,named on the sealed document of NEH 9:5-38 (NEH 10:17),male,,,1,2414
+Hodiah_4,Hodiah,,named on the sealed document of NEH 9:5-38 (NEH 10:18),male,,non-Levite leader (NEH 10:14),4,2415
+Hariph_1,Hariph,,named on the sealed document of NEH 9:5-38 (NEH 10:19),male,,,1,2416
+Ananthoth_1,Ananthoth,,named on the sealed document of NEH 9:5-38 (NEH 10:19),male,,,1,2417
+Nebai_1,Nebai,,named on the sealed document of NEH 9:5-38 (NEH 10:19),male,,,1,2418
+Magpiash_1,Magpiash,,named on the sealed document of NEH 9:5-38 (NEH 10:20),male,,,1,2419
+Hezir_2,Hezir,,named on the sealed document of NEH 9:5-38 (NEH 10:20),male,,,2,2420
+Jaddua_1,Jaddua,,named on the sealed document of NEH 9:5-38 (NEH 10:21),male,,,1,2421
+Pelatiah_3,Pelatiah,,named on the sealed document of NEH 9:5-38 (NEH 10:22),male,,,3,2422
+Hanan_5,Hanan,,named on the sealed document of NEH 9:5-38 (NEH 10:22),male,,non-Levite leader (NEH 10:14),5,2423
+Anaiah_2,Anaiah,,named on the sealed document of NEH 9:5-38 (NEH 10:22),male,,non-Levite leader (NEH 10:14),2,2424
+Hoshea_3,Hoshea,,named on the sealed document of NEH 9:5-38 (NEH 10:23),male,,,3,2425
+Pilha_1,Pilha,,named on the sealed document of NEH 9:5-38 (NEH 10:24),male,,,1,2426
+Shobek_1,Shobek,,named on the sealed document of NEH 9:5-38 (NEH 10:24),male,,,1,2427
+Hashabnah_1,Hashabnah,,named on the sealed document of NEH 9:5-38 (NEH 10:25),male,,,1,2428
+Ahiah_1,Ahiah,,named on the sealed document of NEH 9:5-38 (NEH 10:26),male,,,1,2429
+Hanan_6,Hanan,,named on the sealed document of NEH 9:5-38 (NEH 10:26),male,,,6,2430
+Anan_1,Anan,,named on the sealed document of NEH 9:5-38 (NEH 10:26),male,,,1,2431
+Athaiah_1,Athaiah,,"son of Uzziah, descendant of Judah who lived in Jerusalem (NEH 11:4)",male,Judah,Lived in Jerusalem (NEH 11:4),1,2432
+Uzziah_3,Uzziah,,son of Zechariah (NEH 11:4),male,Judah,,3,2433
+Zechariah_19,Zechariah,,son of Amariah (NEH 11:4),male,Judah,,19,2434
+Amariah_7,Amariah,,son of Shephatiah (NEH 11:4),male,Judah,,7,2435
+Shephatiah_7,Shephatiah,,son of Mahalalel (NEH 11:4),male,Judah,,7,2436
+Mahalalel_2,Mahalalel,,son of Perez (NEH 11:4),male,Judah,,2,2437
+Maaseiah_11,Maaseiah,,son of Baruch (NEH 11:5),male,Judah,Lived in Jerusalem (NEH 11:4),11,2438
+Baruch_3,Baruch,,son of Col-hozeh (NEH 11:5),male,Judah,,3,2439
+Hazaiah_1,Hazaiah,,son of Adaiah (NEH 11:5),male,Judah,,1,2440
+Adaiah_8,Adaiah,,son of Joiarib (NEH 11:5),male,Judah,,8,2441
+Joiarib_2,Joiarib,,son of Zechariah (NEH 11:5),male,Judah,,2,2442
+Zechariah_20,Zechariah,,son of the Shilonite (NEH 11:5),male,Judah,,20,2443
+Sallu_2,Sallu,,son of Meshullam (NEH 11:7),male,Benjamin,Lived in Jerusalem (NEH 11:4),2,2444
+Meshullam_14,Meshullam,,son of Joed (NEH 11:7),male,Benjamin,,14,2445
+Joed_1,Joed,,son of Pedaiah (NEH 11:7),male,Benjamin,,1,2446
+Pedaiah_6,Pedaiah,,son of Kolaiah (NEH 11:7),male,Benjamin,,6,2447
+Kolaiah_1,Kolaiah,,son of Maaseiah (NEH 11:7),male,Benjamin,,1,2448
+Maaseiah_12,Maaseiah,,son of Ithiel (NEH 11:7),male,Benjamin,,12,2449
+Ithiel_1,Ithiel,,son of Jeshaiah (NEH 11:7),male,Benjamin,,1,2450
+Jeshaiah_5,Jeshaiah,,descendant of Benjamin (NEH 11:7),male,Benjamin,,5,2451
+Gabbai_1,Gabbai,,descendant of Benjamin (NEH 11:8),male,Benjamin,Lived in Jerusalem (NEH 11:4),1,2452
+Sallai_1,Sallai,,descendant of Benjamin (NEH 11:8),male,Benjamin,Lived in Jerusalem (NEH 11:4),1,2453
+Joel_10,Joel,,overseer of Benjamites (NEH 11:9),male,Benjamin,Lived in Jerusalem (NEH 11:4),10,2454
+Zichri_11,Zichri,,father of Joel (NEH 11:9),male,Benjamin,,11,2455
+Judah_3,Judah,,second in command of Jerusalem (NEH 11:9),male,Benjamin,Lived in Jerusalem (NEH 11:4),3,2456
+Hassenuah_2,Hassenuah,,father of Judah (NEH 11:9),male,Benjamin,,2,2457
+Jedaiah_5,Jedaiah,,"priest, son of Joiarib (NEH 11:10, NEH 12:7)",male,Levi,Lived in Jerusalem (NEH 11:4),5,2458
+Joiarib_3,Joiarib,,"priest, father of Jedaiah (NEH 11:10)",male,Levi,,3,2459
+Jachin_4,Jachin,,priest who lived in Jerusalem (NEH 11:10),male,Levi,Lived in Jerusalem (NEH 11:4),4,2460
+Seraiah_8,Seraiah,,"priest, son of Hilkiah (NEH 11:11)",male,Levi,Lived in Jerusalem (NEH 11:4),8,2461
+Hilkiah_6,Hilkiah,,son of Meshullam (NEH 11:11),male,Levi,,6,2462
+Meshullam_15,Meshullam,,son of Zadok (NEH 11:11),male,Levi,,15,2463
+Zadok_6,Zadok,,son of Meraioth (NEH 11:11),male,Levi,DUPLICATE OF ZADOK_3?,6,2464
+Meraioth_3,Meraioth,,son of Ahitub (NEH 11:11),male,Levi,,3,2465
+Ahitub_4,Ahitub,,leader of the house of God (NEH 11:11),male,Levi,,4,2466
+Adaiah_9,Adaiah,,"priest, son of Jeroham (NEH 11:12)",male,Levi,Lived in Jerusalem (NEH 11:4),9,2467
+Jeroham_7,Jeroham,,son of Pelaliah (NEH 11:12),male,Levi,,7,2468
+Pelaliah_1,Pelaliah,,son of Amzi (NEH 11:12),male,Levi,,1,2469
+Amzi_2,Amzi,,son of Zechariah (NEH 11:12),male,Levi,,2,2470
+Zechariah_21,Zechariah,,son of Pashhur (NEH 11:12),male,Levi,,21,2471
+Amashsai_1,Amashsai,,"priest, son of Azarel (NEH 11:13)",male,Levi,Lived in Jerusalem (NEH 11:4),1,2472
+Azarel_4,Azarel,,son of Ahzai (NEH 11:13),male,Levi,,4,2473
+Ahzai_1,Ahzai,,son of Meshillemoth (NEH 11:13),male,Levi,,1,2474
+Zabdiel_2,Zabdiel,,overseer of the priests and son of Haggedolim (NEH 11:14),male,Levi,,2,2475
+Haggedolim_1,Haggedolim,,father of Zabdiel (NEH 11:14),male,Levi,,1,2476
+Bunni_2,Bunni,,father of Hashabiah (NEH 11:15),male,Levi,descendant of Merari (1CH 9:14),2,2477
+Mattaniah_9,Mattaniah,,descendant of Mica (NEH 11:17),male,Levi,"leader in beginning the thanksgiving at prayer (NEH 11:17), gatekeeper (NEH 12:25)",9,2478
+Bakbukiah_1,Bakbukiah,,second among his brethren (NEH 11:17),male,Levi,,1,2479
+Gishpa_1,Gishpa,,in charge of the temple servants (NEH 11:21),male,Levi,,1,2480
+Uzzi_5,Uzzi,,"overseer of the Levites in Jerusalem, son of Bani (NEH 11:22)",male,Levi,,5,2481
+Bani_9,Bani,,son of Hashabiah (NEH 11:22),male,Levi,,9,2482
+Hashabiah_7,Hashabiah,,son of Mattaniah_2 (NEH 11:22),male,Levi,,7,2483
+Pethahiah_4,Pethahiah,,the king's representative in all matters concerning the people (NEH 11:24),male,Judah,,4,2484
+Meshezabel_2,Meshezabel,,father of Pethahiah (NEH 11:24),male,Judah,,2,2485
+Shecaniah_8,Shecaniah,,among the priests who came up with Zerubbabel (NEH 12:3),male,Levi,"as ""priest"", a descendant of Aaron ",8,2486
+Rehum_4,Rehum,,among the priests who came up with Zerubbabel (NEH 12:3),male,Levi,"as ""priest"", a descendant of Aaron ",4,2487
+Sallu_3,Sallu,,among the priests who came up with Zerubbabel (NEH 12:7),male,Levi,"as ""priest"", a descendant of Aaron ",3,2488
+Amok_1,Amok,,among the priests who came up with Zerubbabel (NEH 12:7),male,Levi,"as ""priest"", a descendant of Aaron ",1,2489
+Judah_4,Judah,,among the Levites who came up with Zerubabbel (NEH 12:8),male,Levi,,4,2490
+Unni_2,Unni,,among the Levites who came up with Zerubabbel (NEH 12:9),male,Levi,,2,2491
+Joiakim_1,Joiakim,,son of Jeshua_7 and father of Eliashib (NEH 12:10),male,Levi,"could be Jeshua_5, Jeshua_7, or Jeshua_8 (all Levites)",1,2492
+Eliashib_8,Eliashib,,son of Joiakim (NEH 12:10),male,Levi,,8,2493
+Joiada_2,Joiada,,son of Eliashib (NEH 12:10),male,Levi,,2,2494
+Jonathan_10,Jonathan,,son of Joiada (NEH 12:11),male,Levi,,10,2495
+Jaddua_2,Jaddua,,son of Jonathan (NEH 12:11),male,Levi,,2,2496
+Meraiah_1,Meraiah,,son of Seraiah_7 (NEH 12:12),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",1,2497
+Hananiah_9,Hananiah,,son of Jeremiah_7 (NEH 12:12),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",9,2498
+Meshullam_16,Meshullam,,son of Ezra_1 (NEH 12:13),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",16,2499
+Jehohanan_4,Jehohanan,,son of Amariah_6 (NEH 12:13),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",4,2500
+Jonathan_11,Jonathan,,son of Malluch_4 [Malluchi] (NEH 12:14),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",11,2501
+Joseph_5,Joseph,,son of Shebaniah_3 (NEH 12:14),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",5,2502
+Adna_2,Adna,,son of Harim_3 (NEH 12:15),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",2,2503
+Helkai_1,Helkai,,son of Meraioth_2 (NEH 12:15),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",1,2504
+Zichri_12,Zichri,,son of Abijah_6 (NEH 12:17),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",12,2505
+Miniamin_2,Miniamin,,ancestor of Piltai (NEH 12:17),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",2,2506
+Moadiah_1,Moadiah,,ancestor of Piltai (NEH 12:17),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",1,2507
+Piltai_1,Piltai,,son of Miniamin (NEH 12:17),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",1,2508
+Shammua_3,Shammua,,descendant of Bilgah (NEH 12:18),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",3,2509
+Jehonathan_2,Jehonathan,,son of Shemaiah_19 (NEH 12:18),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",2,2510
+Mattenai_3,Mattenai,,son of Joiarib_3 (NEH 12:19),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",3,2511
+Uzzi_6,Uzzi,,son of Jedaiah_2 (NEH 12:19),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",6,2512
+Sallai_2,Sallai,,father of Kallai (NEH 12:20),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",2,2513
+Kallai_1,Kallai,,son of Sallai_2 (NEH 12:20),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",1,2514
+Eber_5,Eber,,son of Amok_1 (NEH 12:20),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",5,2515
+Hashabiah_8,Hashabiah,,son of Hilkiah_3 (NEH 12:21),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",8,2516
+Nethanel_7,Nethanel,,son of Jedaiah_5 (NEH 12:21),male,Levi,"As ""priests"" (NEH 12:12), descendants of Aaron",7,2517
+Hoshaiah_1,Hoshaiah,,followed the choir to the right on top of the wall (NEH 12:32),male,,,1,2518
+Zechariah_22,Zechariah,,son of Jonathan (NEH 12:35),male,Levi,descendant of Asaph_2,22,2519
+Jonathan_12,Jonathan,,son of Shemaiah_14 (NEH 12:35),male,Levi,descendant of Asaph_2,12,2520
+Micaiah_4,Micaiah,,son of Zaccur_4 (NEH 12:35),male,Levi,descendant of Asaph_2,4,2521
+Milalai_1,Milalai,,Levite with music instruments (NEH 12:36),male,Levi,,1,2522
+Gilalai_1,Gilalai,,Levite with music instruments (NEH 12:36),male,Levi,,1,2523
+Maai_1,Maai,,Levite with music instruments (NEH 12:36),male,Levi,,1,2524
+Eliakim_3,Eliakim,,priest with a trumpet (NEH 12:41),male,Levi,"As ""priest"", a descendant of Aaron",3,2525
+Maaseiah_13,Maaseiah,,priest with a trumpet (NEH 12:41),male,Levi,"As ""priest"", a descendant of Aaron",13,2526
+Miniamin_3,Miniamin,,priest with a trumpet (NEH 12:41),male,Levi,"As ""priest"", a descendant of Aaron",3,2527
+Micaiah_5,Micaiah,,priest with a trumpet (NEH 12:41),male,Levi,"As ""priest"", a descendant of Aaron",5,2528
+Elioenai_6,Elioenai,,priest with a trumpet (NEH 12:41),male,Levi,"As ""priest"", a descendant of Aaron",6,2529
+Eleazar_8,Eleazar,,with the officials and priests in the house of G-d (NEH 12:42),male,,,8,2530
+Jezrahiah_1,Jezrahiah,,the leader of the singers (NEH 12:42),male,Levi,,1,2531
+Shelemiah_4,Shelemiah,,priest appointed by Nehemiah (NEH 13:13),male,Levi,"As ""priest"", a descendant of Aaron",4,2532
+Hanan_7,Hanan,,distributed portions to their kinsmen (NEH 13:13),male,Levi,,7,2533
+Mattaniah_10,Mattaniah,,grandfather of Hanan_7 (NEH 13:13),male,Levi,,10,2534
+Joiada_3,Joiada,,son of Eliashib the high priest (NEH 13:28),male,Levi,a descendant of Aaron,3,2535
+Vashti_1,Vashti,,queen of Persia (EST 1:9),female,,,1,2536
+Mehuman_1,Mehuman,,one of the seven eunuchs who served in the presence of King Ahasuerus (EST 1:10),male,,,1,2537
+Biztha_1,Biztha,,one of the seven eunuchs who served in the presence of King Ahasuerus (EST 1:10),male,,,1,2538
+Harbona_1,Harbona,,one of the seven eunuchs who served in the presence of King Ahasuerus (EST 1:10),male,,,1,2539
+Bigtha_1,Bigtha,,one of the seven eunuchs who served in the presence of King Ahasuerus (EST 1:10),male,,,1,2540
+Abagtha_1,Abagtha,,one of the seven eunuchs who served in the presence of King Ahasuerus (EST 1:10),male,,,1,2541
+Zethar_1,Zethar,,one of the seven eunuchs who served in the presence of King Ahasuerus (EST 1:10),male,,,1,2542
+Carkas_1,Carkas,,one of the seven eunuchs who served in the presence of King Ahasuerus (EST 1:10),male,,,1,2543
+Carshena_1,Carshena,,one of the seven princes of Persia and Media (EST 1:14),male,,,1,2544
+Shethar_1,Shethar,,one of the seven princes of Persia and Media (EST 1:14),male,,,1,2545
+Admatha_1,Admatha,,one of the seven princes of Persia and Media (EST 1:14),male,,,1,2546
+Tarshish_3,Tarshish,,one of the seven princes of Persia and Media (EST 1:14),male,,,3,2547
+Meres_1,Meres,,one of the seven princes of Persia and Media (EST 1:14),male,,,1,2548
+Marsena_1,Marsena,,one of the seven princes of Persia and Media (EST 1:14),male,,,1,2549
+Memucan_1,Memucan,,one of the seven princes of Persia and Media (EST 1:14),male,,,1,2550
+Hegai_1,Hegai,,the king's eunuch (EST 2:3),male,,,1,2551
+Mordecai_2,Mordecai,,a Jew who lived in Susa (EST 2:5),male,,,2,2552
+Jair_3,Jair,,father of Mordecai (EST 2:5),male,,,3,2553
+Shimei_17,Shimei,,father of Jair (EST 2:5),male,,,17,2554
+Kish_4,Kish,,"a Benjamite, father (ancestor?) of Shimei (EST 2:5)",male,,"assuming this is not Kish, the father of Saul, because he is simply listed as ""a Benjamite"" rather than ""father of King Saul"" or something similar",4,2555
+Hadassah_1,Hadassah,,cousin of Mordecai (EST 2:7),female,,,1,2556
+Shaashgaz_1,Shaashgaz,,king's eunuch in charge of the concubines (EST 2:14),male,,,1,2557
+Abihail_5,Abihail,,Esther's father and Mordecai's uncle (EST 2:15),male,,,5,2558
+Bigthan_1,Bigthan,,plotted against Ahasuerus (EST 2:21),male,,,1,2559
+Teresh_1,Teresh,,plotted against Ahasuerus (EST 2:21),male,,,1,2560
+Haman_1,Haman,,son of Hammedatha the Agagite (EST 3:1),male,,יִמַּח שְׁמוֹ [may his name be erased],1,2561
+Hammedatha_1,Hammedatha,,the Agagite (EST 3:1),male,,,1,2562
+Hathach_1,Hathach,,king's eunuch appointed to attend Esther (EST 4:5),male,,,1,2563
+Zeresh_1,Zeresh,,wife of Haman (EST 5:10),female,,,1,2564
+Parshandatha_1,Parshandatha,,son of Haman (EST 9:7),male,,,1,2565
+Dalphon_1,Dalphon,,son of Haman (EST 9:7),male,,,1,2566
+Aspatha_1,Aspatha,,son of Haman (EST 9:7),male,,,1,2567
+Poratha_1,Poratha,,son of Haman (EST 9:8),male,,,1,2568
+Adalia_1,Adalia,,son of Haman (EST 9:8),male,,,1,2569
+Aridatha_1,Aridatha,,son of Haman (EST 9:8),male,,,1,2570
+Parmashta_1,Parmashta,,son of Haman (EST 9:9),male,,,1,2571
+Arisai_1,Arisai,,son of Haman (EST 9:9),male,,,1,2572
+Aridai_1,Aridai,,son of Haman (EST 9:9),male,,,1,2573
+Vaizatha_1,Vaizatha,,son of Haman (EST 9:9),male,,,1,2574
+Job_1,Job,,"a blameless, upright, G-d fearing man in the land of Uz (JOB 1:1)",male,,,1,2575
+Eliphaz_2,Eliphaz,,"the Temanite, friend of Job (JOB 2:11)",male,,,2,2576
+Bildad_1,Bildad,,"the Shuhite, friend of Job (JOB 2:11)",male,,,1,2577
+Zophar_1,Zophar,,"the Naamathite, friend of Job (JOB 2:11)",male,,,1,2578
+Elihu_5,Elihu,,"son of Barachel, who spoke to Job (JOB 32:2)",male,,,5,2579
+Barachel_1,Barachel,,"the Buzite, of the family of Ram (JOB 32:2)",male,,,1,2580
+Ram_3,Ram,,ancestor of Barachel (JOB 32:2),male,,,3,2581
+Jemimah_1,Jemimah,,daughter of Job (JOB 42:14),female,,,1,2582
+Keziah_1,Keziah,,daughter of Job (JOB 42:14),female,,,1,2583
+Keren-happuch_1,Keren-happuch,,daughter of Job (JOB 42:14),female,,,1,2584
+Cush_2,Cush,,a Benjamite (Psalm 7:0),male,,,2,2585
+Agur_1,Agur,,"son of Jakeh, the oracle (PRO 30:1)",male,,,1,2586
+Jakeh_1,Jakeh,,father of Agur (PRO 30:1),male,,,1,2587
+Ithiel_2,Ithiel,,audience of Agur (PRO 30:1),male,,,2,2588
+Ucal_1,Ucal,,audience of Agur (PRO 30:1),male,,,1,2589
+Lemuel_1,Lemuel,,king quoted in Proverbs 31 (PRO 31:1),male,,,1,2590
+Shear-jashub_1,Shear-jashub,,son of Isaiah (ISA 7:3),male,,,1,2591
+Immanuel_1,Immanuel,,the child given as a sign by G-d to Ahaz (ISA 7:14),male,,,1,2592
+Zechariah_23,Zechariah,,son of Jeberechiah who witnessed Isaiah's naming of his son (ISA 8:2),male,,,23,2593
+Jeberechiah_1,Jeberechiah,,father of Zechariah (ISA 8:2),male,,,1,2594
+Maher-shalal-hash-baz_1,Maher-shalal-hash-baz,,son of Isaiah (ISA 8:3),male,,,1,2595
+Pharaoh_7,Pharaoh,,Pharaoh of Isaiah's day (ISA 19:11),male,,,7,2596
+Sargon_1,Sargon,,king of Assyria (ISA 20:1),male,,,1,2597
+King of Hamath_2,King of Hamath,,(ISA 37:13),male,,,2,2598
+King of Arpad_2,King of Arpad,,(ISA 37:13),male,,,2,2599
+King of Sepharvaim_2,King of Sepharvaim,,(ISA 37:13),male,,,2,2600
+King of Hena_1,King of Hena,,(ISA 37:13),male,,,1,2601
+King of Ivvah_1,King of Ivvah,,(ISA 37:13),male,,,1,2602
+Pashhur_2,Pashhur,,"son (descendant?) of Immer, chief officer in the Temple (JER 20:1)",male,,,2,2603
+Zephaniah_2,Zephaniah,,"the priest, son of Maaseiah (JER 21:1)",male,,,2,2604
+Maaseiah_14,Maaseiah,,father of Zephaniah (JER 21:1),male,,,14,2605
+Pharaoh_8,Pharaoh,,Pharaoh of Jeremiah's day (JER 25:19),male,,,8,2606
+Uriah_4,Uriah,,prophesied in the name of the LORD (JER 26:20),male,,,4,2607
+Shemaiah_20,Shemaiah,,"father of Uriah, from Kiriath-jearim (JER 26:20)",male,,,20,2608
+Hananiah_10,Hananiah,,"the [false] prophet, son of Azzur (JER 28:1)",male,,,10,2609
+Azzur_2,Azzur,,father of Hananiah (JER 28:1),male,,,2,2610
+Elasah_2,Elasah,,son of Shaphan (JER 29:3),male,,,2,2611
+Shaphan_2,Shaphan,,father of Elasah (JER 29:3),male,,,2,2612
+Gemariah_1,Gemariah,,son of Hilkiah_3 (JER 29:3),male,,,1,2613
+Ahab_2,Ahab,,prophesied falsely (JER 29:21),male,,,2,2614
+Kolaiah_2,Kolaiah,,father of Ahab_2 (JER 29:21),male,,,2,2615
+Zedekiah_4,Zedekiah,,"prophesied falsely, son of Maaseiah_6 (JER 29:21)",male,,,4,2616
+Shemaiah_21,Shemaiah,,the Nehelamite (JER 29:24) who prophesied a lie (JER 29:31),male,,,21,2617
+Hanamel_1,Hanamel,,"son of Shallum (JER 32:7), Jeremiah's cousin",male,,,1,2618
+Shallum_13,Shallum,,"father of Hanamel (JER 32:7), Jeremiah's uncle",male,,,13,2619
+Baruch_4,Baruch,,scribe and friend (?) of Jeremiah (JER 32:12),male,,,4,2620
+Neriah_1,Neriah,,father of Baruch (JER 32:12),male,,,1,2621
+Mahseiah_1,Mahseiah,,father of Neriah (JER 32:12),male,,,1,2622
+Jaazaniah_2,Jaazaniah,,"son of Jeremiah, the Rechabite (JER 35:3)",male,,,2,2623
+Jeremiah_8,Jeremiah,,"son of Habazziniah, the Rechabite (JER 35:3)",male,,,8,2624
+Habazziniah_1,Habazziniah,,the Rechabite (JER 35:3),male,,,1,2625
+Hanan_8,Hanan,,had a chamber in the Temple (JER 35:4),male,,,8,2626
+Igdaliah_1,Igdaliah,,"the man of G-d, father of Hanan (JER 35:4)",male,,,1,2627
+Gemariah_2,Gemariah,,son of Shaphan_1 the scribe (JER 36:10),male,,,2,2628
+Micaiah_6,Micaiah,,son of Gemariah_2 (JER 36:10),male,,,6,2629
+Elishama_6,Elishama,,"the scribe, an official (JER 36:12)",male,,,6,2630
+Delaiah_5,Delaiah,,"son of Shemaiah_21, an official (JER 36:12)",male,,,5,2631
+Elnathan_5,Elnathan,,"son of Achbor_2, an official (JER 36:12)",male,,,5,2632
+Zedekiah_5,Zedekiah,,"son of Hananiah_10, an official (JER 36:12)",male,,,5,2633
+Jehudi_1,Jehudi,,son of Nethaniah (JER 36:14),male,,,1,2634
+Nethaniah_4,Nethaniah,,son of Shelemiah (JER 36:14),male,,,4,2635
+Shelemiah_5,Shelemiah,,son of Cushi (JER 36:14),male,,,5,2636
+Cushi_1,Cushi,,father of Shelamiah (JER 36:14),male,,,1,2637
+Jerahmeel_3,Jerahmeel,,"son of King Jehoiakim (Eliakim_2), sent to sieze Baruch and Jeremiah (JER 36:26)",male,,,3,2638
+Seraiah_9,Seraiah,,"son of Azriel, sent to sieze Baruch and Jeremiah (JER 36:26)",male,,,9,2639
+Azriel_3,Azriel,,father of Seraiah_9 (JER 36:26),male,,,3,2640
+Shelemiah_6,Shelemiah,,"son of Adbeel, sent to sieze Baruch and Jeremiah (JER 36:26)",male,,,6,2641
+Abdeel_1,Abdeel,,father of Shelemiah_6 (JER 36:26),male,,,1,2642
+Jehucal_1,Jehucal,,son of Shelemiah (JER 37:3),male,,,1,2643
+Irijah_1,Irijah,,a captain of the guard (JER 37:13),male,,,1,2644
+Shelemiah_7,Shelemiah,,father of Irijah (JER 37:13),male,,,7,2645
+Hananiah_11,Hananiah,,father of Shelemiah (JER 37:13),male,,,11,2646
+Jonathan_13,Jonathan,,the scribe in whose house Jeremiah was jailed (JER 37:15),male,,,13,2647
+Shephatiah_8,Shephatiah,,son of Mattan (JER 38:1),male,,,8,2648
+Mattan_2,Mattan,,father of Shephatiah (JER 38:1),male,,,2,2649
+Gedaliah_4,Gedaliah,,son of Pashhur_1 (JER 38:1),male,,,4,2650
+Pashhur_3,Pashhur,,father of Gedaliah (JER 38:1),male,,,3,2651
+Jucal_1,Jucal,,son of Shelemiah (JER 38:1),male,,,1,2652
+Shelemiah_8,Shelemiah,,father of Jucal (JER 38:1),male,,,8,2653
+Malchijah_10,Malchijah,,son of King Zedekiah (JER 38:6),male,,,10,2654
+Ebed-melech_1,Ebed-melech,,the Ethiopian eunuch who spoke up for Jeremiah (JER 38:7),male,,,1,2655
+Nergal-sar-ezer_1,Nergal-sar-ezer,,Babylonian official who sat in the Middle Gate of Jerusalem (JER 39:3),male,,,1,2656
+Samgar-nebu_1,Samgar-nebu,,Babylonian official who sat in the Middle Gate of Jerusalem (JER 39:3),male,,,1,2657
+Sar-sekim_1,Sar-sekim,,the Rab-saris [chief official] (JER 39:3),male,,,1,2658
+Nergal-sar-ezer_2,Nergal-sar-ezer,,the Rab-mag [high official] (JER 39:3),male,,,2,2659
+Nebushazban_1,Nebushazban,,the Rab-saris [chief official] (JER 39:13),male,,,1,2660
+Jonathan_14,Jonathan,,son of Kareah (JER 40:8),male,,,14,2661
+Ephai_1,Ephai,,the Netophathite (JER 40:8),male,,,1,2662
+Baalis_1,Baalis,,king of the sons of Ammon (JER 40:14),male,,,1,2663
+Ephai_1,Ephai,,the Netophathite (JER 40:8),male,,,1,2664
+Baalis_1,Baalis,,king of the sons of Ammon (JER 40:14),male,,,1,2665
