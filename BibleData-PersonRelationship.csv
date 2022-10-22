@@ -2693,8 +2693,8 @@ Azariah_1:Amariah_2:2691,2691,Azariah_1,father,Amariah_2,explicit,1CH 6:11,
 Amariah_2:Azariah_1:2692,2692,Amariah_2,son,Azariah_1,inferred,1CH 6:11,
 Amariah_2:Ahitub_3:2693,2693,Amariah_2,father,Ahitub_3,explicit,1CH 6:11,
 Ahitub_3:Amariah_2:2694,2694,Ahitub_3,son,Amariah_2,inferred,1CH 6:11,
-Ahitub_3:Zadok_3:2695,2695,Ahitub_3,father,Zadok_3,explicit,1CH 6:12,
-Zadok_3:Ahitub_3:2696,2696,Zadok_3,son,Ahitub_3,inferred,1CH 6:12,
+Ahitub_3:Zadok_3:2695,2695,Ahitub_3,grandfather,Zadok_3,explicit,1CH 6:12,"1CH 6:12 indicates ""son"", however, the lineage in 1CH 9:11 reveals ""grandson"""
+Zadok_3:Ahitub_3:2696,2696,Zadok_3,grandson,Ahitub_3,inferred,1CH 6:12,"1CH 6:12 indicates ""son"", however, the lineage in 1CH 9:11 reveals ""grandson"""
 Zadok_3:Shallum_6:2697,2697,Zadok_3,father,Shallum_6,explicit,1CH 6:12,
 Shallum_6:Zadok_3:2698,2698,Shallum_6,son,Zadok_3,inferred,1CH 6:12,
 Shallum_6:Hilkiah_3:2699,2699,Shallum_6,father,Hilkiah_3,explicit,1CH 6:13,
@@ -3283,8 +3283,8 @@ Aaron_1:Jehoiarib_1:3281,3281,Aaron_1,ancestor,Jehoiarib_1,inferred,1CH 9:10,
 Jehoiarib_1:Aaron_1:3282,3282,Jehoiarib_1,descendant,Aaron_1,explicit,1CH 9:10,
 Aaron_1:Jachin_2:3283,3283,Aaron_1,ancestor,Jachin_2,inferred,1CH 9:10,
 Jachin_2:Aaron_1:3284,3284,Jachin_2,descendant,Aaron_1,explicit,1CH 9:10,
-Meraioth_2:Zadok_1:3285,3285,Meraioth_2,father,Zadok_1,inferred,1CH 9:11,
-Zadok_1:Meraioth_2:3286,3286,Zadok_1,son,Meraioth_2,explicit,1CH 9:11,
+Meraioth_2:Zadok_3:3285,3285,Meraioth_2,father,Zadok_3,inferred,1CH 9:11,
+Zadok_3:Meraioth_2:3286,3286,Zadok_3,son,Meraioth_2,explicit,1CH 9:11,
 Ahitub_2:Meraioth_2:3287,3287,Ahitub_2,father,Meraioth_2,inferred,1CH 9:11,
 Meraioth_2:Ahitub_2:3288,3288,Meraioth_2,son,Ahitub_2,explicit,1CH 9:11,
 Jeroham_3:Adaiah_4:3289,3289,Jeroham_3,father,Adaiah_4,inferred,1CH 9:12,
@@ -4007,196 +4007,196 @@ Levi_1:Mahath_2:4005,4005,Levi_1,ancestor,Mahath_2,inferred,2CH 31:13,
 Mahath_2:Levi_1:4006,4006,Mahath_2,descendant,Levi_1,inferred,2CH 31:13,
 Levi_1:Benaiah_6:4007,4007,Levi_1,ancestor,Benaiah_6,inferred,2CH 31:13,
 Benaiah_6:Levi_1:4008,4008,Benaiah_6,descendant,Levi_1,inferred,2CH 31:13,
-Korah_3:Imnah_2:4009,4009,Korah_3,ancestor,Imnah_2,inferred,1CH 9:19,Imnah is the father of Kore (2CH 31:14) who is a decsendant of Korah (1CH 9:19)
-Imnah_2:Korah_3:4010,4010,Imnah_2,descendant,Korah_3,inferred,1CH 9:19,Imnah is the father of Kore (2CH 31:14) who is a decsendant of Korah (1CH 9:19)
-Imnah_2:Kore_1:4011,4011,Imnah_2,father,Kore_1,inferred,2CH 31:14,
-Kore_1:Imnah_2:4012,4012,Kore_1,son,Imnah_2,explicit,2CH 31:14,
-Levi_1:Miniamin_1:4013,4013,Levi_1,father,Miniamin_1,inferred,2CH 31:15,inferred that these are Levites serving their brothers
-Miniamin_1:Levi_1:4014,4014,Miniamin_1,son,Levi_1,inferred,2CH 31:15,inferred that these are Levites serving their brothers
-Levi_1:Jeshua_2:4015,4015,Levi_1,father,Jeshua_2,inferred,2CH 31:15,inferred that these are Levites serving their brothers
-Jeshua_2:Levi_1:4016,4016,Jeshua_2,son,Levi_1,inferred,2CH 31:15,inferred that these are Levites serving their brothers
-Levi_1:Shemaiah_12:4017,4017,Levi_1,father,Shemaiah_12,inferred,2CH 31:15,inferred that these are Levites serving their brothers
-Shemaiah_12:Levi_1:4018,4018,Shemaiah_12,son,Levi_1,inferred,2CH 31:15,inferred that these are Levites serving their brothers
-Levi_1:Amariah_4:4019,4019,Levi_1,father,Amariah_4,inferred,2CH 31:15,inferred that these are Levites serving their brothers
-Amariah_4:Levi_1:4020,4020,Amariah_4,son,Levi_1,inferred,2CH 31:15,inferred that these are Levites serving their brothers
-Levi_1:Shecaniah_3:4021,4021,Levi_1,father,Shecaniah_3,inferred,2CH 31:15,inferred that these are Levites serving their brothers
-Shecaniah_3:Levi_1:4022,4022,Shecaniah_3,son,Levi_1,inferred,2CH 31:15,inferred that these are Levites serving their brothers
-Joahaz_1:Joah_4:4023,4023,Joahaz_1,father,Joah_4,inferred,2CH 34:8,
-Joah_4:Joahaz_1:4024,4024,Joah_4,son,Joahaz_1,explicit,2CH 34:8,
-Merari_1:Jahath_6:4025,4025,Merari_1,ancestor,Jahath_6,inferred,2CH 34:12,
-Jahath_6:Merari_1:4026,4026,Jahath_6,descendant,Merari_1,explicit,2CH 34:12,
-Merari_1:Obadiah_8:4027,4027,Merari_1,ancestor,Obadiah_8,inferred,2CH 34:12,
-Obadiah_8:Merari_1:4028,4028,Obadiah_8,descendant,Merari_1,explicit,2CH 34:12,
-Kohath_1:Zechariah_15:4029,4029,Kohath_1,ancestor,Zechariah_15,inferred,2CH 34:12,
-Zechariah_15:Kohath_1:4030,4030,Zechariah_15,descendant,Kohath_1,explicit,2CH 34:12,
-Kohath_1:Meshullam_7:4031,4031,Kohath_1,ancestor,Meshullam_7,inferred,2CH 34:12,
-Meshullam_7:Kohath_1:4032,4032,Meshullam_7,descendant,Kohath_1,explicit,2CH 34:12,
-Judah_1:Sheshbazzar_1:4033,4033,Judah_1,ancestor,Sheshbazzar_1,inferred,EZR 1:8,
-Sheshbazzar_1:Judah_1:4034,4034,Sheshbazzar_1,descendant,Judah_1,explicit,EZR 1:8,
-Jacob_1:Zerubbabel_2:4035,4035,Jacob_1,ancestor,Zerubbabel_2,explicit,EZR 2:2,
-Zerubbabel_2:Jacob_1:4036,4036,Zerubbabel_2,descendant,Jacob_1,inferred,EZR 2:2,
-Jacob_1:Jeshua_3:4037,4037,Jacob_1,ancestor,Jeshua_3,explicit,EZR 2:2,
-Jeshua_3:Jacob_1:4038,4038,Jeshua_3,descendant,Jacob_1,inferred,EZR 2:2,
-Jacob_1:Nehemiah_1:4039,4039,Jacob_1,ancestor,Nehemiah_1,explicit,EZR 2:2,
-Nehemiah_1:Jacob_1:4040,4040,Nehemiah_1,descendant,Jacob_1,inferred,EZR 2:2,
-Jacob_1:Reelaiah_1:4041,4041,Jacob_1,ancestor,Reelaiah_1,explicit,EZR 2:2,
-Reelaiah_1:Jacob_1:4042,4042,Reelaiah_1,descendant,Jacob_1,inferred,EZR 2:2,
-Jacob_1:Mordecai_1:4043,4043,Jacob_1,ancestor,Mordecai_1,explicit,EZR 2:2,
-Mordecai_1:Jacob_1:4044,4044,Mordecai_1,descendant,Jacob_1,inferred,EZR 2:2,
-Jacob_1:Bilshan_1:4045,4045,Jacob_1,ancestor,Bilshan_1,explicit,EZR 2:2,
-Bilshan_1:Jacob_1:4046,4046,Bilshan_1,descendant,Jacob_1,inferred,EZR 2:2,
-Jacob_1:Mispar_1:4047,4047,Jacob_1,ancestor,Mispar_1,explicit,EZR 2:2,
-Mispar_1:Jacob_1:4048,4048,Mispar_1,descendant,Jacob_1,inferred,EZR 2:2,
-Jacob_1:Bigvai_1:4049,4049,Jacob_1,ancestor,Bigvai_1,explicit,EZR 2:2,
-Bigvai_1:Jacob_1:4050,4050,Bigvai_1,descendant,Jacob_1,inferred,EZR 2:2,
-Jacob_1:Rehum_1:4051,4051,Jacob_1,ancestor,Rehum_1,explicit,EZR 2:2,
-Rehum_1:Jacob_1:4052,4052,Rehum_1,descendant,Jacob_1,inferred,EZR 2:2,
-Jacob_1:Baanah_3:4053,4053,Jacob_1,ancestor,Baanah_3,explicit,EZR 2:2,
-Baanah_3:Jacob_1:4054,4054,Baanah_3,descendant,Jacob_1,inferred,EZR 2:2,
-Jacob_1:Parosh_1:4055,4055,Jacob_1,ancestor,Parosh_1,explicit,EZR 2:3,"based on the ""of Israel"" of EZR 2:2"
-Parosh_1:Jacob_1:4056,4056,Parosh_1,descendant,Jacob_1,inferred,EZR 2:3,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Shephatiah_5:4057,4057,Jacob_1,ancestor,Shephatiah_5,explicit,EZR 2:4,"based on the ""of Israel"" of EZR 2:2"
-Shephatiah_5:Jacob_1:4058,4058,Shephatiah_5,descendant,Jacob_1,inferred,EZR 2:4,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Arah_2:4059,4059,Jacob_1,ancestor,Arah_2,explicit,EZR 2:5,"based on the ""of Israel"" of EZR 2:2"
-Arah_2:Jacob_1:4060,4060,Arah_2,descendant,Jacob_1,inferred,EZR 2:5,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Pahath-moab_1:4061,4061,Jacob_1,ancestor,Pahath-moab_1,explicit,EZR 2:6,"based on the ""of Israel"" of EZR 2:2"
-Pahath-moab_1:Jacob_1:4062,4062,Pahath-moab_1,descendant,Jacob_1,inferred,EZR 2:6,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Joab_3:4063,4063,Jacob_1,ancestor,Joab_3,explicit,EZR 2:6,"based on the ""of Israel"" of EZR 2:2"
-Joab_3:Jacob_1:4064,4064,Joab_3,descendant,Jacob_1,inferred,EZR 2:6,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Elam_4:4065,4065,Jacob_1,ancestor,Elam_4,explicit,EZR 2:7,"based on the ""of Israel"" of EZR 2:2"
-Elam_4:Jacob_1:4066,4066,Elam_4,descendant,Jacob_1,inferred,EZR 2:7,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Zattu_1:4067,4067,Jacob_1,ancestor,Zattu_1,explicit,EZR 2:8,"based on the ""of Israel"" of EZR 2:2"
-Zattu_1:Jacob_1:4068,4068,Zattu_1,descendant,Jacob_1,inferred,EZR 2:8,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Zaccai_1:4069,4069,Jacob_1,ancestor,Zaccai_1,explicit,EZR 2:9,"based on the ""of Israel"" of EZR 2:2"
-Zaccai_1:Jacob_1:4070,4070,Zaccai_1,descendant,Jacob_1,inferred,EZR 2:9,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Bani_4:4071,4071,Jacob_1,ancestor,Bani_4,explicit,EZR 2:10,"based on the ""of Israel"" of EZR 2:2"
-Bani_4:Jacob_1:4072,4072,Bani_4,descendant,Jacob_1,inferred,EZR 2:10,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Bebai_1:4073,4073,Jacob_1,ancestor,Bebai_1,explicit,EZR 2:11,"based on the ""of Israel"" of EZR 2:2"
-Bebai_1:Jacob_1:4074,4074,Bebai_1,descendant,Jacob_1,inferred,EZR 2:11,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Azgad_1:4075,4075,Jacob_1,ancestor,Azgad_1,explicit,EZR 2:12,"based on the ""of Israel"" of EZR 2:2"
-Azgad_1:Jacob_1:4076,4076,Azgad_1,descendant,Jacob_1,inferred,EZR 2:12,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Adonikam_1:4077,4077,Jacob_1,ancestor,Adonikam_1,explicit,EZR 2:13,"based on the ""of Israel"" of EZR 2:2"
-Adonikam_1:Jacob_1:4078,4078,Adonikam_1,descendant,Jacob_1,inferred,EZR 2:13,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Adin_1:4079,4079,Jacob_1,ancestor,Adin_1,explicit,EZR 2:15,"based on the ""of Israel"" of EZR 2:2"
-Adin_1:Jacob_1:4080,4080,Adin_1,descendant,Jacob_1,inferred,EZR 2:15,"based on the ""of Israel"" of EZR 2:2"
-Hezekiah_2:Ater_1:4081,4081,Hezekiah_2,ancestor,Ater_1,explicit,EZR 2:16,"based on the ""of Israel"" of EZR 2:2"
-Ater_1:Hezekiah_2:4082,4082,Ater_1,descendant,Hezekiah_2,inferred,EZR 2:16,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Hezekiah_2:4083,4083,Jacob_1,ancestor,Hezekiah_2,explicit,EZR 2:16,"based on the ""of Israel"" of EZR 2:2"
-Hezekiah_2:Jacob_1:4084,4084,Hezekiah_2,descendant,Jacob_1,inferred,EZR 2:16,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Bezai_1:4085,4085,Jacob_1,ancestor,Bezai_1,explicit,EZR 2:17,"based on the ""of Israel"" of EZR 2:2"
-Bezai_1:Jacob_1:4086,4086,Bezai_1,descendant,Jacob_1,inferred,EZR 2:17,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Jorah_1:4087,4087,Jacob_1,ancestor,Jorah_1,explicit,EZR 2:18,"based on the ""of Israel"" of EZR 2:2"
-Jorah_1:Jacob_1:4088,4088,Jorah_1,descendant,Jacob_1,inferred,EZR 2:18,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Hashum_1:4089,4089,Jacob_1,ancestor,Hashum_1,explicit,EZR 2:19,"based on the ""of Israel"" of EZR 2:2"
-Hashum_1:Jacob_1:4090,4090,Hashum_1,descendant,Jacob_1,inferred,EZR 2:19,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Gibbar_1:4091,4091,Jacob_1,ancestor,Gibbar_1,explicit,EZR 2:20,"based on the ""of Israel"" of EZR 2:2"
-Gibbar_1:Jacob_1:4092,4092,Gibbar_1,descendant,Jacob_1,inferred,EZR 2:20,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Azmaveth_4:4093,4093,Jacob_1,ancestor,Azmaveth_4,explicit,EZR 2:24,"based on the ""of Israel"" of EZR 2:2"
-Azmaveth_4:Jacob_1:4094,4094,Azmaveth_4,descendant,Jacob_1,inferred,EZR 2:24,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Nebo_1:4095,4095,Jacob_1,ancestor,Nebo_1,explicit,EZR 2:29,"based on the ""of Israel"" of EZR 2:2"
-Nebo_1:Jacob_1:4096,4096,Nebo_1,descendant,Jacob_1,inferred,EZR 2:29,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Magbish_1:4097,4097,Jacob_1,ancestor,Magbish_1,explicit,EZR 2:30,"based on the ""of Israel"" of EZR 2:2"
-Magbish_1:Jacob_1:4098,4098,Magbish_1,descendant,Jacob_1,inferred,EZR 2:30,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Elam_5:4099,4099,Jacob_1,ancestor,Elam_5,explicit,EZR 2:31,"based on the ""of Israel"" of EZR 2:2"
-Elam_5:Jacob_1:4100,4100,Elam_5,descendant,Jacob_1,inferred,EZR 2:31,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Harim_2:4101,4101,Jacob_1,ancestor,Harim_2,explicit,EZR 2:32,"based on the ""of Israel"" of EZR 2:2"
-Harim_2:Jacob_1:4102,4102,Harim_2,descendant,Jacob_1,inferred,EZR 2:32,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Lod_1:4103,4103,Jacob_1,ancestor,Lod_1,explicit,EZR 2:33,"based on the ""of Israel"" of EZR 2:2"
-Lod_1:Jacob_1:4104,4104,Lod_1,descendant,Jacob_1,inferred,EZR 2:33,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Hadid_1:4105,4105,Jacob_1,ancestor,Hadid_1,explicit,EZR 2:33,"based on the ""of Israel"" of EZR 2:2"
-Hadid_1:Jacob_1:4106,4106,Hadid_1,descendant,Jacob_1,inferred,EZR 2:33,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Ono_1:4107,4107,Jacob_1,ancestor,Ono_1,explicit,EZR 2:33,"based on the ""of Israel"" of EZR 2:2"
-Ono_1:Jacob_1:4108,4108,Ono_1,descendant,Jacob_1,inferred,EZR 2:33,"based on the ""of Israel"" of EZR 2:2"
-Jacob_1:Senaah_1:4109,4109,Jacob_1,ancestor,Senaah_1,explicit,EZR 2:35,"based on the ""of Israel"" of EZR 2:2"
-Senaah_1:Jacob_1:4110,4110,Senaah_1,descendant,Jacob_1,inferred,EZR 2:35,"based on the ""of Israel"" of EZR 2:2"
-Aaron_1:Harim_3:4111,4111,Aaron_1,ancestor,Harim_3,inferred,EZR 2:39,called out as priest (descendant of Aaron) in NEH 10:8
-Harim_3:Aaron_1:4112,4112,Harim_3,descendant,Aaron_1,explicit,EZR 2:39,called out as priest (descendant of Aaron) in NEH 10:8
-Hodaviah_5:Jeshua_5:4113,4113,Hodaviah_5,ancestor,Jeshua_5,explicit,EZR 2:40,
-Jeshua_5:Hodaviah_5:4114,4114,Jeshua_5,descendant,Hodaviah_5,inferred,EZR 2:40,
-Hodaviah_5:Kadmiel_1:4115,4115,Hodaviah_5,ancestor,Kadmiel_1,explicit,EZR 2:40,
-Kadmiel_1:Hodaviah_5:4116,4116,Kadmiel_1,descendant,Hodaviah_5,inferred,EZR 2:40,
-Levi_1:Hodaviah_5:4117,4117,Levi_1,ancestor,Hodaviah_5,explicit,EZR 2:40,
-Hodaviah_5:Levi_1:4118,4118,Hodaviah_5,descendant,Levi_1,inferred,EZR 2:40,
-Levi_1:Ater_2:4119,4119,Levi_1,ancestor,Ater_2,explicit,EZR 2:42,Levitical gatekeepers
-Ater_2:Levi_1:4120,4120,Ater_2,descendant,Levi_1,inferred,EZR 2:42,Levitical gatekeepers
-Levi_1:Hatita_1:4121,4121,Levi_1,ancestor,Hatita_1,explicit,EZR 2:42,Levitical gatekeepers
-Hatita_1:Levi_1:4122,4122,Hatita_1,descendant,Levi_1,inferred,EZR 2:42,Levitical gatekeepers
-Levi_1:Shobai_1:4123,4123,Levi_1,ancestor,Shobai_1,explicit,EZR 2:42,Levitical gatekeepers
-Shobai_1:Levi_1:4124,4124,Shobai_1,descendant,Levi_1,inferred,EZR 2:42,Levitical gatekeepers
-Levi_1:Ziha_1:4125,4125,Levi_1,ancestor,Ziha_1,explicit,EZR 2:43,Levitical temple servants (EZR 2:43)
-Ziha_1:Levi_1:4126,4126,Ziha_1,descendant,Levi_1,inferred,EZR 2:43,Levitical temple servants (EZR 2:43)
-Levi_1:Hasupha_1:4127,4127,Levi_1,ancestor,Hasupha_1,explicit,EZR 2:43,Levitical temple servants (EZR 2:43)
-Hasupha_1:Levi_1:4128,4128,Hasupha_1,descendant,Levi_1,inferred,EZR 2:43,Levitical temple servants (EZR 2:43)
-Levi_1:Tabbaoth_1:4129,4129,Levi_1,ancestor,Tabbaoth_1,explicit,EZR 2:43,Levitical temple servants (EZR 2:43)
-Tabbaoth_1:Levi_1:4130,4130,Tabbaoth_1,descendant,Levi_1,inferred,EZR 2:43,Levitical temple servants (EZR 2:43)
-Levi_1:Keros_1:4131,4131,Levi_1,ancestor,Keros_1,explicit,EZR 2:44,Levitical temple servants (EZR 2:43)
-Keros_1:Levi_1:4132,4132,Keros_1,descendant,Levi_1,inferred,EZR 2:44,Levitical temple servants (EZR 2:43)
-Levi_1:Siaha_1:4133,4133,Levi_1,ancestor,Siaha_1,explicit,EZR 2:44,Levitical temple servants (EZR 2:43)
-Siaha_1:Levi_1:4134,4134,Siaha_1,descendant,Levi_1,inferred,EZR 2:44,Levitical temple servants (EZR 2:43)
-Levi_1:Padon_1:4135,4135,Levi_1,ancestor,Padon_1,explicit,EZR 2:44,Levitical temple servants (EZR 2:43)
-Padon_1:Levi_1:4136,4136,Padon_1,descendant,Levi_1,inferred,EZR 2:44,Levitical temple servants (EZR 2:43)
-Levi_1:Lebanah_1:4137,4137,Levi_1,ancestor,Lebanah_1,explicit,EZR 2:45,Levitical temple servants (EZR 2:43)
-Lebanah_1:Levi_1:4138,4138,Lebanah_1,descendant,Levi_1,inferred,EZR 2:45,Levitical temple servants (EZR 2:43)
-Levi_1:Hagabah_1:4139,4139,Levi_1,ancestor,Hagabah_1,explicit,EZR 2:45,Levitical temple servants (EZR 2:43)
-Hagabah_1:Levi_1:4140,4140,Hagabah_1,descendant,Levi_1,inferred,EZR 2:45,Levitical temple servants (EZR 2:43)
-Levi_1:Akkub_3:4141,4141,Levi_1,ancestor,Akkub_3,explicit,EZR 2:45,Levitical temple servants (EZR 2:43)
-Akkub_3:Levi_1:4142,4142,Akkub_3,descendant,Levi_1,inferred,EZR 2:45,Levitical temple servants (EZR 2:43)
-Levi_1:Hagab_1:4143,4143,Levi_1,ancestor,Hagab_1,explicit,EZR 2:46,Levitical temple servants (EZR 2:43)
-Hagab_1:Levi_1:4144,4144,Hagab_1,descendant,Levi_1,inferred,EZR 2:46,Levitical temple servants (EZR 2:43)
-Levi_1:Shalmai_1:4145,4145,Levi_1,ancestor,Shalmai_1,explicit,EZR 2:46,Levitical temple servants (EZR 2:43)
-Shalmai_1:Levi_1:4146,4146,Shalmai_1,descendant,Levi_1,inferred,EZR 2:46,Levitical temple servants (EZR 2:43)
-Levi_1:Hanan_4:4147,4147,Levi_1,ancestor,Hanan_4,explicit,EZR 2:46,Levitical temple servants (EZR 2:43)
-Hanan_4:Levi_1:4148,4148,Hanan_4,descendant,Levi_1,inferred,EZR 2:46,Levitical temple servants (EZR 2:43)
-Levi_1:Giddel_1:4149,4149,Levi_1,ancestor,Giddel_1,explicit,EZR 2:47,Levitical temple servants (EZR 2:43)
-Giddel_1:Levi_1:4150,4150,Giddel_1,descendant,Levi_1,inferred,EZR 2:47,Levitical temple servants (EZR 2:43)
-Levi_1:Gahar_1:4151,4151,Levi_1,ancestor,Gahar_1,explicit,EZR 2:47,Levitical temple servants (EZR 2:43)
-Gahar_1:Levi_1:4152,4152,Gahar_1,descendant,Levi_1,inferred,EZR 2:47,Levitical temple servants (EZR 2:43)
-Levi_1:Reaiah_3:4153,4153,Levi_1,ancestor,Reaiah_3,explicit,EZR 2:47,Levitical temple servants (EZR 2:43)
-Reaiah_3:Levi_1:4154,4154,Reaiah_3,descendant,Levi_1,inferred,EZR 2:47,Levitical temple servants (EZR 2:43)
-Levi_1:Rezin_2:4155,4155,Levi_1,ancestor,Rezin_2,explicit,EZR 2:48,Levitical temple servants (EZR 2:43)
-Rezin_2:Levi_1:4156,4156,Rezin_2,descendant,Levi_1,inferred,EZR 2:48,Levitical temple servants (EZR 2:43)
-Levi_1:Nekoda_1:4157,4157,Levi_1,ancestor,Nekoda_1,explicit,EZR 2:48,Levitical temple servants (EZR 2:43)
-Nekoda_1:Levi_1:4158,4158,Nekoda_1,descendant,Levi_1,inferred,EZR 2:48,Levitical temple servants (EZR 2:43)
-Levi_1:Gazzam_1:4159,4159,Levi_1,ancestor,Gazzam_1,explicit,EZR 2:48,Levitical temple servants (EZR 2:43)
-Gazzam_1:Levi_1:4160,4160,Gazzam_1,descendant,Levi_1,inferred,EZR 2:48,Levitical temple servants (EZR 2:43)
-Levi_1:Uzza_2:4161,4161,Levi_1,ancestor,Uzza_2,explicit,EZR 2:49,Levitical temple servants (EZR 2:43)
-Uzza_2:Levi_1:4162,4162,Uzza_2,descendant,Levi_1,inferred,EZR 2:49,Levitical temple servants (EZR 2:43)
-Levi_1:Paseah_2:4163,4163,Levi_1,ancestor,Paseah_2,explicit,EZR 2:49,Levitical temple servants (EZR 2:43)
-Paseah_2:Levi_1:4164,4164,Paseah_2,descendant,Levi_1,inferred,EZR 2:49,Levitical temple servants (EZR 2:43)
-Levi_1:Besai_1:4165,4165,Levi_1,ancestor,Besai_1,explicit,EZR 2:49,Levitical temple servants (EZR 2:43)
-Besai_1:Levi_1:4166,4166,Besai_1,descendant,Levi_1,inferred,EZR 2:49,Levitical temple servants (EZR 2:43)
-Levi_1:Asnah_1:4167,4167,Levi_1,ancestor,Asnah_1,explicit,EZR 2:50,Levitical temple servants (EZR 2:43)
-Asnah_1:Levi_1:4168,4168,Asnah_1,descendant,Levi_1,inferred,EZR 2:50,Levitical temple servants (EZR 2:43)
-Levi_1:Meunim_1:4169,4169,Levi_1,ancestor,Meunim_1,explicit,EZR 2:50,Levitical temple servants (EZR 2:43)
-Meunim_1:Levi_1:4170,4170,Meunim_1,descendant,Levi_1,inferred,EZR 2:50,Levitical temple servants (EZR 2:43)
-Levi_1:Nephisim_1:4171,4171,Levi_1,ancestor,Nephisim_1,explicit,EZR 2:50,Levitical temple servants (EZR 2:43)
-Nephisim_1:Levi_1:4172,4172,Nephisim_1,descendant,Levi_1,inferred,EZR 2:50,Levitical temple servants (EZR 2:43)
-Levi_1:Bakbuk_1:4173,4173,Levi_1,ancestor,Bakbuk_1,explicit,EZR 2:51,Levitical temple servants (EZR 2:43)
-Bakbuk_1:Levi_1:4174,4174,Bakbuk_1,descendant,Levi_1,inferred,EZR 2:51,Levitical temple servants (EZR 2:43)
-Levi_1:Hakupha_1:4175,4175,Levi_1,ancestor,Hakupha_1,explicit,EZR 2:51,Levitical temple servants (EZR 2:43)
-Hakupha_1:Levi_1:4176,4176,Hakupha_1,descendant,Levi_1,inferred,EZR 2:51,Levitical temple servants (EZR 2:43)
-Levi_1:Harhur_1:4177,4177,Levi_1,ancestor,Harhur_1,explicit,EZR 2:51,Levitical temple servants (EZR 2:43)
-Harhur_1:Levi_1:4178,4178,Harhur_1,descendant,Levi_1,inferred,EZR 2:51,Levitical temple servants (EZR 2:43)
-Levi_1:Bazluth_1:4179,4179,Levi_1,ancestor,Bazluth_1,explicit,EZR 2:52,Levitical temple servants (EZR 2:43)
-Bazluth_1:Levi_1:4180,4180,Bazluth_1,descendant,Levi_1,inferred,EZR 2:52,Levitical temple servants (EZR 2:43)
-Levi_1:Mehida_1:4181,4181,Levi_1,ancestor,Mehida_1,explicit,EZR 2:52,Levitical temple servants (EZR 2:43)
-Mehida_1:Levi_1:4182,4182,Mehida_1,descendant,Levi_1,inferred,EZR 2:52,Levitical temple servants (EZR 2:43)
-Levi_1:Harsha_1:4183,4183,Levi_1,ancestor,Harsha_1,explicit,EZR 2:52,Levitical temple servants (EZR 2:43)
-Harsha_1:Levi_1:4184,4184,Harsha_1,descendant,Levi_1,inferred,EZR 2:52,Levitical temple servants (EZR 2:43)
-Levi_1:Barkos_1:4185,4185,Levi_1,ancestor,Barkos_1,explicit,EZR 2:53,Levitical temple servants (EZR 2:43)
-Barkos_1:Levi_1:4186,4186,Barkos_1,descendant,Levi_1,inferred,EZR 2:53,Levitical temple servants (EZR 2:43)
-Levi_1:Sisera_2:4187,4187,Levi_1,ancestor,Sisera_2,explicit,EZR 2:53,Levitical temple servants (EZR 2:43)
-Sisera_2:Levi_1:4188,4188,Sisera_2,descendant,Levi_1,inferred,EZR 2:53,Levitical temple servants (EZR 2:43)
-Levi_1:Temah_1:4189,4189,Levi_1,ancestor,Temah_1,explicit,EZR 2:53,Levitical temple servants (EZR 2:43)
-Temah_1:Levi_1:4190,4190,Temah_1,descendant,Levi_1,inferred,EZR 2:53,Levitical temple servants (EZR 2:43)
-Levi_1:Neziah_1:4191,4191,Levi_1,ancestor,Neziah_1,explicit,EZR 2:54,Levitical temple servants (EZR 2:43)
-Neziah_1:Levi_1:4192,4192,Neziah_1,descendant,Levi_1,inferred,EZR 2:54,Levitical temple servants (EZR 2:43)
-Levi_1:Hatipha_1:4193,4193,Levi_1,ancestor,Hatipha_1,explicit,EZR 2:54,Levitical temple servants (EZR 2:43)
-Hatipha_1:Levi_1:4194,4194,Hatipha_1,descendant,Levi_1,inferred,EZR 2:54,Levitical temple servants (EZR 2:43)
-Jozadak_1:Jeshua_3:4195,4195,Jozadak_1,father,Jeshua_3,inferred,EZR 3:2,
-Jeshua_3:Jozadak_1:4196,4196,Jeshua_3,son,Jozadak_1,explicit,EZR 3:2,
-Aaron_1:Jozadak_1:4197,4197,Aaron_1,ancestor,Jozadak_1,inferred,EZR 3:2,"""the priests"" rather than ""Levites"" (EZR 3:2)"
-Jozadak_1:Aaron_1:4198,4198,Jozadak_1,descendant,Aaron_1,inferred,EZR 3:2,"""the priests"" rather than ""Levites"" (EZR 3:2)"
+Korah_3:Kore_1:4009,4009,Korah_3,ancestor,Kore_1,inferred,1CH 9:19,Ebiasaph is the father of Kore (2CH 31:14) who is a decsendant of Korah (1CH 9:19)
+Kore_1:Korah_3:4010,4010,Kore_1,descendant,Korah_3,inferred,1CH 9:19,Ebiasaph is the father of Kore (2CH 31:14) who is a decsendant of Korah (1CH 9:19)
+Levi_1:Imnah_2:4011,4011,Levi_1,ancestor,Imnah_2,inferred,2CH 31:14,
+Imnah_2:Levi_1:4012,4012,Imnah_2,descendant,Levi_1,explicit,2CH 31:14,
+Imnah_2:Kore_2:4013,4013,Imnah_2,father,Kore_2,inferred,2CH 31:14,
+Kore_2:Imnah_2:4014,4014,Kore_2,son,Imnah_2,explicit,2CH 31:14,
+Levi_1:Miniamin_1:4015,4015,Levi_1,father,Miniamin_1,inferred,2CH 31:15,inferred that these are Levites serving their brothers
+Miniamin_1:Levi_1:4016,4016,Miniamin_1,son,Levi_1,inferred,2CH 31:15,inferred that these are Levites serving their brothers
+Levi_1:Jeshua_2:4017,4017,Levi_1,father,Jeshua_2,inferred,2CH 31:15,inferred that these are Levites serving their brothers
+Jeshua_2:Levi_1:4018,4018,Jeshua_2,son,Levi_1,inferred,2CH 31:15,inferred that these are Levites serving their brothers
+Levi_1:Shemaiah_12:4019,4019,Levi_1,father,Shemaiah_12,inferred,2CH 31:15,inferred that these are Levites serving their brothers
+Shemaiah_12:Levi_1:4020,4020,Shemaiah_12,son,Levi_1,inferred,2CH 31:15,inferred that these are Levites serving their brothers
+Levi_1:Amariah_4:4021,4021,Levi_1,father,Amariah_4,inferred,2CH 31:15,inferred that these are Levites serving their brothers
+Amariah_4:Levi_1:4022,4022,Amariah_4,son,Levi_1,inferred,2CH 31:15,inferred that these are Levites serving their brothers
+Levi_1:Shecaniah_3:4023,4023,Levi_1,father,Shecaniah_3,inferred,2CH 31:15,inferred that these are Levites serving their brothers
+Shecaniah_3:Levi_1:4024,4024,Shecaniah_3,son,Levi_1,inferred,2CH 31:15,inferred that these are Levites serving their brothers
+Joahaz_1:Joah_4:4025,4025,Joahaz_1,father,Joah_4,inferred,2CH 34:8,
+Joah_4:Joahaz_1:4026,4026,Joah_4,son,Joahaz_1,explicit,2CH 34:8,
+Merari_1:Jahath_6:4027,4027,Merari_1,ancestor,Jahath_6,inferred,2CH 34:12,
+Jahath_6:Merari_1:4028,4028,Jahath_6,descendant,Merari_1,explicit,2CH 34:12,
+Merari_1:Obadiah_8:4029,4029,Merari_1,ancestor,Obadiah_8,inferred,2CH 34:12,
+Obadiah_8:Merari_1:4030,4030,Obadiah_8,descendant,Merari_1,explicit,2CH 34:12,
+Kohath_1:Zechariah_15:4031,4031,Kohath_1,ancestor,Zechariah_15,inferred,2CH 34:12,
+Zechariah_15:Kohath_1:4032,4032,Zechariah_15,descendant,Kohath_1,explicit,2CH 34:12,
+Kohath_1:Meshullam_7:4033,4033,Kohath_1,ancestor,Meshullam_7,inferred,2CH 34:12,
+Meshullam_7:Kohath_1:4034,4034,Meshullam_7,descendant,Kohath_1,explicit,2CH 34:12,
+Judah_1:Sheshbazzar_1:4035,4035,Judah_1,ancestor,Sheshbazzar_1,inferred,EZR 1:8,
+Sheshbazzar_1:Judah_1:4036,4036,Sheshbazzar_1,descendant,Judah_1,explicit,EZR 1:8,
+Jacob_1:Zerubbabel_2:4037,4037,Jacob_1,ancestor,Zerubbabel_2,explicit,EZR 2:2,
+Zerubbabel_2:Jacob_1:4038,4038,Zerubbabel_2,descendant,Jacob_1,inferred,EZR 2:2,
+Jacob_1:Jeshua_3:4039,4039,Jacob_1,ancestor,Jeshua_3,explicit,EZR 2:2,
+Jeshua_3:Jacob_1:4040,4040,Jeshua_3,descendant,Jacob_1,inferred,EZR 2:2,
+Jacob_1:Nehemiah_1:4041,4041,Jacob_1,ancestor,Nehemiah_1,explicit,EZR 2:2,
+Nehemiah_1:Jacob_1:4042,4042,Nehemiah_1,descendant,Jacob_1,inferred,EZR 2:2,
+Jacob_1:Reelaiah_1:4043,4043,Jacob_1,ancestor,Reelaiah_1,explicit,EZR 2:2,
+Reelaiah_1:Jacob_1:4044,4044,Reelaiah_1,descendant,Jacob_1,inferred,EZR 2:2,
+Jacob_1:Mordecai_1:4045,4045,Jacob_1,ancestor,Mordecai_1,explicit,EZR 2:2,
+Mordecai_1:Jacob_1:4046,4046,Mordecai_1,descendant,Jacob_1,inferred,EZR 2:2,
+Jacob_1:Bilshan_1:4047,4047,Jacob_1,ancestor,Bilshan_1,explicit,EZR 2:2,
+Bilshan_1:Jacob_1:4048,4048,Bilshan_1,descendant,Jacob_1,inferred,EZR 2:2,
+Jacob_1:Mispar_1:4049,4049,Jacob_1,ancestor,Mispar_1,explicit,EZR 2:2,
+Mispar_1:Jacob_1:4050,4050,Mispar_1,descendant,Jacob_1,inferred,EZR 2:2,
+Jacob_1:Bigvai_1:4051,4051,Jacob_1,ancestor,Bigvai_1,explicit,EZR 2:2,
+Bigvai_1:Jacob_1:4052,4052,Bigvai_1,descendant,Jacob_1,inferred,EZR 2:2,
+Jacob_1:Rehum_1:4053,4053,Jacob_1,ancestor,Rehum_1,explicit,EZR 2:2,
+Rehum_1:Jacob_1:4054,4054,Rehum_1,descendant,Jacob_1,inferred,EZR 2:2,
+Jacob_1:Baanah_3:4055,4055,Jacob_1,ancestor,Baanah_3,explicit,EZR 2:2,
+Baanah_3:Jacob_1:4056,4056,Baanah_3,descendant,Jacob_1,inferred,EZR 2:2,
+Jacob_1:Parosh_1:4057,4057,Jacob_1,ancestor,Parosh_1,explicit,EZR 2:3,"based on the ""of Israel"" of EZR 2:2"
+Parosh_1:Jacob_1:4058,4058,Parosh_1,descendant,Jacob_1,inferred,EZR 2:3,"based on the ""of Israel"" of EZR 2:2"
+Jacob_1:Shephatiah_5:4059,4059,Jacob_1,ancestor,Shephatiah_5,explicit,EZR 2:4,"based on the ""of Israel"" of EZR 2:2"
+Shephatiah_5:Jacob_1:4060,4060,Shephatiah_5,descendant,Jacob_1,inferred,EZR 2:4,"based on the ""of Israel"" of EZR 2:2"
+Jacob_1:Arah_2:4061,4061,Jacob_1,ancestor,Arah_2,explicit,EZR 2:5,"based on the ""of Israel"" of EZR 2:2"
+Arah_2:Jacob_1:4062,4062,Arah_2,descendant,Jacob_1,inferred,EZR 2:5,"based on the ""of Israel"" of EZR 2:2"
+Jacob_1:Pahath-moab_1:4063,4063,Jacob_1,ancestor,Pahath-moab_1,explicit,EZR 2:6,"based on the ""of Israel"" of EZR 2:2"
+Pahath-moab_1:Jacob_1:4064,4064,Pahath-moab_1,descendant,Jacob_1,inferred,EZR 2:6,"based on the ""of Israel"" of EZR 2:2"
+Jacob_1:Joab_3:4065,4065,Jacob_1,ancestor,Joab_3,explicit,EZR 2:6,"based on the ""of Israel"" of EZR 2:2"
+Joab_3:Jacob_1:4066,4066,Joab_3,descendant,Jacob_1,inferred,EZR 2:6,"based on the ""of Israel"" of EZR 2:2"
+Jacob_1:Elam_4:4067,4067,Jacob_1,ancestor,Elam_4,explicit,EZR 2:7,"based on the ""of Israel"" of EZR 2:2"
+Elam_4:Jacob_1:4068,4068,Elam_4,descendant,Jacob_1,inferred,EZR 2:7,"based on the ""of Israel"" of EZR 2:2"
+Jacob_1:Zattu_1:4069,4069,Jacob_1,ancestor,Zattu_1,explicit,EZR 2:8,"based on the ""of Israel"" of EZR 2:2"
+Zattu_1:Jacob_1:4070,4070,Zattu_1,descendant,Jacob_1,inferred,EZR 2:8,"based on the ""of Israel"" of EZR 2:2"
+Jacob_1:Zaccai_1:4071,4071,Jacob_1,ancestor,Zaccai_1,explicit,EZR 2:9,"based on the ""of Israel"" of EZR 2:2"
+Zaccai_1:Jacob_1:4072,4072,Zaccai_1,descendant,Jacob_1,inferred,EZR 2:9,"based on the ""of Israel"" of EZR 2:2"
+Jacob_1:Bani_4:4073,4073,Jacob_1,ancestor,Bani_4,explicit,EZR 2:10,"based on the ""of Israel"" of EZR 2:2"
+Bani_4:Jacob_1:4074,4074,Bani_4,descendant,Jacob_1,inferred,EZR 2:10,"based on the ""of Israel"" of EZR 2:2"
+Jacob_1:Bebai_1:4075,4075,Jacob_1,ancestor,Bebai_1,explicit,EZR 2:11,"based on the ""of Israel"" of EZR 2:2"
+Bebai_1:Jacob_1:4076,4076,Bebai_1,descendant,Jacob_1,inferred,EZR 2:11,"based on the ""of Israel"" of EZR 2:2"
+Jacob_1:Azgad_1:4077,4077,Jacob_1,ancestor,Azgad_1,explicit,EZR 2:12,"based on the ""of Israel"" of EZR 2:2"
+Azgad_1:Jacob_1:4078,4078,Azgad_1,descendant,Jacob_1,inferred,EZR 2:12,"based on the ""of Israel"" of EZR 2:2"
+Jacob_1:Adonikam_1:4079,4079,Jacob_1,ancestor,Adonikam_1,explicit,EZR 2:13,"based on the ""of Israel"" of EZR 2:2"
+Adonikam_1:Jacob_1:4080,4080,Adonikam_1,descendant,Jacob_1,inferred,EZR 2:13,"based on the ""of Israel"" of EZR 2:2"
+Jacob_1:Adin_1:4081,4081,Jacob_1,ancestor,Adin_1,explicit,EZR 2:15,"based on the ""of Israel"" of EZR 2:2"
+Adin_1:Jacob_1:4082,4082,Adin_1,descendant,Jacob_1,inferred,EZR 2:15,"based on the ""of Israel"" of EZR 2:2"
+Hezekiah_2:Ater_1:4083,4083,Hezekiah_2,ancestor,Ater_1,explicit,EZR 2:16,"based on the ""of Israel"" of EZR 2:2"
+Ater_1:Hezekiah_2:4084,4084,Ater_1,descendant,Hezekiah_2,inferred,EZR 2:16,"based on the ""of Israel"" of EZR 2:2"
+Jacob_1:Hezekiah_2:4085,4085,Jacob_1,ancestor,Hezekiah_2,explicit,EZR 2:16,"based on the ""of Israel"" of EZR 2:2"
+Hezekiah_2:Jacob_1:4086,4086,Hezekiah_2,descendant,Jacob_1,inferred,EZR 2:16,"based on the ""of Israel"" of EZR 2:2"
+Jacob_1:Bezai_1:4087,4087,Jacob_1,ancestor,Bezai_1,explicit,EZR 2:17,"based on the ""of Israel"" of EZR 2:2"
+Bezai_1:Jacob_1:4088,4088,Bezai_1,descendant,Jacob_1,inferred,EZR 2:17,"based on the ""of Israel"" of EZR 2:2"
+Jacob_1:Jorah_1:4089,4089,Jacob_1,ancestor,Jorah_1,explicit,EZR 2:18,"based on the ""of Israel"" of EZR 2:2"
+Jorah_1:Jacob_1:4090,4090,Jorah_1,descendant,Jacob_1,inferred,EZR 2:18,"based on the ""of Israel"" of EZR 2:2"
+Jacob_1:Hashum_1:4091,4091,Jacob_1,ancestor,Hashum_1,explicit,EZR 2:19,"based on the ""of Israel"" of EZR 2:2"
+Hashum_1:Jacob_1:4092,4092,Hashum_1,descendant,Jacob_1,inferred,EZR 2:19,"based on the ""of Israel"" of EZR 2:2"
+Jacob_1:Gibbar_1:4093,4093,Jacob_1,ancestor,Gibbar_1,explicit,EZR 2:20,"based on the ""of Israel"" of EZR 2:2"
+Gibbar_1:Jacob_1:4094,4094,Gibbar_1,descendant,Jacob_1,inferred,EZR 2:20,"based on the ""of Israel"" of EZR 2:2"
+Jacob_1:Azmaveth_4:4095,4095,Jacob_1,ancestor,Azmaveth_4,explicit,EZR 2:24,"based on the ""of Israel"" of EZR 2:2"
+Azmaveth_4:Jacob_1:4096,4096,Azmaveth_4,descendant,Jacob_1,inferred,EZR 2:24,"based on the ""of Israel"" of EZR 2:2"
+Jacob_1:Nebo_1:4097,4097,Jacob_1,ancestor,Nebo_1,explicit,EZR 2:29,"based on the ""of Israel"" of EZR 2:2"
+Nebo_1:Jacob_1:4098,4098,Nebo_1,descendant,Jacob_1,inferred,EZR 2:29,"based on the ""of Israel"" of EZR 2:2"
+Jacob_1:Magbish_1:4099,4099,Jacob_1,ancestor,Magbish_1,explicit,EZR 2:30,"based on the ""of Israel"" of EZR 2:2"
+Magbish_1:Jacob_1:4100,4100,Magbish_1,descendant,Jacob_1,inferred,EZR 2:30,"based on the ""of Israel"" of EZR 2:2"
+Jacob_1:Elam_5:4101,4101,Jacob_1,ancestor,Elam_5,explicit,EZR 2:31,"based on the ""of Israel"" of EZR 2:2"
+Elam_5:Jacob_1:4102,4102,Elam_5,descendant,Jacob_1,inferred,EZR 2:31,"based on the ""of Israel"" of EZR 2:2"
+Jacob_1:Harim_2:4103,4103,Jacob_1,ancestor,Harim_2,explicit,EZR 2:32,"based on the ""of Israel"" of EZR 2:2"
+Harim_2:Jacob_1:4104,4104,Harim_2,descendant,Jacob_1,inferred,EZR 2:32,"based on the ""of Israel"" of EZR 2:2"
+Jacob_1:Senaah_1:4105,4105,Jacob_1,ancestor,Senaah_1,explicit,EZR 2:35,"based on the ""of Israel"" of EZR 2:2"
+Senaah_1:Jacob_1:4106,4106,Senaah_1,descendant,Jacob_1,inferred,EZR 2:35,"based on the ""of Israel"" of EZR 2:2"
+Jeshua_1:Jedaiah_2:4107,4107,Jeshua_1,ancestor,Jedaiah_2,inferred,EZR 2:36,"Jeshua_1 based on the ""house of"" dynasty of the priesthood"
+Jedaiah_2:Jeshua_1:4108,4108,Jedaiah_2,descendant,Jeshua_1,explicit,EZR 2:36,"Jeshua_1 based on the ""house of"" dynasty of the priesthood"
+Aaron_1:Harim_3:4109,4109,Aaron_1,ancestor,Harim_3,inferred,EZR 2:39,called out as priest (descendant of Aaron) in NEH 10:8
+Harim_3:Aaron_1:4110,4110,Harim_3,descendant,Aaron_1,explicit,EZR 2:39,called out as priest (descendant of Aaron) in NEH 10:8
+Hodaviah_5:Jeshua_5:4111,4111,Hodaviah_5,ancestor,Jeshua_5,explicit,EZR 2:40,
+Jeshua_5:Hodaviah_5:4112,4112,Jeshua_5,descendant,Hodaviah_5,inferred,EZR 2:40,
+Hodaviah_5:Kadmiel_1:4113,4113,Hodaviah_5,ancestor,Kadmiel_1,explicit,EZR 2:40,
+Kadmiel_1:Hodaviah_5:4114,4114,Kadmiel_1,descendant,Hodaviah_5,inferred,EZR 2:40,
+Levi_1:Hodaviah_5:4115,4115,Levi_1,ancestor,Hodaviah_5,explicit,EZR 2:40,
+Hodaviah_5:Levi_1:4116,4116,Hodaviah_5,descendant,Levi_1,inferred,EZR 2:40,
+Levi_1:Ater_2:4117,4117,Levi_1,ancestor,Ater_2,explicit,EZR 2:42,Levitical gatekeepers
+Ater_2:Levi_1:4118,4118,Ater_2,descendant,Levi_1,inferred,EZR 2:42,Levitical gatekeepers
+Levi_1:Hatita_1:4119,4119,Levi_1,ancestor,Hatita_1,explicit,EZR 2:42,Levitical gatekeepers
+Hatita_1:Levi_1:4120,4120,Hatita_1,descendant,Levi_1,inferred,EZR 2:42,Levitical gatekeepers
+Levi_1:Shobai_1:4121,4121,Levi_1,ancestor,Shobai_1,explicit,EZR 2:42,Levitical gatekeepers
+Shobai_1:Levi_1:4122,4122,Shobai_1,descendant,Levi_1,inferred,EZR 2:42,Levitical gatekeepers
+Levi_1:Ziha_1:4123,4123,Levi_1,ancestor,Ziha_1,explicit,EZR 2:43,Levitical temple servants (EZR 2:43)
+Ziha_1:Levi_1:4124,4124,Ziha_1,descendant,Levi_1,inferred,EZR 2:43,Levitical temple servants (EZR 2:43)
+Levi_1:Hasupha_1:4125,4125,Levi_1,ancestor,Hasupha_1,explicit,EZR 2:43,Levitical temple servants (EZR 2:43)
+Hasupha_1:Levi_1:4126,4126,Hasupha_1,descendant,Levi_1,inferred,EZR 2:43,Levitical temple servants (EZR 2:43)
+Levi_1:Tabbaoth_1:4127,4127,Levi_1,ancestor,Tabbaoth_1,explicit,EZR 2:43,Levitical temple servants (EZR 2:43)
+Tabbaoth_1:Levi_1:4128,4128,Tabbaoth_1,descendant,Levi_1,inferred,EZR 2:43,Levitical temple servants (EZR 2:43)
+Levi_1:Keros_1:4129,4129,Levi_1,ancestor,Keros_1,explicit,EZR 2:44,Levitical temple servants (EZR 2:43)
+Keros_1:Levi_1:4130,4130,Keros_1,descendant,Levi_1,inferred,EZR 2:44,Levitical temple servants (EZR 2:43)
+Levi_1:Siaha_1:4131,4131,Levi_1,ancestor,Siaha_1,explicit,EZR 2:44,Levitical temple servants (EZR 2:43)
+Siaha_1:Levi_1:4132,4132,Siaha_1,descendant,Levi_1,inferred,EZR 2:44,Levitical temple servants (EZR 2:43)
+Levi_1:Padon_1:4133,4133,Levi_1,ancestor,Padon_1,explicit,EZR 2:44,Levitical temple servants (EZR 2:43)
+Padon_1:Levi_1:4134,4134,Padon_1,descendant,Levi_1,inferred,EZR 2:44,Levitical temple servants (EZR 2:43)
+Levi_1:Lebanah_1:4135,4135,Levi_1,ancestor,Lebanah_1,explicit,EZR 2:45,Levitical temple servants (EZR 2:43)
+Lebanah_1:Levi_1:4136,4136,Lebanah_1,descendant,Levi_1,inferred,EZR 2:45,Levitical temple servants (EZR 2:43)
+Levi_1:Hagabah_1:4137,4137,Levi_1,ancestor,Hagabah_1,explicit,EZR 2:45,Levitical temple servants (EZR 2:43)
+Hagabah_1:Levi_1:4138,4138,Hagabah_1,descendant,Levi_1,inferred,EZR 2:45,Levitical temple servants (EZR 2:43)
+Levi_1:Akkub_3:4139,4139,Levi_1,ancestor,Akkub_3,explicit,EZR 2:45,Levitical temple servants (EZR 2:43)
+Akkub_3:Levi_1:4140,4140,Akkub_3,descendant,Levi_1,inferred,EZR 2:45,Levitical temple servants (EZR 2:43)
+Levi_1:Hagab_1:4141,4141,Levi_1,ancestor,Hagab_1,explicit,EZR 2:46,Levitical temple servants (EZR 2:43)
+Hagab_1:Levi_1:4142,4142,Hagab_1,descendant,Levi_1,inferred,EZR 2:46,Levitical temple servants (EZR 2:43)
+Levi_1:Shalmai_1:4143,4143,Levi_1,ancestor,Shalmai_1,explicit,EZR 2:46,Levitical temple servants (EZR 2:43)
+Shalmai_1:Levi_1:4144,4144,Shalmai_1,descendant,Levi_1,inferred,EZR 2:46,Levitical temple servants (EZR 2:43)
+Levi_1:Hanan_4:4145,4145,Levi_1,ancestor,Hanan_4,explicit,EZR 2:46,Levitical temple servants (EZR 2:43)
+Hanan_4:Levi_1:4146,4146,Hanan_4,descendant,Levi_1,inferred,EZR 2:46,Levitical temple servants (EZR 2:43)
+Levi_1:Giddel_1:4147,4147,Levi_1,ancestor,Giddel_1,explicit,EZR 2:47,Levitical temple servants (EZR 2:43)
+Giddel_1:Levi_1:4148,4148,Giddel_1,descendant,Levi_1,inferred,EZR 2:47,Levitical temple servants (EZR 2:43)
+Levi_1:Gahar_1:4149,4149,Levi_1,ancestor,Gahar_1,explicit,EZR 2:47,Levitical temple servants (EZR 2:43)
+Gahar_1:Levi_1:4150,4150,Gahar_1,descendant,Levi_1,inferred,EZR 2:47,Levitical temple servants (EZR 2:43)
+Levi_1:Reaiah_3:4151,4151,Levi_1,ancestor,Reaiah_3,explicit,EZR 2:47,Levitical temple servants (EZR 2:43)
+Reaiah_3:Levi_1:4152,4152,Reaiah_3,descendant,Levi_1,inferred,EZR 2:47,Levitical temple servants (EZR 2:43)
+Levi_1:Rezin_2:4153,4153,Levi_1,ancestor,Rezin_2,explicit,EZR 2:48,Levitical temple servants (EZR 2:43)
+Rezin_2:Levi_1:4154,4154,Rezin_2,descendant,Levi_1,inferred,EZR 2:48,Levitical temple servants (EZR 2:43)
+Levi_1:Nekoda_1:4155,4155,Levi_1,ancestor,Nekoda_1,explicit,EZR 2:48,Levitical temple servants (EZR 2:43)
+Nekoda_1:Levi_1:4156,4156,Nekoda_1,descendant,Levi_1,inferred,EZR 2:48,Levitical temple servants (EZR 2:43)
+Levi_1:Gazzam_1:4157,4157,Levi_1,ancestor,Gazzam_1,explicit,EZR 2:48,Levitical temple servants (EZR 2:43)
+Gazzam_1:Levi_1:4158,4158,Gazzam_1,descendant,Levi_1,inferred,EZR 2:48,Levitical temple servants (EZR 2:43)
+Levi_1:Uzza_2:4159,4159,Levi_1,ancestor,Uzza_2,explicit,EZR 2:49,Levitical temple servants (EZR 2:43)
+Uzza_2:Levi_1:4160,4160,Uzza_2,descendant,Levi_1,inferred,EZR 2:49,Levitical temple servants (EZR 2:43)
+Levi_1:Paseah_2:4161,4161,Levi_1,ancestor,Paseah_2,explicit,EZR 2:49,Levitical temple servants (EZR 2:43)
+Paseah_2:Levi_1:4162,4162,Paseah_2,descendant,Levi_1,inferred,EZR 2:49,Levitical temple servants (EZR 2:43)
+Levi_1:Besai_1:4163,4163,Levi_1,ancestor,Besai_1,explicit,EZR 2:49,Levitical temple servants (EZR 2:43)
+Besai_1:Levi_1:4164,4164,Besai_1,descendant,Levi_1,inferred,EZR 2:49,Levitical temple servants (EZR 2:43)
+Levi_1:Asnah_1:4165,4165,Levi_1,ancestor,Asnah_1,explicit,EZR 2:50,Levitical temple servants (EZR 2:43)
+Asnah_1:Levi_1:4166,4166,Asnah_1,descendant,Levi_1,inferred,EZR 2:50,Levitical temple servants (EZR 2:43)
+Levi_1:Meunim_1:4167,4167,Levi_1,ancestor,Meunim_1,explicit,EZR 2:50,Levitical temple servants (EZR 2:43)
+Meunim_1:Levi_1:4168,4168,Meunim_1,descendant,Levi_1,inferred,EZR 2:50,Levitical temple servants (EZR 2:43)
+Levi_1:Nephisim_1:4169,4169,Levi_1,ancestor,Nephisim_1,explicit,EZR 2:50,Levitical temple servants (EZR 2:43)
+Nephisim_1:Levi_1:4170,4170,Nephisim_1,descendant,Levi_1,inferred,EZR 2:50,Levitical temple servants (EZR 2:43)
+Levi_1:Bakbuk_1:4171,4171,Levi_1,ancestor,Bakbuk_1,explicit,EZR 2:51,Levitical temple servants (EZR 2:43)
+Bakbuk_1:Levi_1:4172,4172,Bakbuk_1,descendant,Levi_1,inferred,EZR 2:51,Levitical temple servants (EZR 2:43)
+Levi_1:Hakupha_1:4173,4173,Levi_1,ancestor,Hakupha_1,explicit,EZR 2:51,Levitical temple servants (EZR 2:43)
+Hakupha_1:Levi_1:4174,4174,Hakupha_1,descendant,Levi_1,inferred,EZR 2:51,Levitical temple servants (EZR 2:43)
+Levi_1:Harhur_1:4175,4175,Levi_1,ancestor,Harhur_1,explicit,EZR 2:51,Levitical temple servants (EZR 2:43)
+Harhur_1:Levi_1:4176,4176,Harhur_1,descendant,Levi_1,inferred,EZR 2:51,Levitical temple servants (EZR 2:43)
+Levi_1:Bazluth_1:4177,4177,Levi_1,ancestor,Bazluth_1,explicit,EZR 2:52,Levitical temple servants (EZR 2:43)
+Bazluth_1:Levi_1:4178,4178,Bazluth_1,descendant,Levi_1,inferred,EZR 2:52,Levitical temple servants (EZR 2:43)
+Levi_1:Mehida_1:4179,4179,Levi_1,ancestor,Mehida_1,explicit,EZR 2:52,Levitical temple servants (EZR 2:43)
+Mehida_1:Levi_1:4180,4180,Mehida_1,descendant,Levi_1,inferred,EZR 2:52,Levitical temple servants (EZR 2:43)
+Levi_1:Harsha_1:4181,4181,Levi_1,ancestor,Harsha_1,explicit,EZR 2:52,Levitical temple servants (EZR 2:43)
+Harsha_1:Levi_1:4182,4182,Harsha_1,descendant,Levi_1,inferred,EZR 2:52,Levitical temple servants (EZR 2:43)
+Levi_1:Barkos_1:4183,4183,Levi_1,ancestor,Barkos_1,explicit,EZR 2:53,Levitical temple servants (EZR 2:43)
+Barkos_1:Levi_1:4184,4184,Barkos_1,descendant,Levi_1,inferred,EZR 2:53,Levitical temple servants (EZR 2:43)
+Levi_1:Sisera_2:4185,4185,Levi_1,ancestor,Sisera_2,explicit,EZR 2:53,Levitical temple servants (EZR 2:43)
+Sisera_2:Levi_1:4186,4186,Sisera_2,descendant,Levi_1,inferred,EZR 2:53,Levitical temple servants (EZR 2:43)
+Levi_1:Temah_1:4187,4187,Levi_1,ancestor,Temah_1,explicit,EZR 2:53,Levitical temple servants (EZR 2:43)
+Temah_1:Levi_1:4188,4188,Temah_1,descendant,Levi_1,inferred,EZR 2:53,Levitical temple servants (EZR 2:43)
+Levi_1:Neziah_1:4189,4189,Levi_1,ancestor,Neziah_1,explicit,EZR 2:54,Levitical temple servants (EZR 2:43)
+Neziah_1:Levi_1:4190,4190,Neziah_1,descendant,Levi_1,inferred,EZR 2:54,Levitical temple servants (EZR 2:43)
+Levi_1:Hatipha_1:4191,4191,Levi_1,ancestor,Hatipha_1,explicit,EZR 2:54,Levitical temple servants (EZR 2:43)
+Hatipha_1:Levi_1:4192,4192,Hatipha_1,descendant,Levi_1,inferred,EZR 2:54,Levitical temple servants (EZR 2:43)
+Jozadak_1:Jeshua_3:4193,4193,Jozadak_1,father,Jeshua_3,inferred,EZR 3:2,
+Jeshua_3:Jozadak_1:4194,4194,Jeshua_3,son,Jozadak_1,explicit,EZR 3:2,
+Aaron_1:Jozadak_1:4195,4195,Aaron_1,ancestor,Jozadak_1,inferred,EZR 3:2,"""the priests"" rather than ""Levites"" (EZR 3:2)"
+Jozadak_1:Aaron_1:4196,4196,Jozadak_1,descendant,Aaron_1,inferred,EZR 3:2,"""the priests"" rather than ""Levites"" (EZR 3:2)"
+Shealtiel_2:Zerubbabel_2:4197,4197,Shealtiel_2,father,Zerubbabel_2,inferred,EZR 3:2,
+Zerubbabel_2:Shealtiel_2:4198,4198,Zerubbabel_2,son,Shealtiel_2,explicit,EZR 3:2,
 Levi_1:Shealtiel_2:4199,4199,Levi_1,ancestor,Shealtiel_2,inferred,EZR 3:2,
 Shealtiel_2:Levi_1:4200,4200,Shealtiel_2,descendant,Levi_1,inferred,EZR 3:2,
 Jacob_1:Haggai_1:4201,4201,Jacob_1,ancestor,Haggai_1,inferred,EZR 5:1,
@@ -4631,8 +4631,8 @@ Levi_1:Hashum_1:4629,4629,Levi_1,ancestor,Hashum_1,inferred,NEH 8:4,
 Hashum_1:Levi_1:4630,4630,Hashum_1,descendant,Levi_1,inferred,NEH 8:4,
 Levi_1:Hashbaddanah_1:4631,4631,Levi_1,ancestor,Hashbaddanah_1,inferred,NEH 8:4,
 Hashbaddanah_1:Levi_1:4632,4632,Hashbaddanah_1,descendant,Levi_1,inferred,NEH 8:4,
-Levi_1:Zechariah_19:4633,4633,Levi_1,ancestor,Zechariah_19,inferred,NEH 8:4,
-Zechariah_19:Levi_1:4634,4634,Zechariah_19,descendant,Levi_1,inferred,NEH 8:4,
+Levi_1:Zechariah_13:4633,4633,Levi_1,ancestor,Zechariah_13,inferred,NEH 8:4,
+Zechariah_13:Levi_1:4634,4634,Zechariah_13,descendant,Levi_1,inferred,NEH 8:4,
 Levi_1:Meshullam_13:4635,4635,Levi_1,ancestor,Meshullam_13,inferred,NEH 8:4,
 Meshullam_13:Levi_1:4636,4636,Meshullam_13,descendant,Levi_1,inferred,NEH 8:4,
 Levi_1:Jeshua_7:4637,4637,Levi_1,ancestor,Jeshua_7,inferred,NEH 8:7,
@@ -4739,10 +4739,10 @@ Jacob_1:Anan_1:4737,4737,Jacob_1,ancestor,Anan_1,inferred,NEH 10:26,
 Anan_1:Jacob_1:4738,4738,Anan_1,descendant,Jacob_1,explicit,NEH 10:26,
 Uzziah_3:Athaiah_1:4739,4739,Uzziah_3,father,Athaiah_1,inferred,NEH 11:4,
 Athaiah_1:Uzziah_3:4740,4740,Athaiah_1,son,Uzziah_3,explicit,NEH 11:4,
-Zechariah_20:Uzziah_3:4741,4741,Zechariah_20,father,Uzziah_3,inferred,NEH 11:4,
-Uzziah_3:Zechariah_20:4742,4742,Uzziah_3,son,Zechariah_20,explicit,NEH 11:4,
-Amariah_7:Zechariah_20:4743,4743,Amariah_7,father,Zechariah_20,inferred,NEH 11:4,
-Zechariah_20:Amariah_7:4744,4744,Zechariah_20,son,Amariah_7,explicit,NEH 11:4,
+Zechariah_19:Uzziah_3:4741,4741,Zechariah_19,father,Uzziah_3,inferred,NEH 11:4,
+Uzziah_3:Zechariah_19:4742,4742,Uzziah_3,son,Zechariah_19,explicit,NEH 11:4,
+Amariah_7:Zechariah_19:4743,4743,Amariah_7,father,Zechariah_19,inferred,NEH 11:4,
+Zechariah_19:Amariah_7:4744,4744,Zechariah_19,son,Amariah_7,explicit,NEH 11:4,
 Shephatiah_7:Amariah_7:4745,4745,Shephatiah_7,father,Amariah_7,inferred,NEH 11:4,
 Amariah_7:Shephatiah_7:4746,4746,Amariah_7,son,Shephatiah_7,explicit,NEH 11:4,
 Mahalalel_2:Shephatiah_7:4747,4747,Mahalalel_2,father,Shephatiah_7,inferred,NEH 11:4,
@@ -4759,10 +4759,10 @@ Adaiah_8:Hazaiah_1:4757,4757,Adaiah_8,father,Hazaiah_1,inferred,NEH 11:5,
 Hazaiah_1:Adaiah_8:4758,4758,Hazaiah_1,son,Adaiah_8,explicit,NEH 11:5,
 Joiarib_2:Adaiah_8:4759,4759,Joiarib_2,father,Adaiah_8,inferred,NEH 11:5,
 Adaiah_8:Joiarib_2:4760,4760,Adaiah_8,son,Joiarib_2,explicit,NEH 11:5,
-Zechariah_21:Joiarib_2:4761,4761,Zechariah_21,father,Joiarib_2,inferred,NEH 11:5,
-Joiarib_2:Zechariah_21:4762,4762,Joiarib_2,son,Zechariah_21,explicit,NEH 11:5,
-Asaiah_4:Zechariah_21:4763,4763,Asaiah_4,ancestor,Zechariah_21,inferred,NEH 11:5,"Asaiah_4 is the ""Shilonite"" (1CH 9:5)"
-Zechariah_21:Asaiah_4:4764,4764,Zechariah_21,descendant,Asaiah_4,explicit,NEH 11:5,"Asaiah_4 is the ""Shilonite"" (1CH 9:5)"
+Zechariah_20:Joiarib_2:4761,4761,Zechariah_20,father,Joiarib_2,inferred,NEH 11:5,
+Joiarib_2:Zechariah_20:4762,4762,Joiarib_2,son,Zechariah_20,explicit,NEH 11:5,
+Asaiah_4:Zechariah_20:4763,4763,Asaiah_4,ancestor,Zechariah_20,inferred,NEH 11:5,"Asaiah_4 is the ""Shilonite"" (1CH 9:5)"
+Zechariah_20:Asaiah_4:4764,4764,Zechariah_20,descendant,Asaiah_4,explicit,NEH 11:5,"Asaiah_4 is the ""Shilonite"" (1CH 9:5)"
 Meshullam_14:Sallu_2:4765,4765,Meshullam_14,father,Sallu_2,inferred,NEH 11:7,
 Sallu_2:Meshullam_14:4766,4766,Sallu_2,son,Meshullam_14,explicit,NEH 11:7,
 Joed_1:Meshullam_14:4767,4767,Joed_1,father,Meshullam_14,inferred,NEH 11:7,
@@ -4815,10 +4815,10 @@ Pelaliah_1:Jeroham_7:4813,4813,Pelaliah_1,father,Jeroham_7,inferred,NEH 11:12,
 Jeroham_7:Pelaliah_1:4814,4814,Jeroham_7,son,Pelaliah_1,explicit,NEH 11:12,
 Amzi_2:Pelaliah_1:4815,4815,Amzi_2,father,Pelaliah_1,inferred,NEH 11:12,
 Pelaliah_1:Amzi_2:4816,4816,Pelaliah_1,son,Amzi_2,explicit,NEH 11:12,
-Zechariah_22:Amzi_2:4817,4817,Zechariah_22,father,Amzi_2,inferred,NEH 11:12,
-Amzi_2:Zechariah_22:4818,4818,Amzi_2,son,Zechariah_22,explicit,NEH 11:12,
-Pashhur_1:Zechariah_22:4819,4819,Pashhur_1,father,Zechariah_22,inferred,NEH 11:12,
-Zechariah_22:Pashhur_1:4820,4820,Zechariah_22,son,Pashhur_1,explicit,NEH 11:12,
+Zechariah_21:Amzi_2:4817,4817,Zechariah_21,father,Amzi_2,inferred,NEH 11:12,
+Amzi_2:Zechariah_21:4818,4818,Amzi_2,son,Zechariah_21,explicit,NEH 11:12,
+Pashhur_1:Zechariah_21:4819,4819,Pashhur_1,father,Zechariah_21,inferred,NEH 11:12,
+Zechariah_21:Pashhur_1:4820,4820,Zechariah_21,son,Pashhur_1,explicit,NEH 11:12,
 Azarel_4:Amashsai_1:4821,4821,Azarel_4,father,Amashsai_1,inferred,NEH 11:13,
 Amashsai_1:Azarel_4:4822,4822,Amashsai_1,son,Azarel_4,explicit,NEH 11:13,
 Ahzai_1:Azarel_4:4823,4823,Ahzai_1,father,Azarel_4,inferred,NEH 11:13,
@@ -4889,8 +4889,8 @@ Harim_2:Adna_2:4887,4887,Harim_2,father,Adna_2,inferred,NEH 12:15,
 Adna_2:Harim_2:4888,4888,Adna_2,son,Harim_2,explicit,NEH 12:15,
 Meraioth_3:Helkai_1:4889,4889,Meraioth_3,father,Helkai_1,inferred,NEH 12:15,
 Helkai_1:Meraioth_3:4890,4890,Helkai_1,son,Meraioth_3,explicit,NEH 12:15,
-Iddo_6:Zechariah_19:4891,4891,Iddo_6,father,Zechariah_19,inferred,NEH 12:16,
-Zechariah_19:Iddo_6:4892,4892,Zechariah_19,son,Iddo_6,explicit,NEH 12:16,
+Iddo_6:Zechariah_13:4891,4891,Iddo_6,grandfather,Zechariah_13,inferred,NEH 12:16,"NEH 12:16 says ""father"" but ZEC 1:1 and ZEH 1:7 specify ""grandfather"""
+Zechariah_13:Iddo_6:4892,4892,Zechariah_13,grandson,Iddo_6,explicit,NEH 12:16,"NEH 12:16 says ""father"" but ZEC 1:1 and ZEH 1:7 specify ""grandfather"""
 Ginnethon_1:Meshullam_13:4893,4893,Ginnethon_1,father,Meshullam_13,inferred,NEH 12:16,
 Meshullam_13:Ginnethon_1:4894,4894,Meshullam_13,son,Ginnethon_1,explicit,NEH 12:16,
 Abijah_6:Zichri_12:4895,4895,Abijah_6,father,Zichri_12,inferred,NEH 12:17,
@@ -4921,8 +4921,8 @@ Jedaiah_5:Nethanel_7:4919,4919,Jedaiah_5,father,Nethanel_7,inferred,NEH 12:21,
 Nethanel_7:Jedaiah_5:4920,4920,Nethanel_7,son,Jedaiah_5,explicit,NEH 12:21,
 Kadmiel_1:Jeshua_7:4921,4921,Kadmiel_1,father,Jeshua_7,inferred,NEH 12:24,
 Jeshua_7:Kadmiel_1:4922,4922,Jeshua_7,son,Kadmiel_1,explicit,NEH 12:24,
-Jonathan_12:Zechariah_23:4923,4923,Jonathan_12,father,Zechariah_23,inferred,NEH 12:35,
-Zechariah_23:Jonathan_12:4924,4924,Zechariah_23,son,Jonathan_12,explicit,NEH 12:35,
+Jonathan_12:Zechariah_22:4923,4923,Jonathan_12,father,Zechariah_22,inferred,NEH 12:35,
+Zechariah_22:Jonathan_12:4924,4924,Zechariah_22,son,Jonathan_12,explicit,NEH 12:35,
 Shemaiah_14:Jonathan_12:4925,4925,Shemaiah_14,father,Jonathan_12,inferred,NEH 12:35,
 Jonathan_12:Shemaiah_14:4926,4926,Jonathan_12,son,Shemaiah_14,explicit,NEH 12:35,
 Mattaniah_4:Shemaiah_14:4927,4927,Mattaniah_4,father,Shemaiah_14,inferred,NEH 12:35,
@@ -5021,8 +5021,8 @@ Jakeh_1:Agur_1:5019,5019,Jakeh_1,father,Agur_1,inferred,PRO 30:1,
 Agur_1:Jakeh_1:5020,5020,Agur_1,son,Jakeh_1,explicit,PRO 30:1,
 Isaiah_1:Shear-jashub_1:5021,5021,Isaiah_1,father,Shear-jashub_1,inferred,ISA 7:3,
 Shear-jashub_1:Isaiah_1:5022,5022,Shear-jashub_1,son,Isaiah_1,explicit,ISA 7:3,
-Jeberechiah_1:Zechariah_24:5023,5023,Jeberechiah_1,father,Zechariah_24,inferred,ISA 8:2,
-Zechariah_24:Jeberechiah_1:5024,5024,Zechariah_24,son,Jeberechiah_1,explicit,ISA 8:2,
+Jeberechiah_1:Zechariah_23:5023,5023,Jeberechiah_1,father,Zechariah_23,inferred,ISA 8:2,
+Zechariah_23:Jeberechiah_1:5024,5024,Zechariah_23,son,Jeberechiah_1,explicit,ISA 8:2,
 Isaiah_1:Maher-shalal-hash-baz_1:5025,5025,Isaiah_1,father,Maher-shalal-hash-baz_1,inferred,ISA 8:3,
 Maher-shalal-hash-baz_1:Isaiah_1:5026,5026,Maher-shalal-hash-baz_1,son,Isaiah_1,explicit,ISA 8:3,
 G-d_1:Isaiah_1:5027,5027,G-d_1,master,Isaiah_1,inferred,ISA 20:3,
