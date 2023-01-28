@@ -5031,8 +5031,8 @@ Isaiah_1:Shear-jashub_1:5029,5029,Isaiah_1,father,Shear-jashub_1,inferred,ISA 7:
 Shear-jashub_1:Isaiah_1:5030,5030,Shear-jashub_1,son,Isaiah_1,explicit,ISA 7:3,
 Jeberechiah_1:Zechariah_23:5031,5031,Jeberechiah_1,father,Zechariah_23,inferred,ISA 8:2,
 Zechariah_23:Jeberechiah_1:5032,5032,Zechariah_23,son,Jeberechiah_1,explicit,ISA 8:2,
-Isaiah_1:Maher-shalal-hash-baz_1:5033,5033,Isaiah_1,father,Maher-shalal-hash-baz_1,inferred,ISA 8:3,
-Maher-shalal-hash-baz_1:Isaiah_1:5034,5034,Maher-shalal-hash-baz_1,son,Isaiah_1,explicit,ISA 8:3,
+Isaiah_1:Immanuel_1:5033,5033,Isaiah_1,father,Immanuel_1,inferred,ISA 8:3,called Maher-shalal-hash-baz in ISA 8:3
+Immanuel_1:Isaiah_1:5034,5034,Immanuel_1,son,Isaiah_1,explicit,ISA 8:3,called Maher-shalal-hash-baz in ISA 8:3
 G-d_1:Isaiah_1:5035,5035,G-d_1,master,Isaiah_1,inferred,ISA 20:3,
 Isaiah_1:G-d_1:5036,5036,Isaiah_1,servant,G-d_1,explicit,ISA 20:3,
 G-d_1:Eliakim_1:5037,5037,G-d_1,master,Eliakim_1,inferred,ISA 22:20,
