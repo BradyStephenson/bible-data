@@ -3068,86 +3068,95 @@ G-d_1_80,G-d_1,Your Teacher,מוֹרֶ֔יךָ,moreykha,teacher [of you],H4175,[
 G-d_1_81,G-d_1,Majestic One,אַדִּיר,adiyr,"(as a divine title) the Mighty One, with a focus on the power and splendor of G-d",H117,[none],,,,ISA 33:21,title,Y,,81,3067
 Pharaoh_7_2,Pharaoh_7,King of Egypt,מֶֽלֶךְ־מִצְרַ֔יִם,melekh mitsərayim,king of Egypt,"H4428, H4714",βασιλεὺς ἐπ᾿ Αἴγυπτον,basileùs ep᾿ Aígypton,king of Egypt,"G935, G125",ISA 36:6,title,,,2,3068
 Berodach-baladan_1_3,Berodach-baladan_1,Merodach-baladan,מְרֹדַ֣ךְ-בַּלְאֲדָן ,mərodakh-baləadan,,H4757,Μαρωδαχ,Marōdax,,none,ISA 39:1,proper name,,,3,3069
-G-d_1_82,G-d_1,The First and the Last,רִאשׁ֔וֹן וְאֶת־אַחֲרֹנִ֖ים,rishon vəet hacharoniym,first [singular] and the last [plural],"H7223, H859, H314",[none],,,,ISA 41:4,title,Y,,82,3070
-Jacob_1_4,Jacob_1,Israel My servant,יִשְׂרָאֵל עַבְדִּ֔י,yisərael avədiy,Israel [my] servant,"H3478, H5650","Ισραηλ, παῖς μου","Israēl, paîs mou",Israel servant [attendant?] mine,"G2474, G3816, G1473",ISA 41:8,title,Y,"Jacob/Israel is the eighth person called ""My servant"".  Others include Abraham, Moses, David, and Messiah.",4,3071
-G-d_1_83,G-d_1,King of Jacob,מֶ֥לֶךְ יַעֲקֹֽב,melekh yaaqov,king of Jacob,"H4428, H3290",βασιλεὺς Ιακωβ,basileùs Iakōb,king of Jacob,"G935, G2384",ISA 41:21,title,Y,This is the only reference to this title in Scripture.,83,3072
-G-d_1_84,G-d_1,My Servant,עַבְדִּי֙,avədiy,my servant,H5650,Ιακωβ ὁ παῖς,Iakōb ho paîs,Jacob the slave/servant,"G2384, G3816",ISA 42:1,title,Y,,84,3073
-G-d_1_85,G-d_1,The Lord Your Redeemer,יְהוָ֛ה גֹּאַלְכֶ֖ם,yhvh goalekem,[special name of G-d] your redeemer,"H3068, H1350",κύριος ὁ θεὸς ὁ λυτρούμενος ὑμᾶς,kýrios ho theòs ho lytroúmenos hymâs,"lord the god, the redeemer [of] you","G2962, G2316, G3084, G4771",ISA 43:14,title,Y,,85,3074
-G-d_1_86,G-d_1,Creator of Israel,בּוֹרֵ֥א יִשְׂרָאֵ֖ל,bore yisərael,creator [of] Israel,"H1254, H3478",καταδείξας Ισραηλ,katadeíxas Israēl,king [of] Israel,"[none], G2474",ISA 43:15,title,Y,,86,3075
+Jacob_1_4,Jacob_1,Israel My servant,יִשְׂרָאֵל עַבְדִּ֔י,yisərael avədiy,Israel [my] servant,"H3478, H5650","Ισραηλ, παῖς μου","Israēl, paîs mou",Israel servant [attendant?] mine,"G2474, G3816, G1473",ISA 41:8,title,Y,"Jacob/Israel is the eighth person called ""My servant"".  Others include Abraham, Moses, David, and Messiah.",4,3070
+Abram_1_4,Abram_1,Abraham My friend,אַבְרָהָם אֹהֲבִֽי,avəraham ochaviy,"Abraham [my] friend [literally, ""my love""]","H85, H157","Αβρααμ, ὃν ἠγάπησα","Abraam, o̔̀n ē̓gápēsa",Abraham who [I] love [as a friend],"G11, G3739, G25",IS 41:8,title,Y,"Abraham the only person labeled ""My friend""",4,3071
+G-d_1_82,G-d_1,King of Jacob,מֶ֥לֶךְ יַעֲקֹֽב,melekh yaaqov,king of Jacob,"H4428, H3290",βασιλεὺς Ιακωβ,basileùs Iakōb,king of Jacob,"G935, G2384",ISA 41:21,title,Y,This is the only reference to this title in Scripture.,82,3072
+G-d_1_83,G-d_1,My Servant,עַבְדִּי֙,avədiy,my servant,H5650,Ιακωβ ὁ παῖς,Iakōb ho paîs,Jacob the slave/servant,"G2384, G3816",ISA 42:1,title,Y,,83,3073
+G-d_1_84,G-d_1,The LORD Your Redeemer,יְהוָ֛ה גֹּאַלְכֶ֖ם,yhvh goalekem,[special name of G-d] your redeemer,"H3068, H1350",κύριος ὁ θεὸς ὁ λυτρούμενος ὑμᾶς,kýrios ho theòs ho lytroúmenos hymâs,"lord the god, the redeemer [of] you","G2962, G2316, G3084, G4771",ISA 43:14,title,Y,,84,3074
+G-d_1_85,G-d_1,Creator of Israel,בּוֹרֵ֥א יִשְׂרָאֵ֖ל,bore yisərael,creator [of] Israel,"H1254, H3478",καταδείξας Ισραηλ,katadeíxas Israēl,king [of] Israel,"[none], G2474",ISA 43:15,title,Y,,85,3075
 Jacob_1_5,Jacob_1,Jacob My servant,יַעֲקֹב עַבְדִּי,yaaqov avədiy,Jacob [my] servant,"H3290, H5650",παῖς μου Ιακωβ,paîs mou Iakōb,servant [attendant?] mine Jacob,"G3816, G1473, G2384",ISA 44:1,title,Y,"Jacob/Israel is the eighth person called ""My servant"".  Others include Abraham, Moses, David, and Messiah.",5,3076
-G-d_1_87,G-d_1,The Lord Your Maker,יְהוָה עֹשֶׂ֗ךָ,y-h-v-h osekha,[special name of G-d] maker [of you],"H3068, H6213",θεὸν τὸν ποιήσαντά σε,theòn tòn poiḗsantá se,god the maker [of] you,"G2316, G3588, G4160, G4771",ISA 51:13,title,Y,,87,3077
-G-d_1_88,G-d_1,King of the Nations,מֶלֶךְ הַגּוֹיִם,melekh hagoyim,king [of the] nations,"H4427, H1471",[none],,,,JER 10:7,title,Y,This title is not present in the equivalent passage in Rahlfs' Septuaginta.,88,3078
-G-d_1_89,G-d_1,Everlasting King,מֶלֶךְ עוֹלָם,melekh olam,king everlasting/eternal,"H4427, H5769",[none],,,,JER 10:10,title,Y,This title is not present in the equivalent passage in Rahlfs' Septuaginta.,89,3079
-G-d_1_90,G-d_1,Maker of All,יוֹצֵר הַכֹּל,yotser hakol,creator [of] all,"H3335, H3605",ὁ πλάσας τὰ πάντα,ho plásas tà pánta,the maker of all,"G3588, G4111, G3588, G3956",JER 10:16,title,Y,,90,3080
-Pashhur_2_1,Pashhur_2,Pashhur,פַּשְׁחוּר,pashəchur,[perhaps] be quiet and round about,H6583,Πασχωρ,Pasxōr,,none,JER 20:1,proper name,,,1,3081
-Pashhur_2_2,Pashhur_2,Magor-missabib,מָגוֹר מִסָּבִיב,magor misaviyv,terror on every side,H4036,Μέτοικον,Métoikon,"to cause to change abode, cause to emigrate",G3351,JER 20:3,title,Y,,2,3082
-Zephaniah_2_1,Zephaniah_2,Zephaniah,צְפַנְיָה,tzəfanəyah,Yahweh has hidden [to shelter] or Yahweh has hidden [as a treasure],H6846,Σοφονιαν,Sophonian,,none,JER 21:1,proper name,,,1,3083
-Maaseiah_14_1,Maaseiah_14,Maaseiah,מַעֲשֵׂיָה,maəseyah,Yahweh is a refuge,H4641,Μαασαιου,Maasaiou,,none,JER 21:1,proper name,,,1,3084
-Jehoiachin_1_4,Jehoiachin_1,Coniah,כָּנְיָהוּ,konəyahu,Jehoiachin,H3659,Ιεχονιας,Iexonias,Jechoniah,G2423,JER 22:24,proper name,,,4,3085
-G-d_1_91,G-d_1,Righteous Branch,צֶמַח צַדִּיק,tsemach tsadiyq,branch righteous,"H6779, H6662",ἀνατολὴν δικαίαν,anatolḕn dikaían,a shoot righteous,"G395, G1342",JER 23:5,title,Y,,91,3086
-G-d_1_92,G-d_1,The LORD our Righteousness,יְהוָה צִדְקֵנוּ,y-h-v-h tsidəqenu,[special name of G-d] [our] righteousness,"H3068, H6663",κύριος Ιωσεδεκ,kýrios Iōsedek,lord [our] Jozadak,"G2962, [none]",JER 23:6,title,Y,,92,3087
-Nebuchadnezzar_1_5,Nebuchadnezzar_1,"Nebuchadnezzar king of Babylon, My servant",נְבֽוּכַדְרֶאצַּר מֶֽלֶךְ־בָּבֶל עַבְדִּי,nəbukhadəretzor melekh bavel avədiy,Nebuchadnezzar king [of] Babylon [my] servant,"H5019, H4428, H894, H5650",[none],,,,JER 25:9,title,Y,JER 34:6 in Rahlfs' (JER 27:6 BHS and NASB) contains the Greek equivalent: Ναβουχοδονοσορ βασιλεῖ Βαβυλῶνος δουλεύειν.,5,3088
-Pharaoh_8_1,Pharaoh_8,Pharaoh,פַּרְעֹ֛ה,parəoh,,H6547,Φαραω,PHarao,,G5328,JER 25:19,title,,The Rahlfs Septuaginta equivalent verse is JER 32:19,1,3089
-Uriah_4_1,Uriah_4,Uriah,אוּרִיָּהוּ,uriyahu,"Yahweh is [my] flame, light",H223,Οὐρίας,Ourías,,G3774,JER 26:20,proper name,,The Rahlfs Septuaginta equivalent verse is JER 32:20,1,3090
-Shemaiah_20_1,Shemaiah_20,Shemaiah,שְׁמַעְיָהוּ,shəmaəyahu,Yahweh hears,H8098,Σαμαιου,Samaiou,,none,JER 26:20,proper name,,The Rahlfs Septuaginta equivalent verse is JER 32:20,1,3091
-Hananiah_10_1,Hananiah_10,Hananiah,חֲנַנְיָה,chananəyah,Yahweh is gracious,H2608,Ανανιας,Ananias,,G367,JER 28:1,proper name,,The Rahlfs Septuaginta equivalent verse is JER 35:1,1,3092
-Azzur_2_1,Azzur_2,Azzur,עַזֻּר,Azur,help,H5809,Αζωρ,Azōr,,G107,JER 28:1,proper name,,The Rahlfs Septuaginta equivalent verse is JER 35:1,1,3093
-Elasah_2_1,Elasah_2,Elasah,אֶלְעָשָׂה,eləasah,G-d [El] has fashioned,H501,Ελεασα,Eleasa,,none,JER 29:3,proper name,,The Rahlfs Septuaginta equivalent verse is JER 36:3,1,3094
-Shaphan_2_1,Shaphan_2,Shaphan,שָׁפָן,shafan,rock badger,H8227,Σαφαν,Saphan,,none,JER 29:3,proper name,,The Rahlfs Septuaginta equivalent verse is JER 36:3,1,3095
-Gemariah_1_1,Gemariah_1,Gemariah,גְּמַרְיָה,gəmarəyah,Yahweh has accomplished,H1587,Γαμαριου,Gamariou,,none,JER 29:3,proper name,,The Rahlfs Septuaginta equivalent verse is JER 36:3,1,3096
-Ahab_2_1,Ahab_2,Ahab,אַחְאָב,achəav,brother of father,H256,Αχιαβ,Axiab,,none,JER 29:21,proper name,,The Rahlfs Septuaginta equivalent verse is JER 36:21,1,3097
-Kolaiah_2_1,Kolaiah_2,Kolaiah,קוֹלָיָה,qolayah,Yahweh’s voice,H6964,[none],,,,JER 29:21,proper name,,The Rahlfs Septuaginta equivalent verse is JER 36:21,1,3098
-Zedekiah_4_1,Zedekiah_4,Zedekiah,צִדְקִיָּהוּ,tsidəqyahu,Yahweh is [my] righteousness,H6667,Σεδεκιαν,Sedekian,,none,JER 29:21,proper name,,The Rahlfs Septuaginta equivalent verse is JER 36:21,1,3099
-G-d_1_93,G-d_1,He who knows,הוּיֹדֵעַ,huyodaa,he who knows,H3045,[none],,,,JER 29:23,title,Y,The Rahlfs Septuaginta equivalent verse is JER 36:23,93,3100
-Shemaiah_21_1,Shemaiah_21,Shemaiah,שְׁמַעְיָהוּ,shəmaəyahu,Yahweh hears,H8098,Σαμαιαν,Samaian,,none,JER 29:24,proper name,,The Rahlfs Septuaginta equivalent verse is JER 36:24,1,3101
-Hanamel_1_1,Hanamel_1,Hanamel,חֲנַמְאֵל,chanaməel,G-d [El] is gracious,H2601,Αναμεηλ,Anameēl,,none,JER 32:7,proper name,,The Rahlfs Septuaginta equivalent verse is JER 39:7,1,3102
-Shallum_13_1,Shallum_13,Shallum,שַׁלֻּם,shalum,"peace, well-being, prosperity",H7967,Σαλωμ,Salōm,,none,JER 32:7,proper name,,The Rahlfs Septuaginta equivalent verse is JER 39:7,1,3103
-Baruch_4_1,Baruch_4,Baruch,בָּרוּךְ,barukh,be blessed,H1263,Βαρουχ,Baroux,,none,JER 32:12,proper name,,The Rahlfs Septuaginta equivalent verse is JER 39:12,1,3104
-Neriah_1_1,Neriah_1,Neriah,נֵרִיָּה,neriyah,lamp of Yahweh,H5374,Νηριου,Nēriou,,none,JER 32:12,proper name,,The Rahlfs Septuaginta equivalent verse is JER 39:12,1,3105
-Mahseiah_1_1,Mahseiah_1,Mahseiah,מַחְסֵיָה,machəseyah,,H4271,Μαασαιου,Maasaiou,,none,JER 32:12,proper name,,The Rahlfs Septuaginta equivalent verse is JER 39:12,1,3106
-Jaazaniah_2_1,Jaazaniah_2,Jaazaniah,יַאֲזַנְיָה,yaazanəyah,Yahweh listens,H2970,Ιεζονιαν,Iezonian,,none,JER 35:3,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:3,1,3107
-Jeremiah_8_1,Jeremiah_8,Jeremiah,יִרְמְיָהוּ,yirəmyahu,"Yahweh loosens [the womb]; Yahweh lifts up; [poss.] Yahweh shoots, establishes",H3414,Ιερεμιν,Ieremin,,none,JER 35:3,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:3,1,3108
-Habazziniah_1_1,Habazziniah_1,Habazziniah,חֲבַצִּנְיָה,chavatsinəyah,[poss.] exuberant in Yahweh,H2262,Χαβασιν,Xhabasin,,none,JER 35:3,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:3,1,3109
-Hanan_8_1,Hanan_8,Hanan,חָנָן,chanan,gracious,H2605,Ανανιου,Ananiou,,none,JER 35:4,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:4,1,3110
-Igdaliah_1_1,Igdaliah_1,Igdaliah,יִגְדַּלְיָהוּ,yigədaləyahu,Yahweh is great,H3012,Γοδολιου,Godoliou,,none,JER 35:4,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:4,1,3111
-Jehonadab_1_2,Jehonadab_1,Jonadab,יוֹנָדָב,yonadav,"Yahweh is generous, noble",H3122,Ιωναδαβ,Iōnadab,,none,JER 35:6,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:6,2,3112
-Gemariah_2_1,Gemariah_2,Gemariah,גְּמַרְיָהוּ,gəmarəyahu,Yahweh has accomplished,H1587,Γαμαριου,Gamariou,,none,JER 36:10,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:10,1,3113
-Micaiah_6_1,Micaiah_6,Micaiah,מִיכָיָהוּ,miykhayahu,Who is like Yahweh?,H4322,Μιχαιας,Mixaias,,none,JER 36:10,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:10,1,3114
-Elishama_6_1,Elishama_6,Elishama,אֱלִישָׁמָע,eliyshama,G-d [El] has heard,H476,Ελισαμα,Elisama,,none,JER 36:12,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:12,1,3115
-Delaiah_5_1,Delaiah_5,Delaiah,דְּלָיָהוּ,dəlayahu,Yahweh draws up [like water in a bucket],H1806,Δαλαιας,Dalaias,,none,JER 36:12,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:12,1,3116
-Elnathan_5_1,Elnathan_5,Elnathan,אֶלְנָתָן,elənatan,G-d [El] is given,H494,Ελναθαν,Elnathan,,none,JER 36:12,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:12,1,3117
-Zedekiah_5_1,Zedekiah_5,Zedekiah,צִדְקִיָּהוּ,tsidəqyahu,Yahweh is [my] righteousness,H6667,Σεδεκιας,Sedekias,,none,JER 36:12,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:12,1,3118
-Jehudi_1_1,Jehudi_1,Jehudi,יְהוּדִי,yəhudiy,of Judah,H3065,Ιουδιν,Ioudin,,none,JER 36:14,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:14,1,3119
-Nethaniah_4_1,Nethaniah_4,Nethaniah,נְתַנְיָהוּ,nətanəyahu,Yahweh has given,H5418,Ναθανιου,Nathaniou,,none,JER 36:14,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:14,1,3120
-Shelemiah_5_1,Shelemiah_5,Shelemiah,שֶׁלֶמְיָהוּ,sheleməyahu,"Yahweh pays back, [poss.] he restores peace offering of Yahweh",H8018,Σελεμιου,Selemiou,,none,JER 36:14,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:14,1,3121
-Cushi_1_1,Cushi_1,Cushi,כּוּשִׁי,kushiy,,H3570,Χουσι,Xousi,,none,JER 36:14,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:14,1,3122
-Jerahmeel_3_1,Jerahmeel_3,Jerahmeel,יְרַחְמְאֵל,yərachməel,G-d [El] will have compassion,H3396,Ιερεμεηλ,Ieremeēl,,none,JER 36:26,proper name,,The Rahlfs Septuaginta equivalent verse is JER 43:26,1,3123
-Seraiah_9_1,Seraiah_9,Seraiah,שְׂרָיָהוּ,səraiyahu,Yahweh persists; Yahweh is prince; Yahweh contends,H8304,Σαραια,Saraia,,none,JER 36:26,proper name,,The Rahlfs Septuaginta equivalent verse is JER 43:26,1,3124
-Azriel_3_1,Azriel_3,Azriel,עַזְרִיאֵל,azəriyel,G-d [El] is [my] help,H5837,Εσριηλ,Esriēl,,none,JER 36:26,proper name,,The Rahlfs Septuaginta equivalent verse is JER 43:26,1,3125
-Shelemiah_6_1,Shelemiah_6,Shelemiah,שֶׁלֶמְיָהוּ,sheleməyahu,"Yahweh pays back, [poss.] he restores peace offering of Yahweh",H8018,[none],,,,JER 36:26,proper name,,The Rahlfs Septuaginta equivalent verse is JER 43:26,1,3126
-Abdeel_1_1,Abdeel_1,Abdeel,עַבְדְּאֵל,avədəel,servant of G-d [El],H5655,[none],,,,JER 36:26,proper name,,The Rahlfs Septuaginta equivalent verse is JER 43:26,1,3127
-Jehucal_1_1,Jehucal_1,Jehucal,יְהוּכַל,yəhukhal,Yahweh is capable,H3081,Ιωαχαλ,Iōaxal,,none,JER 37:3,proper name,,The Rahlfs Septuaginta equivalent verse is JER 44:3,1,3128
-Irijah_1_1,Irijah_1,Irijah,יִרְאִיָּיה,yirəiyayh,Yahweh sees,H3376,Σαρουιας,Sarouias,,none,JER 37:13,proper name,,The Rahlfs Septuaginta equivalent verse is JER 44:13,1,3129
-Shelemiah_7_1,Shelemiah_7,Shelemiah,שֶׁלֶמְיָה,sheleməyah,Yahweh pays back [poss.] he restores peace offering of Yahweh,H8018,Σελεμιου,Selemiou,,none,JER 37:13,proper name,,The Rahlfs Septuaginta equivalent verse is JER 44:13,1,3130
-Hananiah_11_1,Hananiah_11,Hananiah,חֲנַנְיָה,chananəyah,Yahweh is gracious,H2608,Ανανιου,Ananiou,,none,JER 37:13,proper name,,The Rahlfs Septuaginta equivalent verse is JER 44:13,1,3131
-Jonathan_13_1,Jonathan_13,Jonathan,יְהוֹנָתָן,yəhonatan,gift of Yahweh,H3083,Ιωναθαν,Iōnathan,,none,JER 37:15,proper name,,The Rahlfs Septuaginta equivalent verse is JER 44:15,1,3132
-Shephatiah_8_1,Shephatiah_8,Shephatiah,שְׁפַטְיָה,shəfatəyah,Yahweh has judged,H8203,Σαφατιας,Saphatias,,none,JER 38:1,proper name,,The Rahlfs Septuaginta equivalent verse is JER 45:1,1,3133
-Mattan_2_1,Mattan_2,Mattan,מַתָּן,matan,gift,H4977,Μαθαν,Mathan,,none,JER 38:1,proper name,,The Rahlfs Septuaginta equivalent verse is JER 45:1,1,3134
-Gedaliah_4_1,Gedaliah_4,Gedaliah,גְּדַלְיָהוּ,gədaləyahu,great is Yahweh,H1436,Γοδολιας,Godolias,,none,JER 38:1,proper name,,The Rahlfs Septuaginta equivalent verse is JER 45:1,1,3135
-Pashhur_3_1,Pashhur_3,Pashhur,פַּשְׁחוּר,pashəchur,[perhaps] be quiet and round about,H6583,Πασχωρ,Pasxōr,,none,JER 38:1,proper name,,The Rahlfs Septuaginta equivalent verse is JER 45:1,1,3136
-Jucal_1_1,Jucal_1,Jucal,יְהוּכַל,yəhukhal,Yahweh is capable,H3081,Ιωαχαλ,Iōaxal,,none,JER 38:1,proper name,,The Rahlfs Septuaginta equivalent verse is JER 45:1,1,3137
-Shelemiah_8_1,Shelemiah_8,Shelemiah,שֶׁלֶמְיָהוּ,sheleməyahu,"Yahweh pays back, [poss.] he restores peace offering of Yahweh",H8018,Σελεμιου,Selemiou,,none,JER 38:1,proper name,,The Rahlfs Septuaginta equivalent verse is JER 45:1,1,3138
-Malchijah_10_1,Malchijah_10,Malchijah,מַלְכִּיָּהוּ,maləkiyahu,Yahweh is [my] king,H4441,Μελχιου,Melxiou,,none,JER 38:6,proper name,,The Rahlfs Septuaginta equivalent verse is JER 45:6,1,3139
-Ebed-melech_1_1,Ebed-melech_1,Ebed-melech,עֶבֶד-מֶלֶךְ,eved-melekh,servant of Melek [king] or Malk,H5663,Αβδεμελεχ,Αβδεμελεχ,,none,JER 38:7,proper name,,The Rahlfs Septuaginta equivalent verse is JER 45:7,1,3140
-Nergal-sar-ezer_1_1,Nergal-sar-ezer_1,Nergal-sar-ezer,נֵרְגַל שַׂר-אֶצֶר,nerəgal sar-etser,Nergal protect the prince!,H5371,Ναργαλασαρ,Nargalasar,,none,JER 39:3,proper name,,The Rahlfs Septuaginta equivalent verse is JER 46:3,1,3141
-Samgar-nebu_1_1,Samgar-nebu_1,Samgar-nebu,סַמְגַּר-נְבוֹ,saməgar-nəvo,,H5562,Σαμαγωθ,Samagōth,,none,JER 39:3,proper name,,The Rahlfs Septuaginta equivalent verse is JER 46:3,1,3142
-Sar-sekim_1_1,Sar-sekim_1,Sar-sekim,שַׂר-סְכִים,sar-səkiym,,H8310,Ναβουσαχαρ,Nabousaxar,,none,JER 39:3,proper name,,The Rahlfs Septuaginta equivalent verse is JER 46:3,1,3143
-Sar-sekim_1_2,Sar-sekim_1,Rab-saris,רַב־סָרִ֣יס,rav sariys,"chief court official, palace officer, eunuch","H7227, H5631",Ναβουσαρις,Nabousaris,,none,JER 39:3,title,,The Rahlfs Septuaginta equivalent verse is JER 46:3,2,3144
-Nergal-sar-ezer_2_1,Nergal-sar-ezer_2,Nergal-sar-ezer,נֵרְגַל שַׂר-אֶצֶר,nerəgal sar-etser,Nergal protect the prince!,H5371,Ναγαργασνασερ,Nagargasnaser,,none,JER 39:3,proper name,,The Rahlfs Septuaginta equivalent verse is JER 46:3,1,3145
-Nergal-sar-ezer_2_2,Nergal-sar-ezer_2,Rab-mag,רַב מָג,rav mag,high official,H7248,Ραβαμαγ,Rabamag,,none,JER 39:3,title,,The Rahlfs Septuaginta equivalent verse is JER 46:3,2,3146
-Nebushazban_1_1,Nebushazban_1,Nebushazban,נְבוּשַׁזְבָּנ,nəvushatsəban,Nebo [Nabu] save me!,H5021,[none],,,,JER 39:13,proper name,,This verse is missing from Rahlfs' Septuaginta.,1,3147
-Nebushazban_1_2,Nebushazban_1,Rab-saris,רַב־סָרִ֣יס,rav sariys,"chief court official, palace officer, eunuch","H7227, H5631",[none],,,,JER 39:13,title,,This verse is missing from Rahlfs' Septuaginta.,2,3148
-Jonathan_14_1,Jonathan_14,Jonathan,יוֹנָתָן,yonatan,gift of Yahweh,H3129,[none],,,,JER 40:8,proper name,,The Rahlfs Septuaginta equivalent verse is JER 47:8,1,3149
-Ephai_1_1,Ephai_1,Ephai,עֵיפַי,eyfay,my bird,H5778,Ωφε,Ōphe,,none,JER 40:8,proper name,,The Rahlfs Septuaginta equivalent verse is JER 47:8.  Some Hebrew texts have עוֹפַי [Opai] instead of עֵיפַ֣י.,1,3150
-Jaazaniah_1_2,Jaazaniah_1,Jezaniah,יְזַנְיָהוּ,yətsanəyahu,Yahweh listens,H3153,Ιεζονιας,Iezonias,,none,JER 40:8,proper name,,The Rahlfs Septuaginta equivalent verse is JER 47:8,2,3151
-Baalis_1_1,Baalis_1,Baalis,בַּעֲלִיס,baaliys,[poss.] son of delight or Baals,H1185,Βελισα,Belisa,,none,JER 40:14,proper name,,The Rahlfs Septuaginta equivalent verse is JER 47:14,1,3152
+G-d_1_86,G-d_1,King of Israel,מֶלֶךְ־יִשְׂרָאֵל,melekh yisərael,King of Israel,"H4428, H3478",βασιλεὺς τοῦ Ισραηλ,basileùs tou͂ Israēl,King of Israel,"G935, G3588, G2474",ISA 44:6,title,Y,,86,3077
+G-d_1_87,G-d_1,The First and the Last,רִאשׁ֔וֹן וְאֶת־אַחֲרֹנִ֖ים,rishon vəet hacharoniym,first [singular] and the last [plural],"H7223, H859, H314",[none],,,,ISA 44:6,title,Y,,87,3078
+Cyrus_1_5,Cyrus_1,My shepherd,רֹעִ֔י,roiy,my shepherd,H7473,[none],,,,ISA 44:28,title,Y,,5,3079
+Jacob_1_6,Jacob_1,My servant Jacob,עַבְדִּי יַעֲקֹב,avədiy yaaqov,my servant Jacob,"H5650, H3290",Ιακωβ τοῦ παιδός,Iakōb tou͂ paidós,Jacob the child [servant?],"G2384, G3588, G3816",ISA 45:4,title,Y,,6,3080
+Jacob_1_7,Jacob_1,Israel My chosen [one],יִשְׂרָאֵ֖ל בְּחִירִי,yisərael bəchiyriy,Israel [my] chosen [one],"H3478, H972",Ισραηλ τοῦ ἐκλεκτοῦ,Israēl tou͂ e̓klektou͂,Israel the chosen,"G2474, G3588, G1588",ISA 45:4,title,Y,,7,3081
+G-d_1_88,G-d_1,G-d who hides Himself,אֵל מִסְתַּתֵּר,el misətatar,G-d [who] hides himself,"H532, H5641","θεός, καὶ οὐκ ᾔδειμεν","theós, kaì ou̓k ē̓́ͅdeimen",G-d but not known,"G2316, G2352, G3756, G3608",ISA 45:15,title,Y,,88,3082
+Jacob_1_8,Jacob_1,My servant Israel,עַבְדִּי יִשְׂרָאֵ֕ל,avədiy yisərael,[my] servant Israel,"H5650, H3478","Δοῦλός μου εἶ σύ, Ισραηλ","Dou͂lós mou ei̓͂ sú, Israēl",[our?] servant is you Israel,"G1401, G1473, G1510, G4771, G2474",ISA 49:3,title,Y,,8,3083
+G-d_1_89,G-d_1,Redeemer of Israel,גֹּאֵ֨ל יִשְׂרָאֵ֜ל,goal yisərael,redeemer [of] Israel,"H1350, 3478",[none],,,,ISA 49:7,title,Y,,89,3084
+G-d_1_90,G-d_1,The LORD Your Maker,יְהוָה עֹשֶׂ֗ךָ,y-h-v-h osekha,[special name of G-d] maker [of you],"H3068, H6213",θεὸν τὸν ποιήσαντά σε,theòn tòn poiḗsantá se,god the maker [of] you,"G2316, G3588, G4160, G4771",ISA 51:13,title,Y,,90,3085
+G-d_1_91,G-d_1,G-d of all the earth,אֱלֹהֵי כָל־הָאָרֶץ,elohey kol haarets,G-d [of] all the land,"H430, H3605, H776",[none],,,,ISA 54:5,title,Y,,91,3086
+G-d_1_92,G-d_1,King of the Nations,מֶלֶךְ הַגּוֹיִם,melekh hagoyim,king [of the] nations,"H4427, H1471",[none],,,,JER 10:7,title,Y,This title is not present in the equivalent passage in Rahlfs' Septuaginta.,92,3087
+G-d_1_93,G-d_1,Everlasting King,מֶלֶךְ עוֹלָם,melekh olam,king everlasting/eternal,"H4427, H5769",[none],,,,JER 10:10,title,Y,This title is not present in the equivalent passage in Rahlfs' Septuaginta.,93,3088
+G-d_1_94,G-d_1,Maker of All,יוֹצֵר הַכֹּל,yotser hakol,creator [of] all,"H3335, H3605",ὁ πλάσας τὰ πάντα,ho plásas tà pánta,the maker of all,"G3588, G4111, G3588, G3956",JER 10:16,title,Y,,94,3089
+Pashhur_2_1,Pashhur_2,Pashhur,פַּשְׁחוּר,pashəchur,[perhaps] be quiet and round about,H6583,Πασχωρ,Pasxōr,,none,JER 20:1,proper name,,,1,3090
+Pashhur_2_2,Pashhur_2,Magor-missabib,מָגוֹר מִסָּבִיב,magor misaviyv,terror on every side,H4036,Μέτοικον,Métoikon,"to cause to change abode, cause to emigrate",G3351,JER 20:3,title,Y,,2,3091
+Zephaniah_2_1,Zephaniah_2,Zephaniah,צְפַנְיָה,tzəfanəyah,Yahweh has hidden [to shelter] or Yahweh has hidden [as a treasure],H6846,Σοφονιαν,Sophonian,,none,JER 21:1,proper name,,,1,3092
+Maaseiah_14_1,Maaseiah_14,Maaseiah,מַעֲשֵׂיָה,maəseyah,Yahweh is a refuge,H4641,Μαασαιου,Maasaiou,,none,JER 21:1,proper name,,,1,3093
+Jehoiachin_1_4,Jehoiachin_1,Coniah,כָּנְיָהוּ,konəyahu,Jehoiachin,H3659,Ιεχονιας,Iexonias,Jechoniah,G2423,JER 22:24,proper name,,,4,3094
+G-d_1_95,G-d_1,Righteous Branch,צֶמַח צַדִּיק,tsemach tsadiyq,branch righteous,"H6779, H6662",ἀνατολὴν δικαίαν,anatolḕn dikaían,a shoot righteous,"G395, G1342",JER 23:5,title,Y,,95,3095
+G-d_1_96,G-d_1,The LORD our Righteousness,יְהוָה צִדְקֵנוּ,y-h-v-h tsidəqenu,[special name of G-d] [our] righteousness,"H3068, H6663",κύριος Ιωσεδεκ,kýrios Iōsedek,lord [our] Jozadak,"G2962, [none]",JER 23:6,title,Y,,96,3096
+Nebuchadnezzar_1_5,Nebuchadnezzar_1,"Nebuchadnezzar king of Babylon, My servant",נְבֽוּכַדְרֶאצַּר מֶֽלֶךְ־בָּבֶל עַבְדִּי,nəbukhadəretzor melekh bavel avədiy,Nebuchadnezzar king [of] Babylon [my] servant,"H5019, H4428, H894, H5650",[none],,,,JER 25:9,title,Y,JER 34:6 in Rahlfs' (JER 27:6 BHS and NASB) contains the Greek equivalent: Ναβουχοδονοσορ βασιλεῖ Βαβυλῶνος δουλεύειν.,5,3097
+Pharaoh_8_1,Pharaoh_8,Pharaoh,פַּרְעֹ֛ה,parəoh,,H6547,Φαραω,PHarao,,G5328,JER 25:19,title,,The Rahlfs Septuaginta equivalent verse is JER 32:19,1,3098
+Uriah_4_1,Uriah_4,Uriah,אוּרִיָּהוּ,uriyahu,"Yahweh is [my] flame, light",H223,Οὐρίας,Ourías,,G3774,JER 26:20,proper name,,The Rahlfs Septuaginta equivalent verse is JER 32:20,1,3099
+Shemaiah_20_1,Shemaiah_20,Shemaiah,שְׁמַעְיָהוּ,shəmaəyahu,Yahweh hears,H8098,Σαμαιου,Samaiou,,none,JER 26:20,proper name,,The Rahlfs Septuaginta equivalent verse is JER 32:20,1,3100
+Hananiah_10_1,Hananiah_10,Hananiah,חֲנַנְיָה,chananəyah,Yahweh is gracious,H2608,Ανανιας,Ananias,,G367,JER 28:1,proper name,,The Rahlfs Septuaginta equivalent verse is JER 35:1,1,3101
+Azzur_2_1,Azzur_2,Azzur,עַזֻּר,Azur,help,H5809,Αζωρ,Azōr,,G107,JER 28:1,proper name,,The Rahlfs Septuaginta equivalent verse is JER 35:1,1,3102
+Elasah_2_1,Elasah_2,Elasah,אֶלְעָשָׂה,eləasah,G-d [El] has fashioned,H501,Ελεασα,Eleasa,,none,JER 29:3,proper name,,The Rahlfs Septuaginta equivalent verse is JER 36:3,1,3103
+Shaphan_2_1,Shaphan_2,Shaphan,שָׁפָן,shafan,rock badger,H8227,Σαφαν,Saphan,,none,JER 29:3,proper name,,The Rahlfs Septuaginta equivalent verse is JER 36:3,1,3104
+Gemariah_1_1,Gemariah_1,Gemariah,גְּמַרְיָה,gəmarəyah,Yahweh has accomplished,H1587,Γαμαριου,Gamariou,,none,JER 29:3,proper name,,The Rahlfs Septuaginta equivalent verse is JER 36:3,1,3105
+Ahab_2_1,Ahab_2,Ahab,אַחְאָב,achəav,brother of father,H256,Αχιαβ,Axiab,,none,JER 29:21,proper name,,The Rahlfs Septuaginta equivalent verse is JER 36:21,1,3106
+Kolaiah_2_1,Kolaiah_2,Kolaiah,קוֹלָיָה,qolayah,Yahweh’s voice,H6964,[none],,,,JER 29:21,proper name,,The Rahlfs Septuaginta equivalent verse is JER 36:21,1,3107
+Zedekiah_4_1,Zedekiah_4,Zedekiah,צִדְקִיָּהוּ,tsidəqyahu,Yahweh is [my] righteousness,H6667,Σεδεκιαν,Sedekian,,none,JER 29:21,proper name,,The Rahlfs Septuaginta equivalent verse is JER 36:21,1,3108
+G-d_1_97,G-d_1,He who knows,הוּיֹדֵעַ,huyodaa,he who knows,H3045,[none],,,,JER 29:23,title,Y,The Rahlfs Septuaginta equivalent verse is JER 36:23,97,3109
+Shemaiah_21_1,Shemaiah_21,Shemaiah,שְׁמַעְיָהוּ,shəmaəyahu,Yahweh hears,H8098,Σαμαιαν,Samaian,,none,JER 29:24,proper name,,The Rahlfs Septuaginta equivalent verse is JER 36:24,1,3110
+Hanamel_1_1,Hanamel_1,Hanamel,חֲנַמְאֵל,chanaməel,G-d [El] is gracious,H2601,Αναμεηλ,Anameēl,,none,JER 32:7,proper name,,The Rahlfs Septuaginta equivalent verse is JER 39:7,1,3111
+Shallum_13_1,Shallum_13,Shallum,שַׁלֻּם,shalum,"peace, well-being, prosperity",H7967,Σαλωμ,Salōm,,none,JER 32:7,proper name,,The Rahlfs Septuaginta equivalent verse is JER 39:7,1,3112
+Baruch_4_1,Baruch_4,Baruch,בָּרוּךְ,barukh,be blessed,H1263,Βαρουχ,Baroux,,none,JER 32:12,proper name,,The Rahlfs Septuaginta equivalent verse is JER 39:12,1,3113
+Neriah_1_1,Neriah_1,Neriah,נֵרִיָּה,neriyah,lamp of Yahweh,H5374,Νηριου,Nēriou,,none,JER 32:12,proper name,,The Rahlfs Septuaginta equivalent verse is JER 39:12,1,3114
+Mahseiah_1_1,Mahseiah_1,Mahseiah,מַחְסֵיָה,machəseyah,,H4271,Μαασαιου,Maasaiou,,none,JER 32:12,proper name,,The Rahlfs Septuaginta equivalent verse is JER 39:12,1,3115
+Jaazaniah_2_1,Jaazaniah_2,Jaazaniah,יַאֲזַנְיָה,yaazanəyah,Yahweh listens,H2970,Ιεζονιαν,Iezonian,,none,JER 35:3,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:3,1,3116
+Jeremiah_8_1,Jeremiah_8,Jeremiah,יִרְמְיָהוּ,yirəmyahu,"Yahweh loosens [the womb]; Yahweh lifts up; [poss.] Yahweh shoots, establishes",H3414,Ιερεμιν,Ieremin,,none,JER 35:3,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:3,1,3117
+Habazziniah_1_1,Habazziniah_1,Habazziniah,חֲבַצִּנְיָה,chavatsinəyah,[poss.] exuberant in Yahweh,H2262,Χαβασιν,Xhabasin,,none,JER 35:3,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:3,1,3118
+Hanan_8_1,Hanan_8,Hanan,חָנָן,chanan,gracious,H2605,Ανανιου,Ananiou,,none,JER 35:4,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:4,1,3119
+Igdaliah_1_1,Igdaliah_1,Igdaliah,יִגְדַּלְיָהוּ,yigədaləyahu,Yahweh is great,H3012,Γοδολιου,Godoliou,,none,JER 35:4,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:4,1,3120
+Jehonadab_1_2,Jehonadab_1,Jonadab,יוֹנָדָב,yonadav,"Yahweh is generous, noble",H3122,Ιωναδαβ,Iōnadab,,none,JER 35:6,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:6,2,3121
+Gemariah_2_1,Gemariah_2,Gemariah,גְּמַרְיָהוּ,gəmarəyahu,Yahweh has accomplished,H1587,Γαμαριου,Gamariou,,none,JER 36:10,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:10,1,3122
+Micaiah_6_1,Micaiah_6,Micaiah,מִיכָיָהוּ,miykhayahu,Who is like Yahweh?,H4322,Μιχαιας,Mixaias,,none,JER 36:10,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:10,1,3123
+Elishama_6_1,Elishama_6,Elishama,אֱלִישָׁמָע,eliyshama,G-d [El] has heard,H476,Ελισαμα,Elisama,,none,JER 36:12,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:12,1,3124
+Delaiah_5_1,Delaiah_5,Delaiah,דְּלָיָהוּ,dəlayahu,Yahweh draws up [like water in a bucket],H1806,Δαλαιας,Dalaias,,none,JER 36:12,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:12,1,3125
+Elnathan_5_1,Elnathan_5,Elnathan,אֶלְנָתָן,elənatan,G-d [El] is given,H494,Ελναθαν,Elnathan,,none,JER 36:12,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:12,1,3126
+Zedekiah_5_1,Zedekiah_5,Zedekiah,צִדְקִיָּהוּ,tsidəqyahu,Yahweh is [my] righteousness,H6667,Σεδεκιας,Sedekias,,none,JER 36:12,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:12,1,3127
+Jehudi_1_1,Jehudi_1,Jehudi,יְהוּדִי,yəhudiy,of Judah,H3065,Ιουδιν,Ioudin,,none,JER 36:14,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:14,1,3128
+Nethaniah_4_1,Nethaniah_4,Nethaniah,נְתַנְיָהוּ,nətanəyahu,Yahweh has given,H5418,Ναθανιου,Nathaniou,,none,JER 36:14,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:14,1,3129
+Shelemiah_5_1,Shelemiah_5,Shelemiah,שֶׁלֶמְיָהוּ,sheleməyahu,"Yahweh pays back, [poss.] he restores peace offering of Yahweh",H8018,Σελεμιου,Selemiou,,none,JER 36:14,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:14,1,3130
+Cushi_1_1,Cushi_1,Cushi,כּוּשִׁי,kushiy,,H3570,Χουσι,Xousi,,none,JER 36:14,proper name,,The Rahlfs Septuaginta equivalent verse is JER 42:14,1,3131
+Jerahmeel_3_1,Jerahmeel_3,Jerahmeel,יְרַחְמְאֵל,yərachməel,G-d [El] will have compassion,H3396,Ιερεμεηλ,Ieremeēl,,none,JER 36:26,proper name,,The Rahlfs Septuaginta equivalent verse is JER 43:26,1,3132
+Seraiah_9_1,Seraiah_9,Seraiah,שְׂרָיָהוּ,səraiyahu,Yahweh persists; Yahweh is prince; Yahweh contends,H8304,Σαραια,Saraia,,none,JER 36:26,proper name,,The Rahlfs Septuaginta equivalent verse is JER 43:26,1,3133
+Azriel_3_1,Azriel_3,Azriel,עַזְרִיאֵל,azəriyel,G-d [El] is [my] help,H5837,Εσριηλ,Esriēl,,none,JER 36:26,proper name,,The Rahlfs Septuaginta equivalent verse is JER 43:26,1,3134
+Shelemiah_6_1,Shelemiah_6,Shelemiah,שֶׁלֶמְיָהוּ,sheleməyahu,"Yahweh pays back, [poss.] he restores peace offering of Yahweh",H8018,[none],,,,JER 36:26,proper name,,The Rahlfs Septuaginta equivalent verse is JER 43:26,1,3135
+Abdeel_1_1,Abdeel_1,Abdeel,עַבְדְּאֵל,avədəel,servant of G-d [El],H5655,[none],,,,JER 36:26,proper name,,The Rahlfs Septuaginta equivalent verse is JER 43:26,1,3136
+Jehucal_1_1,Jehucal_1,Jehucal,יְהוּכַל,yəhukhal,Yahweh is capable,H3081,Ιωαχαλ,Iōaxal,,none,JER 37:3,proper name,,The Rahlfs Septuaginta equivalent verse is JER 44:3,1,3137
+Irijah_1_1,Irijah_1,Irijah,יִרְאִיָּיה,yirəiyayh,Yahweh sees,H3376,Σαρουιας,Sarouias,,none,JER 37:13,proper name,,The Rahlfs Septuaginta equivalent verse is JER 44:13,1,3138
+Shelemiah_7_1,Shelemiah_7,Shelemiah,שֶׁלֶמְיָה,sheleməyah,Yahweh pays back [poss.] he restores peace offering of Yahweh,H8018,Σελεμιου,Selemiou,,none,JER 37:13,proper name,,The Rahlfs Septuaginta equivalent verse is JER 44:13,1,3139
+Hananiah_11_1,Hananiah_11,Hananiah,חֲנַנְיָה,chananəyah,Yahweh is gracious,H2608,Ανανιου,Ananiou,,none,JER 37:13,proper name,,The Rahlfs Septuaginta equivalent verse is JER 44:13,1,3140
+Jonathan_13_1,Jonathan_13,Jonathan,יְהוֹנָתָן,yəhonatan,gift of Yahweh,H3083,Ιωναθαν,Iōnathan,,none,JER 37:15,proper name,,The Rahlfs Septuaginta equivalent verse is JER 44:15,1,3141
+Shephatiah_8_1,Shephatiah_8,Shephatiah,שְׁפַטְיָה,shəfatəyah,Yahweh has judged,H8203,Σαφατιας,Saphatias,,none,JER 38:1,proper name,,The Rahlfs Septuaginta equivalent verse is JER 45:1,1,3142
+Mattan_2_1,Mattan_2,Mattan,מַתָּן,matan,gift,H4977,Μαθαν,Mathan,,none,JER 38:1,proper name,,The Rahlfs Septuaginta equivalent verse is JER 45:1,1,3143
+Gedaliah_4_1,Gedaliah_4,Gedaliah,גְּדַלְיָהוּ,gədaləyahu,great is Yahweh,H1436,Γοδολιας,Godolias,,none,JER 38:1,proper name,,The Rahlfs Septuaginta equivalent verse is JER 45:1,1,3144
+Pashhur_3_1,Pashhur_3,Pashhur,פַּשְׁחוּר,pashəchur,[perhaps] be quiet and round about,H6583,Πασχωρ,Pasxōr,,none,JER 38:1,proper name,,The Rahlfs Septuaginta equivalent verse is JER 45:1,1,3145
+Jucal_1_1,Jucal_1,Jucal,יְהוּכַל,yəhukhal,Yahweh is capable,H3081,Ιωαχαλ,Iōaxal,,none,JER 38:1,proper name,,The Rahlfs Septuaginta equivalent verse is JER 45:1,1,3146
+Shelemiah_8_1,Shelemiah_8,Shelemiah,שֶׁלֶמְיָהוּ,sheleməyahu,"Yahweh pays back, [poss.] he restores peace offering of Yahweh",H8018,Σελεμιου,Selemiou,,none,JER 38:1,proper name,,The Rahlfs Septuaginta equivalent verse is JER 45:1,1,3147
+Malchijah_10_1,Malchijah_10,Malchijah,מַלְכִּיָּהוּ,maləkiyahu,Yahweh is [my] king,H4441,Μελχιου,Melxiou,,none,JER 38:6,proper name,,The Rahlfs Septuaginta equivalent verse is JER 45:6,1,3148
+Ebed-melech_1_1,Ebed-melech_1,Ebed-melech,עֶבֶד-מֶלֶךְ,eved-melekh,servant of Melek [king] or Malk,H5663,Αβδεμελεχ,Αβδεμελεχ,,none,JER 38:7,proper name,,The Rahlfs Septuaginta equivalent verse is JER 45:7,1,3149
+Nergal-sar-ezer_1_1,Nergal-sar-ezer_1,Nergal-sar-ezer,נֵרְגַל שַׂר-אֶצֶר,nerəgal sar-etser,Nergal protect the prince!,H5371,Ναργαλασαρ,Nargalasar,,none,JER 39:3,proper name,,The Rahlfs Septuaginta equivalent verse is JER 46:3,1,3150
+Samgar-nebu_1_1,Samgar-nebu_1,Samgar-nebu,סַמְגַּר-נְבוֹ,saməgar-nəvo,,H5562,Σαμαγωθ,Samagōth,,none,JER 39:3,proper name,,The Rahlfs Septuaginta equivalent verse is JER 46:3,1,3151
+Sar-sekim_1_1,Sar-sekim_1,Sar-sekim,שַׂר-סְכִים,sar-səkiym,,H8310,Ναβουσαχαρ,Nabousaxar,,none,JER 39:3,proper name,,The Rahlfs Septuaginta equivalent verse is JER 46:3,1,3152
+Sar-sekim_1_2,Sar-sekim_1,Rab-saris,רַב־סָרִ֣יס,rav sariys,"chief court official, palace officer, eunuch","H7227, H5631",Ναβουσαρις,Nabousaris,,none,JER 39:3,title,,The Rahlfs Septuaginta equivalent verse is JER 46:3,2,3153
+Nergal-sar-ezer_2_1,Nergal-sar-ezer_2,Nergal-sar-ezer,נֵרְגַל שַׂר-אֶצֶר,nerəgal sar-etser,Nergal protect the prince!,H5371,Ναγαργασνασερ,Nagargasnaser,,none,JER 39:3,proper name,,The Rahlfs Septuaginta equivalent verse is JER 46:3,1,3154
+Nergal-sar-ezer_2_2,Nergal-sar-ezer_2,Rab-mag,רַב מָג,rav mag,high official,H7248,Ραβαμαγ,Rabamag,,none,JER 39:3,title,,The Rahlfs Septuaginta equivalent verse is JER 46:3,2,3155
+Nebushazban_1_1,Nebushazban_1,Nebushazban,נְבוּשַׁזְבָּנ,nəvushatsəban,Nebo [Nabu] save me!,H5021,[none],,,,JER 39:13,proper name,,This verse is missing from Rahlfs' Septuaginta.,1,3156
+Nebushazban_1_2,Nebushazban_1,Rab-saris,רַב־סָרִ֣יס,rav sariys,"chief court official, palace officer, eunuch","H7227, H5631",[none],,,,JER 39:13,title,,This verse is missing from Rahlfs' Septuaginta.,2,3157
+Jonathan_14_1,Jonathan_14,Jonathan,יוֹנָתָן,yonatan,gift of Yahweh,H3129,[none],,,,JER 40:8,proper name,,The Rahlfs Septuaginta equivalent verse is JER 47:8,1,3158
+Ephai_1_1,Ephai_1,Ephai,עֵיפַי,eyfay,my bird,H5778,Ωφε,Ōphe,,none,JER 40:8,proper name,,The Rahlfs Septuaginta equivalent verse is JER 47:8.  Some Hebrew texts have עוֹפַי [Opai] instead of עֵיפַ֣י.,1,3159
+Jaazaniah_1_2,Jaazaniah_1,Jezaniah,יְזַנְיָהוּ,yətsanəyahu,Yahweh listens,H3153,Ιεζονιας,Iezonias,,none,JER 40:8,proper name,,The Rahlfs Septuaginta equivalent verse is JER 47:8,2,3160
+Baalis_1_1,Baalis_1,Baalis,בַּעֲלִיס,baaliys,[poss.] son of delight or Baals,H1185,Βελισα,Belisa,,none,JER 40:14,proper name,,The Rahlfs Septuaginta equivalent verse is JER 47:14,1,3161
