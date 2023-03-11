@@ -1004,7 +1004,7 @@ Pedaiah_1,Pedaiah,,"from Rumah, father of Zebidah (2KI 23:36)",male,,,1,1002
 Nebuchadnezzar_1,Nebuchadnezzar,,King of Babylon (2KI 23:37),male,,,1,1003
 Jehoiachin_1,Jehoiachin,,"King of Judah, son of Eliakim [Jehoiakim] (2KI 24:6)",male,,He did evil in the sight of the LORD (2KI 24:9),1,1004
 Nehushta_1,Nehushta,,mother of Jehoiachin (2KI 24:8),female,,,1,1005
-Elnathan_1,Elnathan,,"from Jerusalem, father of Nehushta (2KI 24:8)",male,,,1,1006
+Elnathan_1,Elnathan,,"from Jerusalem, father of Nehushta (2KI 24:8), an official (JER 36:12)",male,,,1,1006
 Mattaniah_1,Mattaniah,,"King of Judah, uncle of Jehoiachin (2KI 24:17)",male,,He did evil in the sight of the LORD (2KI 24:19),1,1007
 Nebuzaradan_1,Nebuzaradan,,captain of the guard of the King of Babylon (2KI 25:8) who took captives into exile (JER 39:9),male,,,1,1008
 Seraiah_2,Seraiah,,the chief priest (2KI 25:18) who was killed by the king of Babylon (2KI 25:21),male,Levi,Aaronic priest in the line of Eleazar (full lineage in 1CH 6:14),2,1009
@@ -2606,32 +2606,32 @@ Pashhur_2,Pashhur,,"son (descendant?) of Immer, chief officer in the Temple (JER
 Zephaniah_2,Zephaniah,,"the priest, son of Maaseiah (JER 21:1)",male,Levi,"As ""priest"", a descendant of Aaron",2,2605
 Maaseiah_14,Maaseiah,,father of Zephaniah (JER 21:1),male,,,14,2606
 Pharaoh_8,Pharaoh,,Pharaoh of Jeremiah's day (JER 25:19),male,,,8,2607
-Uriah_4,Uriah,,prophesied in the name of the LORD (JER 26:20),male,,,4,2608
-Shemaiah_20,Shemaiah,,"father of Uriah, from Kiriath-jearim (JER 26:20)",male,,,20,2609
-Hananiah_10,Hananiah,,"the [false] prophet, son of Azzur (JER 28:1)",male,,,10,2610
-Azzur_2,Azzur,,father of Hananiah (JER 28:1),male,,,2,2611
-Elasah_2,Elasah,,son of Shaphan (JER 29:3),male,,,2,2612
-Shaphan_2,Shaphan,,father of Elasah (JER 29:3),male,,,2,2613
-Gemariah_1,Gemariah,,son of Hilkiah_3 (JER 29:3),male,,,1,2614
-Ahab_2,Ahab,,prophesied falsely (JER 29:21),male,,,2,2615
-Kolaiah_2,Kolaiah,,father of Ahab_2 (JER 29:21),male,,,2,2616
-Zedekiah_4,Zedekiah,,"prophesied falsely, son of Maaseiah_6 (JER 29:21)",male,,,4,2617
-Shemaiah_21,Shemaiah,,the Nehelamite (JER 29:24) who prophesied a lie (JER 29:31),male,,,21,2618
-Hanamel_1,Hanamel,,"son of Shallum (JER 32:7), Jeremiah's cousin",male,,,1,2619
-Shallum_13,Shallum,,"father of Hanamel (JER 32:7), Jeremiah's uncle",male,,,13,2620
-Baruch_4,Baruch,,scribe and friend (?) of Jeremiah (JER 32:12),male,,,4,2621
-Neriah_1,Neriah,,father of Baruch (JER 32:12),male,,,1,2622
-Mahseiah_1,Mahseiah,,father of Neriah (JER 32:12),male,,,1,2623
-Jaazaniah_2,Jaazaniah,,"son of Jeremiah, the Rechabite (JER 35:3)",male,,,2,2624
-Jeremiah_8,Jeremiah,,"son of Habazziniah, the Rechabite (JER 35:3)",male,,,8,2625
-Habazziniah_1,Habazziniah,,the Rechabite (JER 35:3),male,,,1,2626
-Hanan_8,Hanan,,had a chamber in the Temple (JER 35:4),male,,,8,2627
-Igdaliah_1,Igdaliah,,"the man of G-d, father of Hanan (JER 35:4)",male,,,1,2628
-Gemariah_2,Gemariah,,son of Shaphan_1 the scribe (JER 36:10),male,,,2,2629
-Micaiah_6,Micaiah,,son of Gemariah_2 (JER 36:10),male,,,6,2630
-Elishama_6,Elishama,,"the scribe, an official (JER 36:12)",male,,,6,2631
-Delaiah_5,Delaiah,,"son of Shemaiah_21, an official (JER 36:12)",male,,,5,2632
-Elnathan_5,Elnathan,,"son of Achbor_2, an official (JER 36:12)",male,,,5,2633
+Micah_4,Micah,,of Moresheth (JER 26:18) authored the book of Micah (MIC 1:1),male,,,4,2608
+Uriah_4,Uriah,,prophesied in the name of the LORD (JER 26:20),male,,,4,2609
+Shemaiah_20,Shemaiah,,"father of Uriah, from Kiriath-jearim (JER 26:20)",male,,,20,2610
+Hananiah_10,Hananiah,,"the [false] prophet, son of Azzur (JER 28:1)",male,,,10,2611
+Azzur_2,Azzur,,father of Hananiah (JER 28:1),male,,,2,2612
+Elasah_2,Elasah,,son of Shaphan (JER 29:3),male,,,2,2613
+Shaphan_2,Shaphan,,father of Elasah (JER 29:3),male,,,2,2614
+Gemariah_1,Gemariah,,son of Hilkiah_3 (JER 29:3),male,,,1,2615
+Ahab_2,Ahab,,prophesied falsely (JER 29:21),male,,,2,2616
+Kolaiah_2,Kolaiah,,father of Ahab_2 (JER 29:21),male,,,2,2617
+Zedekiah_4,Zedekiah,,"prophesied falsely, son of Maaseiah_6 (JER 29:21)",male,,,4,2618
+Shemaiah_21,Shemaiah,,the Nehelamite (JER 29:24) who prophesied a lie (JER 29:31),male,,,21,2619
+Hanamel_1,Hanamel,,"son of Shallum (JER 32:7), Jeremiah's cousin",male,,,1,2620
+Shallum_13,Shallum,,"father of Hanamel (JER 32:7), Jeremiah's uncle",male,,,13,2621
+Baruch_4,Baruch,,scribe and friend (?) of Jeremiah (JER 32:12),male,,,4,2622
+Neriah_1,Neriah,,father of Baruch (JER 32:12),male,,,1,2623
+Mahseiah_1,Mahseiah,,father of Neriah (JER 32:12),male,,,1,2624
+Jaazaniah_2,Jaazaniah,,"son of Jeremiah, the Rechabite (JER 35:3)",male,,,2,2625
+Jeremiah_8,Jeremiah,,"son of Habazziniah, the Rechabite (JER 35:3)",male,,,8,2626
+Habazziniah_1,Habazziniah,,the Rechabite (JER 35:3),male,,,1,2627
+Hanan_8,Hanan,,had a chamber in the Temple (JER 35:4),male,,,8,2628
+Igdaliah_1,Igdaliah,,"the man of G-d, father of Hanan (JER 35:4)",male,,,1,2629
+Gemariah_2,Gemariah,,son of Shaphan_1 the scribe (JER 36:10),male,,,2,2630
+Micaiah_6,Micaiah,,son of Gemariah_2 (JER 36:10),male,,,6,2631
+Elishama_6,Elishama,,"the scribe, an official (JER 36:12)",male,,,6,2632
+Delaiah_5,Delaiah,,"son of Shemaiah_21, an official (JER 36:12)",male,,,5,2633
 Zedekiah_5,Zedekiah,,"son of Hananiah_10, an official (JER 36:12)",male,,,5,2634
 Jehudi_1,Jehudi,,son of Nethaniah (JER 36:14),male,,,1,2635
 Nethaniah_4,Nethaniah,,son of Shelemiah (JER 36:14),male,,,4,2636
