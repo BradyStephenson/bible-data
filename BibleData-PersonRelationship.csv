@@ -5123,7 +5123,9 @@ Pashhur_3:Gedaliah_4:5121,5121,Pashhur_3,father,Gedaliah_4,inferred,JER 38:1,
 Gedaliah_4:Pashhur_3:5122,5122,Gedaliah_4,son,Pashhur_3,explicit,JER 38:1,
 Shelemiah_8:Jucal_1:5123,5123,Shelemiah_8,father,Jucal_1,inferred,JER 38:1,
 Jucal_1:Shelemiah_8:5124,5124,Jucal_1,son,Shelemiah_8,explicit,JER 38:1,
-Mattaniah_1:Malchijah_10:5125,5125,Mattaniah_1,father,Malchijah_10,inferred,JER 38:6,Mattaniah's name was changed to Zedekiah (2Kings 24:17)
-Malchijah_10:Mattaniah_1:5126,5126,Malchijah_10,son,Mattaniah_1,explicit,JER 38:6,Mattaniah's name was changed to Zedekiah (2Kings 24:17)
-Kareah_1:Jonathan_14:5127,5127,Kareah_1,father,Jonathan_14,inferred,JER 40:8,
-Jonathan_14:Kareah_1:5128,5128,Jonathan_14,son,Kareah_1,explicit,JER 40:8,
+Malchijah_10:Pashhur_4:5125,5125,Malchijah_10,father,Pashhur_4,inferred,JER 38:1,
+Pashhur_4:Malchijah_10:5126,5126,Pashhur_4,son,Malchijah_10,explicit,JER 38:1,
+Mattaniah_1:Malchijah_10:5127,5127,Mattaniah_1,father,Malchijah_10,inferred,JER 38:6,Mattaniah's name was changed to Zedekiah (2Kings 24:17)
+Malchijah_10:Mattaniah_1:5128,5128,Malchijah_10,son,Mattaniah_1,explicit,JER 38:6,Mattaniah's name was changed to Zedekiah (2Kings 24:17)
+Kareah_1:Jonathan_14:5129,5129,Kareah_1,father,Jonathan_14,inferred,JER 40:8,
+Jonathan_14:Kareah_1:5130,5130,Jonathan_14,son,Kareah_1,explicit,JER 40:8,
