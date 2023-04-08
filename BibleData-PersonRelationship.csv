@@ -5129,3 +5129,7 @@ Mattaniah_1:Malchijah_10:5127,5127,Mattaniah_1,father,Malchijah_10,inferred,JER 
 Malchijah_10:Mattaniah_1:5128,5128,Malchijah_10,son,Mattaniah_1,explicit,JER 38:6,Mattaniah's name was changed to Zedekiah (2Kings 24:17)
 Kareah_1:Jonathan_14:5129,5129,Kareah_1,father,Jonathan_14,inferred,JER 40:8,
 Jonathan_14:Kareah_1:5130,5130,Jonathan_14,son,Kareah_1,explicit,JER 40:8,
+Hoshaiah_2:Jaazaniah_1:5131,5131,Hoshaiah_2,father,Jaazaniah_1,inferred,JER 42:1,"This is the first place where Hoshaiah is named.  Elsewhere he is called ""the Maacathite""."
+Jaazaniah_1:Hoshaiah_2:5132,5132,Jaazaniah_1,son,Hoshaiah_2,explicit,JER 42:1,"This is the first place where Hoshaiah is named.  Elsewhere he is called ""the Maacathite""."
+Hoshaiah_2:Azariah_17:5133,5133,Hoshaiah_2,father,Azariah_17,inferred,JER 43:2,
+Azariah_17:Hoshaiah_2:5134,5134,Azariah_17,son,Hoshaiah_2,explicit,JER 43:2,
