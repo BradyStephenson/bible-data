@@ -3189,14 +3189,19 @@ Azariah_17_1,Azariah_17,Azariah,עֲזַרְיָה,azarəiyah,Yahweh has helped,
 Pharaoh_8_3,Pharaoh_8,Pharaoh Hophrah,פַּרְעֹה חָפְרַע,parəoh chafəra,Pharaoh Hophrah,"H6547, H6548",[none],,,,JER 44:30,title,,The Rahlfs Septuaginta equivalent verse is JER 51:30,3,3188
 Amon_3_1,Amon_3,Amon,אָמוֹן,amon,trustworthy,H526,Αμων,Amōn,,none,JER 46:25,proper name,,The Rahlfs Septuaginta equivalent verse is JER 26:25,1,3189
 Seraiah_10_1,Seraiah_10,Seraiah,שְׂרָיָה,səraiyah,Yahweh persists; Yahweh is prince; Yahweh contends,H8304,Σαραια,Saraia,,none,JER 51:59,proper name,,The Rahlfs Septuaginta equivalent verse is JER 28:59,1,3190
-Jehoiachin_1_5,Jehoiachin_1,King Jehoiachin,מֶּלֶךְ יוֹיָכִֽין,melekh yəhoyakhiyn,king Jehoiachin,"H4428, H3078",βασιλέως Ιωακιμ,basiléōs Iōakim,king Jehoiachim,"G935, none",EZE 1:2,title,,,5,3191
-Ezekiel_1_1,Ezekiel_1,Ezekiel,יְחֶזְקֵאל,yəchetzəqel,God [El] gives strength,H3168,Ιεζεκιηλ,Iezekiēl,,none,EZE 1:3,proper name,,,1,3192
-Buzi_1_1,Buzi_1,Buzi,בּוּזִי,butziy,contempt,H941,Βουζι,Bouzi,,none,EZE 1:3,proper name,,,1,3193
-Ezekiel_1_2,Ezekiel_1,Son of man,בֶּן־אָדָם,ben adam,son of man,"H1121, H120",Υἱὲ ἀνθρώπου,Ui̔è a̓nthrṓpou,,"G5207, G444",EZE 2:1,title,,,2,3194
-Jaazaniah_3_1,Jaazaniah_3,Jaazaniah,יַאֲזַנְיָהוּ,yaətzaniyahu,Yahweh listens,H2970,Ιεζονιας,Iezonias,,none,EZE 8:11,proper name,,,1,3195
-Shaphan_3_1,Shaphan_3,Shaphan,שָׁפָן,shaphan,rock badger,H8227,Σαφαν,Saphan,,none,EZE 8:11,proper name,,,1,3196
-Jaazaniah_4_1,Jaazaniah_4,Jaazaniah,יַאֲזַנְיָה,yaətzaniyah,Yahweh listens,H2970,Ιεζονιαν,Iezonian,,none,EZE 11:1,proper name,,,1,3197
-Azzur_3_1,Azzur_3,Azzur,עַזֻּר,atzur,help,H5809,Εζερ,Ezer,,none,EZE 11:1,proper name,,,1,3198
-Pelatiah_4_1,Pelatiah_4,Pelatiah,פְּלַטְיָהוּ,pəlatəyahu,Yahweh rescues,H6410,Φαλτιαν,Phaltian,,none,EZE 11:1,proper name,,,1,3199
-Benaiah_11_1,Benaiah_11,Benaiah,בְּנָיָהוּ,bənayahu,Yahweh has built,H1141,Βαναιου,Banaiou,,none,EZE 11:1,proper name,,,1,3200
-Daniel_2_1,Daniel_2,Daniel,דָּנִיֵּאל,daniyel,G-d [El] is my judge,H1840,Δανιηλ,Daniēl,,G1158,EZE 14:14,proper name,,,1,3201
+Jehoiachin_1_5,Jehoiachin_1,King Jehoiachin,מֶּלֶךְ יוֹיָכִֽין,melekh yəhoyakhiyn,king Jehoiachin,"H4428, H3078",βασιλέως Ιωακιμ,basiléōs Iōakim,king Jehoiachim,"G935, none",EZK  1:2,title,,,5,3191
+Ezekiel_1_1,Ezekiel_1,Ezekiel,יְחֶזְקֵאל,yəchetzəqel,God [El] gives strength,H3168,Ιεζεκιηλ,Iezekiēl,,none,EZK  1:3,proper name,,,1,3192
+Buzi_1_1,Buzi_1,Buzi,בּוּזִי,butziy,contempt,H941,Βουζι,Bouzi,,none,EZK  1:3,proper name,,,1,3193
+Ezekiel_1_2,Ezekiel_1,Son of man,בֶּן־אָדָם,ben adam,son of man,"H1121, H120",Υἱὲ ἀνθρώπου,Ui̔è a̓nthrṓpou,,"G5207, G444",EZK  2:1,title,,,2,3194
+Jaazaniah_3_1,Jaazaniah_3,Jaazaniah,יַאֲזַנְיָהוּ,yaətzaniyahu,Yahweh listens,H2970,Ιεζονιας,Iezonias,,none,EZK  8:11,proper name,,,1,3195
+Shaphan_3_1,Shaphan_3,Shaphan,שָׁפָן,shaphan,rock badger,H8227,Σαφαν,Saphan,,none,EZK  8:11,proper name,,,1,3196
+Jaazaniah_4_1,Jaazaniah_4,Jaazaniah,יַאֲזַנְיָה,yaətzaniyah,Yahweh listens,H2970,Ιεζονιαν,Iezonian,,none,EZK  11:1,proper name,,,1,3197
+Azzur_3_1,Azzur_3,Azzur,עַזֻּר,atzur,help,H5809,Εζερ,Ezer,,none,EZK  11:1,proper name,,,1,3198
+Pelatiah_4_1,Pelatiah_4,Pelatiah,פְּלַטְיָהוּ,pəlatəyahu,Yahweh rescues,H6410,Φαλτιαν,Phaltian,,none,EZK  11:1,proper name,,,1,3199
+Benaiah_11_1,Benaiah_11,Benaiah,בְּנָיָהוּ,bənayahu,Yahweh has built,H1141,Βαναιου,Banaiou,,none,EZK  11:1,proper name,,,1,3200
+Daniel_2_1,Daniel_2,Daniel,דָּנִיֵּאל,daniyel,G-d [El] is my judge,H1840,Δανιηλ,Daniēl,,G1158,EZK  14:14,proper name,,,1,3201
+Mattaniah_1_5,Mattaniah_1,Prince of Israel,נְשִׂיא יִשְׂרָאֵל,nəsiy yisrael,prince [of] Israel,"H5387, H3478",[none],,,,EZK  21:25,title,,EZK  21:30 in the BHS and Rahlfs Septuaginta,5,3202
+Nebuchadnezzar_1_,Nebuchadnezzar_1,king of kings,מֶלֶךְ מְלָכִים,melekh məlakiym,king [of] kings,"H4428, H4428",βασιλεὺς βασιλέων,basileùs basiléōn,king of kings,"G935, G935",EZK  26:7,title,,,7,3203
+Pharaoh_8_4,Pharaoh_8,King of Egypt,מֶֽלֶךְ מִצְרָ֑יִם,melekh mitsərayim,king [of] Egypt,"H4428, H4714",βασιλέα Αἰγύπτου ,basiléa Ai̓gúptou ,king [of] Egypt,"G935, G125",EZK  29:1,title,,,4,3204
+Gog_2_1,Gog_2,Gog,גּוֹג,gog,precious golden object,H1463,Γωγ,Gōg,,G1136,EZK  38:2,name,,,1,3205
+Gog_2_2,Gog_2,"Prince of Rosh, Meshech, and Tubal",נְשִׂ֕יא רֹאשׁ מֶשֶׁךְ וְתֻבָל,nəsiy rosh meshekh v'tuval,"prince of Rosh, Meshech, and Tubal","H5387, H7218, H4901, H8422","ἄρχοντα Ρως, Μοσοχ καὶ Θοβελ","a̓́rkhonta Rōs, Mosokh kaì Thobel","ruler [of] Rosh, Meshech, and Tubal","G758, none, none, G2532, none",EZK  38:2,title,,,2,3206
