@@ -841,7 +841,7 @@ Tahpenes_1,Tahpenes,,Queen of Egypt (1KI 11:19),female,,,1,839
 Genubath_1,Genubath,,son of Hadad (1KI 11:20),male,,,1,840
 Rezon_1,Rezon,,adversary to Solomon (1KI 11:23),male,,,1,841
 Eliada_2,Eliada,,father of Rezon (1KI 11:23),male,,,2,842
-Jeroboam_1,Jeroboam,,"Solomon's servant, son of Nebat, who rebelled against him (1KI 11:26), and was later made king (1KI 12:20)",male,Ephraim,,1,843
+Jeroboam_1,Jeroboam,,"Solomon's servant, son of Nebat, who rebelled against him (1KI 11:26), and was later made king of Israel (1KI 12:20)",male,Ephraim,,1,843
 Nebat_1,Nebat,,"father of Jeroboam, an Ephraimite of Zeredah (1KI 11:26)",male,Ephraim,,1,844
 Zeruah_1,Zeruah,,"mother of Jeroboam, a widow (1KI 11:26)",female,,,1,845
 Rehoboam_1,Rehoboam,,son of Solomon who became king after him (1KI 11:43),male,Judah,,1,846
@@ -2106,7 +2106,7 @@ Habaiah_1,Habaiah,,unable to give evidence if they were from the priesthood (EZR
 Barzillai_3,Barzillai,,man who took a wife from the the daughters of Barzillai and was called by their name (EZR 2:61),male,,,3,2105
 Jozadak_1,Jozadak,,father of Jeshua_3 who built the altar (EZR 3:2),male,Levi,priest,1,2106
 Shealtiel_2,Shealtiel,,father of Zerubbabel (EZR 3:2),male,Levi,,2,2107
-Darius_1,Darius,,King of Persia (EZR 4:5),male,,,1,2108
+Darius_1,Darius,,King of Persia (EZR 4:5),male,,"likely Darius III, the last King of Persia, conquered by Alexander the Great",1,2108
 Ahasuerus_1,Ahasuerus,,King of Persia (EZR 4:6),male,,This is the same person in Esther 1:1 and Daniel 9:1,1,2109
 Artaxerxes_1,Artaxerxes,,King of Persia (EZR 4:7),male,,,1,2110
 Bishlam_1,Bishlam,,wrote against Judah (EZR 4:7),male,,,1,2111
@@ -2706,4 +2706,10 @@ Diblaim_1,Diblaim,,father of Gomer (HOS 1:3),male,,,1,2704
 Jezreel_2,Jezreel,,son of Hosea and Gomer (HOS 1:4),male,,,2,2705
 Lo-ruhamah_1,Lo-ruhamah,,daughter of Gomer (HOS 1:6),female,,,1,2706
 Lo-ammi_1,Lo-ammi,,son of Gomer (HOS 1:8),male,,,1,2707
-King Jareb_1,King Jareb,,mentioned in HOS 5:14,male,,,1,2708
+King Jareb_1,King Jareb,,mentioned in HOS 5:14,male,,separate individual or another name for Nebuchadnezzar?,1,2708
+Joel_11,Joel,,"the prophet, son of Pethuel (JOL 1:1)",male,,,11,2709
+Pethuel_1,Pethuel,,father of Joel the prophet (JOL 1:1),male,,,1,2710
+Amos_1,Amos,,"the prophet, from among the sheepherders of Tekoa (AMO 1:1)",male,,,1,2711
+Obadiah_12,Obadiah,,the prophet (OBA 1:1),male,,,12,2712
+King of Nineveh_1,King of Nineveh,,the king of Jonah's account (JON 3:6),male,,,1,2713
+Nahum_1,Nahum,,"the Elkoshite, prophet of the book of Nahum (NAH 1:1)",male,,,1,2714
