@@ -440,7 +440,7 @@ Phinehas_1_1,Phinehas_1,Phinehas,פִּינְחָס,piynəchas,the black man,H637
 G-d_1_27,G-d_1,LORD,יָהּ,yah,[shortened form of Y-H-V-H],H3050,[none],,,,EXO 15:2,proper name,Y,,27,439
 Miriam_1_1,Miriam_1,Miriam,מִרְיָ֨ם,mirəyam,[variously] bitterness; plump one; wished-for child; one who loves or is loved,H4813,Μαριαμ,Mariam,,none,"EXO 15:20, NUM 26:59",proper name,,,1,440
 G-d_1_28,G-d_1,The Lord Your Healer,יְהוָ֖ה רֹפְאֶֽךָ,y-h-v-h rofəekha,[special name of G-d] Your healer,"H3068, H7495",κύριος ὁ ἰώμενός σε,kýrios ho iṓmenós se,the Lord healing you,"G2962, G3588, G2390, G4771",EXO 15:26,title,Y,,28,441
-Joshua_1_1,Joshua_1,Joshua,יְהוֹשֻׁעַ,yəhoshua,Yahweh saves,H3091,Ἰησοῦ,Iēsoû,,none,EXO 17:9,proper name,,Moses' name for Hosea (NUM 13:16),1,442
+Joshua_1_1,Joshua_1,Joshua,יְהוֹשֻׁעַ,yəhoshua,Yahweh saves,H3091,Ἰησοῦ,Iēsoû,,G2424,EXO 17:9,proper name,,Moses' name for Hosea (NUM 13:16),1,442
 Hur_1_1,Hur_1,Hur,חוּר,hur,[perhaps] child,H2354,Ωρ,Ōr,,none,EXO 17:10,proper name,,,1,443
 Eliezer_2_1,Eliezer_2,Eliezer,אֱלִיעֶ֑זֶר,eliyezer,G-d [El] is [my] help,H461,Ελιεζερ,Eliezer,,none,EXO 18:4,proper name,,,1,444
 G-d_1_29,G-d_1,G-d of Israel,אֱלֹהֵי יִשְׂרָאֵל,elohei yisərael,G-d of Israel,"H430, H3478",θεὸς τοῦ Ισραηλ,theòs toû Israēl,god of Israel,"G2316, G3588, G2474",EXO 24:10,title,Y,,29,445
@@ -595,11 +595,11 @@ G-d_1_35,G-d_1,The Rock,הַצּוּר,hatsur,the rock,H6697,[none],,,,DEU 32:4,
 G-d_1_36,G-d_1,Father,אָבִ֣יךָ,aviykha,[your] father,H1,πατήρ,patḗr,father,G3962,DEU 32:6,title,Y,,36,594
 Jacob_1_3,Jacob_1,Jesherun,יְשֻׁרוּן,yəshurun,upright,H3484,Ιακωβ,Iakōb,Jacob,G2384,DEU 32:15,proper name,,,3,595
 Moses_1_3,Moses_1,man of G-d,אִישׁ הָאֱלֹהִים,iysh haelohiym,man [of] G-d,"H376, H430",ἄνθρωπος τοῦ θεοῦ,ánthrōpos toû theoû,man of G-d,"G444, G3588, G2316",DEU 33:1,title,,,3,596
-Moses_1_4,Moses_1,the servant of the LORD,עֶבֶד־יְהוָה,eved Y-H-V-H,servant of the LORD,"H5650, H3068",οἰκέτης κυρίου,oi̓kétēs kuríou,servant [of the] lord,"G3610, G2962",DEU 34:5,title,,,4,597
+Moses_1_4,Moses_1,the servant of the LORD,עֶבֶד־יְהוָה,eved y-h-v-h,servant of the LORD,"H5650, H3068",οἰκέτης κυρίου,oi̓kétēs kuríou,servant [of the] lord,"G3610, G2962",DEU 34:5,title,,,4,597
 Rahab_1_1,Rahab_1,Rahab,רָחָ֖ב,rachav,"spacious, broad",H7343,Ρααβ,Raab,,none,JOS 2:1,proper name,,,1,598
 King of Jericho_1_1,King of Jericho_1,King of Jericho,מֶ֣לֶךְ יְרִיח֔וֹ,melech yəriycho,king of Jericho,"H4428, H3405",βασιλεῖ Ιεριχω,basileî Ierixō,king of Jericho,"G935, G2410",JOS 2:3,title,,,1,599
 G-d_1_37,G-d_1,Lord of all the earth,אֲדוֹן כָּל־הָאָרֶץ,adon kal haarets,lord of the land,"H113, H3605, H776",κυρίου πάσης τῆς γῆς,kyríou pásēs tē̂s gē̂s,king (of) all the land,"G2962, G3956, G3588, G1093",JOS 3:11,title,Y,"this label is only used 6 times in Scripture (JOS 3:11, 3:13; MIC 4:13; ZEC 4:14, 6:5; PSA 97:5)",37,600
-the captain of the host of the LORD_1_1,the captain of the host of the LORD_1,the captain of the host of the LORD,שַׂר־צְבָא־יְהוָה,sar tsəva Y-H-V-H,prince [of the] army [of the] LORD,"H8269, H6633, H3068",ἀρχιστράτηγος δυνάμεως κυρίου,arxistrátēgos dynámeōs kyríou,general (of the military) force (of the) lord,"none, G1411, G2962",JOS 5:14,title,Y,this label is only used in JOS 5:14-15,1,601
+the captain of the host of the LORD_1_1,the captain of the host of the LORD_1,the captain of the host of the LORD,שַׂר־צְבָא־יְהוָה,sar tsəva y-h-v-h,prince [of the] army [of the] LORD,"H8269, H6633, H3068",ἀρχιστράτηγος δυνάμεως κυρίου,arxistrátēgos dynámeōs kyríou,general (of the military) force (of the) lord,"none, G1411, G2962",JOS 5:14,title,Y,this label is only used in JOS 5:14-15,1,601
 Achan_1_1,Achan_1,Achan,עָכָ֣ן,akhan,troubler,H5912,Αχαρ,Axar,,none,JOS 7:1,proper name,,,1,602
 Carmi_2_1,Carmi_2,Carmi,כַּרְמִי֩,karəmiy,[poss.] [fruitful] vine,H3756,Χαρμι,Xarmi,,none,JOS 7:1,proper name,,,1,603
 Zabdi_1_1,Zabdi_1,Zabdi,זַבְדִּ֨י,zavədiy,Yahweh bestows,H2067,Ζαμβρι,Zambri,,none,JOS 7:1,proper name,,Greek contains scribal error mistaking ד (d) for ר (r) in the Hebrew.,1,604
@@ -3019,7 +3019,7 @@ David_1_11,David_1,My Son,בְּנִי,bəniy,my son,H1121,Υἱός,Hyiós,
 G-d_1_54,G-d_1,G-d of my righteousness,אֱלֹהֵי צִדְקִי,elohiy tsidəqiy,god of my righteousness,"H430, H6664",θεὸς τῆς δικαιοσύνης μου,theòs tē̂s dikaiosýnēs mou,god of my righteousness,"G2316, G3588, G1343, G1473",PSA 4:1,title,Y,Psalm 4:2 in the BHS and Rahlfs Septuaginta,54,3018
 G-d_1_55,G-d_1,King,מֶ֣לֶךְ,mələkh,king,H4428,βασιλέα,basiléa,king,G935,PSA 5:2,title,Y,Psalm 5:3 in the BHS and Rahlfs Septuaginta,55,3019
 Cush_2_1,Cush_2,Cush,כּוּשׁ,kush,,H3568,Χουσι,Xousi,,none,PSA 7:0,proper name,,Psalm 7:1 in the BHS and Rahlfs Septuaginta,1,3020
-G-d_1_56,G-d_1,the LORD Most High,יְהוָה עֶלְיֽוֹן,yhvh eləyon,[special name of G-d] Most High,"H3068, H5945",κυρίου τοῦ ὑψίστου,kyríou toû hypsístou,the lord most high,"G2962, G3588, G5310",PSA 7:17,title,Y,Psalm 7:18 in the BHS and Rahlfs Septuaginta,56,3021
+G-d_1_56,G-d_1,the LORD Most High,יְהוָה עֶלְיֽוֹן,y-h-v-h eləyon,[special name of G-d] Most High,"H3068, H5945",κυρίου τοῦ ὑψίστου,kyríou toû hypsístou,the lord most high,"G2962, G3588, G5310",PSA 7:17,title,Y,Psalm 7:18 in the BHS and Rahlfs Septuaginta,56,3021
 David_1_12,David_1,Your Holy One,חֲסִידְךָ,hasiydak,your holy one,H2623,ὅσιόν σου,hósión sou,your holy one,"G3741, G4771",PSA 16:10,title,Y,Psalm 16:10 in the BHS and Psalm 15:10 in Rahlfs Septuaginta,12,3022
 G-d_1_57,G-d_1,Savior,מוֹשִׁיעַ,moshiya,"savior, deliverer, rescuer;",H4188a,[none],,,,PSA 17:7,title,Y,"This title is not present in the equivalent passage in Rahlfs' Septuaginta.  Rahlfs instead contains a verb phrase roughly translating as ""and send them as the lord, to save them"".",57,3023
 G-d_1_58,G-d_1,G-d of my salvation,אֱלוֹהֵי יִשְׁעִי,elohey yishəiy,god of my salvation,"H430, H3467",θεὸς τῆς σωτηρίας μου,theòs tē̂s sōtērías mou,god of my salvation,"G2316, G3588, G4991, G1473",PSA 18:46,title,Y,Psalm 18:47 in the BHS and Psalm 17:47 in Rahlfs Septuaginta,58,3024
@@ -3260,3 +3260,15 @@ Amos_1_1,Amos_1,Amos,עָמוֹס,amos,burden bearer,H5986,Αμως,Amōs,,G301,
 Obadiah_12_1,Obadiah_12,Obadiah,עֹבַדְיָה,ovedəyah,servant [worshiper] of Yahweh,H5662,Αβδιου,Abdiou,,none,OBA 1:1,proper name,,,1,3259
 King of Nineveh_1_1,King of Nineveh_1,King of Nineveh,מֶ֣לֶך נִֽינְוֵ֔ה,melekh niynəveh,king [of] Nineveh,"H4428, H5210",βασιλέα τῆς Νινευη,basiléa tē͂s Nineuē,king of Nineveh,"G935, G3588, none",JON 3:6,title,,,1,3260
 Nahum_1_1,Nahum_1,Nahum,נַחוּם,nachum,comfort,H5151,Ναουμ,Naoum,,G3486,NAM 1:1,proper name,,,1,3261
+Habakkuk_1_1,Habakkuk_1,Habakkuk,חֲבַקּוּק,chavaquq,garden plant,H2265,Αμβακουμ,Ambakoum,,none,HAB 1:1,proper name,,,1,3262
+Zephaniah_3_1,Zephaniah_3,Zephaniah,צְפַנְיָה,tsəphanəyah,Yahweh has hidden [to shelter] or Yahweh has hidden [as a treasure],H6846,Σοφονιαν,Sophonian,,none,ZEP 1:1,proper name,,,1,3263
+Cushi_2_1,Cushi_2,Cushi,כּוּשִׁי,kushiy,,H3570,Χουσι,Xousi,,none,ZEP 1:1,proper name,,,1,3264
+Gedaliah_5_1,Gedaliah_5,Gedaliah,גְּדַלְיָה,gədaləyah,great is Yahweh,H1436,Γοδολιου,Godoliou,,none,ZEP 1:1,proper name,,,1,3265
+Amariah_8_1,Amariah_8,Amariah,אֲמַרְיָה,amarəyah,Yahweh has said,H568,Αμαριου,Amariou,,none,ZEP 1:1,proper name,,,1,3266
+Hezekiah_3_1,Hezekiah_3,Hezekiah,חִזְקִיָּה,chizəqiyah,Yahweh is [my] strength,H2396,Εζεκιου,Ezekiou,,G1478,ZEP 1:1,proper name,,,1,3267
+Zerubbabel_2_2,Zerubbabel_2,Governor of Judah,פֶּחָה יְהוּדָה,pechah yəhudah,governor [of] Judah,"H6346, H3063",[none],,,,HAG 1:1,title,,"The Rahlfs Septuaginta notes Zerubbabel ""of the tribe of Judah"" rather than ""governor of Judah"".",2,3268
+Joshua_4_1,Joshua_4,Joshua,יְהוֹשֻׁעַ,yəhoshua,Yahweh saves,H3091,Ἰησοῦν,I̓ēsou͂n,,G2424,HAG 1:1,proper name,,,1,3269
+Jehozadak_2_1,Jehozadak_2,Jehozadak,יְהוֹצָדָק,yəhotsadaq,Yahweh is just,H3087,Ιωσεδεκ,Iōsedek,,none,HAG 1:1,proper name,,,1,3270
+Haggai_1_2,Haggai_1,the messenger of the LORD,מַלְאַךְ יְהוָה,maləak y-h-v-h,angel/messenger [of the] LORD,"H4397, H3068",ὁ ἄγγελος κυρίου,o̔ a̓́ngelos kuríou,the angel/messenger [of the] lord,"G3588, G32, G2962",HAG 1:13,title,,,2,3271
+Zerubbabel_2_3,Zerubbabel_2,My servant,עַבְדִּי,avədiy,my servant,H5650,δοῦλόν μου,dou͂lón mou,servant mine,"G1401, G1473",HAG 2:23,title,,,3,3272
+Berechiah_6_1,Berechiah_6,Berechiah,בֶּרֶכְיָה,berekhəyah,Yahweh blesses,H1296,Βαραχιου,Barakhiou,,G914,ZEC 1:1,proper name,,,1,3273
