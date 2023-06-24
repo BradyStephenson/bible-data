@@ -1,5 +1,5 @@
 ﻿person_id,person_name,surname,unique_attribute,sex,tribe,person_notes,name_instance,person_sequence
-G-d_1,G-d,,"Holy, Holy, Holy (ISA 6:3) and too many others to fit here",male,,,1,1
+Yhvh_1,Yhvh,,"Holy, Holy, Holy (ISA 6:3) and too many others to fit here",male,,,1,1
 Adam_1,Adam,,first man (1CO 15:45),male,,,1,2
 Eve_1,Eve,,"first woman, created from Adam (Gen 2:22)",female,,,1,3
 Cain_1,Cain,,"first son of Adam (GEN 4:1), cursed from the ground (GEN 4:11)",male,,,1,4
@@ -2722,3 +2722,47 @@ Hezekiah_3,Hezekiah,,great-great-grandfather of Zephaniah the prophet (ZEP 1:1),
 Joshua_4,Joshua,,high priest of Haggai's time (HAG 1:1),male,,,4,2721
 Jehozadak_2,Jehozadak,,father of Joshua the high priest (HAG 1:1),male,,possibly the same as Jehozadak_1?,2,2722
 Berechiah_6,Berechiah,,father of Zechariah the prophet (ZEC 1:1),male,,,6,2723
+Heldai_2,Heldai,,one of the exiles returned from Babylon (ZEC 6:10),male,,,2,2724
+Tobijah_2,Tobijah,,one of the exiles returned from Babylon (ZEC 6:10),male,,,2,2725
+Jedaiah_6,Jedaiah,,one of the exiles returned from Babylon (ZEC 6:10),male,,possibly the same as Jedaiah_4 or Jedaiah_5?,6,2726
+Josiah_2,Josiah,,son of Zephaniah (ZEC 6:10),male,,,2,2727
+Zephaniah_4,Zephaniah,,father of Josiah (ZEC 6:10),male,,possibly the same as the prophet Zephaniah (Zephaniah_3)?,4,2728
+Sharezer_2,Sharezer,,emissary from Bethel seeking the favor of the LORD (ZEC 7:2),male,,,2,2729
+Regemmelech_1,Regemmelech,,emissary from Bethel seeking the favor of the LORD (ZEC 7:2),male,,,1,2730
+Malachi_1,Malachi,,the prophet (MAL 1:1),male,,,1,2731
+Abihud_2,Abihud,,son of Zerubbabel in the lineage of the Messiah (MAT 1:13),male,Judah,,2,2732
+Eliakim_4,Eliakim,,son of Abihud in the lineage of the Messiah (MAT 1:13),male,Judah,,4,2733
+Azor_1,Azor,,son of Eliakim in the lineage of the Messiah (MAT 1:13),male,Judah,,1,2734
+Zadok_7,Zadok,,son of Azor in the lineage of the Messiah (MAT 1:14),male,Judah,,7,2735
+Achim_1,Achim,,son of Zadok in the lineage of the Messiah (MAT 1:14),male,Judah,,1,2736
+Eliud_1,Eliud,,son of Achim in the lineage of the Messiah (MAT 1:14),male,Judah,,1,2737
+Eleazar_9,Eleazar,,son of Eliud in the lineage of the Messiah (MAT 1:15),male,Judah,,9,2738
+Matthan_1,Matthan,,son of Eleazar in the lineage of the Messiah (MAT 1:15),male,Judah,,1,2739
+Jacob_2,Jacob,,son of Matthan in the lineage of the Messiah (MAT 1:15),male,Judah,,2,2740
+Joseph_6,Joseph,,son of Jacob in the lineage of the Messiah (MAT 1:16),male,Judah,,6,2741
+Mary_1,Mary,,"wife of Joseph, and mother of the Messiah (MAT 1:16)",female,,,1,2742
+Herod_1,Herod,,the king (MAT 2:1),male,Edom,"Herod I, founder of the Herodian dynasty, son of Antipater",1,2743
+Archelaus_1,Archelaus,,son of Herod (MAT 2:22),male,Edom,"king of Judea; born about 21 B.C., his mother being the Samaritan Malthace",1,2744
+John_1,John,,the baptist (MAT 3:1),male,Levi,"as son of Zacharias the priest (Luke 1), he would have been a Levite",1,2745
+Simon_1,Simon,,"Peter, brother of Andrew (MAT 4:18)",male,,"a fisherman (MAT 4:18), one of the Twelve (MAT 10:2)",1,2746
+Andrew_1,Andrew,,brother of Simon/Peter (MAT 4:18),male,,"a fisherman (MAT 4:18), one of the Twelve (MAT 10:2)",1,2747
+James_1,James,,son of Zebedee (MAT 4:21),male,,"fisherman (mending their nets- MAT 4:21), one of the Twelve (MAT 10:2)",1,2748
+Zebedee_1,Zebedee,,father of James and John (MAT 4:21),male,,fisherman (mending their nets- MAT 4:21),1,2749
+John_2,John,,son of Zebedee (MAT 4:21),male,,"fisherman (mending their nets- MAT 4:21), one of the Twelve (MAT 10:2)",2,2750
+Yhvh_2,Yhvh,,Heavenly Father (MAT 5:16),male,,"only the Son has revealed the Father (MAT 11:27, JHN 1:18)",2,2751
+Matthew_1,Matthew,,the tax collector (MAT 9:9),male,,one of the Twelve (MAT 10:2),1,2752
+Philip_1,Philip,,disciple of the Messiah (MAT 10:3),male,,one of the Twelve (MAT 10:2),1,2753
+Bartholomew_1,Bartholomew,,disciple of the Messiah (MAT 10:3),male,,one of the Twelve (MAT 10:2),1,2754
+Thomas_1,Thomas,,disciple of the Messiah (MAT 10:3),male,,one of the Twelve (MAT 10:2),1,2755
+James_2,James,,disciple of the Messiah (MAT 10:3),male,,one of the Twelve (MAT 10:2),2,2756
+Alphaeus_1,Alphaeus,,father of James the disciple (MAT 10:3),male,,,1,2757
+Thaddaeus_1,Thaddaeus,,disciple of the Messiah (MAT 10:3),male,,one of the Twelve (MAT 10:2),1,2758
+Simon_2,Simon,,disciple of the Messiah (MAT 10:4),male,,one of the Twelve (MAT 10:2),2,2759
+Judas_1,Judas,,disciple of the Messiah (MAT 10:4) who betrayed Him (MAT 10:4),male,,"one of the Twelve (MAT 10:2), from Kerioth (MAT 10:4)",1,2760
+James_3,James,,"""brother"" of Jesus, son of Mary (MAT 13:55)",male,Judah,,3,2761
+Joseph_7,Joseph,,"""brother"" of Jesus, son of Mary (MAT 13:55)",male,Judah,,7,2762
+Simon_3,Simon,,"""brother"" of Jesus, son of Mary (MAT 13:55)",male,Judah,,3,2763
+Judas_2,Judas,,"""brother"" of Jesus, son of Mary (MAT 13:55)",male,Judah,,2,2764
+Herod_2,Herod,,the tetrarch (MAT 14:1),male,Edom,"Herod Antipas, tetrarch of Gailiea and Perea",2,2765
+Herodias_1,Herodias,,wife of Philip (MAT 14:3),female,,daughter of Herod and half-sister to Philp,1,2766
+Philip_2,Philip,,brother of Herod (MAT 14:3),male,Edom,Philip the Tetrarch of Iturea and Trachonitis,2,2767
