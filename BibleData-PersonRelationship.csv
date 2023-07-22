@@ -5243,29 +5243,29 @@ Yhvh_1:Simon_2:5241,5241,Yhvh_1,rabbi,Simon_2,inferred,MAT 10:4,disciple relatio
 Simon_2:Yhvh_1:5242,5242,Simon_2,disciple,Yhvh_1,explicit,MAT 10:4,disciple relationship noted in MAT 10:1
 Yhvh_1:Judas_1:5243,5243,Yhvh_1,rabbi,Judas_1,inferred,MAT 10:4,disciple relationship noted in MAT 10:1
 Judas_1:Yhvh_1:5244,5244,Judas_1,disciple,Yhvh_1,explicit,MAT 10:4,disciple relationship noted in MAT 10:1
-Yhvh_1:Simon_1:5245,5245,Yhvh_1,sender,Simon_1,inferred,MAT 10:2,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+Yhvh_1:Simon_1:5245,5245,Yhvh_1,master,Simon_1,inferred,MAT 10:2,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
 Simon_1:Yhvh_1:5246,5246,Simon_1,apostle,Yhvh_1,explicit,MAT 10:2,
-Yhvh_1:Andrew_1:5247,5247,Yhvh_1,sender,Andrew_1,inferred,MAT 10:2,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+Yhvh_1:Andrew_1:5247,5247,Yhvh_1,master,Andrew_1,inferred,MAT 10:2,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
 Andrew_1:Yhvh_1:5248,5248,Andrew_1,apostle,Yhvh_1,explicit,MAT 10:2,
-Yhvh_1:James_1:5249,5249,Yhvh_1,sender,James_1,inferred,MAT 10:2,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+Yhvh_1:James_1:5249,5249,Yhvh_1,master,James_1,inferred,MAT 10:2,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
 James_1:Yhvh_1:5250,5250,James_1,apostle,Yhvh_1,explicit,MAT 10:2,
-Yhvh_1:John_2:5251,5251,Yhvh_1,sender,John_2,inferred,MAT 10:2,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+Yhvh_1:John_2:5251,5251,Yhvh_1,master,John_2,inferred,MAT 10:2,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
 John_2:Yhvh_1:5252,5252,John_2,apostle,Yhvh_1,explicit,MAT 10:2,
-Yhvh_1:Philip_1:5253,5253,Yhvh_1,sender,Philip_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+Yhvh_1:Philip_1:5253,5253,Yhvh_1,master,Philip_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
 Philip_1:Yhvh_1:5254,5254,Philip_1,apostle,Yhvh_1,explicit,MAT 10:3,
-Yhvh_1:Bartholomew_1:5255,5255,Yhvh_1,sender,Bartholomew_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+Yhvh_1:Bartholomew_1:5255,5255,Yhvh_1,master,Bartholomew_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
 Bartholomew_1:Yhvh_1:5256,5256,Bartholomew_1,apostle,Yhvh_1,explicit,MAT 10:3,
-Yhvh_1:Thomas_1:5257,5257,Yhvh_1,sender,Thomas_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+Yhvh_1:Thomas_1:5257,5257,Yhvh_1,master,Thomas_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
 Thomas_1:Yhvh_1:5258,5258,Thomas_1,apostle,Yhvh_1,explicit,MAT 10:3,
-Yhvh_1:Matthew_1:5259,5259,Yhvh_1,sender,Matthew_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+Yhvh_1:Matthew_1:5259,5259,Yhvh_1,master,Matthew_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
 Matthew_1:Yhvh_1:5260,5260,Matthew_1,apostle,Yhvh_1,explicit,MAT 10:3,
-Yhvh_1:James_2:5261,5261,Yhvh_1,sender,James_2,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+Yhvh_1:James_2:5261,5261,Yhvh_1,master,James_2,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
 James_2:Yhvh_1:5262,5262,James_2,apostle,Yhvh_1,explicit,MAT 10:3,
-Yhvh_1:Thaddaeus_1:5263,5263,Yhvh_1,sender,Thaddaeus_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+Yhvh_1:Thaddaeus_1:5263,5263,Yhvh_1,master,Thaddaeus_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
 Thaddaeus_1:Yhvh_1:5264,5264,Thaddaeus_1,apostle,Yhvh_1,explicit,MAT 10:3,
-Yhvh_1:Simon_2:5265,5265,Yhvh_1,sender,Simon_2,inferred,MAT 10:4,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+Yhvh_1:Simon_2:5265,5265,Yhvh_1,master,Simon_2,inferred,MAT 10:4,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
 Simon_2:Yhvh_1:5266,5266,Simon_2,apostle,Yhvh_1,explicit,MAT 10:4,
-Yhvh_1:Judas_1:5267,5267,Yhvh_1,sender,Judas_1,inferred,MAT 10:4,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+Yhvh_1:Judas_1:5267,5267,Yhvh_1,master,Judas_1,inferred,MAT 10:4,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
 Judas_1:Yhvh_1:5268,5268,Judas_1,apostle,Yhvh_1,explicit,MAT 10:4,
 James_3:Yhvh_1:5269,5269,James_3,brother,Yhvh_1,explicit,MAT 13:55,"""brother"" here would be ""born of the same womb"", not a biological relation"
 Yhvh_1:James_3:5270,5270,Yhvh_1,brother,James_3,inferred,MAT 13:55,"""brother"" here would be ""born of the same womb"", not a biological relation"
@@ -5289,3 +5289,7 @@ Herodias_1:Philip_2:5287,5287,Herodias_1,wife,Philip_2,explicit,MAT 14:3,
 Philip_2:Herodias_1:5288,5288,Philip_2,husband,Herodias_1,inferred,MAT 14:3,
 Herod_2:Philip_2:5289,5289,Herod_2,brother,Philip_2,explicit,MAT 14:3,
 Philip_2:Herod_2:5290,5290,Philip_2,brother,Herod_2,inferred,MAT 14:3,
+Aaron_1:Caiaphas_1:5291,5291,Aaron_1,ancestor,Caiaphas_1,inferred,MAT 26:3,"as High Priest, he would have been a descendant of Aaron"
+Caiaphas_1:Aaron_1:5292,5292,Caiaphas_1,descendant,Aaron_1,inferred,MAT 26:3,"as High Priest, he would have been a descendant of Aaron"
+Yhvh_1:Joseph_8:5293,5293,Yhvh_1,rabbi,Joseph_8,inferred,MAT 27:57,
+Joseph_8:Yhvh_1:5294,5294,Joseph_8,disciple,Yhvh_1,explicit,MAT 27:57,
