@@ -2744,7 +2744,7 @@ Mary_1,Mary,,"wife of Joseph, and mother of the Messiah (MAT 1:16)",female,,,1,2
 Herod_1,Herod,,the king (MAT 2:1),male,Edom,"Herod I, founder of the Herodian dynasty, son of Antipater",1,2743
 Archelaus_1,Archelaus,,son of Herod (MAT 2:22),male,Edom,"king of Judea; born about 21 B.C., his mother being the Samaritan Malthace",1,2744
 John_1,John,,the baptist (MAT 3:1),male,Levi,"as son of Zacharias the priest (Luke 1), he would have been a Levite",1,2745
-Simon_1,Simon,,"Peter, brother of Andrew (MAT 4:18)",male,,"a fisherman (MAT 4:18), one of the Twelve (MAT 10:2)",1,2746
+Simon_1,Simon,Barjona,"Peter, brother of Andrew (MAT 4:18)",male,,"a fisherman (MAT 4:18), one of the Twelve (MAT 10:2), surname Barjona (MAT 16:17)",1,2746
 Andrew_1,Andrew,,brother of Simon/Peter (MAT 4:18),male,,"a fisherman (MAT 4:18), one of the Twelve (MAT 10:2)",1,2747
 James_1,James,,son of Zebedee (MAT 4:21),male,,"fisherman (mending their nets- MAT 4:21), one of the Twelve (MAT 10:2)",1,2748
 Zebedee_1,Zebedee,,father of James and John (MAT 4:21),male,,fisherman (mending their nets- MAT 4:21),1,2749
@@ -2757,12 +2757,20 @@ Thomas_1,Thomas,,disciple of the Messiah (MAT 10:3),male,,one of the Twelve (MAT
 James_2,James,,disciple of the Messiah (MAT 10:3),male,,one of the Twelve (MAT 10:2),2,2756
 Alphaeus_1,Alphaeus,,father of James the disciple (MAT 10:3),male,,,1,2757
 Thaddaeus_1,Thaddaeus,,disciple of the Messiah (MAT 10:3),male,,one of the Twelve (MAT 10:2),1,2758
-Simon_2,Simon,,disciple of the Messiah (MAT 10:4),male,,one of the Twelve (MAT 10:2),2,2759
-Judas_1,Judas,,disciple of the Messiah (MAT 10:4) who betrayed Him (MAT 10:4),male,,"one of the Twelve (MAT 10:2), from Kerioth (MAT 10:4)",1,2760
-James_3,James,,"""brother"" of Jesus, son of Mary (MAT 13:55)",male,Judah,,3,2761
-Joseph_7,Joseph,,"""brother"" of Jesus, son of Mary (MAT 13:55)",male,Judah,,7,2762
-Simon_3,Simon,,"""brother"" of Jesus, son of Mary (MAT 13:55)",male,Judah,,3,2763
-Judas_2,Judas,,"""brother"" of Jesus, son of Mary (MAT 13:55)",male,Judah,,2,2764
+Simon_2,Simon,,"disciple of the Messiah (MAT 10:4), the zealot",male,,one of the Twelve (MAT 10:2),2,2759
+Judas_1,Judas,Iscariot,disciple of the Messiah (MAT 10:4) who betrayed Him (MAT 10:4),male,,"one of the Twelve (MAT 10:2), from Kerioth (MAT 10:4)",1,2760
+James_3,James,,"""brother"" of Jesus, son of Mary (MAT 13:55)",male,Judah,"""brother"" in the sense that they were born of the same womb",3,2761
+Joseph_7,Joseph,,"""brother"" of Jesus, son of Mary (MAT 13:55)",male,Judah,"""brother"" in the sense that they were born of the same womb",7,2762
+Simon_3,Simon,,"""brother"" of Jesus, son of Mary (MAT 13:55)",male,Judah,"""brother"" in the sense that they were born of the same womb",3,2763
+Judas_2,Judas,,"""brother"" of Jesus, son of Mary (MAT 13:55)",male,Judah,"""brother"" in the sense that they were born of the same womb",2,2764
 Herod_2,Herod,,the tetrarch (MAT 14:1),male,Edom,"Herod Antipas, tetrarch of Gailiea and Perea",2,2765
 Herodias_1,Herodias,,wife of Philip (MAT 14:3),female,,daughter of Herod and half-sister to Philp,1,2766
 Philip_2,Philip,,brother of Herod (MAT 14:3),male,Edom,Philip the Tetrarch of Iturea and Trachonitis,2,2767
+Caesar_1,Caesar,,Caesar during Jesus' ministry (MAT 22:17),male,,Tiberius Caesar,1,2768
+Caiaphas_1,Caiaphas,,the High Priest at the time of Messiah's last Passover (MAT 26:3),male,Levi,,1,2769
+Simon_4,Simon,,the leper (MAT 26:6),male,,,4,2770
+Pilate_1,Pilate,,the governor of Judea (MAT 27:2),male,,fifth governor of Judea under Tiberius,1,2771
+Barabbas_1,Barabbas,,notorious prisoner (MAT 27:16) set free instead of Yeshua,male,,,1,2772
+Simon_5,Simon,,man of Cyrene who bore Messiah's cross (MAT 27:32),male,,,5,2773
+Mary Magdalene_1,Mary Magdalene,,one of the women who followed Jesus from the Galilee (MAT 27:56),female,,,1,2774
+Joseph_8,Joseph,,of Arimethea (MAT 27:57),male,,,8,2775
