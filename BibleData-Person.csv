@@ -100,7 +100,7 @@ Jobab_1,Jobab,,son of Joktan (GEN 10:29),male,,,1,98
 Reu_1,Reu,,son of Peleg (GEN 11:19),male,,,1,99
 Serug_1,Serug,,son of Reu (GEN 11:20),male,,,1,100
 Nahor_1,Nahor,,son of Serug (GEN 11:22),male,,,1,101
-Terah_1,Terah,,son of Terah (GEN 11:24),male,,,1,102
+Terah_1,Terah,,son of Nahor(GEN 11:24),male,,,1,102
 Abram_1,Abram,,son of Terah (GEN 11:26),male,,,1,103
 Nahor_2,Nahor,,son of Terah (GEN 11:26),male,,,2,104
 Haran_1,Haran,,son of Terah (GEN 11:26),male,,,1,105
@@ -2787,3 +2787,50 @@ Theophilus_1,Theophilus,,the recipient/audience of Luke's account (LUK 1:3),male
 Zacharias_1,Zacharias,,the priest (LUK 1:5) father of John the Baptist,male,Levi,,1,2786
 Elizabeth_1,Elizabeth,,wife of Zacharias (LUK 1:5),female,Levi,,1,2787
 Caesar Augustus_1,Caesar Augustus,,Caesar at the time of Jesus' incarnation (LUK 2:1),male,,,1,2788
+Quirinius_1,Quirinius,,govern of Syria when the census at the time of Jesus' birth occurred (LUK 2:2),male,,,1,2789
+Simeon_2,Simeon,,the righteous and devout man in Jerusalem looking for the consolation of Israel (LUK 2:25),male,,,2,2790
+Anna_1,Anna,,the prophetess (LUK 2:36),female,Asher,,1,2791
+Phanuel_1,Phanuel,,the father of Anna the prophetess (LUK 2:36),male,Asher,,1,2792
+Lysanias_1,Lysanias,,the tetrarch of Abilene (LUK 3:1),male,,,1,2793
+Annas_1,Annas,,high priest during John the Baptist's ministry (LUK 3:2),male,Levi,,1,2794
+Eli_2,Eli,,in the lineage of Messiah (LUK 3:23),male,,,2,2795
+Matthat_1,Matthat,,in the lineage of Messiah (LUK 3:24),male,,,1,2796
+Levi_2,Levi,,in the lineage of Messiah (LUK 3:24),male,,,2,2797
+Melchi_1,Melchi,,in the lineage of Messiah (LUK 3:24),male,,,1,2798
+Jannai_1,Jannai,,in the lineage of Messiah (LUK 3:24),male,,,1,2799
+Joseph_9,Joseph,,in the lineage of Messiah (LUK 3:24),male,,,9,2800
+Mattathias_1,Mattathias,,in the lineage of Messiah (LUK 3:25),male,,,1,2801
+Amos_2,Amos,,in the lineage of Messiah (LUK 3:25),male,,,2,2802
+Nahum_2,Nahum,,in the lineage of Messiah (LUK 3:25),male,,,2,2803
+Hesli_1,Hesli,,in the lineage of Messiah (LUK 3:25),male,,,1,2804
+Naggai_1,Naggai,,in the lineage of Messiah (LUK 3:25),male,,,1,2805
+Maath_1,Maath,,in the lineage of Messiah (LUK 3:26),male,,,1,2806
+Mattathias_2,Mattathias,,in the lineage of Messiah (LUK 3:26),male,,,2,2807
+Semein_1,Semein,,in the lineage of Messiah (LUK 3:26),male,,,1,2808
+Josech_1,Josech,,in the lineage of Messiah (LUK 3:26),male,,,1,2809
+Joda_1,Joda,,in the lineage of Messiah (LUK 3:26),male,,,1,2810
+Joanan_1,Joanan,,in the lineage of Messiah (LUK 3:27),male,,,1,2811
+Rhesa_1,Rhesa,,in the lineage of Messiah (LUK 3:27),male,,,1,2812
+Zerubbabel_3,Zerubbabel,,in the lineage of Messiah (LUK 3:27),male,,,3,2813
+Shealtiel_3,Shealtiel,,in the lineage of Messiah (LUK 3:27),male,,,3,2814
+Neri_1,Neri,,in the lineage of Messiah (LUK 3:27),male,,,1,2815
+Melchi_2,Melchi,,in the lineage of Messiah (LUK 3:28),male,,,2,2816
+Addi_1,Addi,,in the lineage of Messiah (LUK 3:28),male,,,1,2817
+Cosam_1,Cosam,,in the lineage of Messiah (LUK 3:28),male,,,1,2818
+Elmadam_1,Elmadam,,in the lineage of Messiah (LUK 3:28),male,,,1,2819
+Er_3,Er,,in the lineage of Messiah (LUK 3:28),male,,,3,2820
+Joshua_5,Joshua,,in the lineage of Messiah (LUK 3:29),male,,,5,2821
+Eliezer_9,Eliezer,,in the lineage of Messiah (LUK 3:29),male,,,9,2822
+Jorim_1,Jorim,,in the lineage of Messiah (LUK 3:29),male,,,1,2823
+Matthat_2,Matthat,,in the lineage of Messiah (LUK 3:29),male,,,2,2824
+Levi_3,Levi,,in the lineage of Messiah (LUK 3:29),male,,,3,2825
+Simeon_3,Simeon,,in the lineage of Messiah (LUK 3:30),male,,,3,2826
+Judah_5,Judah,,in the lineage of Messiah (LUK 3:30),male,,,5,2827
+Joseph_10,Joseph,,in the lineage of Messiah (LUK 3:30),male,,,10,2828
+Jonam_1,Jonam,,in the lineage of Messiah (LUK 3:30),male,,,1,2829
+Eliakim_5,Eliakim,,in the lineage of Messiah (LUK 3:30),male,,,5,2830
+Melea_1,Melea,,in the lineage of Messiah (LUK 3:31),male,,,1,2831
+Menna_1,Menna,,in the lineage of Messiah (LUK 3:31),male,,,1,2832
+Mattatha_1,Mattatha,,in the lineage of Messiah (LUK 3:31),male,,,1,2833
+Admin_1,Admin,,in the lineage of Messiah (LUK 3:31),male,,,1,2834
+Cainan_1,Cainan,,in the lineage of Messiah (LUK 3:36),male,,Kenan or Kainan in some English texts,1,2835
