@@ -5399,3 +5399,13 @@ Admin_1:Amminadab_1:5397,5397,Admin_1,father,Amminadab_1,inferred,LUK 3:33,
 Amminadab_1:Admin_1:5398,5398,Amminadab_1,son,Admin_1,explicit,LUK 3:33,
 Ram_1:Admin_1:5399,5399,Ram_1,father,Admin_1,inferred,LUK 3:33,
 Admin_1:Ram_1:5400,5400,Admin_1,son,Ram_1,explicit,LUK 3:33,
+James_4:Thaddaeus_1:5401,5401,James_4,father,Thaddaeus_1,inferred,LUK 6:16,"Thaddaeus is called ""Judas"" in this verse"
+Thaddaeus_1:James_4:5402,5402,Thaddaeus_1,son,James_4,explicit,LUK 6:16,"Thaddaeus is called ""Judas"" in this verse"
+Chuza_1:Joanna_1:5403,5403,Chuza_1,husband,Joanna_1,inferred,LUK 8:3,
+Joanna_1:Chuza_1:5404,5404,Joanna_1,wife,Chuza_1,explicit,LUK 8:3,
+Herod_2:Chuza_1:5405,5405,Herod_2,master,Chuza_1,inferred,LUK 8:3,
+Chuza_1:Herod_2:5406,5406,Chuza_1,servant,Herod_2,explicit,LUK 8:3,"ἐπίτροπος (epitropos), one to whose charge or control a thing is left; a steward, bailiff, agent, manager"
+Joanna_1:Yhvh_1:5407,5407,Joanna_1,patron,Yhvh_1,inferred,LUK 8:3,"ιακονέω (diakoneō) verb form of διάκονος (diakonos- deacon), to wait, attend upon, serve, to be an attendant or assistant, to minister to, relieve, assist, or supply with the necessaries of life, provide the means of living"
+Yhvh_1:Joanna_1:5408,5408,Yhvh_1,client,Joanna_1,inferred,LUK 8:3,"ιακονέω (diakoneō) verb form of διάκονος (diakonos- deacon), to wait, attend upon, serve, to be an attendant or assistant, to minister to, relieve, assist, or supply with the necessaries of life, provide the means of living"
+Susanna_1:Yhvh_1:5409,5409,Susanna_1,patron,Yhvh_1,inferred,LUK 8:3,"ιακονέω (diakoneō) verb form of διάκονος (diakonos- deacon), to wait, attend upon, serve, to be an attendant or assistant, to minister to, relieve, assist, or supply with the necessaries of life, provide the means of living"
+Yhvh_1:Susanna_1:5410,5410,Yhvh_1,client,Susanna_1,inferred,LUK 8:3,"ιακονέω (diakoneō) verb form of διάκονος (diakonos- deacon), to wait, attend upon, serve, to be an attendant or assistant, to minister to, relieve, assist, or supply with the necessaries of life, provide the means of living"
