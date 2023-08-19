@@ -2772,7 +2772,7 @@ Simon_4,Simon,,the leper (MAT 26:6),male,,,4,2770
 Pilate_1,Pilate,,the governor of Judea (MAT 27:2),male,,fifth governor of Judea under Tiberius,1,2771
 Barabbas_1,Barabbas,,notorious prisoner (MAT 27:16) set free instead of the Messiah,male,,,1,2772
 Simon_5,Simon,,man of Cyrene who bore Messiah's cross (MAT 27:32),male,,,5,2773
-Mary Magdalene_1,Mary Magdalene,,one of the women who followed Jesus from the Galilee (MAT 27:56),female,,,1,2774
+Mary Magdalene_1,Mary Magdalene,,one of the women who followed Jesus from the Galilee (MAT 27:56),female,,from whom seven demons had gone out (LUK 8:2),1,2774
 Joseph_8,Joseph,,of Arimethea (MAT 27:57),male,,,8,2775
 Legion_1,Legion,,the unclean spirit who afflicted the Gerasene man (MRK 5:9),male,,,1,2776
 Jairus_1,Jairus,,synagogue official whose daughter was healed (MRK 5:22),male,,,1,2777
@@ -2834,3 +2834,8 @@ Menna_1,Menna,,in the lineage of Messiah (LUK 3:31),male,,,1,2832
 Mattatha_1,Mattatha,,in the lineage of Messiah (LUK 3:31),male,,,1,2833
 Admin_1,Admin,,in the lineage of Messiah (LUK 3:31),male,,,1,2834
 Cainan_1,Cainan,,in the lineage of Messiah (LUK 3:36),male,,Kenan or Kainan in some English texts,1,2835
+James_4,James,,the father of Judas (Thaddaeus_1) (LUK 6:16),male,,,4,2836
+Simon_6,Simon,,the Pharisee (LUK 7:40),male,,invited Jesus to dine in his house (LUK 7:36),6,2837
+Joanna_1,Joanna,,wife of Chuza (LUK 8:3),female,,,1,2838
+Chuza_1,Chuza,,Herod's steward (LUK 8:3),male,,,1,2839
+Susanna_1,Susanna,,contributed support (LUK 8:3),female,,,1,2840
