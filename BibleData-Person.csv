@@ -2751,34 +2751,34 @@ Zebedee_1,Zebedee,,father of James and John (MAT 4:21),male,,fisherman (mending 
 John_2,John,,son of Zebedee (MAT 4:21),male,,"fisherman (mending their nets- MAT 4:21), one of the Twelve (MAT 10:2)",2,2750
 Yhvh_2,Yhvh,,Heavenly Father (MAT 5:16),male,,"only the Son has revealed the Father (MAT 11:27, JHN 1:18)",2,2751
 Matthew_1,Matthew,,the tax collector (MAT 9:9),male,,one of the Twelve (MAT 10:2),1,2752
-Philip_1,Philip,,disciple of the Messiah (MAT 10:3),male,,one of the Twelve (MAT 10:2),1,2753
-Bartholomew_1,Bartholomew,,disciple of the Messiah (MAT 10:3),male,,one of the Twelve (MAT 10:2),1,2754
-Thomas_1,Thomas,,disciple of the Messiah (MAT 10:3),male,,one of the Twelve (MAT 10:2),1,2755
-James_2,James,,disciple of the Messiah (MAT 10:3),male,,one of the Twelve (MAT 10:2),2,2756
-Alphaeus_1,Alphaeus,,father of James the disciple (MAT 10:3),male,,,1,2757
-Thaddaeus_1,Thaddaeus,,disciple of the Messiah (MAT 10:3),male,,one of the Twelve (MAT 10:2),1,2758
-Simon_2,Simon,,"disciple of the Messiah (MAT 10:4), the zealot",male,,one of the Twelve (MAT 10:2),2,2759
-Judas_1,Judas,Iscariot,disciple of the Messiah (MAT 10:4) who betrayed Him (MAT 10:4),male,,"one of the Twelve (MAT 10:2), from Kerioth (MAT 10:4)",1,2760
-James_3,James,,"""brother"" of Jesus, son of Mary (MAT 13:55)",male,Judah,"""brother"" in the sense that they were born of the same womb",3,2761
-Joseph_7,Joseph,,"""brother"" of Jesus, son of Mary (MAT 13:55)",male,Judah,"""brother"" in the sense that they were born of the same womb",7,2762
-Simon_3,Simon,,"""brother"" of Jesus, son of Mary (MAT 13:55)",male,Judah,"""brother"" in the sense that they were born of the same womb",3,2763
-Judas_2,Judas,,"""brother"" of Jesus, son of Mary (MAT 13:55)",male,Judah,"""brother"" in the sense that they were born of the same womb",2,2764
-Herod_2,Herod,,the tetrarch (MAT 14:1),male,Edom,"Herod Antipas, tetrarch of Gailiea and Perea",2,2765
-Herodias_1,Herodias,,wife of Philip (MAT 14:3),female,,daughter of Herod and half-sister to Philp,1,2766
-Philip_2,Philip,,brother of Herod (MAT 14:3),male,Edom,Philip the Tetrarch of Iturea and Trachonitis,2,2767
-Caesar_1,Caesar,,Caesar during Jesus' ministry (MAT 22:17),male,,Tiberius Caesar,1,2768
-Caiaphas_1,Caiaphas,,the High Priest at the time of Messiah's last Passover (MAT 26:3),male,Levi,,1,2769
-Simon_4,Simon,,the leper (MAT 26:6),male,,,4,2770
-Pilate_1,Pilate,,the governor of Judea (MAT 27:2),male,,fifth governor of Judea under Tiberius,1,2771
-Barabbas_1,Barabbas,,notorious prisoner (MAT 27:16) set free instead of the Messiah,male,,,1,2772
-Simon_5,Simon,,man of Cyrene who bore Messiah's cross (MAT 27:32),male,,,5,2773
-Mary Magdalene_1,Mary Magdalene,,one of the women who followed Jesus from the Galilee (MAT 27:56),female,,from whom seven demons had gone out (LUK 8:2),1,2774
-Joseph_8,Joseph,,of Arimethea (MAT 27:57),male,,,8,2775
-Legion_1,Legion,,the unclean spirit who afflicted the Gerasene man (MRK 5:9),male,,,1,2776
-Jairus_1,Jairus,,synagogue official whose daughter was healed (MRK 5:22),male,,,1,2777
-Daughter_1,Daughter,,woman with an issue of blood for twelve years (MRK 5:25),female,,,1,2778
+Daughter_1,Daughter,,daughter of Abraham with an issue of blood for twelve years (MAT 9:22),female,,,1,2753
+Philip_1,Philip,,disciple of the Messiah (MAT 10:3),male,,one of the Twelve (MAT 10:2),1,2754
+Bartholomew_1,Bartholomew,,disciple of the Messiah (MAT 10:3),male,,one of the Twelve (MAT 10:2),1,2755
+Thomas_1,Thomas,,disciple of the Messiah (MAT 10:3),male,,one of the Twelve (MAT 10:2),1,2756
+James_2,James,,disciple of the Messiah (MAT 10:3),male,,one of the Twelve (MAT 10:2),2,2757
+Alphaeus_1,Alphaeus,,father of James the disciple (MAT 10:3),male,,,1,2758
+Thaddaeus_1,Thaddaeus,,disciple of the Messiah (MAT 10:3),male,,one of the Twelve (MAT 10:2),1,2759
+Simon_2,Simon,,"disciple of the Messiah (MAT 10:4), the zealot",male,,one of the Twelve (MAT 10:2),2,2760
+Judas_1,Judas,Iscariot,disciple of the Messiah (MAT 10:4) who betrayed Him (MAT 10:4),male,,"one of the Twelve (MAT 10:2), from Kerioth (MAT 10:4)",1,2761
+James_3,James,,"""brother"" of Jesus, son of Mary (MAT 13:55)",male,Judah,"""brother"" in the sense that they were born of the same womb",3,2762
+Joseph_7,Joseph,,"""brother"" of Jesus, son of Mary (MAT 13:55)",male,Judah,"""brother"" in the sense that they were born of the same womb",7,2763
+Simon_3,Simon,,"""brother"" of Jesus, son of Mary (MAT 13:55)",male,Judah,"""brother"" in the sense that they were born of the same womb",3,2764
+Judas_2,Judas,,"""brother"" of Jesus, son of Mary (MAT 13:55)",male,Judah,"""brother"" in the sense that they were born of the same womb",2,2765
+Herod_2,Herod,,the tetrarch (MAT 14:1),male,Edom,"Herod Antipas, tetrarch of Gailiea and Perea",2,2766
+Herodias_1,Herodias,,wife of Philip (MAT 14:3),female,,daughter of Herod and half-sister to Philp,1,2767
+Philip_2,Philip,,brother of Herod (MAT 14:3),male,Edom,Philip the Tetrarch of Iturea and Trachonitis,2,2768
+Caesar_1,Caesar,,Caesar during Jesus' ministry (MAT 22:17),male,,Tiberius Caesar,1,2769
+Caiaphas_1,Caiaphas,,the High Priest at the time of Messiah's last Passover (MAT 26:3),male,Levi,,1,2770
+Simon_4,Simon,,the leper (MAT 26:6),male,,,4,2771
+Pilate_1,Pilate,,the governor of Judea (MAT 27:2),male,,fifth governor of Judea under Tiberius,1,2772
+Barabbas_1,Barabbas,,notorious prisoner (MAT 27:16) set free instead of the Messiah,male,,,1,2773
+Simon_5,Simon,,man of Cyrene who bore Messiah's cross (MAT 27:32),male,,,5,2774
+Mary Magdalene_1,Mary Magdalene,,one of the women who followed Jesus from the Galilee (MAT 27:56),female,,from whom seven demons had gone out (LUK 8:2),1,2775
+Joseph_8,Joseph,,of Arimethea (MAT 27:57),male,,,8,2776
+Legion_1,Legion,,the unclean spirit who afflicted the Gerasene man (MRK 5:9),male,,,1,2777
+Jairus_1,Jairus,,synagogue official whose daughter was healed (MRK 5:22),male,,,1,2778
 Talitha_1,Talitha,,the daughter of the synagogue official who was healed (MRK 5:41),female,,twelve years old when this happened (MRK 5:42),1,2779
-Barimaeus_1,Barimaeus,,a blind beggar outside in Jericho (MRK 10:46),male,,,1,2780
+Bartimaeus_1,Bartimaeus,,a blind beggar outside in Jericho (MRK 10:46),male,,,1,2780
 Timaeus_1,Timaeus,,father of Bartimaeus (MRK 10:46),male,,,1,2781
 Alexander_1,Alexander,,son of Simon the Cyrene (MRK 15:21),male,,,1,2782
 Rufus_1,Rufus,,son of Simon the Cyrene (MRK 15:21),male,,,1,2783
@@ -2839,3 +2839,7 @@ Simon_6,Simon,,the Pharisee (LUK 7:40),male,,invited Jesus to dine in his house 
 Joanna_1,Joanna,,wife of Chuza (LUK 8:3),female,,,1,2838
 Chuza_1,Chuza,,Herod's steward (LUK 8:3),male,,,1,2839
 Susanna_1,Susanna,,contributed support (LUK 8:3),female,,,1,2840
+Martha_1,Martha,,welcomed Christ into her home (LUK 10:38),female,,,1,2841
+Mary_2,Mary,,sister of Martha (LUK 10:39),female,,,2,2842
+Lazarus_1,Lazarus,,the poor man of the parable (LUK 16:20),male,,,1,2843
+Zaccheus_1,Zaccheus,,chief tax collector (LUK 19:2) of small stature (LUK 19:3),male,,Christ stayed in his house (LUK 19:5),1,2844
