@@ -2744,16 +2744,16 @@ Mary_1,Mary,,"wife of Joseph, and mother of the Messiah (MAT 1:16)",female,,,1,2
 Herod_1,Herod,,the king (MAT 2:1),male,Edom,"Herod I, founder of the Herodian dynasty, son of Antipater",1,2743
 Archelaus_1,Archelaus,,son of Herod (MAT 2:22),male,Edom,"king of Judea; born about 21 B.C., his mother being the Samaritan Malthace",1,2744
 John_1,John,,the baptist (MAT 3:1),male,Levi,"as son of Zacharias the priest (Luke 1), he would have been a Levite",1,2745
-Simon_1,Simon,Barjona,"Peter, brother of Andrew (MAT 4:18)",male,,"a fisherman (MAT 4:18), one of the Twelve (MAT 10:2), surname Barjona (MAT 16:17)",1,2746
-Andrew_1,Andrew,,brother of Simon/Peter (MAT 4:18),male,,"a fisherman (MAT 4:18), one of the Twelve (MAT 10:2)",1,2747
+Simon_1,Simon,Barjona,"Peter, brother of Andrew (MAT 4:18)",male,,"a fisherman (MAT 4:18), one of the Twelve (MAT 10:2), surname Barjona (MAT 16:17), from the city of Bethsaida (JHN 1:44)",1,2746
+Andrew_1,Andrew,,brother of Simon/Peter (MAT 4:18),male,,"a fisherman (MAT 4:18), one of the Twelve (MAT 10:2), from the city of Bethsaida (JHN 1:44)",1,2747
 James_1,James,,son of Zebedee (MAT 4:21),male,,"fisherman (mending their nets- MAT 4:21), one of the Twelve (MAT 10:2)",1,2748
 Zebedee_1,Zebedee,,father of James and John (MAT 4:21),male,,fisherman (mending their nets- MAT 4:21),1,2749
 John_2,John,,son of Zebedee (MAT 4:21),male,,"fisherman (mending their nets- MAT 4:21), one of the Twelve (MAT 10:2)",2,2750
 Yhvh_2,Yhvh,,Heavenly Father (MAT 5:16),male,,"only the Son has revealed the Father (MAT 11:27, JHN 1:18)",2,2751
 Matthew_1,Matthew,,the tax collector (MAT 9:9),male,,one of the Twelve (MAT 10:2),1,2752
 Daughter_1,Daughter,,daughter of Abraham with an issue of blood for twelve years (MAT 9:22),female,,,1,2753
-Philip_1,Philip,,disciple of the Messiah (MAT 10:3),male,,one of the Twelve (MAT 10:2),1,2754
-Bartholomew_1,Bartholomew,,disciple of the Messiah (MAT 10:3),male,,one of the Twelve (MAT 10:2),1,2755
+Philip_1,Philip,,disciple of the Messiah (MAT 10:3),male,,"one of the Twelve (MAT 10:2), from the city of Bethsaida (JHN 1:44) of Galilee (JHN 12:21)",1,2754
+Bartholomew_1,Bartholomew,,disciple of the Messiah (MAT 10:3),male,,one of the Twelve (MAT 10:2). Bartholomew is viewed by some as a surname (bar Tolmai) since he is called Nathanael in JHN 1:45.,1,2755
 Thomas_1,Thomas,,disciple of the Messiah (MAT 10:3),male,,one of the Twelve (MAT 10:2),1,2756
 James_2,James,,disciple of the Messiah (MAT 10:3),male,,one of the Twelve (MAT 10:2),2,2757
 Alphaeus_1,Alphaeus,,father of James the disciple (MAT 10:3),male,,,1,2758
@@ -2774,7 +2774,7 @@ Pilate_1,Pilate,,the governor of Judea (MAT 27:2),male,,fifth governor of Judea 
 Barabbas_1,Barabbas,,notorious prisoner (MAT 27:16) set free instead of the Messiah,male,,,1,2773
 Simon_5,Simon,,man of Cyrene who bore Messiah's cross (MAT 27:32),male,,,5,2774
 Mary Magdalene_1,Mary Magdalene,,one of the women who followed Jesus from the Galilee (MAT 27:56),female,,from whom seven demons had gone out (LUK 8:2),1,2775
-Joseph_8,Joseph,,of Arimethea (MAT 27:57),male,,,8,2776
+Joseph_8,Joseph,,"of Arimethea (MAT 27:57), a member of the (Sanhedrin?) Council (LUK 23:50)",male,,,8,2776
 Legion_1,Legion,,the unclean spirit who afflicted the Gerasene man (MRK 5:9),male,,,1,2777
 Jairus_1,Jairus,,synagogue official whose daughter was healed (MRK 5:22),male,,,1,2778
 Talitha_1,Talitha,,the daughter of the synagogue official who was healed (MRK 5:41),female,,twelve years old when this happened (MRK 5:42),1,2779
@@ -2843,3 +2843,8 @@ Martha_1,Martha,,welcomed Christ into her home (LUK 10:38),female,,,1,2841
 Mary_2,Mary,,sister of Martha (LUK 10:39),female,,,2,2842
 Lazarus_1,Lazarus,,the poor man of the parable (LUK 16:20),male,,,1,2843
 Zaccheus_1,Zaccheus,,chief tax collector (LUK 19:2) of small stature (LUK 19:3),male,,Christ stayed in his house (LUK 19:5),1,2844
+Cleopas_1,Cleopas,,met Messiah on the road to Emmaus (LUK 24:18),male,,,1,2845
+John_3,John,,the father of Peter and Andrew (JHN 1:42),male,,,3,2846
+Nicodemus_1,Nicodemus,,a Pharisee and ruler of the Jews (JHN 3:1),male,,,1,2847
+Simon_7,Simon,Iscariot,father of Judas (JHN 6:71),male,,,7,2848
+Lazarus_2,Lazarus,,brother of Mary and Martha (JHN 11:1) who was resurrected (JHN 11:44),male,,Lazarus of Bethany (JHN 11:1),2,2849

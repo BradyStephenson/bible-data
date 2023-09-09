@@ -2757,7 +2757,7 @@ Mispar_1_2,Mispar_1,Mispereth,מִסְפֶּרֶת,misəperet,,H4559,Μασφα�
 Rehum_1_2,Rehum_1,Nehum,נְחוּם,nəchum,comfort,H5149,Ναουμ,Naoum,,none,NEH 7:7,proper name,,,2,2756
 Bani_4_2,Bani_4,Binnui,בִּנּוּי,binuy,son,H1131,Βανουι,Banoui,,none,NEH 7:15,proper name,,,2,2757
 Jorah_1_2,Jorah_1,Hariph,חָרִיף,chariyf,one born at harvest time,H2756,Αριφ,Ariph,,none,NEH 7:24,proper name,,,2,2758
-Gibbar_1_2,Gibbar_1,Gibeon,גִבְע֖וֹן,,,H1391,Γαβαων,Gabaōn,,none,NEH 7:25,proper name,,,2,2759
+Gibbar_1_2,Gibbar_1,Gibeon,גִבְעוֹן,givəon,,H1391,Γαβαων,Gabaōn,,none,NEH 7:25,proper name,,,2,2759
 Hodaviah_5_3,Hodaviah_5,Hodevah,הוֹדְוָה,hodəvah,give thanks to y-h-v-h,H1937,Ουδουια,Oudouia,,none,NEH 7:43,proper name,,,3,2760
 Siaha_1_2,Siaha_1,Sia,סִיעָא,siya,assembly,H5517,Σουια,Souia,,none,NEH 7:47,proper name,,,2,2761
 Lebanah_1_2,Lebanah_1,Lebana,לְבָנָה,ləvanah,,H3838,Λαβανα,Labana,,none,NEH 7:48,proper name,,,2,2762
@@ -3327,7 +3327,7 @@ Yhvh_1_136,Yhvh_1,Great King,מֶלֶךְ רָב,mələkh rav,great king,"H4428,
 Yhvh_2_2,Yhvh_2,Father,אָב,av,father,H1,πατήρ,patḗr,father,G3962,MAT 6:4,title,Y,,2,3326
 Solomon_1_6,Solomon_1,Solomon,שְׁלֹמֹה,shəlomoh,"peace, well-being",H8010,Σολομών,Solomṓn,,G4672,MAT 6:29,proper name,,,6,3327
 Yhvh_1_137,Yhvh_1,Teacher,רַבִּי,rabiy,teacher,,διδάσκαλος,didáskalos,"teacher, master",G1320,MAT 8:19,title,,,137,3328
-Yhvh_1_138,Yhvh_1,The Son of Man,בֶּן־הָאָדָם,ben- haadam,the son of man,"H1121, H120",υἱὸς τοῦ ἀνθρώπου,ui̔òs tou͂ a̓nthrṓpou,son [of] the man,"G5207, G3588, G444",MAT 8:20,title,Y,referring to His bodily incarnation,138,3329
+Yhvh_1_138,Yhvh_1,Son of Man,בֶּן־הָאָדָם,ben- haadam,the son of man,"H1121, H120",υἱὸς τοῦ ἀνθρώπου,ui̔òs tou͂ a̓nthrṓpou,son [of] the man,"G5207, G3588, G444",MAT 8:20,title,Y,referring to His bodily incarnation,138,3329
 Matthew_1_1,Matthew_1,Matthew,מַתִּתְיָה,matitəyahu,gift of Yah,H4993,Μαθθαῖος,Maththaios,,G3156,MAT 9:9,proper name,,,1,3330
 Daughter_1_1,Daughter_1,Daughter,בִּתִּי,bitiy,my daughter,H1323,θυγάτηρ,thugátēr,daughter,G2364,MAT 9:22,title,,,1,3331
 Yhvh_1_139,Yhvh_1,Lord of the Harvest,אֲדוֹן הַקָּצִיר,adon haqatsir,lord [of] the harvest,"H136, H7114",κυρίου τοῦ θερισμοῦ,kuríou tou͂ therismou͂,lord [of] the harvest,"G2962, G3588, G2326",MAT 9:38,title,,,139,3332
@@ -3340,7 +3340,7 @@ Thaddaeus_1_1,Thaddaeus_1,Thaddaeus,תַדַּי,taday,,,Θαδδαῖος,Thad
 Simon_2_1,Simon_2,Simon,שִׁמְעוֹן,shimon,he has heard or obedient one,H8095,Σίμων,Símōn,,G4613,MAT 10:4,proper name,,,1,3339
 Simon_2_2,Simon_2,Simon the zealot,שִׁמְעוֹן הַקַּנַּאי,shimon qanay,simon the zealous,"H8095, H7065",Σίμων ὁ Καναναῖος,Símōn o̔ Kananai͂os,,"G4613, G3588, G2580a",MAT 10:4,proper name,,,2,3340
 Judas_1_1,Judas_1,Judas,יְהוּדָ֑ה,yəhudah,praised,H3063,Ἰούδας,I̓oúdas,,G2492a,MAT 10:4,proper name,,,1,3341
-Judas_1_2,Judas_1,Judas Iscariot,יְהוּדָהאִישׁ קְרִיּוֹת,yəhudah,Judas [the] man [from] Kirioth,"H3063, H376, H7152",Ιούδας Ἰσκαριώτης,Ioúdas I̓skariṓtēs,,"G2492a, G2469",MAT 10:4,proper name,,"Ἰσκαριώτης (Iscariot - איש־קריות) means ""man [from] Kerioth""",2,3342
+Judas_1_2,Judas_1,Judas Iscariot,יְהוּדָה אִישׁ קְרִיּוֹת,yəhudah ish qəriyot,Judas [the] man [from] Kirioth,"H3063, H376, H7152",Ιούδας Ἰσκαριώτης,Ioúdas I̓skariṓtēs,,"G2492a, G2469",MAT 10:4,proper name,,"Ἰσκαριώτης (Iscariot - איש־קריות) means ""man [from] Kerioth""",2,3342
 Yhvh_1_140,Yhvh_1,Christ,מָּשִׁיחַ,mashiyach,"messiah, anointed one",H4899,Χριστός,Xristós,,G5547,MAT 11:2,title,Y,referring to His bodily incarnation,140,3343
 Yhvh_1_141,Yhvh_1,Expected One,לָבוֹא,labo,coming one or expected one,H935,ἐρχόμενος,e̓rxómenos,coming one,G2064,MAT 11:3,title,,referring to His bodily incarnation,141,3344
 John_1_3,John_1,My Messenger,מַלְאָכִי,maləakiy,[my] messenger,H4401,ἄγγελόν,a̓́ngelón,"angel, messenger",G32,MAT 11:10,title,Y,,3,3345
@@ -3421,7 +3421,7 @@ Matthat_1_1,Matthat_1,Matthat,מַתָּת,matat,"gift, something given",H4991,�
 Levi_2_1,Levi_2,Levi,לֵוִֽי,levi,,H3878,Λευι,Levi,,G3017,LUK 3:24,proper name,,,1,3420
 Melchi_1_1,Melchi_1,Melchi,מַלְכִּי,maləkhiy,y-h-v-h is my king,H4441,Μελχὶ,Melxì,,G3197,LUK 3:24,proper name,,,1,3421
 Jannai_1_1,Jannai_1,Jannai,יַנַּי,yaniy,,,Ἰανναὶ,I̓annaì,,G2388,LUK 3:24,proper name,,,1,3422
-Joseph_9_1,Joseph_9,Joseph,יוֹסֵ֖ף,yosef,he will add,H3130,Ιωσηφ,Iōsēph,,G2501,GEN 30:24,proper name,,,1,3423
+Joseph_9_1,Joseph_9,Joseph,יוֹסֵ֖ף,yosef,he will add,H3130,Ιωσηφ,Iōsēph,,G2501,LUK 3:24,proper name,,,1,3423
 Mattathias_1_1,Mattathias_1,Mattathias,מַתִּתְיָה,matitəyah,gift of y-h-v-h,H4993,Ματταθίας,Mattathías,,G3161,LUK 3:25,proper name,,,1,3424
 Amos_2_1,Amos_2,Amos,אָמוֹץ,amoz,strong,H531,Ἀμὼς,A̓mṑs,,G301,LUK 3:25,proper name,,,1,3425
 Nahum_2_1,Nahum_2,Nahum,נַחוּם,nachum,comfort,H5151,Ναοὺμ,Naoùm,,G3486,LUK 3:25,proper name,,,1,3426
@@ -3474,3 +3474,19 @@ Martha_1_1,Martha_1,Martha,מַרְתָּא,marəta,,,Μάρθα,Mártha,,G31
 Mary_2_1,Mary_2,Mary,מִרְיָם,mirəyam,variously] bitterness; plump one; wished-for child; one who loves or is loved,H4813,Μαριάμ,Mariám,,G3137,LUK 10:39,proper name,,,1,3473
 Lazarus_1_1,Lazarus_1,Lazarus,אֶלְעָזָר,eləatsar,God [El] is a help,H499,Λάζαρος,Lázaros,,G2976,LUK 16:20,proper name,,,1,3474
 Zaccheus_1_1,Zaccheus_1,Zaccheus,זַכַּי,zakay,"y-h-v-h has remembered, [or perhaps] y-h-v-h remember",H2140,Ζακχαῖος,Zakxai͂os,,G2195,LUK 19:2,proper name,,,1,3475
+Yhvh_1_160,Yhvh_1,The Living One,הַחַי,hachay,the living,H2416,ζῶντα,zō͂nta,,G2198,LUK 24:5,title,,,160,3476
+Cleopas_1_1,Cleopas_1,Cleopas,קְלִיוֹפָּס,qəliopas,,,Κλεοπᾶς,Kleopa͂s,,G2810,LUK 24:18,proper name,,,1,3477
+Yhvh_1_161,Yhvh_1,The Word,הַדָּבָר,hadavar,the word,H1697,ὁ λόγος,o̔ lógos,,"G3588, G3056",JHN 1:1,title,,,161,3478
+Yhvh_1_162,Yhvh_1,The Light,הָאוֹר,haor,the light,H216,τὸ φῶς,tò phō͂s,,"G3588, G5457",JHN 1:4,title,,,162,3479
+Yhvh_1_163,Yhvh_1,The Lamb of G-d,שֵׂה הָאֱלֹהִים,seh haelohiym,lamb [of] the g-d,"H7716, H430",ὁ ἀμνὸς τοῦ θεοῦ,o̔ a̓mnòs tou͂ theou͂,the lamb of g-d,"G3588, G286, G3588, G2316",JHN 1:29,title,,,163,3480
+John_3_1,John_3,John,יוֹחָנָן,yochanan,y-h-v-h is gracious,H3110,Iōannēs,Iōannēs,,G2491,JHN 1:42,title,,,1,3481
+Simon_1_5,Simon_1,Cephas,כֵּיפָא,keyfa,rock,H3710,Κηφᾶς,Kēpha͂s,rock,G2786,JHN 1:42,proper name,,,5,3482
+Bartholomew_1_2,Bartholomew_1,Nathanael,נְתַנְאֵל,nətanəel,G-d [El] has given,H5417,Ναθαναήλ,Nathanaḗl,,G3482,JHN 1:45,proper name,,,2,3483
+Mary_1_2,Mary_1,the mother of Jesus,אִמּוֹ שֶׁל יֵשׁוּעַ,imo shel yəshua,mother of Yeshua,"H517, H7945, H3442",μήτηρ τοῦ Ἰησοῦ,mḗtēr tou͂ I̓ēsou͂,mother of Jesus,"G3384, G3588, G2424",JHN 2:1,title,,,2,3484
+Nicodemus_1_1,Nicodemus_1,Nicodemus,נַקְדִּימוֹן,naqədiymon,,,Νικόδημος,Nikódēmos,,G3530,JHN 3:1,proper name,,,1,3485
+John_1_5,John_1,rabbi,רַבִּי,rabiy,teacher,,ῥαββί,r̔abbí,"master, teacher",G4461,JHN 3:26,title,,,5,3486
+Yhvh_1_164,Yhvh_1,Bread of Life,לֶחֶם הַחַיִּים,lechem hachayiym,the bread of life,"H3899, H2416",ἄρτος τῆς ζωῆς,a̓́rtos tē͂s zōē͂s,bread [of] life,"G740, G3588, G2222",JHN 6:35,title,,,164,3487
+Simon_7_1,Simon_7,Simon,שִׁמְעוֹן,shimon,he has heard or obedient one,H8095,Σίμων,Símōn,,G4613,JHN 6:71,proper name,,,1,3488
+Simon_7_2,Simon_7,Simon Iscariot,שִׁמְעוֹן אִישׁ קְרִיּוֹת,shimonish qəriyot,Simon [the] man [from] Kirioth,"H8095, H376, H7152",Σίμωνος Ἰσκαριώτου,Símōnos I̓skariṓtou,,"G4613, G2469",JHN 6:71,proper name,,,2,3489
+Lazarus_2_1,Lazarus_2,Lazarus,אֶלְעָזָר,eləatsar,God [El] is a help,H499,Λάζαρος,Lázaros,,G2976,JHN 11:1,proper name,,,1,3490
+Thomas_1_2,Thomas_1,Didymus,דִּידִימוֹס,diydiymos,,,Δίδυμος,Dídumos,,G1324,JHN 11:16,proper name,,,2,3491
