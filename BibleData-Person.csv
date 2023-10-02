@@ -2848,3 +2848,73 @@ John_3,John,,the father of Peter and Andrew (JHN 1:42),male,,,3,2846
 Nicodemus_1,Nicodemus,,a Pharisee and ruler of the Jews (JHN 3:1),male,,,1,2847
 Simon_7,Simon,Iscariot,father of Judas (JHN 6:71),male,,,7,2848
 Lazarus_2,Lazarus,,brother of Mary and Martha (JHN 11:1) who was resurrected (JHN 11:44),male,,Lazarus of Bethany (JHN 11:1),2,2849
+Malchus_1,Malchus,,the high priest's slave whose ear Peter cut off (JHN 18:10),male,,,1,2850
+Mary_3,Mary,,(the wife?) of Clopas (JHN 19:25),female,,,3,2851
+Clopas_1,Clopas,,(huband?) of Mary_3 (JHN 19:25),male,,same person as Cleopas_1?,1,2852
+Joseph_11,Joseph,,candidate to replace Judas Iscariot in the twelve (ACT 1:23),male,,,11,2853
+Matthias_1,Matthias,,candidate to replace Judas Iscariot in the twelve (ACT 1:23),male,,,1,2854
+John_4,John,,a man of high-priestly descent (ACT 4:6),male,Levi,possibly Johanan be Zaccai (Ellicott and Lightfoot) the son of Annas (Poole),4,2855
+Alexander_2,Alexander,,a man of high-priestly descent (ACT 4:6),male,Levi,possibly the wealthy brother of Philo (Farrar),2,2856
+Joseph_12,Joseph,,a Levite of Cyprian birth (ACT 4:36),male,Levi,,12,2857
+Ananias_1,Ananias,,sold property and gave a portion to the apostles (ACT 5:1),male,,,1,2858
+Sapphira_1,Sapphira,,wife of Ananias (ACT 5:1),female,,,1,2859
+Gamaliel_2,Gamaliel,,a Pharisee and member of the Council (ACT 5:34),male,,,2,2860
+Theudas_1,Theudas,,someone who rose up but was killed (ACT 5:36),male,,,1,2861
+Judas of Galilee_1,Judas of Galilee,,someone who rose up in the days of the census (ACT 5:37),male,,,1,2862
+Stephen_1,Stephen,,chosen to serve the widows of the Hellenistic Jews (ACT 6:5),male,,,1,2863
+Philip_3,Philip,,chosen to serve the widows of the Hellenistic Jews (ACT 6:5),male,,"called ""the evangelist"" in ACTS 21:8",3,2864
+Prochorus_1,Prochorus,,chosen to serve the widows of the Hellenistic Jews (ACT 6:5),male,,,1,2865
+Nicanor_1,Nicanor,,chosen to serve the widows of the Hellenistic Jews (ACT 6:5),male,,,1,2866
+Timon_1,Timon,,chosen to serve the widows of the Hellenistic Jews (ACT 6:5),male,,,1,2867
+Parmenas_1,Parmenas,,chosen to serve the widows of the Hellenistic Jews (ACT 6:5),male,,,1,2868
+Nicolas_1,Nicolas,,chosen to serve the widows of the Hellenistic Jews (ACT 6:5),male,,a proselyte from Antioch (ACT 6:5),1,2869
+Saul_2,Saul,,"the apostle Paul, at whose feet witnesses to Stephen's death laid their robes (ACT 7:58)",male,,from Tarsus (ACT 9:11),2,2870
+Simon_8,Simon,,the magician (ACT 8:9),male,,,8,2871
+the Ethiopian eunuch_1,the Ethiopian eunuch,,an official of queen Candace (ACT 8:27),male,,,1,2872
+Candace_1,Candace,,queen of Ethiopia (ACT 8:27),female,,,1,2873
+Ananias_2,Ananias,,disciple at Damascus who cared for Saul/Paul (ACT 9:10),male,,,2,2874
+Judas_3,Judas,,the man at whose house in Damascus Saul/Paul was staying (ACT 9:11),male,,,3,2875
+Aeneas_1,Aeneas,,"bedridden eight years, paralyzed, and healed by Peter (9:33)",male,,,1,2876
+Tabitha_1,Tabitha,,a disciple who lived in Joppa (ACT 9:36),female,,,1,2877
+Simon_9,Simon,,the tanner with whom Peter stayed in Joppa (ACT 9:43),male,,,9,2878
+Cornelius_1,Cornelius,,a centuron of the Italian cohort in Caesarea (ACT 10:1),male,,,1,2879
+Agabus_1,Agabus,,a prophet from Jerusalem (ACT 11:28),male,,,1,2880
+Claudius_1,Claudius,,Roman Emperor during whose reign there was a famine (ACT 11:28),male,,Tiberius Claudius Caesar Augustus Germanicus,1,2881
+Herod_3,Herod,,the king of Judea (ACT 12:1),male,,Herod Agrippa I,3,2882
+Mary_4,Mary,,mother of John also called Mark (ACT 12:12),female,,,4,2883
+John_5,John,,also called Mark (ACT 12:12) a companion of Barnabas and Saul (ACT 12:25),male,,,5,2884
+Rhoda_1,Rhoda,,servant girl in Mary's house who did not let Peter in (ACT 12:13),female,,,1,2885
+Blastus_1,Blastus,,King Herod's chamberlain (ACT 12:20),male,,,1,2886
+Simeon_4,Simeon,,a prophet and teacher in Antioch (ACT 13:1),male,,,4,2887
+Lucius_1,Lucius,,a prophet and teacher in Antioch (ACT 13:1),male,,,1,2888
+Manaen_1,Manaen,,a prophet and teacher in Antioch (ACT 13:1),male,,brought up with Herod the tetrarch,1,2889
+Bar-Jesus_1,Bar-Jesus,,a Jewish false prophet (ACT 13:6),male,,,1,2890
+Sergius Paulus_1,Sergius Paulus,,the proconsul of Cyprus (ACT 13:7),male,,,1,2891
+Judas_4,Judas,,"called Barsabbas, a leading man among the brethren (ACT 15:22)",male,,,4,2892
+Silas_1,Silas,,a leading man among the brethren (ACT 15:22),male,,,1,2893
+Timothy_1,Timothy,,a disciple and Paul's companion (ACT 16:1),male,,had a Jewish mother and Greek father (ACT 16:1),1,2894
+Lydia_1,Lydia,,"from Thyatira, a seller of purple fabrics (ACT 16:14)",female,,,1,2895
+Jason_1,Jason,,owner of the house where Paul and Silas were staying in Thessalonica (ACT 17:5),male,,,1,2896
+Dionysius_1,Dionysius,,the Areopagite who believed Paul (ACT 17:34),male,,,1,2897
+Damaris_1,Damaris,,the woman who believed Paul (ACT 17:34),female,,,1,2898
+Aquila_1,Aquila,,a Jew native of Pontus with whom Paul stayed (ACT 18:2),male,,,1,2899
+Priscilla_1,Priscilla,,wife of Aquila (ACT 18:2),female,,,1,2900
+Titius Justus_1,Titius Justus,,a worshiper whose house was next to the synagogue in Corinth (ACT 18:7),male,,,1,2901
+Crispus_1,Crispus,,the believing leader of the synagogue in Corinth (ACT 18:8),male,,,1,2902
+Gallio_1,Gallio,,proconsul of Achaia (ACT 18:12),male,,,1,2903
+Apollos_1,Apollos,,an Alexandrian Jew mighty in the Scriptures (ACT 18:24),male,,,1,2904
+Tyrannus_1,Tyrannus,,ran a school in Ephesus (ACT 19:9),male,,,1,2905
+Sceva_1,Sceva,,a Jewish chief priest (ACT 19:14),male,,his sons attempted to exorcise demons in Messiah's name,1,2906
+Erastus_1,Erastus,,one of the men who ministered to Paul (ACT 19:22),male,,,1,2907
+Demetrius_1,Demetrius,,a silversmith who stirred up the workmen of Ephesus (ACT 19:24),male,,,1,2908
+Gaius_1,Gaius,,Paul's traveling companion from Macedonia (ACT 19:29),male,,,1,2909
+Aristarchus_1,Aristarchus,,Paul's traveling companion from Macedonia (ACT 19:29),male,,,1,2910
+Alexander_3,Alexander,,a believing Jew in Ephesus (ACT 19:33),male,,,3,2911
+Sopater_1,Sopater,,a believer from Berea (ACT 20:4),male,,,1,2912
+Pyrrhus_1,Pyrrhus,,father (?) of Sopater (ACT 20:4),male,,,1,2913
+Secundus_1,Secundus,,a believer from Thessalonica (ACT 20:4),male,,,1,2914
+Gaius_2,Gaius,,a believer from Derbe (ACT 20:4),male,,,2,2915
+Tychicus_1,Tychicus,,a believer from Asia (ACT 20:4),male,,,1,2916
+Trophimus_1,Trophimus,,a believer from Asia (ACT 20:4) specifically Ephesus (ACT 21:29),male,,,1,2917
+Eutychus_1,Eutychus,,a young man who fell from a third-floor window (ACT 20:9),male,,,1,2918
+Mnason_1,Mnason,,a disciple of long standing with whom Paul and Luke were to lodge (ACT 21:16),male,,,1,2919
