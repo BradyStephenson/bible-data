@@ -1,5 +1,5 @@
 ﻿person_id,person_name,surname,unique_attribute,sex,tribe,person_notes,name_instance,person_sequence
-Yhvh_1,Yhvh,,"Holy, Holy, Holy (ISA 6:3) and too many others to fit here",male,,,1,1
+YHVH_1,YHVH,,"Holy, Holy, Holy (ISA 6:3) and too many others to fit here",male,,,1,1
 Adam_1,Adam,,first man (1CO 15:45),male,,,1,2
 Eve_1,Eve,,"first woman, created from Adam (Gen 2:22)",female,,,1,3
 Cain_1,Cain,,"first son of Adam (GEN 4:1), cursed from the ground (GEN 4:11)",male,,,1,4
@@ -2749,7 +2749,7 @@ Andrew_1,Andrew,,brother of Simon/Peter (MAT 4:18),male,,"a fisherman (MAT 4:18)
 James_1,James,,son of Zebedee (MAT 4:21),male,,"fisherman (mending their nets- MAT 4:21), one of the Twelve (MAT 10:2)",1,2748
 Zebedee_1,Zebedee,,father of James and John (MAT 4:21),male,,fisherman (mending their nets- MAT 4:21),1,2749
 John_2,John,,son of Zebedee (MAT 4:21),male,,"fisherman (mending their nets- MAT 4:21), one of the Twelve (MAT 10:2)",2,2750
-Yhvh_2,Yhvh,,Heavenly Father (MAT 5:16),male,,"only the Son has revealed the Father (MAT 11:27, JHN 1:18)",2,2751
+YHVH_2,YHVH,,Heavenly Father (MAT 5:16),male,,"only the Son has revealed the Father (MAT 11:27, JHN 1:18)",2,2751
 Matthew_1,Matthew,,the tax collector (MAT 9:9),male,,one of the Twelve (MAT 10:2),1,2752
 Daughter_1,Daughter,,daughter of Abraham with an issue of blood for twelve years (MAT 9:22),female,,,1,2753
 Philip_1,Philip,,disciple of the Messiah (MAT 10:3),male,,"one of the Twelve (MAT 10:2), from the city of Bethsaida (JHN 1:44) of Galilee (JHN 12:21)",1,2754
@@ -2773,7 +2773,7 @@ Simon_4,Simon,,the leper (MAT 26:6),male,,,4,2771
 Pilate_1,Pilate,,the governor of Judea (MAT 27:2),male,,fifth governor of Judea under Tiberius,1,2772
 Barabbas_1,Barabbas,,notorious prisoner (MAT 27:16) set free instead of the Messiah,male,,,1,2773
 Simon_5,Simon,,man of Cyrene who bore Messiah's cross (MAT 27:32),male,,,5,2774
-Mary Magdalene_1,Mary Magdalene,,one of the women who followed Jesus from the Galilee (MAT 27:56),female,,from whom seven demons had gone out (LUK 8:2),1,2775
+Mary_2,Mary,Magdalene,one of the women who followed Jesus from the Galilee (MAT 27:56),female,,from whom seven demons had gone out (LUK 8:2),2,2775
 Joseph_8,Joseph,,"of Arimethea (MAT 27:57), a member of the (Sanhedrin?) Council (LUK 23:50)",male,,,8,2776
 Legion_1,Legion,,the unclean spirit who afflicted the Gerasene man (MRK 5:9),male,,,1,2777
 Jairus_1,Jairus,,synagogue official whose daughter was healed (MRK 5:22),male,,,1,2778
@@ -2840,7 +2840,7 @@ Joanna_1,Joanna,,wife of Chuza (LUK 8:3),female,,,1,2838
 Chuza_1,Chuza,,Herod's steward (LUK 8:3),male,,,1,2839
 Susanna_1,Susanna,,contributed support (LUK 8:3),female,,,1,2840
 Martha_1,Martha,,welcomed Christ into her home (LUK 10:38),female,,,1,2841
-Mary_2,Mary,,sister of Martha (LUK 10:39),female,,,2,2842
+Mary_3,Mary,,sister of Martha (LUK 10:39),female,,,3,2842
 Lazarus_1,Lazarus,,the poor man of the parable (LUK 16:20),male,,,1,2843
 Zaccheus_1,Zaccheus,,chief tax collector (LUK 19:2) of small stature (LUK 19:3),male,,Christ stayed in his house (LUK 19:5),1,2844
 Cleopas_1,Cleopas,,met Messiah on the road to Emmaus (LUK 24:18),male,,,1,2845
@@ -2849,7 +2849,7 @@ Nicodemus_1,Nicodemus,,a Pharisee and ruler of the Jews (JHN 3:1),male,,,1,2847
 Simon_7,Simon,Iscariot,father of Judas (JHN 6:71),male,,,7,2848
 Lazarus_2,Lazarus,,brother of Mary and Martha (JHN 11:1) who was resurrected (JHN 11:44),male,,Lazarus of Bethany (JHN 11:1),2,2849
 Malchus_1,Malchus,,the high priest's slave whose ear Peter cut off (JHN 18:10),male,,,1,2850
-Mary_3,Mary,,(the wife?) of Clopas (JHN 19:25),female,,,3,2851
+Mary_4,Mary,,(the wife?) of Clopas (JHN 19:25),female,,,4,2851
 Clopas_1,Clopas,,(huband?) of Mary_3 (JHN 19:25),male,,same person as Cleopas_1?,1,2852
 Joseph_11,Joseph,,candidate to replace Judas Iscariot in the twelve (ACT 1:23),male,,,11,2853
 Matthias_1,Matthias,,candidate to replace Judas Iscariot in the twelve (ACT 1:23),male,,,1,2854
@@ -2860,7 +2860,7 @@ Ananias_1,Ananias,,sold property and gave a portion to the apostles (ACT 5:1),ma
 Sapphira_1,Sapphira,,wife of Ananias (ACT 5:1),female,,,1,2859
 Gamaliel_2,Gamaliel,,a Pharisee and member of the Council (ACT 5:34),male,,,2,2860
 Theudas_1,Theudas,,someone who rose up but was killed (ACT 5:36),male,,,1,2861
-Judas of Galilee_1,Judas of Galilee,,someone who rose up in the days of the census (ACT 5:37),male,,,1,2862
+Judas_3,Judas,,someone who rose up in the days of the census (ACT 5:37),male,,of Galilee,3,2862
 Stephen_1,Stephen,,chosen to serve the widows of the Hellenistic Jews (ACT 6:5),male,,,1,2863
 Philip_3,Philip,,chosen to serve the widows of the Hellenistic Jews (ACT 6:5),male,,"called ""the evangelist"" in ACTS 21:8",3,2864
 Prochorus_1,Prochorus,,chosen to serve the widows of the Hellenistic Jews (ACT 6:5),male,,,1,2865
@@ -2873,15 +2873,15 @@ Simon_8,Simon,,the magician (ACT 8:9),male,,,8,2871
 the Ethiopian eunuch_1,the Ethiopian eunuch,,an official of queen Candace (ACT 8:27),male,,,1,2872
 Candace_1,Candace,,queen of Ethiopia (ACT 8:27),female,,,1,2873
 Ananias_2,Ananias,,disciple at Damascus who cared for Saul/Paul (ACT 9:10),male,,,2,2874
-Judas_3,Judas,,the man at whose house in Damascus Saul/Paul was staying (ACT 9:11),male,,,3,2875
+Judas_4,Judas,,the man at whose house in Damascus Saul/Paul was staying (ACT 9:11),male,,,4,2875
 Aeneas_1,Aeneas,,"bedridden eight years, paralyzed, and healed by Peter (9:33)",male,,,1,2876
 Tabitha_1,Tabitha,,a disciple who lived in Joppa (ACT 9:36),female,,,1,2877
 Simon_9,Simon,,the tanner with whom Peter stayed in Joppa (ACT 9:43),male,,,9,2878
-Cornelius_1,Cornelius,,a centuron of the Italian cohort in Caesarea (ACT 10:1),male,,,1,2879
+Cornelius_1,Cornelius,,a centurion of the Italian cohort in Caesarea (ACT 10:1),male,,,1,2879
 Agabus_1,Agabus,,a prophet from Jerusalem (ACT 11:28),male,,,1,2880
 Claudius_1,Claudius,,Roman Emperor during whose reign there was a famine (ACT 11:28),male,,Tiberius Claudius Caesar Augustus Germanicus,1,2881
 Herod_3,Herod,,the king of Judea (ACT 12:1),male,,Herod Agrippa I,3,2882
-Mary_4,Mary,,mother of John also called Mark (ACT 12:12),female,,,4,2883
+Mary_5,Mary,,mother of John also called Mark (ACT 12:12),female,,,5,2883
 John_5,John,,also called Mark (ACT 12:12) a companion of Barnabas and Saul (ACT 12:25),male,,,5,2884
 Rhoda_1,Rhoda,,servant girl in Mary's house who did not let Peter in (ACT 12:13),female,,,1,2885
 Blastus_1,Blastus,,King Herod's chamberlain (ACT 12:20),male,,,1,2886
@@ -2889,8 +2889,8 @@ Simeon_4,Simeon,,a prophet and teacher in Antioch (ACT 13:1),male,,,4,2887
 Lucius_1,Lucius,,a prophet and teacher in Antioch (ACT 13:1),male,,,1,2888
 Manaen_1,Manaen,,a prophet and teacher in Antioch (ACT 13:1),male,,brought up with Herod the tetrarch,1,2889
 Bar-Jesus_1,Bar-Jesus,,a Jewish false prophet (ACT 13:6),male,,,1,2890
-Sergius Paulus_1,Sergius Paulus,,the proconsul of Cyprus (ACT 13:7),male,,,1,2891
-Judas_4,Judas,,"called Barsabbas, a leading man among the brethren (ACT 15:22)",male,,,4,2892
+Sergius_1,Sergius,Paulus,the proconsul of Cyprus (ACT 13:7),male,,,1,2891
+Judas_5,Judas,,"called Barsabbas, a leading man among the brethren (ACT 15:22)",male,,,5,2892
 Silas_1,Silas,,a leading man among the brethren (ACT 15:22),male,,,1,2893
 Timothy_1,Timothy,,a disciple and Paul's companion (ACT 16:1),male,,had a Jewish mother and Greek father (ACT 16:1),1,2894
 Lydia_1,Lydia,,"from Thyatira, a seller of purple fabrics (ACT 16:14)",female,,,1,2895
@@ -2899,7 +2899,7 @@ Dionysius_1,Dionysius,,the Areopagite who believed Paul (ACT 17:34),male,,,1,289
 Damaris_1,Damaris,,the woman who believed Paul (ACT 17:34),female,,,1,2898
 Aquila_1,Aquila,,a Jew native of Pontus with whom Paul stayed (ACT 18:2),male,,,1,2899
 Priscilla_1,Priscilla,,wife of Aquila (ACT 18:2),female,,,1,2900
-Titius Justus_1,Titius Justus,,a worshiper whose house was next to the synagogue in Corinth (ACT 18:7),male,,,1,2901
+Titius_1,Titius,Justus,a worshiper whose house was next to the synagogue in Corinth (ACT 18:7),male,,,1,2901
 Crispus_1,Crispus,,the believing leader of the synagogue in Corinth (ACT 18:8),male,,,1,2902
 Gallio_1,Gallio,,proconsul of Achaia (ACT 18:12),male,,,1,2903
 Apollos_1,Apollos,,an Alexandrian Jew mighty in the Scriptures (ACT 18:24),male,,,1,2904
@@ -2918,3 +2918,43 @@ Tychicus_1,Tychicus,,a believer from Asia (ACT 20:4),male,,,1,2916
 Trophimus_1,Trophimus,,a believer from Asia (ACT 20:4) specifically Ephesus (ACT 21:29),male,,,1,2917
 Eutychus_1,Eutychus,,a young man who fell from a third-floor window (ACT 20:9),male,,,1,2918
 Mnason_1,Mnason,,a disciple of long standing with whom Paul and Luke were to lodge (ACT 21:16),male,,,1,2919
+Ananias_3,Ananias,,the high priest who ordered Paul struck (ACT 23:2),male,Levi,,3,2920
+Felix_1,Felix,,the governor of Caesarea (ACT 23:24),male,,,1,2921
+Claudius_2,Claudius,Lysias,commander of the Roman garrison in Jerusalem (ACT 23:26),male,,,2,2922
+Tertullus_1,Tertullus,,an attorney who brought charges against Paul (ACT 24:2),male,,,1,2923
+Drusilla_1,Drusilla,,wife of Felix (ACT 24:24),female,,,1,2924
+Porcius_1,Porcius,Festus,the governor of Caesarea who succeeded Felix (ACT 24:27),male,,,1,2925
+Caesar_2,Caesar,,the Caesar against whom Paul has committed no offense (ACT 25:8),male,,The Caesar to whom Paul appealed (ACT 25:11).  Likely Nero.,2,2926
+Agrippa_1,Agrippa,,the king who visited Festus  (ACT 25:13),male,,Herod Agrippa II,1,2927
+Bernice_1,Bernice,,traveled with Agrippa to visit Festus (ACT 25:13),female,,the sister and wife of Agrippa,1,2928
+Julius_1,Julius,,a centurion of the Augustan cohort (ACT 27:1),male,,,1,2929
+Publius_1,Publius,,the leading man of the island of Malta (ACT 28:7),male,,,1,2930
+Phoebe_1,Phoebe,,a believer who is a servant in the church in Cenchrea (ROM 16:1),female,,,1,2931
+Epanetus_1,Epanetus,,the first to convert to Christ from Asia (ROM 16:5),male,,,1,2932
+Mary_6,Mary,,Mary of Rome of whom Paul wrote (ROM 16:6),female,,,6,2933
+Andronicus_1,Andronicus,,a kinsman and fellow prisoner of Paul (ROM 16:7),male,,,1,2934
+Junias_1,Junias,,a kinsman and fellow prisoner of Paul (ROM 16:7),male,,,1,2935
+Ampliatus_1,Ampliatus,,beloved of Paul (ROM 16:8),male,,,1,2936
+Urbanus_1,Urbanus,,Paul's fellow worker in Christ (ROM 16:9),male,,,1,2937
+Stachys_1,Stachys,,beloved of Paul (ROM 16:9),male,,,1,2938
+Apelles_1,Apelles,,the approved in Christ (ROM 16:10),male,,,1,2939
+Aristobulus_1,Aristobulus,,Paul sends greetings to his household (ROM 16:10),male,,,1,2940
+Herodian_1,Herodian,,a kinsman of Paul (ROM 16:11),male,,,1,2941
+Narcissus_1,Narcissus,,Paul sends greetings to his household (ROM 16:11),male,,,1,2942
+Tryphaena_1,Tryphaena,,worker in the Lord to whom Paul sends greetings (ROM 16:12),female,,,1,2943
+Tryphosa_1,Tryphosa,,worker in the Lord to whom Paul sends greetings (ROM 16:12),female,,,1,2944
+Persis_1,Persis,,beloved of Paul (ROM 16:12),female,,,1,2945
+Asynchritus_1,Asynchritus,,Paul sends greetings to him (ROM 16:14),male,,,1,2946
+Phlegon_1,Phlegon,,Paul sends greetings to him (ROM 16:14),male,,,1,2947
+Hermes_1,Hermes,,Paul sends greetings to him (ROM 16:14),male,,,1,2948
+Patrobas_1,Patrobas,,Paul sends greetings to him (ROM 16:14),male,,,1,2949
+Hermas_1,Hermas,,Paul sends greetings to him (ROM 16:14),male,,,1,2950
+Philologus_1,Philologus,,Paul sends greetings to him (ROM 16:15),male,,,1,2951
+Julia_1,Julia,,Paul sends greetings to her (ROM 16:15),female,,,1,2952
+Nereus_1,Nereus,,Paul sends greetings to him (ROM 16:15),male,,,1,2953
+Olympas_1,Olympas,,Paul sends greetings to him (ROM 16:15),male,,,1,2954
+Lucius_2,Lucius,,a kinsman of Paul (ROM 16:21),male,,,2,2955
+Sosipater_1,Sosipater,,a kinsman of Paul (ROM 16:21),male,,,1,2956
+Tertius_1,Tertius,,scribed Paul's letter to the Romans (ROM 16:22),male,,,1,2957
+Erastus_2,Erastus,,the city treasurer (ROM 16:23),male,,,2,2958
+Quartus_1,Quartus,,the brother (ROM 16:23),male,,,1,2959
