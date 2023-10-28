@@ -1,6 +1,6 @@
 ﻿person_relationship_id,person_relationship_sequence,person_id_1,relationship_type,person_id_2,relationship_category,reference_id,relationship_notes
-Yhvh_1:Adam_1:1,1,Yhvh_1,Creator,Adam_1,explicit,GEN 2:7,
-Adam_1:Yhvh_1:2,2,Adam_1,creation,Yhvh_1,inferred,GEN 2:7,
+YHVH_1:Adam_1:1,1,YHVH_1,Creator,Adam_1,explicit,GEN 2:7,
+Adam_1:YHVH_1:2,2,Adam_1,creation,YHVH_1,inferred,GEN 2:7,
 Adam_1:Eve_1:3,3,Adam_1,husband,Eve_1,explicit,GEN 3:6,
 Eve_1:Adam_1:4,4,Eve_1,wife,Adam_1,explicit,GEN 2:25,
 Adam_1:Cain_1:5,5,Adam_1,father,Cain_1,inferred,GEN 4:1,
@@ -431,8 +431,8 @@ Rebekah_1:Esau_1:429,429,Rebekah_1,mother,Esau_1,explicit,GEN 25:25,
 Esau_1:Rebekah_1:430,430,Esau_1,son,Rebekah_1,inferred,GEN 25:25,
 Rebekah_1:Jacob_1:431,431,Rebekah_1,mother,Jacob_1,explicit,GEN 25:26,
 Jacob_1:Rebekah_1:432,432,Jacob_1,son,Rebekah_1,inferred,GEN 25:26,
-Yhvh_1:Abram_1:433,433,Yhvh_1,master,Abram_1,inferred,GEN 26:24,
-Abram_1:Yhvh_1:434,434,Abram_1,servant,Yhvh_1,explicit,GEN 26:24,
+YHVH_1:Abram_1:433,433,YHVH_1,master,Abram_1,inferred,GEN 26:24,
+Abram_1:YHVH_1:434,434,Abram_1,servant,YHVH_1,explicit,GEN 26:24,
 Esau_1:Judith_1:435,435,Esau_1,husband,Judith_1,inferred,GEN 26:34,
 Judith_1:Esau_1:436,436,Judith_1,wife,Esau_1,inferred,GEN 26:34,
 Beeri_1:Judith_1:437,437,Beeri_1,father,Judith_1,inferred,GEN 26:34,
@@ -839,12 +839,12 @@ Judah_1:Shelah_2:837,837,Judah_1,father,Shelah_2,inferred,GEN 38:5,
 Shelah_2:Judah_1:838,838,Shelah_2,son,Judah_1,explicit,GEN 38:5,
 Er_1:Tamar_1:839,839,Er_1,husband,Tamar_1,inferred,GEN 38:6,
 Tamar_1:Er_1:840,840,Tamar_1,wife,Er_1,explicit,GEN 38:6,
-Yhvh_1:Er_1:841,841,Yhvh_1,killer,Er_1,explicit,GEN 38:7,
-Er_1:Yhvh_1:842,842,Er_1,killed by,Yhvh_1,inferred,GEN 38:7,
+YHVH_1:Er_1:841,841,YHVH_1,killer,Er_1,explicit,GEN 38:7,
+Er_1:YHVH_1:842,842,Er_1,killed by,YHVH_1,inferred,GEN 38:7,
 Onan_1:Tamar_1:843,843,Onan_1,brother-in-law,Tamar_1,explicit,GEN 38:8,
 Tamar_1:Onan_1:844,844,Tamar_1,sister-in-law,Onan_1,inferred,GEN 38:8,
-Yhvh_1:Onan_1:845,845,Yhvh_1,killer,Onan_1,explicit,GEN 38:9,
-Onan_1:Yhvh_1:846,846,Onan_1,killed by,Yhvh_1,inferred,GEN 38:9,
+YHVH_1:Onan_1:845,845,YHVH_1,killer,Onan_1,explicit,GEN 38:9,
+Onan_1:YHVH_1:846,846,Onan_1,killed by,YHVH_1,inferred,GEN 38:9,
 Judah_1:Tamar_1:847,847,Judah_1,concubinator,Tamar_1,inferred,GEN 38:18,
 Tamar_1:Judah_1:848,848,Tamar_1,concubine,Judah_1,inferred,GEN 38:18,
 Judah_1:Perez_1:849,849,Judah_1,father,Perez_1,inferred,GEN 38:29,
@@ -1137,8 +1137,8 @@ Reuel_2:Hobab_1:1135,1135,Reuel_2,father,Hobab_1,inferred,NUM 10:29,
 Hobab_1:Reuel_2:1136,1136,Hobab_1,son,Reuel_2,explicit,NUM 10:29,
 Moses_1:Hobab_1:1137,1137,Moses_1,brother-in-law,Hobab_1,inferred,NUM 10:29,
 Hobab_1:Moses_1:1138,1138,Hobab_1,brother-in-law,Moses_1,inferred,NUM 10:29,
-Yhvh_1:Moses_1:1139,1139,Yhvh_1,master,Moses_1,inferred,NUM 12:7,
-Moses_1:Yhvh_1:1140,1140,Moses_1,servant,Yhvh_1,explicit,NUM 12:7,
+YHVH_1:Moses_1:1139,1139,YHVH_1,master,Moses_1,inferred,NUM 12:7,
+Moses_1:YHVH_1:1140,1140,Moses_1,servant,YHVH_1,explicit,NUM 12:7,
 Zaccur_1:Shammua_1:1141,1141,Zaccur_1,father,Shammua_1,inferred,NUM 13:4,
 Shammua_1:Zaccur_1:1142,1142,Shammua_1,son,Zaccur_1,explicit,NUM 13:4,
 Reuben_1:Zaccur_1:1143,1143,Reuben_1,ancestor,Zaccur_1,explicit,NUM 13:4,
@@ -1191,8 +1191,8 @@ Anak_1:Sheshai_1:1189,1189,Anak_1,father,Sheshai_1,inferred,NUM 13:22,
 Sheshai_1:Anak_1:1190,1190,Sheshai_1,son,Anak_1,explicit,NUM 13:22,
 Anak_1:Talmai_1:1191,1191,Anak_1,father,Talmai_1,inferred,NUM 13:22,
 Talmai_1:Anak_1:1192,1192,Talmai_1,son,Anak_1,explicit,NUM 13:22,
-Yhvh_1:Caleb_1:1193,1193,Yhvh_1,master,Caleb_1,explicit,NUM 14:24,
-Caleb_1:Yhvh_1:1194,1194,Caleb_1,servant,Yhvh_1,inferred,NUM 14:24,
+YHVH_1:Caleb_1:1193,1193,YHVH_1,master,Caleb_1,explicit,NUM 14:24,
+Caleb_1:YHVH_1:1194,1194,Caleb_1,servant,YHVH_1,inferred,NUM 14:24,
 Eliab_2:Nemuel_1:1195,1195,Eliab_2,father,Nemuel_1,inferred,NUM 16:1,
 Nemuel_1:Eliab_2:1196,1196,Nemuel_1,son,Eliab_2,explicit,NUM 16:1,
 Eliab_2:Dathan_1:1197,1197,Eliab_2,father,Dathan_1,inferred,NUM 16:1,
@@ -1301,8 +1301,8 @@ Ammihud_3:Pedahel_1:1299,1299,Ammihud_3,father,Pedahel_1,inferred,NUM 34:28,
 Pedahel_1:Ammihud_3:1300,1300,Pedahel_1,son,Ammihud_3,explicit,NUM 34:28,
 Naphtali_1:Ammihud_3:1301,1301,Naphtali_1,ancestor,Ammihud_3,inferred,NUM 34:28,
 Ammihud_3:Naphtali_1:1302,1302,Ammihud_3,descendant,Naphtali_1,explicit,NUM 34:28,
-Yhvh_1:the captain of the host of the LORD_1:1303,1303,Yhvh_1,king,the captain of the host of the LORD_1,inferred,JOS 5:14,
-the captain of the host of the LORD_1:Yhvh_1:1304,1304,the captain of the host of the LORD_1,army captain,Yhvh_1,explicit,JOS 5:14,
+YHVH_1:the captain of the host of the LORD_1:1303,1303,YHVH_1,king,the captain of the host of the LORD_1,inferred,JOS 5:14,
+the captain of the host of the LORD_1:YHVH_1:1304,1304,the captain of the host of the LORD_1,army captain,YHVH_1,explicit,JOS 5:14,
 Carmi_2:Achan_1:1305,1305,Carmi_2,father,Achan_1,inferred,JOS 7:1,
 Achan_1:Carmi_2:1306,1306,Achan_1,son,Carmi_2,explicit,JOS 7:1,
 Zabdi_1:Carmi_2:1307,1307,Zabdi_1,father,Carmi_2,inferred,JOS 7:1,
@@ -1565,8 +1565,8 @@ Saul_1:Rizpah_1:1563,1563,Saul_1,concubinator,Rizpah_1,inferred,2SA 3:7,
 Rizpah_1:Saul_1:1564,1564,Rizpah_1,concubine,Saul_1,explicit,2SA 3:7,
 Aiah_2:Rizpah_1:1565,1565,Aiah_2,father,Rizpah_1,inferred,2SA 3:7,
 Rizpah_1:Aiah_2:1566,1566,Rizpah_1,daughter,Aiah_2,explicit,2SA 3:7,
-Yhvh_1:David_1:1567,1567,Yhvh_1,master,David_1,inferred,2SA 3:18,
-David_1:Yhvh_1:1568,1568,David_1,servant,Yhvh_1,explicit,2SA 3:18,
+YHVH_1:David_1:1567,1567,YHVH_1,master,David_1,inferred,2SA 3:18,
+David_1:YHVH_1:1568,1568,David_1,servant,YHVH_1,explicit,2SA 3:18,
 Joab_1:Abner_1:1569,1569,Joab_1,killer,Abner_1,explicit,2SA 3:27,
 Abner_1:Joab_1:1570,1570,Abner_1,killed by,Joab_1,inferred,2SA 3:27,
 Rimmon_1:Baanah_1:1571,1571,Rimmon_1,father,Baanah_1,inferred,2SA 4:2,
@@ -5009,8 +5009,8 @@ Haman_1:Aridai_1:5007,5007,Haman_1,father,Aridai_1,inferred,EST 9:9,
 Aridai_1:Haman_1:5008,5008,Aridai_1,son,Haman_1,explicit,EST 9:9,
 Haman_1:Vaizatha_1:5009,5009,Haman_1,father,Vaizatha_1,inferred,EST 9:9,
 Vaizatha_1:Haman_1:5010,5010,Vaizatha_1,son,Haman_1,explicit,EST 9:9,
-Yhvh_1:Job_1:5011,5011,Yhvh_1,master,Job_1,inferred,JOB 1:8,
-Job_1:Yhvh_1:5012,5012,Job_1,servant,Yhvh_1,explicit,JOB 1:8,
+YHVH_1:Job_1:5011,5011,YHVH_1,master,Job_1,inferred,JOB 1:8,
+Job_1:YHVH_1:5012,5012,Job_1,servant,YHVH_1,explicit,JOB 1:8,
 Barachel_1:Elihu_5:5013,5013,Barachel_1,father,Elihu_5,inferred,JOB 32:2,
 Elihu_5:Barachel_1:5014,5014,Elihu_5,son,Barachel_1,explicit,JOB 32:2,
 Buz_1:Barachel_1:5015,5015,Buz_1,ancestor,Barachel_1,inferred,JOB 32:2,Buzite = descendant of Buz (GEN 22:21)
@@ -5033,24 +5033,24 @@ Jeberechiah_1:Zechariah_23:5031,5031,Jeberechiah_1,father,Zechariah_23,inferred,
 Zechariah_23:Jeberechiah_1:5032,5032,Zechariah_23,son,Jeberechiah_1,explicit,ISA 8:2,
 Isaiah_1:Immanuel_1:5033,5033,Isaiah_1,father,Immanuel_1,inferred,ISA 8:3,called Maher-shalal-hash-baz in ISA 8:3
 Immanuel_1:Isaiah_1:5034,5034,Immanuel_1,son,Isaiah_1,explicit,ISA 8:3,called Maher-shalal-hash-baz in ISA 8:3
-Yhvh_1:Isaiah_1:5035,5035,Yhvh_1,master,Isaiah_1,inferred,ISA 20:3,
-Isaiah_1:Yhvh_1:5036,5036,Isaiah_1,servant,Yhvh_1,explicit,ISA 20:3,
-Yhvh_1:Eliakim_1:5037,5037,Yhvh_1,master,Eliakim_1,inferred,ISA 22:20,
-Eliakim_1:Yhvh_1:5038,5038,Eliakim_1,servant,Yhvh_1,explicit,ISA 22:20,
+YHVH_1:Isaiah_1:5035,5035,YHVH_1,master,Isaiah_1,inferred,ISA 20:3,
+Isaiah_1:YHVH_1:5036,5036,Isaiah_1,servant,YHVH_1,explicit,ISA 20:3,
+YHVH_1:Eliakim_1:5037,5037,YHVH_1,master,Eliakim_1,inferred,ISA 22:20,
+Eliakim_1:YHVH_1:5038,5038,Eliakim_1,servant,YHVH_1,explicit,ISA 22:20,
 Sennacherib_1:Adrammelech_1:5039,5039,Sennacherib_1,father,Adrammelech_1,inferred,ISA 37:38,
 Adrammelech_1:Sennacherib_1:5040,5040,Adrammelech_1,son,Sennacherib_1,explicit,ISA 37:38,
 Sennacherib_1:Sharezer_1:5041,5041,Sennacherib_1,father,Sharezer_1,inferred,ISA 37:38,
 Sharezer_1:Sennacherib_1:5042,5042,Sharezer_1,son,Sennacherib_1,explicit,ISA 37:38,
-Yhvh_1:Jacob_1:5043,5043,Yhvh_1,master,Jacob_1,inferred,ISA 41:8,"Passage contains ""Israel My servant"" but ""Jacob My servant"" is also found in ISA 44:1"
-Jacob_1:Yhvh_1:5044,5044,Jacob_1,servant,Yhvh_1,explicit,ISA 41:8,"Passage contains ""Israel My servant"" but ""Jacob My servant"" is also found in ISA 44:1"
+YHVH_1:Jacob_1:5043,5043,YHVH_1,master,Jacob_1,inferred,ISA 41:8,"Passage contains ""Israel My servant"" but ""Jacob My servant"" is also found in ISA 44:1"
+Jacob_1:YHVH_1:5044,5044,Jacob_1,servant,YHVH_1,explicit,ISA 41:8,"Passage contains ""Israel My servant"" but ""Jacob My servant"" is also found in ISA 44:1"
 Hilkiah_2:Jeremiah_6:5045,5045,Hilkiah_2,father,Jeremiah_6,inferred,JER 1:1,
 Jeremiah_6:Hilkiah_2:5046,5046,Jeremiah_6,son,Hilkiah_2,explicit,JER 1:1,
 Immer_2:Pashhur_2:5047,5047,Immer_2,ancestor,Pashhur_2,inferred,JER 20:1,
 Pashhur_2:Immer_2:5048,5048,Pashhur_2,descendant,Immer_2,explicit,JER 20:1,
 Maaseiah_14:Zephaniah_2:5049,5049,Maaseiah_14,father,Zephaniah_2,inferred,JER 21:1,
 Zephaniah_2:Maaseiah_14:5050,5050,Zephaniah_2,son,Maaseiah_14,explicit,JER 21:1,
-Yhvh_1:Nebuchadnezzar_1:5051,5051,Yhvh_1,master,Nebuchadnezzar_1,inferred,JER 25:9,
-Nebuchadnezzar_1:Yhvh_1:5052,5052,Nebuchadnezzar_1,servant,Yhvh_1,explicit,JER 25:9,
+YHVH_1:Nebuchadnezzar_1:5051,5051,YHVH_1,master,Nebuchadnezzar_1,inferred,JER 25:9,
+Nebuchadnezzar_1:YHVH_1:5052,5052,Nebuchadnezzar_1,servant,YHVH_1,explicit,JER 25:9,
 Shemaiah_20:Uriah_4:5053,5053,Shemaiah_20,father,Uriah_4,inferred,JER 26:20,
 Uriah_4:Shemaiah_20:5054,5054,Uriah_4,son,Shemaiah_20,explicit,JER 26:20,
 Achbor_2:Elnathan_1:5055,5055,Achbor_2,father,Elnathan_1,inferred,JER 26:22,
@@ -5205,8 +5205,8 @@ Jacob_2:Joseph_6:5203,5203,Jacob_2,father,Joseph_6,explicit,MAT 1:16,
 Joseph_6:Jacob_2:5204,5204,Joseph_6,son,Jacob_2,inferred,MAT 1:16,
 Joseph_6:Mary_1:5205,5205,Joseph_6,husband,Mary_1,explicit,MAT 1:16,
 Mary_1:Joseph_6:5206,5206,Mary_1,wife,Joseph_6,inferred,MAT 1:16,
-Mary_1:Yhvh_1:5207,5207,Mary_1,bearer,Yhvh_1,inferred,MAT 1:16,"The Nestle-Aland (27th Edition) has ἐξ ἧς ἐγεννήθη (by whom was born) rather than μήτηρ (mother).  This affirms that Mary was the ""surrogate"" of the incarnation of G-d rather than His biological mother."
-Yhvh_1:Mary_1:5208,5208,Yhvh_1,born by,Mary_1,explicit,MAT 1:16,"The Nestle-Aland (27th Edition) has ἐξ ἧς ἐγεννήθη (by whom was born) rather than μήτηρ (mother).  This affirms that Mary was the ""surrogate"" of the incarnation of G-d rather than His biological mother."
+Mary_1:YHVH_1:5207,5207,Mary_1,bearer,YHVH_1,inferred,MAT 1:16,"The Nestle-Aland (27th Edition) has ἐξ ἧς ἐγεννήθη (by whom was born) rather than μήτηρ (mother).  This affirms that Mary was the ""surrogate"" of the incarnation of G-d rather than His biological mother."
+YHVH_1:Mary_1:5208,5208,YHVH_1,born by,Mary_1,explicit,MAT 1:16,"The Nestle-Aland (27th Edition) has ἐξ ἧς ἐγεννήθη (by whom was born) rather than μήτηρ (mother).  This affirms that Mary was the ""surrogate"" of the incarnation of G-d rather than His biological mother."
 Herod_1:Archelaus_1:5209,5209,Herod_1,father,Archelaus_1,explicit,MAT 2:22,
 Archelaus_1:Herod_1:5210,5210,Archelaus_1,son,Herod_1,inferred,MAT 2:22,
 Simon_1:Andrew_1:5211,5211,Simon_1,brother,Andrew_1,inferred,MAT 4:18,
@@ -5217,64 +5217,64 @@ James_1:John_2:5215,5215,James_1,father,John_2,explicit,MAT 4:21,
 John_2:James_1:5216,5216,John_2,son,James_1,explicit,MAT 4:21,
 James_1:John_2:5217,5217,James_1,brother,John_2,inferred,MAT 4:21,
 John_2:James_1:5218,5218,John_2,brother,James_1,explicit,MAT 4:21,
-Yhvh_1:Simon_1:5219,5219,Yhvh_1,rabbi,Simon_1,inferred,MAT 10:2,disciple relationship noted in MAT 10:1
-Simon_1:Yhvh_1:5220,5220,Simon_1,disciple,Yhvh_1,explicit,MAT 10:2,disciple relationship noted in MAT 10:1
-Yhvh_1:Andrew_1:5221,5221,Yhvh_1,rabbi,Andrew_1,inferred,MAT 10:2,disciple relationship noted in MAT 10:1
-Andrew_1:Yhvh_1:5222,5222,Andrew_1,disciple,Yhvh_1,explicit,MAT 10:2,disciple relationship noted in MAT 10:1
-Yhvh_1:James_1:5223,5223,Yhvh_1,rabbi,James_1,inferred,MAT 10:2,disciple relationship noted in MAT 10:1
-James_1:Yhvh_1:5224,5224,James_1,disciple,Yhvh_1,explicit,MAT 10:2,disciple relationship noted in MAT 10:1
-Yhvh_1:John_2:5225,5225,Yhvh_1,rabbi,John_2,inferred,MAT 10:2,disciple relationship noted in MAT 10:1
-John_2:Yhvh_1:5226,5226,John_2,disciple,Yhvh_1,explicit,MAT 10:2,disciple relationship noted in MAT 10:1
-Yhvh_1:Philip_1:5227,5227,Yhvh_1,rabbi,Philip_1,inferred,MAT 10:3,disciple relationship noted in MAT 10:1
-Philip_1:Yhvh_1:5228,5228,Philip_1,disciple,Yhvh_1,explicit,MAT 10:3,disciple relationship noted in MAT 10:1
-Yhvh_1:Bartholomew_1:5229,5229,Yhvh_1,rabbi,Bartholomew_1,inferred,MAT 10:3,disciple relationship noted in MAT 10:1
-Bartholomew_1:Yhvh_1:5230,5230,Bartholomew_1,disciple,Yhvh_1,explicit,MAT 10:3,disciple relationship noted in MAT 10:1
-Yhvh_1:Thomas_1:5231,5231,Yhvh_1,rabbi,Thomas_1,inferred,MAT 10:3,disciple relationship noted in MAT 10:1
-Thomas_1:Yhvh_1:5232,5232,Thomas_1,disciple,Yhvh_1,explicit,MAT 10:3,disciple relationship noted in MAT 10:1
-Yhvh_1:Matthew_1:5233,5233,Yhvh_1,rabbi,Matthew_1,inferred,MAT 10:3,disciple relationship noted in MAT 10:1
-Matthew_1:Yhvh_1:5234,5234,Matthew_1,disciple,Yhvh_1,explicit,MAT 10:3,disciple relationship noted in MAT 10:1
-Yhvh_1:James_2:5235,5235,Yhvh_1,rabbi,James_2,inferred,MAT 10:3,disciple relationship noted in MAT 10:1
-James_2:Yhvh_1:5236,5236,James_2,disciple,Yhvh_1,explicit,MAT 10:3,disciple relationship noted in MAT 10:1
+YHVH_1:Simon_1:5219,5219,YHVH_1,rabbi,Simon_1,inferred,MAT 10:2,disciple relationship noted in MAT 10:1
+Simon_1:YHVH_1:5220,5220,Simon_1,disciple,YHVH_1,explicit,MAT 10:2,disciple relationship noted in MAT 10:1
+YHVH_1:Andrew_1:5221,5221,YHVH_1,rabbi,Andrew_1,inferred,MAT 10:2,disciple relationship noted in MAT 10:1
+Andrew_1:YHVH_1:5222,5222,Andrew_1,disciple,YHVH_1,explicit,MAT 10:2,disciple relationship noted in MAT 10:1
+YHVH_1:James_1:5223,5223,YHVH_1,rabbi,James_1,inferred,MAT 10:2,disciple relationship noted in MAT 10:1
+James_1:YHVH_1:5224,5224,James_1,disciple,YHVH_1,explicit,MAT 10:2,disciple relationship noted in MAT 10:1
+YHVH_1:John_2:5225,5225,YHVH_1,rabbi,John_2,inferred,MAT 10:2,disciple relationship noted in MAT 10:1
+John_2:YHVH_1:5226,5226,John_2,disciple,YHVH_1,explicit,MAT 10:2,disciple relationship noted in MAT 10:1
+YHVH_1:Philip_1:5227,5227,YHVH_1,rabbi,Philip_1,inferred,MAT 10:3,disciple relationship noted in MAT 10:1
+Philip_1:YHVH_1:5228,5228,Philip_1,disciple,YHVH_1,explicit,MAT 10:3,disciple relationship noted in MAT 10:1
+YHVH_1:Bartholomew_1:5229,5229,YHVH_1,rabbi,Bartholomew_1,inferred,MAT 10:3,disciple relationship noted in MAT 10:1
+Bartholomew_1:YHVH_1:5230,5230,Bartholomew_1,disciple,YHVH_1,explicit,MAT 10:3,disciple relationship noted in MAT 10:1
+YHVH_1:Thomas_1:5231,5231,YHVH_1,rabbi,Thomas_1,inferred,MAT 10:3,disciple relationship noted in MAT 10:1
+Thomas_1:YHVH_1:5232,5232,Thomas_1,disciple,YHVH_1,explicit,MAT 10:3,disciple relationship noted in MAT 10:1
+YHVH_1:Matthew_1:5233,5233,YHVH_1,rabbi,Matthew_1,inferred,MAT 10:3,disciple relationship noted in MAT 10:1
+Matthew_1:YHVH_1:5234,5234,Matthew_1,disciple,YHVH_1,explicit,MAT 10:3,disciple relationship noted in MAT 10:1
+YHVH_1:James_2:5235,5235,YHVH_1,rabbi,James_2,inferred,MAT 10:3,disciple relationship noted in MAT 10:1
+James_2:YHVH_1:5236,5236,James_2,disciple,YHVH_1,explicit,MAT 10:3,disciple relationship noted in MAT 10:1
 Alphaeus_1:James_2:5237,5237,Alphaeus_1,father,James_2,inferred,MAT 10:3,
 James_2:Alphaeus_1:5238,5238,James_2,son,Alphaeus_1,explicit,MAT 10:3,
-Yhvh_1:Thaddaeus_1:5239,5239,Yhvh_1,rabbi,Thaddaeus_1,inferred,MAT 10:3,disciple relationship noted in MAT 10:1
-Thaddaeus_1:Yhvh_1:5240,5240,Thaddaeus_1,disciple,Yhvh_1,explicit,MAT 10:3,disciple relationship noted in MAT 10:1
-Yhvh_1:Simon_2:5241,5241,Yhvh_1,rabbi,Simon_2,inferred,MAT 10:4,disciple relationship noted in MAT 10:1
-Simon_2:Yhvh_1:5242,5242,Simon_2,disciple,Yhvh_1,explicit,MAT 10:4,disciple relationship noted in MAT 10:1
-Yhvh_1:Judas_1:5243,5243,Yhvh_1,rabbi,Judas_1,inferred,MAT 10:4,disciple relationship noted in MAT 10:1
-Judas_1:Yhvh_1:5244,5244,Judas_1,disciple,Yhvh_1,explicit,MAT 10:4,disciple relationship noted in MAT 10:1
-Yhvh_1:Simon_1:5245,5245,Yhvh_1,master,Simon_1,inferred,MAT 10:2,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
-Simon_1:Yhvh_1:5246,5246,Simon_1,apostle,Yhvh_1,explicit,MAT 10:2,
-Yhvh_1:Andrew_1:5247,5247,Yhvh_1,master,Andrew_1,inferred,MAT 10:2,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
-Andrew_1:Yhvh_1:5248,5248,Andrew_1,apostle,Yhvh_1,explicit,MAT 10:2,
-Yhvh_1:James_1:5249,5249,Yhvh_1,master,James_1,inferred,MAT 10:2,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
-James_1:Yhvh_1:5250,5250,James_1,apostle,Yhvh_1,explicit,MAT 10:2,
-Yhvh_1:John_2:5251,5251,Yhvh_1,master,John_2,inferred,MAT 10:2,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
-John_2:Yhvh_1:5252,5252,John_2,apostle,Yhvh_1,explicit,MAT 10:2,
-Yhvh_1:Philip_1:5253,5253,Yhvh_1,master,Philip_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
-Philip_1:Yhvh_1:5254,5254,Philip_1,apostle,Yhvh_1,explicit,MAT 10:3,
-Yhvh_1:Bartholomew_1:5255,5255,Yhvh_1,master,Bartholomew_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
-Bartholomew_1:Yhvh_1:5256,5256,Bartholomew_1,apostle,Yhvh_1,explicit,MAT 10:3,
-Yhvh_1:Thomas_1:5257,5257,Yhvh_1,master,Thomas_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
-Thomas_1:Yhvh_1:5258,5258,Thomas_1,apostle,Yhvh_1,explicit,MAT 10:3,
-Yhvh_1:Matthew_1:5259,5259,Yhvh_1,master,Matthew_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
-Matthew_1:Yhvh_1:5260,5260,Matthew_1,apostle,Yhvh_1,explicit,MAT 10:3,
-Yhvh_1:James_2:5261,5261,Yhvh_1,master,James_2,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
-James_2:Yhvh_1:5262,5262,James_2,apostle,Yhvh_1,explicit,MAT 10:3,
-Yhvh_1:Thaddaeus_1:5263,5263,Yhvh_1,master,Thaddaeus_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
-Thaddaeus_1:Yhvh_1:5264,5264,Thaddaeus_1,apostle,Yhvh_1,explicit,MAT 10:3,
-Yhvh_1:Simon_2:5265,5265,Yhvh_1,master,Simon_2,inferred,MAT 10:4,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
-Simon_2:Yhvh_1:5266,5266,Simon_2,apostle,Yhvh_1,explicit,MAT 10:4,
-Yhvh_1:Judas_1:5267,5267,Yhvh_1,master,Judas_1,inferred,MAT 10:4,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
-Judas_1:Yhvh_1:5268,5268,Judas_1,apostle,Yhvh_1,explicit,MAT 10:4,
-James_3:Yhvh_1:5269,5269,James_3,brother,Yhvh_1,explicit,MAT 13:55,"""brother"" here would be ""born of the same womb"", not a biological relation"
-Yhvh_1:James_3:5270,5270,Yhvh_1,brother,James_3,inferred,MAT 13:55,"""brother"" here would be ""born of the same womb"", not a biological relation"
-Joseph_7:Yhvh_1:5271,5271,Joseph_7,brother,Yhvh_1,explicit,MAT 13:55,"""brother"" here would be ""born of the same womb"", not a biological relation"
-Yhvh_1:Joseph_7:5272,5272,Yhvh_1,brother,Joseph_7,inferred,MAT 13:55,"""brother"" here would be ""born of the same womb"", not a biological relation"
-Simon_3:Yhvh_1:5273,5273,Simon_3,brother,Yhvh_1,explicit,MAT 13:55,"""brother"" here would be ""born of the same womb"", not a biological relation"
-Yhvh_1:Simon_3:5274,5274,Yhvh_1,brother,Simon_3,inferred,MAT 13:55,"""brother"" here would be ""born of the same womb"", not a biological relation"
-Judas_2:Yhvh_1:5275,5275,Judas_2,brother,Yhvh_1,explicit,MAT 13:55,"""brother"" here would be ""born of the same womb"", not a biological relation"
-Yhvh_1:Judas_2:5276,5276,Yhvh_1,brother,Judas_2,inferred,MAT 13:55,"""brother"" here would be ""born of the same womb"", not a biological relation"
+YHVH_1:Thaddaeus_1:5239,5239,YHVH_1,rabbi,Thaddaeus_1,inferred,MAT 10:3,disciple relationship noted in MAT 10:1
+Thaddaeus_1:YHVH_1:5240,5240,Thaddaeus_1,disciple,YHVH_1,explicit,MAT 10:3,disciple relationship noted in MAT 10:1
+YHVH_1:Simon_2:5241,5241,YHVH_1,rabbi,Simon_2,inferred,MAT 10:4,disciple relationship noted in MAT 10:1
+Simon_2:YHVH_1:5242,5242,Simon_2,disciple,YHVH_1,explicit,MAT 10:4,disciple relationship noted in MAT 10:1
+YHVH_1:Judas_1:5243,5243,YHVH_1,rabbi,Judas_1,inferred,MAT 10:4,disciple relationship noted in MAT 10:1
+Judas_1:YHVH_1:5244,5244,Judas_1,disciple,YHVH_1,explicit,MAT 10:4,disciple relationship noted in MAT 10:1
+YHVH_1:Simon_1:5245,5245,YHVH_1,master,Simon_1,inferred,MAT 10:2,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+Simon_1:YHVH_1:5246,5246,Simon_1,apostle,YHVH_1,explicit,MAT 10:2,
+YHVH_1:Andrew_1:5247,5247,YHVH_1,master,Andrew_1,inferred,MAT 10:2,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+Andrew_1:YHVH_1:5248,5248,Andrew_1,apostle,YHVH_1,explicit,MAT 10:2,
+YHVH_1:James_1:5249,5249,YHVH_1,master,James_1,inferred,MAT 10:2,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+James_1:YHVH_1:5250,5250,James_1,apostle,YHVH_1,explicit,MAT 10:2,
+YHVH_1:John_2:5251,5251,YHVH_1,master,John_2,inferred,MAT 10:2,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+John_2:YHVH_1:5252,5252,John_2,apostle,YHVH_1,explicit,MAT 10:2,
+YHVH_1:Philip_1:5253,5253,YHVH_1,master,Philip_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+Philip_1:YHVH_1:5254,5254,Philip_1,apostle,YHVH_1,explicit,MAT 10:3,
+YHVH_1:Bartholomew_1:5255,5255,YHVH_1,master,Bartholomew_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+Bartholomew_1:YHVH_1:5256,5256,Bartholomew_1,apostle,YHVH_1,explicit,MAT 10:3,
+YHVH_1:Thomas_1:5257,5257,YHVH_1,master,Thomas_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+Thomas_1:YHVH_1:5258,5258,Thomas_1,apostle,YHVH_1,explicit,MAT 10:3,
+YHVH_1:Matthew_1:5259,5259,YHVH_1,master,Matthew_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+Matthew_1:YHVH_1:5260,5260,Matthew_1,apostle,YHVH_1,explicit,MAT 10:3,
+YHVH_1:James_2:5261,5261,YHVH_1,master,James_2,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+James_2:YHVH_1:5262,5262,James_2,apostle,YHVH_1,explicit,MAT 10:3,
+YHVH_1:Thaddaeus_1:5263,5263,YHVH_1,master,Thaddaeus_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+Thaddaeus_1:YHVH_1:5264,5264,Thaddaeus_1,apostle,YHVH_1,explicit,MAT 10:3,
+YHVH_1:Simon_2:5265,5265,YHVH_1,master,Simon_2,inferred,MAT 10:4,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+Simon_2:YHVH_1:5266,5266,Simon_2,apostle,YHVH_1,explicit,MAT 10:4,
+YHVH_1:Judas_1:5267,5267,YHVH_1,master,Judas_1,inferred,MAT 10:4,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+Judas_1:YHVH_1:5268,5268,Judas_1,apostle,YHVH_1,explicit,MAT 10:4,
+James_3:YHVH_1:5269,5269,James_3,brother,YHVH_1,explicit,MAT 13:55,"""brother"" here would be ""born of the same womb"", not a biological relation"
+YHVH_1:James_3:5270,5270,YHVH_1,brother,James_3,inferred,MAT 13:55,"""brother"" here would be ""born of the same womb"", not a biological relation"
+Joseph_7:YHVH_1:5271,5271,Joseph_7,brother,YHVH_1,explicit,MAT 13:55,"""brother"" here would be ""born of the same womb"", not a biological relation"
+YHVH_1:Joseph_7:5272,5272,YHVH_1,brother,Joseph_7,inferred,MAT 13:55,"""brother"" here would be ""born of the same womb"", not a biological relation"
+Simon_3:YHVH_1:5273,5273,Simon_3,brother,YHVH_1,explicit,MAT 13:55,"""brother"" here would be ""born of the same womb"", not a biological relation"
+YHVH_1:Simon_3:5274,5274,YHVH_1,brother,Simon_3,inferred,MAT 13:55,"""brother"" here would be ""born of the same womb"", not a biological relation"
+Judas_2:YHVH_1:5275,5275,Judas_2,brother,YHVH_1,explicit,MAT 13:55,"""brother"" here would be ""born of the same womb"", not a biological relation"
+YHVH_1:Judas_2:5276,5276,YHVH_1,brother,Judas_2,inferred,MAT 13:55,"""brother"" here would be ""born of the same womb"", not a biological relation"
 Mary_1:James_3:5277,5277,Mary_1,mother,James_3,inferred,MAT 13:55,
 James_3:Mary_1:5278,5278,James_3,son,Mary_1,inferred,MAT 13:55,
 Mary_1:Joseph_7:5279,5279,Mary_1,mother,Joseph_7,inferred,MAT 13:55,
@@ -5291,8 +5291,8 @@ Herod_2:Philip_2:5289,5289,Herod_2,brother,Philip_2,explicit,MAT 14:3,
 Philip_2:Herod_2:5290,5290,Philip_2,brother,Herod_2,inferred,MAT 14:3,
 Aaron_1:Caiaphas_1:5291,5291,Aaron_1,ancestor,Caiaphas_1,inferred,MAT 26:3,"as High Priest, he would have been a descendant of Aaron"
 Caiaphas_1:Aaron_1:5292,5292,Caiaphas_1,descendant,Aaron_1,inferred,MAT 26:3,"as High Priest, he would have been a descendant of Aaron"
-Yhvh_1:Joseph_8:5293,5293,Yhvh_1,rabbi,Joseph_8,inferred,MAT 27:57,
-Joseph_8:Yhvh_1:5294,5294,Joseph_8,disciple,Yhvh_1,explicit,MAT 27:57,
+YHVH_1:Joseph_8:5293,5293,YHVH_1,rabbi,Joseph_8,inferred,MAT 27:57,
+Joseph_8:YHVH_1:5294,5294,Joseph_8,disciple,YHVH_1,explicit,MAT 27:57,
 Jairus_1:Talitha_1:5295,5295,Jairus_1,father,Talitha_1,inferred,MRK 5:23,
 Talitha_1:Jairus_1:5296,5296,Talitha_1,daughter,Jairus_1,explicit,MRK 5:23,
 Timaeus_1:Bartimaeus_1:5297,5297,Timaeus_1,father,Bartimaeus_1,inferred,MRK 10:46,
@@ -5405,12 +5405,12 @@ Chuza_1:Joanna_1:5403,5403,Chuza_1,husband,Joanna_1,inferred,LUK 8:3,
 Joanna_1:Chuza_1:5404,5404,Joanna_1,wife,Chuza_1,explicit,LUK 8:3,
 Herod_2:Chuza_1:5405,5405,Herod_2,master,Chuza_1,inferred,LUK 8:3,
 Chuza_1:Herod_2:5406,5406,Chuza_1,servant,Herod_2,explicit,LUK 8:3,"ἐπίτροπος (epitropos), one to whose charge or control a thing is left; a steward, bailiff, agent, manager"
-Joanna_1:Yhvh_1:5407,5407,Joanna_1,patron,Yhvh_1,inferred,LUK 8:3,"ιακονέω (diakoneō) verb form of διάκονος (diakonos- deacon), to wait, attend upon, serve, to be an attendant or assistant, to minister to, relieve, assist, or supply with the necessaries of life, provide the means of living"
-Yhvh_1:Joanna_1:5408,5408,Yhvh_1,client,Joanna_1,inferred,LUK 8:3,"ιακονέω (diakoneō) verb form of διάκονος (diakonos- deacon), to wait, attend upon, serve, to be an attendant or assistant, to minister to, relieve, assist, or supply with the necessaries of life, provide the means of living"
-Susanna_1:Yhvh_1:5409,5409,Susanna_1,patron,Yhvh_1,inferred,LUK 8:3,"ιακονέω (diakoneō) verb form of διάκονος (diakonos- deacon), to wait, attend upon, serve, to be an attendant or assistant, to minister to, relieve, assist, or supply with the necessaries of life, provide the means of living"
-Yhvh_1:Susanna_1:5410,5410,Yhvh_1,client,Susanna_1,inferred,LUK 8:3,"ιακονέω (diakoneō) verb form of διάκονος (diakonos- deacon), to wait, attend upon, serve, to be an attendant or assistant, to minister to, relieve, assist, or supply with the necessaries of life, provide the means of living"
-Martha_1:Mary_2:5411,5411,Martha_1,sister,Mary_2,explicit,LUK 10:39,
-Mary_2:Martha_1:5412,5412,Mary_2,sister,Martha_1,explicit,LUK 10:39,
+Joanna_1:YHVH_1:5407,5407,Joanna_1,patron,YHVH_1,inferred,LUK 8:3,"ιακονέω (diakoneō) verb form of διάκονος (diakonos- deacon), to wait, attend upon, serve, to be an attendant or assistant, to minister to, relieve, assist, or supply with the necessaries of life, provide the means of living"
+YHVH_1:Joanna_1:5408,5408,YHVH_1,client,Joanna_1,inferred,LUK 8:3,"ιακονέω (diakoneō) verb form of διάκονος (diakonos- deacon), to wait, attend upon, serve, to be an attendant or assistant, to minister to, relieve, assist, or supply with the necessaries of life, provide the means of living"
+Susanna_1:YHVH_1:5409,5409,Susanna_1,patron,YHVH_1,inferred,LUK 8:3,"ιακονέω (diakoneō) verb form of διάκονος (diakonos- deacon), to wait, attend upon, serve, to be an attendant or assistant, to minister to, relieve, assist, or supply with the necessaries of life, provide the means of living"
+YHVH_1:Susanna_1:5410,5410,YHVH_1,client,Susanna_1,inferred,LUK 8:3,"ιακονέω (diakoneō) verb form of διάκονος (diakonos- deacon), to wait, attend upon, serve, to be an attendant or assistant, to minister to, relieve, assist, or supply with the necessaries of life, provide the means of living"
+Martha_1:Mary_3:5411,5411,Martha_1,sister,Mary_3,explicit,LUK 10:39,
+Mary_3:Martha_1:5412,5412,Mary_3,sister,Martha_1,explicit,LUK 10:39,
 John_3:Simon_1:5413,5413,John_3,father,Simon_1,inferred,JHN 1:42,
 Simon_1:John_3:5414,5414,Simon_1,son,John_3,explicit,JHN 1:42,
 John_3:Andrew_1:5415,5415,John_3,father,Andrew_1,inferred,JHN 1:42,
@@ -5419,10 +5419,10 @@ Simon_7:Judas_1:5417,5417,Simon_7,father,Judas_1,inferred,JHN 6:71,
 Judas_1:Simon_7:5418,5418,Judas_1,son,Simon_7,inferred,JHN 6:71,
 Lazarus_2:Martha_1:5419,5419,Lazarus_2,brother,Martha_1,explicit,JHN 11:1,
 Martha_1:Lazarus_2:5420,5420,Martha_1,sister,Lazarus_2,inferred,JHN 11:1,
-Lazarus_2:Mary_2:5421,5421,Lazarus_2,brother,Mary_2,explicit,JHN 11:1,
-Mary_2:Lazarus_2:5422,5422,Mary_2,sister,Lazarus_2,inferred,JHN 11:1,
-Clopas_1:Mary_3:5423,5423,Clopas_1,husband,Mary_3,inferred,JHN 19:25,
-Mary_3:Clopas_1:5424,5424,Mary_3,wife,Clopas_1,inferred,JHN 19:25,
+Lazarus_2:Mary_3:5421,5421,Lazarus_2,brother,Mary_3,explicit,JHN 11:1,
+Mary_3:Lazarus_2:5422,5422,Mary_3,sister,Lazarus_2,inferred,JHN 11:1,
+Clopas_1:Mary_4:5423,5423,Clopas_1,husband,Mary_4,inferred,JHN 19:25,
+Mary_4:Clopas_1:5424,5424,Mary_4,wife,Clopas_1,inferred,JHN 19:25,
 Aaron_1:John_4:5425,5425,Aaron_1,ancestor,John_4,inferred,ACT 4:6,
 John_4:Aaron_1:5426,5426,John_4,descendant,Aaron_1,explicit,ACT 4:6,
 Aaron_1:Alexander_2:5427,5427,Aaron_1,ancestor,Alexander_2,inferred,ACT 4:6,
@@ -5431,13 +5431,17 @@ Levi_1:Joseph_12:5429,5429,Levi_1,ancestor,Joseph_12,inferred,ACT 4:36,
 Joseph_12:Levi_1:5430,5430,Joseph_12,descendant,Levi_1,explicit,ACT 4:36,
 Ananias_1:Sapphira_1:5431,5431,Ananias_1,husband,Sapphira_1,inferred,ACT 5:1,
 Sapphira_1:Ananias_1:5432,5432,Sapphira_1,wife,Ananias_1,explicit,ACT 5:1,
-Mary_4:John_5:5433,5433,Mary_4,mother,John_5,explicit,ACT 12:12,
-John_5:Mary_4:5434,5434,John_5,son,Mary_4,inferred,ACT 12:12,
-Mary_4:Rhoda_1:5435,5435,Mary_4,master,Rhoda_1,inferred,ACT 12:13,
-Rhoda_1:Mary_4:5436,5436,Rhoda_1,servant,Mary_4,explicit,ACT 12:13,
+Mary_5:John_5:5433,5433,Mary_5,mother,John_5,explicit,ACT 12:12,
+John_5:Mary_5:5434,5434,John_5,son,Mary_5,inferred,ACT 12:12,
+Mary_5:Rhoda_1:5435,5435,Mary_5,master,Rhoda_1,inferred,ACT 12:13,
+Rhoda_1:Mary_5:5436,5436,Rhoda_1,servant,Mary_5,explicit,ACT 12:13,
 Herod_3:Blastus_1:5437,5437,Herod_3,king,Blastus_1,inferred,ACT 12:20,
 Blastus_1:Herod_3:5438,5438,Blastus_1,chamberlain,Herod_3,explicit,ACT 12:20,
 Aquila_1:Priscilla_1:5439,5439,Aquila_1,husband,Priscilla_1,inferred,ACT 18:2,
 Priscilla_1:Aquila_1:5440,5440,Priscilla_1,wife,Aquila_1,explicit,ACT 18:2,
 Pyrrhus_1:Sopater_1:5441,5441,Pyrrhus_1,father,Sopater_1,inferred,ACT 20:4,
 Sopater_1:Pyrrhus_1:5442,5442,Sopater_1,son,Pyrrhus_1,inferred,ACT 20:4,
+Elisheba_1:Ananias_3:5443,5443,Elisheba_1,ancestor,Ananias_3,inferred,ACT 23:2,
+Ananias_3:Elisheba_1:5444,5444,Ananias_3,descendant,Elisheba_1,inferred,ACT 23:2,
+Benjamin_1:Saul_2:5445,5445,Benjamin_1,ancestor,Saul_2,inferred,ROM 11:1,
+Saul_2:Benjamin_1:5446,5446,Saul_2,descendant,Benjamin_1,explicit,ROM 11:1,
