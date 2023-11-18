@@ -3461,8 +3461,8 @@ Cainan_1_1,Cainan_1,Cainan,קֵינָן,qaynan,,H7018,Καϊνὰμ,Kaïnà
 Arpachshad_1_2,Arpachshad_1,Arphaxad,אַרְפַּכְשַׁ֖ד,arəpachəshad,,H775,Ἀρφαξὰδ,A̓rphaxàd,,G742,LUK 3:36,proper name,,,2,3460
 Kenan_1_2,Kenan_1,Cainan,קֵינָֽן,qeynan,,H7018,Καϊνὰμ,Kaïnàm,,G2536,LUK 3:37,proper name,,,2,3461
 Elisha_1_3,Elisha_1,Elisha,אֱלִישָׁע,eliysha,G-d [El] is [my] salvation,H477,Ἐλισαῖος,E̓lisai͂os,,G1666,LUK 4:27,proper name,,,3,3462
-YHVH_1_158,YHVH_1,Master,אֲדוֹנִי,adoniy,my master,H113,ἐπιστάτα,e̓pistáta,"one who stands by; one who is set over; equivalent to διδάσκαλε, or ῥαββί, master, doctor",G1988,LUK 5:5,title,Y,,158,3463
-YHVH_2_5,YHVH_2,G-d,אלֹהִים,elohiym,"rulers, judges, divine ones [all plural]",H430,θεός,THeos,a deity or The Deity,G2316,LUK 6:12,title,,,5,3464
+YHVH_1_158,YHVH_1,Master,אָדוֹן,adon,master,H113,ἐπιστάτα,e̓pistáta,"one who stands by; one who is set over; equivalent to διδάσκαλε, or ῥαββί, master, doctor",G1988,LUK 5:5,title,Y,,158,3463
+YHVH_2_5,YHVH_2,G-d,אלֹהִים,elohiym,"rulers, judges, divine ones [all plural]",H430,θεός,THeos,a deity or The Deity,G2316,LUK 6:12,title,Y,,5,3464
 Thaddaeus_1_2,Thaddaeus_1,Judas,יְהוּדָה,yəhudah,praised,H3063,Ἰούδας,I̓oúdas,,G2492a,LUK 6:16,proper name,,,2,3465
 James_4_1,James_4,James,יַעֲקֹ֑ב,yaaqov,"follower, replacer, one who follows at the heel",H3290,Ἰάκωβος,I̓ákōbos,,G2385,LUK 6:16,proper name,,,1,3466
 Simon_6_1,Simon_6,Simon,שִׁמְעוֹן,shimon,he has heard or obedient one,H8095,Σίμων,Símōn,,G4613,LUK 7:40,proper name,,,1,3467
@@ -3490,8 +3490,8 @@ Simon_7_1,Simon_7,Simon,שִׁמְעוֹן,shimon,he has heard or obedient one,H
 Simon_7_2,Simon_7,Simon Iscariot,שִׁמְעוֹן אִישׁ קְרִיּוֹת,shimonish qəriyot,Simon [the] man [from] Kirioth,"H8095, H376, H7152",Σίμωνος Ἰσκαριώτου,Símōnos I̓skariṓtou,,"G4613, G2469",JHN 6:71,proper name,,,2,3489
 Lazarus_2_1,Lazarus_2,Lazarus,אֶלְעָזָר,eləatsar,God [El] is a help,H499,Λάζαρος,Lázaros,,G2976,JHN 11:1,proper name,,,1,3490
 Thomas_1_2,Thomas_1,Didymus,דִּידִימוֹס,diydiymos,,none,Δίδυμος,Dídumos,,G1324,JHN 11:16,proper name,,,2,3491
-YHVH_2_6,YHVH_2,Holy Father,אָבִי הַקָּדוֹשׁ,aviy haqadosh,holy father,"H1, H6918",πάτερ ἅγιε,páter a̔́gie,father holy,"G3962, G40",JHN 17:11,title,,,6,3492
-YHVH_2_7,YHVH_2,Righteous Father,אָבִי הַצַּדִּיק,aviy hatsadiyq,righteous father,"H1, H6662",πάτερ δίκαιε,páter díkaie,father righteous,"G3962, G1342",JHN 17:25,title,,,7,3493
+YHVH_2_6,YHVH_2,Holy Father,אָבִי הַקָּדוֹשׁ,aviy haqadosh,holy father,"H1, H6918",πάτερ ἅγιε,páter a̔́gie,father holy,"G3962, G40",JHN 17:11,title,Y,,6,3492
+YHVH_2_7,YHVH_2,Righteous Father,אָבִי הַצַּדִּיק,aviy hatsadiyq,righteous father,"H1, H6662",πάτερ δίκαιε,páter díkaie,father righteous,"G3962, G1342",JHN 17:25,title,Y,,7,3493
 Malchus_1_1,Malchus_1,Malchus,מֶלֶךְ,mekekh,king,H4428,Μάλχος,Málxos,,G3124,JHN 18:10,proper name,,,1,3494
 Mary_4_1,Mary_4,Mary,מִרְיָם,mirəyam,[variously] bitterness; plump one; wished-for child; one who loves or is loved,H4813,Μαρία,María,,G3137,JHN 19:25,proper name,,,1,3495
 Clopas_1_1,Clopas_1,Clopas,קְלוֹפָה,qəlofah,,none,Κλωπᾶς,Klōpa͂s,,G2832,JHN 19:25,proper name,,,1,3496
@@ -3589,7 +3589,7 @@ Felix_1_2,Felix_1,Governor Felix,‏הַנָּצִיב פֶלִיקְס,hanatsiy
 Tertullus_1_1,Tertullus_1,Tertullus,טֶרְטוּלוֹס,terətulos,,none,Τέρτυλλος,Tértullos,,G5061,ACT 24:2,proper name,,,1,3588
 Claudius_2_2,Claudius_2,Lysias,‏לִיסִיאַס,liysiyas,,none,Λυσίας,Lusías,,G3079,ACT 24:7,proper name,,,2,3589
 Drusilla_1_1,Drusilla_1,Drusilla,דְּרוּסִילָה,dərusiylah,,none,Δρούσιλλα,Droúsilla,,G1409,ACT 24:24,proper name,,,1,3590
-YHVH_1_170,YHVH_1,Christ Jesus,מָּשִׁיחַ יֵשׁוּעַ,mashiyach yeshua,Messiah Yeshua,"H4899, H3442",Χριστὸν Ἰησοῦν,Xristòn I̓ēsou͂n,,"G5547, G2424",ACT 24:24,title,,,170,3591
+YHVH_1_170,YHVH_1,Christ Jesus,מָּשִׁיחַ יֵשׁוּעַ,mashiyach yeshua,Messiah Yeshua,"H4899, H3442",Χριστὸν Ἰησοῦν,Xristòn I̓ēsou͂n,,"G5547, G2424",ACT 24:24,title,Y,,170,3591
 Porcius_1_1,Porcius_1,Porcius Festus,‏פּוֹרְקְיוֹס פֶסְטוֹס,porəqyos fesətos,,none,Πόρκιος Φῆστον,Pórkios Phē͂ston,,"G4201, G5347",ACT 24:47,proper name,,,1,3592
 Porcius_1_2,Porcius_1,Festus,פֶסְטוֹס,fesətos,,none,Φῆστον,Phē͂ston,,G5347,ACT 25:1,proper name,,,2,3593
 Caesar_2_1,Caesar_2,Caesar,קֵּיסָר,qaysar,caesar,none,Καῖσαρ,Kai͂sar,Caesar,G2541,ACT 25:8,title,,,1,3594
@@ -3635,12 +3635,45 @@ Erastus_2_1,Erastus_2,Erastus,אֶרַסְטוֹס,erasətos,,none,Ἔρασ�
 Quartus_1_1,Quartus_1,Quartus,קְוַרְטוֹס,qəarətos,,none,Κούαρτος,Koúartos,,G2890,ROM 16:23,proper name,,,1,3634
 Chloe_1_1,Chloe_1,Chloe,כְּלוֹאָה,qəloah,,none,Χλόη,Xlóē,,G5514,1CO 1:11,proper name,,,1,3635
 Stephanas_1_1,Stephanas_1,Stephanas,סְטֶפָנַס,sətephanas,,none,Στεφανᾶς,Stephana͂s,,G4734,1CO 1:16,proper name,,,1,3636
-YHVH_1_174,YHVH_1,Lord,אָדוֹן,adon,lord,H113,κύριος,kýrios,lord,G2962,1CO 4:4,title,,,174,3637
-YHVH_1_175,YHVH_1,the last Adam,אָדָם הָאַחֲרוֹן,adam haacharon,adam the last/latter,"H120, H314",ὁ ἔσχατος Ἀδὰμ,o̔ e̓́sxatos A̓dàm,the last/end Adam,"G3588, G2078, G76",1CO 15:45,title,,,175,3638
-Forunatus_1_1,Forunatus_1,Forunatus,פוֹרְטוּנָטוֹס,forətunatos,,,Φορτουνᾶτος,Phortouna͂tos,,G5415,1CO 16:17,proper name,,,1,3639
-Achaicus_1_1,Achaicus_1,Achaicus,אֲכַיְקוֹס,akayəqos,,,Ἀχαϊκός,A̓khaïkós,,G883,1CO 16:17,proper name,,,1,3640
-Silas_1_2,Silas_1,Silvanus,סִילְוָנוֹס,siyəlvanos,,,Σιλουανός,Silouanós,,G4610,2CO 1:19,proper name,,,2,3641
-Titus_1_1,Titus_1,Titus,טִיטוֹס,tiytos,,,Τίτος,Títos,,G5103,2CO 2:13,proper name,,,1,3642
-YHVH_1_176,YHVH_1,Lord Almighty,יהוה צְבָאוֹת,y-h-v-h tsəvaot,[special name of G-d] of hosts,"H3068, H6635",κύριος παντοκράτωρ,kúrios pantokrátōr,"lord almighty, omnipotent","G2962, G3841",2CO 6:18,title,,,176,3643
+YHVH_1_174,YHVH_1,Lord,אָדוֹן,adon,lord,H113,κύριος,kýrios,lord,G2962,1CO 4:4,title,Y,,174,3637
+YHVH_1_175,YHVH_1,the last Adam,אָדָם הָאַחֲרוֹן,adam haacharon,adam the last/latter,"H120, H314",ὁ ἔσχατος Ἀδὰμ,o̔ e̓́sxatos A̓dàm,the last/end Adam,"G3588, G2078, G76",1CO 15:45,title,Y,,175,3638
+Forunatus_1_1,Forunatus_1,Forunatus,פוֹרְטוּנָטוֹס,forətunatos,,none,Φορτουνᾶτος,Phortouna͂tos,,G5415,1CO 16:17,proper name,,,1,3639
+Achaicus_1_1,Achaicus_1,Achaicus,אֲכַיְקוֹס,akayəqos,,none,Ἀχαϊκός,A̓xaïkós,,G883,1CO 16:17,proper name,,,1,3640
+Silas_1_2,Silas_1,Silvanus,סִילְוָנוֹס,siyəlvanos,,none,Σιλουανός,Silouanós,,G4610,2CO 1:19,proper name,,,2,3641
+Titus_1_1,Titus_1,Titus,טִיטוֹס,tiytos,,none,Τίτος,Títos,,G5103,2CO 2:13,proper name,,,1,3642
+YHVH_1_176,YHVH_1,Lord Almighty,יהוה צְבָאוֹת,y-h-v-h tsəvaot,[special name of G-d] of hosts,"H3068, H6635",κύριος παντοκράτωρ,kúrios pantokrátōr,"lord almighty, omnipotent","G2962, G3841",2CO 6:18,title,Y,,176,3643
 Eve_1_2,Eve_1,Eve,חַוָּה,chavah,living one,H2332,Εὕα,Eu̔́a,Eve,G2096,2CO 11:3,proper name,,,2,3644
-Aretas_1_1,Aretas_1,Aretas,אֲרֵטַס,aretas,,,Ἁρέτας,A̔rétas,,G702,2CO 11:32,proper name,,,1,3645
+Aretas_1_1,Aretas_1,Aretas,אֲרֵטַס,aretas,,none,Ἁρέτας,A̔rétas,,G702,2CO 11:32,proper name,,,1,3645
+YHVH_1_177,YHVH_1,Savior,מוֹשִׁיעַ,moshiya,"savior, deliverer, rescuer;",H4188a,σωτήρ,sōtḗr,savior,G4990,EPH 5:23,title,Y,,177,3646
+YHVH_1_178,YHVH_1,Master,אָדוֹן,adon,master,H113,κύριος,kúrios,master,G2962,EPH 6:9,title,Y,,178,3647
+Epaphroditus_1_1,Epaphroditus_1,Epaphroditus,אֶפַּפְרוֹדִיטוֹס,epaphərodiytos,,none,Ἐπαφρόδιτος,E̓paphróditos,,G1891,PHP 2:25,proper name,,,1,3648
+Euodia_1_1,Euodia_1,Euodia,אֶבְהוֹדְיָה,evəhodiyah,,none,Εὐοδία,Eu̓odía,,G2136,PHP 4:2,proper name,,,1,3649
+Syntyche_1_1,Syntyche_1,Syntyche,סִינְטִיכִי,siyntiykiy,,none,Συντύχην,Suntúkhēn,,G4941,PHP 4:2,proper name,,,1,3650
+Clement_1_1,Clement_1,Clement,קְלֵמֶנְס,qəlemenəs,,none,Κλήμης,Klḗmēs,,G2815,PHP 4:3,proper name,,,1,3651
+Epaphroditus_1_2,Epaphroditus_1,Epaphras,אֶפַּפְרַס,epaphəras,,none,Ἐπαφρᾶς,E̓paphra͂s,,G1889,COL 1:7,proper name,,,2,3652
+YHVH_1_179,YHVH_1,the Lord Christ,הָאָדוֹן הַמָּשִׁיחַ,haadon hamachiyach,the lord the messiah,"H113, H4899",τῷ κυρίῳ Χριστῷ ,tō͂ͅ kuríōͅ Xristō͂ͅ ,the lord Christ,"G3588, G2962, G5547",COL 3:24,title,Y,,179,3653
+Onesimus_1_1,Onesimus_1,Onesimus,אוֹנִיסִימוֹס,oniysiymos,,none,Ὀνήσιμος,O̓nḗsimos,,G3946,COL 4:9,proper name,,,1,3654
+Jesus_1_1,Jesus_1,Jesus,יֵשׁוּעַ,yeshua,y-h-v-h saves,H3442,Ἰησοῦς,Iēsoûs,Joshua,G2424,COL 4:11,proper name,,,1,3655
+Jesus_1_2,Jesus_1,Justus,יוּסְטוֹס,yusətos,,none,Ἰοῦστος,I̓ou͂stos,,G2459,COL 4:11,proper name,,,2,3656
+Luke_1_1,Luke_1,Luke,לוּקַס,luqas,,none,Λουκᾶς,Louka͂s,,G2459,COL 4:14,proper name,,,1,3657
+Demas_1_1,Demas_1,Demas,דִימַס,diymas,,none,Δημᾶς,Dēma͂s,,G1214,COL 4:14,proper name,,,1,3658
+Nympha_1_1,Nympha_1,Nympha,נִימְפַס,niyməphas,,none,Νύμφα,Númpha,,G3564,COL 4:15,proper name,,,1,3659
+Archippus_1_1,Archippus_1,Archippus,אַרְכִיפּוֹס,arəkiypos,,none,Ἄρχιππος,A̓́rkhippos,,G751,COL 4:17,proper name,,,1,3660
+Hymenaeus_1_1,Hymenaeus_1,Hymenaeus,הִימֵנֵאוֹס,haymeneos,,none,Ὑμέναιος,U̔ménaios,,G5211,1TI 1:20,proper name,,,1,3661
+Alexander_4_1,Alexander_4,Alexander,אֲלֶכְּסַנְדֶּר,aleksander,,none,Ἀλέξανδρος,A̓lexándros,,G223,1TI 1:20,proper name,,,1,3662
+Timothy_1_2,Timothy_1,man of G-d,אִישׁ הָאֱלֹהִים,iysh haelohiym,man [of] G-d,"H376, H430",ἄνθρωπε θεοῦ,a̓́nthrōpe theou͂,man [of] G-d,"G444, G2316",1TI 6:11,title,Y,,2,3663
+YHVH_1_180,YHVH_1,Sovereign,הָרִבּוֹן,hariybon,,none,δυνάστης,dunástēs,"a potentate, sovereign, prince",G1413,1TI 6:15,title,Y,,180,3664
+YHVH_1_181,YHVH_1,King of kings,מֶלֶךְ הַמְּלָכִים,melekh haməlakhiym,king [of] the kings,"H4429, H4427",ὁ βασιλεὺς τῶν βασιλευόντων,o̔ basileùs tō͂n basileuóntōn,the king [of] those who reign as kings,"G3588, G935, G3588, G936",1TI 6:15,title,Y,,181,3665
+Lois_1_1,Lois_1,Lois,לוֹאִיס,loiys,,none,Λωί̈ς,Lōí̈s,,G3090,2TI 1:5,proper name,,,1,3666
+Eunice_1_1,Eunice_1,Eunice,וּבְאֶבְנִיקָה,uvəenəniyqah,,none,Εὐνίκη,Eu̓níkē,,G2131,2TI 1:5,proper name,,,1,3667
+Phygelus_1_1,Phygelus_1,Phygelus,פִיגֶלוֹס,phiygelos,,none,Φύγελος,Phúgelos,,G5436,2TI 1:15,proper name,,,1,3668
+Hermogenes_1_1,Hermogenes_1,Hermogenes,הֶרְמוֹגֶנִיס,herəmogeniys,,none,Ἑρμογένης,E̔rmogénēs,,G2061,2TI 1:15,proper name,,,1,3669
+Onesiphorus_1_1,Onesiphorus_1,Onesiphorus,אוֹנִיסִיפוֹרוֹס,oniysiyphoros,,none,Ὀνησίφορος,O̓nēsíphoros,,G3683,2TI 1:16,proper name,,,1,3670
+Philetus_1_1,Philetus_1,Philetus,פִילִיטוֹס,philiytos,,none,Φίλητος,Phílētos,,G5372,2TI 2:17,proper name,,,1,3671
+Jannes_1_1,Jannes_1,Jannes,שֶׁיּוֹחָנָה,sheyotanah,,none,Ἰάννης,Iannēs,,G2389,2TI 3:8,proper name,,,1,3672
+Jambres_1_1,Jambres_1,Jambres,וּמַמְרֵא,umaməre,,none,Ἰαμβρῆς,Iambrēs,,G2387,2TI 3:8,proper name,,,1,3673
+Crescens_1_1,Crescens_1,Crescens,קְרִיסִקִיס,qəriysqiys,,none,Κρήσκης,Krēskēs,,G2913,2TI 4:10,proper name,,,1,3674
+Eubulus_1_1,Eubulus_1,Eubulus,אֶבּוּלוֹס,ebulos,,none,Εὔβουλος,Eu̓́boulos,,G2103,2TI 4:21,proper name,,,1,3675
+Pudens_1_1,Pudens_1,Pudens,פּוּדִיס,pudiys,,none,Πούδης,Poudēs,,G4227,2TI 4:21,proper name,,,1,3676
+Linus_1_1,Linus_1,Linus,לִינוֹס,liynos,,none,Λίνος,Linos,,G3044,2TI 4:21,proper name,,,1,3677
+Claudia_1_1,Claudia_1,Claudia,קְלוֹדְיָה,qəlodəyah,,none,Κλαυδία,Klaudia,,G2803,2TI 4:21,proper name,,,1,3678
