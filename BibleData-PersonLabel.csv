@@ -1,7 +1,7 @@
 ﻿person_label_id,person_id,english_label,hebrew_label,hebrew_label_transliterated,hebrew_label_meaning,hebrew_strongs_number,greek_label,greek_label_transliterated,greek_label_meaning,greek_strongs_number,label_reference_id,label_type,label-given_by_god,label_notes,person_label_count,label_sequence
 YHVH_1_1,YHVH_1,G-d,אֱלֹהִים,elohiym,"rulers, judges, divine ones [all plural]",H430,θεός,THeos,a deity or The Deity,G2316,GEN 1:1,title,Y,,1,1
 YHVH_1_2,YHVH_1,LORD G-d,יְהוָה אֱלֹהִים,y-h-v-h elohiym,"[special name of G-d], god [plural]",H3068 H430,θεὸς,THeos,a deity or The Deity,G2316,GEN 2:4,title,Y,,2,2
-Adam_1_1,Adam_1,Adam,אדם,adam,"man, mankind",H121,Ἀδάμ,Adam,,G76,GEN 2:20,proper name,Y,,1,3
+Adam_1_1,Adam_1,Adam,אָדָם,adam,"man, mankind",H121,Ἀδάμ,Adam,,G76,GEN 2:20,proper name,Y,,1,3
 Eve_1_1,Eve_1,Eve,חַוָּה,chavah,living one,H2332,ζωή,Zōē,"life, living existence",G2222,GEN 3:20,proper name,,,1,4
 Cain_1_1,Cain_1,Cain,קַיִן,qayin,"brought forth, acquired",H7014,Κάϊν,Kain,,G2535,GEN 4:1,proper name,,,1,5
 YHVH_1_3,YHVH_1,LORD,יהוה,y-h-v-h,[the proper name of the one true G-d],H3068,θεοῦ,THeou,a deity or The Deity,G2316,GEN 4:1,proper name,Y,"יהוה is the proper name but many English translations render it ""LORD"" in all caps",3,6
@@ -3659,21 +3659,31 @@ Luke_1_1,Luke_1,Luke,לוּקַס,luqas,,none,Λουκᾶς,Louka͂s,,G2459,COL
 Demas_1_1,Demas_1,Demas,דִימַס,diymas,,none,Δημᾶς,Dēma͂s,,G1214,COL 4:14,proper name,,,1,3658
 Nympha_1_1,Nympha_1,Nympha,נִימְפַס,niyməphas,,none,Νύμφα,Númpha,,G3564,COL 4:15,proper name,,,1,3659
 Archippus_1_1,Archippus_1,Archippus,אַרְכִיפּוֹס,arəkiypos,,none,Ἄρχιππος,A̓́rkhippos,,G751,COL 4:17,proper name,,,1,3660
-Hymenaeus_1_1,Hymenaeus_1,Hymenaeus,הִימֵנֵאוֹס,haymeneos,,none,Ὑμέναιος,U̔ménaios,,G5211,1TI 1:20,proper name,,,1,3661
-Alexander_4_1,Alexander_4,Alexander,אֲלֶכְּסַנְדֶּר,aleksander,,none,Ἀλέξανδρος,A̓lexándros,,G223,1TI 1:20,proper name,,,1,3662
-Timothy_1_2,Timothy_1,man of G-d,אִישׁ הָאֱלֹהִים,iysh haelohiym,man [of] G-d,"H376, H430",ἄνθρωπε θεοῦ,a̓́nthrōpe theou͂,man [of] G-d,"G444, G2316",1TI 6:11,title,Y,,2,3663
-YHVH_1_180,YHVH_1,Sovereign,הָרִבּוֹן,hariybon,,none,δυνάστης,dunástēs,"a potentate, sovereign, prince",G1413,1TI 6:15,title,Y,,180,3664
-YHVH_1_181,YHVH_1,King of kings,מֶלֶךְ הַמְּלָכִים,melekh haməlakhiym,king [of] the kings,"H4429, H4427",ὁ βασιλεὺς τῶν βασιλευόντων,o̔ basileùs tō͂n basileuóntōn,the king [of] those who reign as kings,"G3588, G935, G3588, G936",1TI 6:15,title,Y,,181,3665
-Lois_1_1,Lois_1,Lois,לוֹאִיס,loiys,,none,Λωί̈ς,Lōí̈s,,G3090,2TI 1:5,proper name,,,1,3666
-Eunice_1_1,Eunice_1,Eunice,וּבְאֶבְנִיקָה,uvəenəniyqah,,none,Εὐνίκη,Eu̓níkē,,G2131,2TI 1:5,proper name,,,1,3667
-Phygelus_1_1,Phygelus_1,Phygelus,פִיגֶלוֹס,phiygelos,,none,Φύγελος,Phúgelos,,G5436,2TI 1:15,proper name,,,1,3668
-Hermogenes_1_1,Hermogenes_1,Hermogenes,הֶרְמוֹגֶנִיס,herəmogeniys,,none,Ἑρμογένης,E̔rmogénēs,,G2061,2TI 1:15,proper name,,,1,3669
-Onesiphorus_1_1,Onesiphorus_1,Onesiphorus,אוֹנִיסִיפוֹרוֹס,oniysiyphoros,,none,Ὀνησίφορος,O̓nēsíphoros,,G3683,2TI 1:16,proper name,,,1,3670
-Philetus_1_1,Philetus_1,Philetus,פִילִיטוֹס,philiytos,,none,Φίλητος,Phílētos,,G5372,2TI 2:17,proper name,,,1,3671
-Jannes_1_1,Jannes_1,Jannes,שֶׁיּוֹחָנָה,sheyotanah,,none,Ἰάννης,Iannēs,,G2389,2TI 3:8,proper name,,,1,3672
-Jambres_1_1,Jambres_1,Jambres,וּמַמְרֵא,umaməre,,none,Ἰαμβρῆς,Iambrēs,,G2387,2TI 3:8,proper name,,,1,3673
-Crescens_1_1,Crescens_1,Crescens,קְרִיסִקִיס,qəriysqiys,,none,Κρήσκης,Krēskēs,,G2913,2TI 4:10,proper name,,,1,3674
-Eubulus_1_1,Eubulus_1,Eubulus,אֶבּוּלוֹס,ebulos,,none,Εὔβουλος,Eu̓́boulos,,G2103,2TI 4:21,proper name,,,1,3675
-Pudens_1_1,Pudens_1,Pudens,פּוּדִיס,pudiys,,none,Πούδης,Poudēs,,G4227,2TI 4:21,proper name,,,1,3676
-Linus_1_1,Linus_1,Linus,לִינוֹס,liynos,,none,Λίνος,Linos,,G3044,2TI 4:21,proper name,,,1,3677
-Claudia_1_1,Claudia_1,Claudia,קְלוֹדְיָה,qəlodəyah,,none,Κλαυδία,Klaudia,,G2803,2TI 4:21,proper name,,,1,3678
+YHVH_1_180,YHVH_1,G-d our Savior,הָאֱלֹהִים מוֹשִׁיעֵנוּ,haelohiym moshiyanu,G-d our savior,"H430, H4188a",θεοῦ σωτῆρος,theou͂ sōtē͂ros,G-d our savior,"G2316, G4990",1TI 1:1,title,Y,,180,3661
+Hymenaeus_1_1,Hymenaeus_1,Hymenaeus,הִימֵנֵאוֹס,haymeneos,,none,Ὑμέναιος,U̔ménaios,,G5211,1TI 1:20,proper name,,,1,3662
+Alexander_4_1,Alexander_4,Alexander,אֲלֶכְּסַנְדֶּר,aleksander,,none,Ἀλέξανδρος,A̓lexándros,,G223,1TI 1:20,proper name,,,1,3663
+Timothy_1_2,Timothy_1,man of G-d,אִישׁ הָאֱלֹהִים,iysh haelohiym,man [of] G-d,"H376, H430",ἄνθρωπε θεοῦ,a̓́nthrōpe theou͂,man [of] G-d,"G444, G2316",1TI 6:11,title,Y,,2,3664
+YHVH_1_181,YHVH_1,Sovereign,הָרִבּוֹן,hariybon,,none,δυνάστης,dunástēs,"a potentate, sovereign, prince",G1413,1TI 6:15,title,Y,,181,3665
+YHVH_1_182,YHVH_1,King of kings,מֶלֶךְ הַמְּלָכִים,melekh haməlakhiym,king [of] the kings,"H4429, H4427",ὁ βασιλεὺς τῶν βασιλευόντων,o̔ basileùs tō͂n basileuóntōn,the king [of] those who reign as kings,"G3588, G935, G3588, G936",1TI 6:15,title,Y,,182,3666
+Lois_1_1,Lois_1,Lois,לוֹאִיס,loiys,,none,Λωί̈ς,Lōí̈s,,G3090,2TI 1:5,proper name,,,1,3667
+Eunice_1_1,Eunice_1,Eunice,וּבְאֶבְנִיקָה,uvəenəniyqah,,none,Εὐνίκη,Eu̓níkē,,G2131,2TI 1:5,proper name,,,1,3668
+Phygelus_1_1,Phygelus_1,Phygelus,פִיגֶלוֹס,fiygelos,,none,Φύγελος,Phúgelos,,G5436,2TI 1:15,proper name,,,1,3669
+Hermogenes_1_1,Hermogenes_1,Hermogenes,הֶרְמוֹגֶנִיס,herəmogeniys,,none,Ἑρμογένης,E̔rmogénēs,,G2061,2TI 1:15,proper name,,,1,3670
+Onesiphorus_1_1,Onesiphorus_1,Onesiphorus,אוֹנִיסִיפוֹרוֹס,oniysiyphoros,,none,Ὀνησίφορος,O̓nēsíphoros,,G3683,2TI 1:16,proper name,,,1,3671
+Philetus_1_1,Philetus_1,Philetus,פִילִיטוֹס,filiytos,,none,Φίλητος,Phílētos,,G5372,2TI 2:17,proper name,,,1,3672
+Jannes_1_1,Jannes_1,Jannes,שֶׁיּוֹחָנָה,sheyotanah,,none,Ἰάννης,Iannēs,,G2389,2TI 3:8,proper name,,,1,3673
+Jambres_1_1,Jambres_1,Jambres,וּמַמְרֵא,umaməre,,none,Ἰαμβρῆς,Iambrēs,,G2387,2TI 3:8,proper name,,,1,3674
+Crescens_1_1,Crescens_1,Crescens,קְרִיסִקִיס,qəriysqiys,,none,Κρήσκης,Krēskēs,,G2913,2TI 4:10,proper name,,,1,3675
+Eubulus_1_1,Eubulus_1,Eubulus,אֶבּוּלוֹס,ebulos,,none,Εὔβουλος,Eu̓́boulos,,G2103,2TI 4:21,proper name,,,1,3676
+Pudens_1_1,Pudens_1,Pudens,פּוּדִיס,pudiys,,none,Πούδης,Poudēs,,G4227,2TI 4:21,proper name,,,1,3677
+Linus_1_1,Linus_1,Linus,לִינוֹס,liynos,,none,Λίνος,Linos,,G3044,2TI 4:21,proper name,,,1,3678
+Claudia_1_1,Claudia_1,Claudia,קְלוֹדְיָה,qəlodəyah,,none,Κλαυδία,Klaudia,,G2803,2TI 4:21,proper name,,,1,3679
+Artemas_1_1,Artemas_1,Artemas,אַרְטֶמַס,arətemas,,none,Ἀρτεμᾶς,A̓rtema͂s,,G734,TIT 3:12,proper name,,,1,3680
+Zenas_1_1,Zenas_1,Zenas,זִינַס,ziynas,,none,Ζηνᾶς,Zēna͂s,,G2211,TIT 3:12,proper name,,,1,3681
+Philemon_1_1,Philemon_1,Philemon,פִילִימוֹן,fiyliymon,,none,Philēmōn,Philēmōn,,G5371,PHM 1,proper name,,,1,3682
+Apphia_1_1,Apphia_1,Apphia,אַפִּיָה,apiyah,,none,Ἀπφία,A̓pphía,,G682,PHM 2,proper name,,,1,3683
+YHVH_1_183,YHVH_1,the Apostle,הַשָּׁלִיחַ,hashaliyach,"the sent one, ambassador",none,τὸν ἀπόστολον,tòn a̓póstolon,"the messenger, agent","G3588, G652",HEB 3:1,title,,,183,3684
+YHVH_1_184,YHVH_1,High Priest,הַכֹּהֵן הַגָּדוֹל,hakohen hagadol,the high priest,"H3548, H1419",ἀρχιερεύς,a̓rkhiereús,"high priest, chief priest",G749,HEB 3:1,title,,,184,3685
+YHVH_1_185,YHVH_1,Lord,אֱלֹהִים,elohiym,G-d,H430,κύριος,kúrios,"lord, master, owner",G2962,HEB 7:21,title,Y,,185,3686
+YHVH_1_186,YHVH_1,G-d,אֱלֹהַי,elohay,G-d,H410,θεὸς,theòs,G-d,G2316,HEB 10:7,title,Y,,186,3687
+YHVH_1_187,YHVH_1,Righteous One,צַדִּיק,tsadiyq,"righteous, upright, just",H6662,δίκαιός,díkaiós,"just, righteous",G1342,HEB 10:38,title,Y,,187,3688
