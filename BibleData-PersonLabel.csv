@@ -1036,7 +1036,7 @@ Ethbaal_1_2,Ethbaal_1,king of the Sidonians,מֶ֣לֶךְ צִידֹנִ֔ים,
 Hiel_1_1,Hiel_1,Hiel,חִיאֵל,chiyel,G-d [El] lives here,H2419,Αχιηλ,Axiēl,,none,1KI 16:34,proper name,,,1,1035
 Abiram_2_1,Abiram_2,Abiram,אֲבִירָם,abiyram,[my] father is exalted,H48,Αβιρων,Abirōn,,none,1KI 16:34,proper name,,,1,1036
 Segub_1_1,Segub_1,Segub,שְׂגוּב,səguv,exalted,H7687,Σεγουβ,Segoub,,none,1KI 16:34,proper name,,,1,1037
-Elijah_1_1,Elijah_1,Elijah,אֵלִיָּהוּ,eliyahu,y-h-v-h is G-d,H452,Ηλιου,Ēliou,,none,1KI 17:1,proper name,,,1,1038
+Elijah_1_1,Elijah_1,Elijah,אֵלִיָּהוּ,eliyahu,y-h-v-h is G-d,H452,Ἠλίας,Ē̓lías,,none,1KI 17:1,proper name,,,1,1038
 Elijah_1_2,Elijah_1,man of G-d,אִישׁ הָאֱלֹהִים,iysh haelohiym,man [of] G-d,"H376, H430",ἄνθρωπε τοῦ θεοῦ,ánthrōpe toû theoû,man of G-d,"G444, G3588, G2316",1KI 17:18,title,,,2,1039
 Obadiah_1_1,Obadiah_1,Obadiah,עֹבַדְיָהוּ,ovedəyahu,servant [worshiper] of y-h-v-h,H5662,Αβδιου,Abdiou,,none,1KI 18:3,proper name,,,1,1040
 YHVH_1_45,YHVH_1,"G-d of Abraham, Isaac, and Israel",אֱלֹהֵי אַבְרָהָם יִצְחָק וְיִשְׂרָאֵל,elohey avəraham yitsəchaq vəyisərael,"G-d [of] Abraham, Isaac, and Israel","H430, H85, H3327, H3478",θεὸς Αβρααμ καὶ Ισαακ καὶ Ισραηλ,theòs Abraam kaì Isaak kaì Israēl,G-d [of] Abraham and Isaac and Israel,"G2316, G11, G2352, G2464, G2352, G2474",1KI 18:36,title,Y,,45,1041
@@ -3477,9 +3477,9 @@ Zaccheus_1_1,Zaccheus_1,Zaccheus,זַכַּי,zakay,"y-h-v-h has remembered, [or
 YHVH_1_160,YHVH_1,The Living One,הַחַי,hachay,the living,H2416,ζῶντα,zō͂nta,,G2198,LUK 24:5,title,Y,,160,3476
 Cleopas_1_1,Cleopas_1,Cleopas,קְלִיוֹפָּס,qəliopas,,none,Κλεοπᾶς,Kleopa͂s,,G2810,LUK 24:18,proper name,,,1,3477
 YHVH_1_161,YHVH_1,The Word,הַדָּבָר,hadavar,the word,H1697,ὁ λόγος,o̔ lógos,,"G3588, G3056",JHN 1:1,title,Y,,161,3478
-YHVH_1_162,YHVH_1,The Light,הָאוֹר,haor,the light,H216,τὸ φῶς,tò phō͂s,,"G3588, G5457",JHN 1:4,title,Y,,162,3479
+YHVH_1_162,YHVH_1,The Light,הָאוֹר,haor,the light,H216,τὸ φῶς,tò phō͂s,the light,"G3588, G5457",JHN 1:4,title,Y,,162,3479
 YHVH_1_163,YHVH_1,The Lamb of G-d,שֵׂה הָאֱלֹהִים,seh haelohiym,lamb [of] the g-d,"H7716, H430",ὁ ἀμνὸς τοῦ θεοῦ,o̔ a̓mnòs tou͂ theou͂,the lamb of g-d,"G3588, G286, G3588, G2316",JHN 1:29,title,Y,,163,3480
-John_3_1,John_3,John,יוֹחָנָן,yochanan,y-h-v-h is gracious,H3110,Iōannēs,Iōannēs,,G2491,JHN 1:42,title,,,1,3481
+John_3_1,John_3,John,יוֹחָנָן,yochanan,y-h-v-h is gracious,H3110,Iōannēs,Iōannēs,,G2491,JHN 1:42,proper name,,,1,3481
 Simon_1_5,Simon_1,Cephas,כֵּיפָא,keyfa,rock,H3710,Κηφᾶς,Kēpha͂s,rock,G2786,JHN 1:42,proper name,,,5,3482
 Bartholomew_1_2,Bartholomew_1,Nathanael,נְתַנְאֵל,nətanəel,G-d [El] has given,H5417,Ναθαναήλ,Nathanaḗl,,G3482,JHN 1:45,proper name,,,2,3483
 Mary_1_2,Mary_1,the mother of Jesus,אִמּוֹ שֶׁל יֵשׁוּעַ,imo shel yəshua,mother of Yeshua,"H517, H7945, H3442",μήτηρ τοῦ Ἰησοῦ,mḗtēr tou͂ I̓ēsou͂,mother of Jesus,"G3384, G3588, G2424",JHN 2:1,title,,,2,3484
@@ -3687,3 +3687,33 @@ YHVH_1_184,YHVH_1,High Priest,הַכֹּהֵן הַגָּדוֹל,hakohen hagado
 YHVH_1_185,YHVH_1,Lord,אֱלֹהִים,elohiym,G-d,H430,κύριος,kúrios,"lord, master, owner",G2962,HEB 7:21,title,Y,,185,3686
 YHVH_1_186,YHVH_1,G-d,אֱלֹהַי,elohay,G-d,H410,θεὸς,theòs,G-d,G2316,HEB 10:7,title,Y,,186,3687
 YHVH_1_187,YHVH_1,Righteous One,צַדִּיק,tsadiyq,"righteous, upright, just",H6662,δίκαιός,díkaiós,"just, righteous",G1342,HEB 10:38,title,Y,,187,3688
+YHVH_1_188,YHVH_1,Father of Lights,אֲבִי הָאוֹרוֹת,avi haorot,my father of lights,"H2, H216",πατρὸς τῶν φώτων,patròs tō͂n phṓtōn,father of lights,"G3962, G3739, G5457",JAS 1:17,title,Y,,188,3689
+Abram_1_6,Abram_1,friend of G-d,אוֹהֵב אֱלֹהִים,ohev elohiym,friend [of] G-d,"none, H430",φίλος θεοῦ,phílos theou͂,friend [of] G-d,"G5384, G2316",JAS 2:23,title,Y,,6,3690
+YHVH_1_189,YHVH_1,Lawgiver,הַמְחוֹקֵק,haməchoqaq,the from-law,none,νομοθέτης,nomothétēs,"a legislator, lawgiver",G3550,JAS 4:12,title,Y,,189,3691
+YHVH_1_190,YHVH_1,Judge,שְׁפֵט,shəfet,judge,H8200,κριτής,kritḗs,"a judge; from the Hebrew, a magistrate, ruler",G2923,JAS 4:12,title,Y,,190,3692
+YHVH_1_191,YHVH_1,Lord of Sabaoth,יהוה צְבָאוֹת,y-h-v-h tsəvaot,[special name of G-d] of hosts,"H3068, H6635",κυρίου σαβαὼθ,kuríou sabaṑth,lord [of] Sabaoth [transliteration of tsəvaot],"G2962, G4519",JAS 5:4,title,Y,,191,3693
+YHVH_1_192,YHVH_1,Holy One,קְדוֹשִׁים,qədoshiym,holy ones [plural],H6918,ἅγιος,a̔́gios,"holy one, saint",G40,1PE 1:15,title,Y,,192,3694
+YHVH_1_193,YHVH_1,Shepherd,רֹעֶה,roeh,shepherd,H7473,ποιμήν,poimḗn,"shepherd, herdsman",G4166,1PE 2:25,title,Y,,193,3695
+YHVH_1_194,YHVH_1,Guardian,שּׁוֹמֵר,shomer,"guardian, watchman",H7763,ἐπίσκοπος,e̓pískopos,"an inspector, overseer; a watcher, guardian",G1985,1PE 2:25,title,Y,,194,3696
+YHVH_1_195,YHVH_1,Chief Shepherd,‏שַׂר הָרוֹעִים,sar haroeyim,the chief [of] shepherds,"H8269, H7473",ἀρχιποίμην,a̓rkhipoímēn,chief shepherd,G799,1PE 5:4,title,Y,,195,3697
+YHVH_1_196,YHVH_1,Master,אָדוֹן,adon,master,H113,δεσπότης,despótēs,"a lord, master, especially of slaves",G1203,2PE 2:1,title,Y,,196,3698
+YHVH_1_197,YHVH_1,Word of Life,דְּבַר הַחַיִּים,dəbar hachayyim,word of the life,"H1697, H2416",τοῦ λόγου τῆς ζωῆς,tou͂ lógou tē͂s zōē͂s,the word [of] the life,"G3588, G3056, G3588, G2222",1JN 1:1,title,Y,,197,3699
+YHVH_2_9,YHVH_2,Light,אוֹר,or,light,H216,τὸ φῶς,phō͂s,light,G5457,1JN 1:5,title,Y,,9,3700
+YHVH_1_198,YHVH_1,Advocate,מֵלִיץ,maliyts,"intercessor, mediator",H3887,παράκλητος,paráklētos,advocate,G4156,1JN 2:1,title,Y,,198,3701
+Antichrist_1_1,Antichrist_1,Antichrist,צוֹרֵר,tsorer,adversary,H6696,ἀντίχριστος,a̓ntíxristos,"antichrist, an opposer of Chris",G5000,1JN 2:18,title,Y,,1,3702
+John_2_3,John_2,The Elder,הַזָּקֵן,hazaqen,"elder, old, aged",H2205,πρεσβύτερος,presbúteros,"elder, senior; older",G4245,2JN 1:1,title,,,3,3703
+Satan_1_6,Satan_1,Deceiver,הַמַּתְעֶה,hamatəeh,deceiver,none,πλάνος,plános,"a wanderer, vagabond; also act. deceiving, seducing; a deceiver, impostor",G4108,2JN 1:7,title,Y,,6,3704
+Diotrephes_1_1,Diotrephes_1,Diotrephes,דִּיוֹטְרֶפֶס,diyotərephes,,none,Διοτρέφης,Diotréphēs,,G1361,3JN 1:9,proper name,,,1,3705
+Demetrius_2_1,Demetrius_2,Demetrius,דֶּמֶטְרִיוֹס,dəmetəriyos,,none,Δημήτριος,Dēmḗtrios,,G1216,3JN 1:12,proper name,,,1,3706
+Judas_2_2,Judas_2,Jude,יְהוּדָה,yəhudah,praised,H3063,Ἰούδας,I̓oúdas,,G2492a,JUD 1:1,proper name,,,2,3707
+YHVH_1_199,YHVH_1,Master,רִבּוֹנֵנוּ,ribonenu,our master,none,δεσπότης,despótēs,"a lord, master, especially of slaves",G1203,JUD 1:4,title,Y,,199,3708
+YHVH_1_200,YHVH_1,He who Is and who was and who is to come,‏לָכֶם מֵאֵת הַהוֶֹה וְהָיָה וְיָבוֹא,lekem meet hahovah v hayoah vəyavo,"to you [who] is, [who] was, and is coming","none, H854, H1961, H1961, none",ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος,o̔ ō̓̀n kaì o̔ ē̓͂n kaì o̔ e̓rkhómenos,"the [one who] is, and to [one who] was, and the [one who] is coming","G3588, G1510, G2532, G3588, G1510, G2532, G3588, G2064",REV 1:4,title,Y,,200,3709
+YHVH_1_201,YHVH_1,Faithful witness,‏הָעֵד הַנֶּאֱמָן,haed haneamen,the witness faithful,"H5707, H529","ὁ μάρτυς, ὁ πιστός","o̔ mártus, o̔ pistós",the witness the faithful,"G3588, G3144, G3588, G4103",REV 1:5,title,Y,,201,3710
+YHVH_1_202,YHVH_1,Firstborn of the dead,בְּכוֹר הַמֵּתִים,bəkor hamatiym,firstborn [of] the dead,"H1060, none",ὁ πρωτότοκος τῶν νεκρῶν,o̔ prōtótokos tō͂n nekrō͂n,the firstborn [of] the dead,"G3588, G4416, G3588, G3498",REV 1:5,title,Y,,202,3711
+YHVH_1_203,YHVH_1,Ruler of the kings of the earth,‏עֶלְיוֹן לְמַלְכֵי הָאָרֶץ,eləyon ləmaləkey haarets,lord/ruler of [the] kings [of] the land,"H5945, H4428, H776",ὁ ἄρχων τῶν βασιλέων τῆς γῆς,o̔ a̓́rkhōn tō͂n basiléōn tē͂s gē͂s,the ruler [of] the kings [of] the earth,"G3588, G758, G3588, G935, G3588, G1093",REV 1:5,title,Y,,203,3712
+YHVH_1_204,YHVH_1,The Alpha and the Omega,הָאָלֶף אַף הַתָּו,haalef af hatav,the alef [first letter of the Hebrew alphabet] and the tav [the last letter of the Hebrew alphabet],"none, none, none",τὸ ἄλφα καὶ τὸ ὦ,tò a̓́lpha kaì tò ō̓͂,the alpha [spelled out] and the omega [the letter],"G3588, G1, G2532, G3588, G5598",REV 1:8,title,Y,,204,3713
+YHVH_1_205,YHVH_1,Almighty,צְבָאוֹת,tsəvaot,almighty,H6635,παντοκράτωρ,pantokrátōr,"almighty, omnipotent,",G4120,REV 1:8,title,Y,,205,3714
+Antipas_1_1,Antipas_1,Antipas,אַנְטִיפַּס,anətiypas,,none,Ἀντιπᾶς,A̓ntipa͂s,,G493,REV 2:13,proper name,,,1,3715
+Antipas_1_2,Antipas_1,My witness,עֵדִי,ediy,witness,H5707,μάρτυς μου,mártus mou,witness mine,"G3144, G1473",REV 2:13,title,Y,,2,3716
+Antipas_1_3,Antipas_1,My faithful one,הַנֶּאֱמָן,haneamen,faithful,H529,πιστός μου,pistós mou,faithful mine,"G4103, G1473",REV 2:13,title,Y,,3,3717
+Jezebel_2_1,Jezebel_2,Jezebel,אִיזֶבֶל,iyzebel,"[poss.] unhusbanded, unexalted",H348,Ιεζαβελ,Iezabel,,G2403,REV 2:20,proper name,,,1,3718
