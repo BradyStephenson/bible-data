@@ -23,6 +23,13 @@ these (and more!) possible.
 -   BibleData-Reference (each book, chapter, and verse reference in the Bible) 
 -   BibleData-Commandments (data about the traditionally enumerated 613 
     commandments given in Scripture)
+-   BibleData-Person (every named individual in the Bible)
+-   BibleData-PersonLabel (every person's name or title, including the Hebrew or
+    Greek, related Strongs' numbers, and meanings)
+-   BibleData-PersonRelationship (data about the relationships [father, mother, 
+    son, daughter, killer, concubine, etc.] between Biblical individuals)
+-   BibleData-PersonVerse (data about each person mentioned in every verse of the
+    Bible)
 -   HebrewStrongs (Strongs' Hebrew Concordance as data)
 -   Naves Topical Dictionary (as data)
 -   Hitchcock's Bible Names Dictionary (as data)
@@ -42,20 +49,18 @@ these (and more!) possible.
 
 -   BibleData-Book (books of the Bible: # chapters, # verses, author, location 
     and date written, etc.)
--   BibleData-Person (every named individual in the Bible)
--   BibleData-PersonLabel (every person's name or title, including the Hebrew or
-    Greek, related Strongs' numbers, and meanings)
--   BibleData-PersonRelationship (data about the relationships [father, mother, 
-    son, daughter, killer, concubine, etc.] between Biblical individuals)
 -   BibleData-Event (single, moment-in-time events that occur in the Bible)
 -   BibleData-Epoch (periods of time like the lifetime of individuals, the reign
     of kings, etc.)
+-   BibleData-Place (every place/location in the Bible)
+-   BibleData-PlaceLabel (every place's name or title, including the Hebrew or
+    Greek, related Strongs' numbers, and meanings)
+-   BibleData-PlaceVerse (data about each place mentioned in every verse of the
+    Bible)
 
 # DATASETS PLANNED
 
--   BibleData-Place (every named location in the Bible with latitude, longitude,
-    and KML geocoding where available)
--   BibleData-Thing (data about special things mentioned in the Bible like 
+-   BibleData-Thing (data about special things mentioned in the Bible, like 
     Solomon's Temple, the ark of the covenant, etc.)
 	
 
@@ -71,6 +76,10 @@ these (and more!) possible.
 -  Brady Stephenson  BibleData-Person.csv                    4/1/2021
 -  Brady Stephenson  BibleData-PersonLabel.csv               4/1/2021
 -  Brady Stephenson  BibleData-PersonRelationship.csv        4/1/2021
+-  Brady Stephenson  BibleData-PersonVerse.csv               4/1/2021
+-  Brady Stephenson  BibleData-Place.csv                    2/24/2021
+-  Brady Stephenson  BibleData-PlaceLabel.csv               2/24/2021
+-  Brady Stephenson  BibleData-PlaceVerse.csv               2/24/2021
 -  Brady Stephenson  BibleData-Event.csv                     4/1/2021
 -  Brady Stephenson  BibleData-Epoch.csv                     4/1/2021
 -  Brady Stephenson  NavesTopicalDictionary.csv              4/1/2021
