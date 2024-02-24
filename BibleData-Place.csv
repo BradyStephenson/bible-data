@@ -1,0 +1,113 @@
+﻿place_id,place_name,place_type,modern_equivalent,place_notes,openbible_id,openbible_url,name_instance,place_sequence
+heaven_1,heaven,astronomical,the universe,"the abode of stars (GEN 15:5, DEU 4:19, PSA 8:3, etc.)",none,,1,1
+Earth_1,Earth,planetary,Earth,the entire planet (GEN 1:1),none,,1,2
+waters_1,waters,geographic component,the oceans and the atmosphere,the waters below and the waters above (GEN 1:7),none,,1,3
+heaven_2,heaven,geographic component,the troposphere?,"the abode of birds (GEN 1:20, JOB 12:7, PSA 8:8, etc.)",none,,2,4
+earth_2,earth,geographic component,continents: land above water,"earth (GEN 1:10), dry land (GEN 1:9)",none,,2,5
+seas_1,seas,geographic component,"oceas, seas (lakes?)","seas (GEN 1:10), waters below the heavens (GEN 1:9)",none,,1,6
+The Garden_1,The Garden,geographic region,uncertain,some location in Eden,none,,1,7
+Eden_1,Eden,geographic region,uncertain,"various theories exist including locations in the Seychelles, Armenia, and others",af3daeb,https://www.openbible.info/geo/ancient/af3daeb/eden-1,1,8
+Pishon_1,Pishon,river,uncertain,"various theories exist including Wadi Baysh, Persian Gulf, and others",a19b076,https://www.openbible.info/geo/ancient/a19b076/pishon,1,9
+Havilah_1,Havilah,geographic region,uncertain,"The gold of that land is good; the bdellium and the onyx stone are there (GEN 2:12).  Various theories exist regarding modern equivalents including locations in Babylonia, Arabia, and others.",ad7e819,https://www.openbible.info/geo/ancient/ad7e819/havilah-1,1,10
+Gihon_1,Gihon,river,uncertain,"It flows around the whole land of Cush (GEN 2:13).  Various theories exist about modern equivalents including the Nile River, Gihon Spring, and others.",a71d79b,https://www.openbible.info/geo/ancient/a71d79b/gihon-1,1,11
+Cush_1,Cush,geographic region,uncertain,First mention: GEN 2:13.  Various theories exist regarding modern equivalents including Ethiopia or locations in Babylonia.,a74ee0d,https://www.openbible.info/geo/ancient/a74ee0d/cush-2,1,12
+Tigris_1,Tigris,river,Tigris River,It flows east of Assyria (GEN 2:14),a38ebfd,https://www.openbible.info/geo/ancient/a38ebfd/tigris,1,13
+Assyria_1,Assyria,geographic region,partly Turkey and partly Iraq,First mention: GEN 2:14,a3d1321,https://www.openbible.info/geo/ancient/a3d1321/assyria,1,14
+Euphrates_1,Euphrates,river,Euphrates River,First mention: GEN 2:14,a62dec4,https://www.openbible.info/geo/ancient/a62dec4/euphrates,1,15
+Nod_1,Nod,geographic region,uncertain,Only mentioned in GEN 4:16.  May be a term for wandering rather than a specific place.,a1ad8e1,https://www.openbible.info/geo/ancient/a1ad8e1/nod,1,16
+Enoch_1,Enoch,city,uncertain,Only mentioned in GEN 4:17,none,,1,17
+Ararat_1,Ararat,geographic region,Mount Ağrı in Turkey,First mention: GEN 8:4,ab89be9,https://www.openbible.info/geo/ancient/ab89be9/ararat,1,18
+Babel_1,Babel,settlement,Babylon,First mention: GEN 10:10,ab8fdbc,https://www.openbible.info/geo/ancient/ab8fdbc/babel,1,19
+Erech_1,Erech,settlement,Uruk,First mention: GEN 10:10,a5db1a6,https://www.openbible.info/geo/ancient/a5db1a6/erech,1,20
+Accad_1,Accad,settlement,"uncertain, Tell Sheshubar?",Only mentioned in GEN 10:10,a8b7a6b,https://www.openbible.info/geo/ancient/a8b7a6b/accad,1,21
+Calneh_1,Calneh,settlement,Nippur,First mention: GEN 10:10,aee80af,https://www.openbible.info/geo/ancient/aee80af/calneh-1,1,22
+Shinar_1,Shinar,geographic region,Babylonia,First mention: GEN 10:10,af725b1,https://www.openbible.info/geo/ancient/af725b1/shinar,1,23
+Nineveh_1,Nineveh,settlement,Nineveh,First mention: GEN 10:11,a70fd5d,https://www.openbible.info/geo/ancient/a70fd5d/nineveh,1,24
+Rehoboth-Ir_1,Rehoboth-Ir,settlement,location in Nineveh,First mention: GEN 10:11,a260ff1,https://www.openbible.info/geo/ancient/a260ff1/rehoboth-ir,1,25
+Calah_1,Calah,settlement,Nimrud,First mention: GEN 10:11,ae1f807,https://www.openbible.info/geo/ancient/ae1f807/calah,1,26
+Resen_1,Resen,settlement,Qaryat as Salamiyah,First mention: GEN 10:11,abd8ada,https://www.openbible.info/geo/ancient/abd8ada/resen,1,27
+Sidon_1,Sidon,settlement,Sandikli archaeological site in Sidon,First mention: GEN 10:19,a98e4d7,https://www.openbible.info/geo/ancient/a98e4d7/sidon,1,28
+Gerar_1,Gerar,settlement,Tel Haror,First mention: GEN 10:19,a3f5814,https://www.openbible.info/geo/ancient/a3f5814/gerar,1,29
+Gaza_1,Gaza,settlement,Tel Harube,First mention: GEN 10:19,aa8edd2,https://www.openbible.info/geo/ancient/aa8edd2/gaza,1,30
+Sodom_1,Sodom,settlement,in the valley south of the Lisan peninsula,First mention: GEN 10:19,a0aa664,https://www.openbible.info/geo/ancient/a0aa664/sodom,1,31
+Gomorrah_1,Gomorrah,settlement,in the valley south of the Lisan peninsula,First mention: GEN 10:19,aa572e2,https://www.openbible.info/geo/ancient/aa572e2/gomorrah,1,32
+Admah_1,Admah,settlement,in the valley south of the Lisan peninsula,First mention: GEN 10:19,a41a054,https://www.openbible.info/geo/ancient/a41a054/admah,1,33
+Zeboiim_1,Zeboiim,settlement,region south of the Lisan peninsula,First mention: GEN 10:19,abfbfb9,https://www.openbible.info/geo/ancient/abfbfb9/zeboiim,1,34
+Lasha_1,Lasha,settlement,Callirrhoe,First mention: GEN 10:19,adaef13,https://www.openbible.info/geo/ancient/adaef13/lasha,1,35
+Mesha_1,Mesha,region or settlement,Massa,First mention: GEN 10:30,a6b4fb2,https://www.openbible.info/geo/ancient/a6b4fb2/mesha,1,36
+Sephar_1,Sephar,settlement,Zafar,First mention: GEN 10:30,a3cae2c,https://www.openbible.info/geo/ancient/a3cae2c/sephar,1,37
+Ur_1,Ur,settlement,Tell el Muqayyar,First mention: GEN 11:28,a6cf75c,https://www.openbible.info/geo/ancient/a6cf75c/ur-1,1,38
+Chaldea_1,Chaldea,geographic region,region of Iraq from Baghdad to Kuwait,First mention: GEN 11:28,a32a4f8,https://www.openbible.info/geo/ancient/a32a4f8/chaldea,1,39
+Canaan_1,Canaan,geographic region,coastal region of northern Israel into Lebanon,First mention: GEN 11:31,a581f0c,https://www.openbible.info/geo/ancient/a581f0c/canaan,1,40
+Haran_1,Haran,settlement,Harran,First mention: GEN 11:31,a6d9af3,https://www.openbible.info/geo/ancient/a6d9af3/haran,1,41
+Shechem_1,Shechem,settlement,Tell Balatah,First mention: GEN 12:6,adf74d4,https://www.openbible.info/geo/ancient/adf74d4/shechem,1,42
+Moreh_1,Moreh,tree,within 1km of Tell Balatah,First mention: GEN 12:6,a38ad9f,https://www.openbible.info/geo/ancient/a38ad9f/moreh-1,1,43
+Bethel_1,Bethel,settlement,Beitin,First mention: GEN 12:8,a64f355,https://www.openbible.info/geo/ancient/a64f355/bethel-1,1,44
+Ai_1,Ai,settlement,Et Tell,First mention: GEN 12:8,a7e13e1,https://www.openbible.info/geo/ancient/a7e13e1/ai-1,1,45
+Negev_1,Negev,geographic region,Southern Israel- Negev desert,First mention: GEN 12:9,a1cb244,https://www.openbible.info/geo/ancient/a1cb244/negeb,1,46
+Egypt_1,Egypt,geographic region,Egypt,First mention: GEN 12:10,af301ca,https://www.openbible.info/geo/ancient/af301ca/egypt,1,47
+Valley of the Jordan_1,Valley of the Jordan,valley,Jordan river valley,First mention: GEN 13:10,aa54aa4,https://www.openbible.info/geo/ancient/aa54aa4/jordan-valley,1,48
+Jordan_1,Jordan,river,Jordan river,First mention: GEN 13:10 in the context of the Jordan valley,ae686c9,https://www.openbible.info/geo/ancient/ae686c9/jordan-1,1,49
+Zoar_1,Zoar,settlement,"uncertain, Al Safi?",First mention: GEN 13:10,aacfcda,https://www.openbible.info/geo/ancient/aacfcda/zoar,1,50
+Mamre_1,Mamre,settlement,Ramat el Khalil,First mention: GEN 13:18,aeb9e97,https://www.openbible.info/geo/ancient/aeb9e97/mamre,1,51
+Hebron_1,Hebron,settlement,Tel Rumeida,First mention: GEN 13:18,a85151a,https://www.openbible.info/geo/ancient/a85151a/hebron,1,52
+Elam_1,Elam,geographic region,Southern Iran near the Persian Gulf,First mention: GEN 14:1. Susa was the onetime capital (openbible.info),a7e3a59,https://www.openbible.info/geo/ancient/a7e3a59/elam,1,53
+Valley of Siddim_1,Valley of Siddim,geographic region,valley south of the Dead Sea,First mention: GEN 14:3,a4a5cce,https://www.openbible.info/geo/ancient/a4a5cce/valley-of-siddim,1,54
+Salt Sea_1,Salt Sea,body of water,Dead Sea,First mention: GEN 14:3,abed304,https://www.openbible.info/geo/ancient/abed304/salt-sea,1,55
+Ashteroth-karnaim_1,Ashteroth-karnaim,settlement,Tell Ashtara,First mention: GEN 14:5,afe4be0,https://www.openbible.info/geo/ancient/afe4be0/ashteroth-karnaim,1,56
+Ham_1,Ham,settlement,Tell Ham,First mention: GEN 14:5,a7a5f29,https://www.openbible.info/geo/ancient/a7a5f29/ham-1,1,57
+Shaveh-kiriathaim_1,Shaveh-kiriathaim,geographic region,near Khirbet al Mukhayyat,First mention: GEN 14:5,a86d49f,https://www.openbible.info/geo/ancient/a86d49f/shaveh-kiriathaim,1,58
+Mount Seir_1,Mount Seir,mountain range,region around Jebel esh Shera,First mention: GEN 14:6,ae981db,https://www.openbible.info/geo/ancient/ae981db/mount-seir-1,1,59
+El-paran_1,El-paran,settlement,Aqaba,First mention: GEN 14:6,a738bf1,https://www.openbible.info/geo/ancient/a738bf1/el-paran,1,60
+Kadesh_1,Kadesh,settlement,Ain el Qudeirat,First mention: GEN 14:7,ac2cef0,https://www.openbible.info/geo/ancient/ac2cef0/kadesh-barnea,1,61
+Hazazon-tamar_1,Hazazon-tamar,settlement,En Hazeva,First mention: GEN 14:7,a4d6a38,https://www.openbible.info/geo/ancient/a4d6a38/hazazon-tamar-1,1,62
+Dan_1,Dan,settlement,Tel Dan,First mention: GEN 14:14,a513646,https://www.openbible.info/geo/ancient/a513646/dan,1,63
+Hobah_1,Hobah,settlement,Hoba or possibly Upu,First mention: GEN 14:15,a6779cd,https://www.openbible.info/geo/ancient/a6779cd/hobah,1,64
+Damascus_1,Damascus,settlement,Damascus,First mention: GEN 14:15,a69c1d4,https://www.openbible.info/geo/ancient/a69c1d4/damascus,1,65
+King's Valley_1,King's Valley,valley,intersection of Kidron Valley and Valley of Hinnom,First mention: GEN 14:17,ac9f98d,https://www.openbible.info/geo/ancient/ac9f98d/kings-valley,1,66
+Jerusalem_1,Jerusalem,settlement,Jerusalem,First mention: GEN 14:18,a15257a,https://www.openbible.info/geo/ancient/aad7e4e/salem,1,67
+Nile_1,Nile,river,Nile River,First mention: GEN 15:18,a012705,https://www.openbible.info/geo/ancient/a012705/nile,1,68
+Shur_1,Shur,settlement,Ar Ruwaysat,First mention: GEN 16:7,acdbce0,https://www.openbible.info/geo/ancient/acdbce0/shur,1,69
+Beer-lahai-roi_1,Beer-lahai-roi,well,Ain Muweileh or possibly Haluza,First mention: GEN 16:14,a70e842,https://www.openbible.info/geo/ancient/a70e842/beer-lahai-roi,1,70
+Bered_1,Bered,settlement,Haluza,First mention: GEN 16:14,aa3ff18,https://www.openbible.info/geo/ancient/aa3ff18/bered,1,71
+Beersheba_1,Beersheba,settlement,Tel Beer Sheva (near Bir es Seba),First mention: GEN 21:14,a075d61,https://www.openbible.info/geo/ancient/a075d61/beersheba-2,1,72
+Paran_1,Paran,region,Paran,First mention: GEN 21:21,aa6b19b,https://www.openbible.info/geo/ancient/aa6b19b/paran,1,73
+Moriah_1,Moriah,region,Moriah,First mention: GEN 22:2,adaf385,https://www.openbible.info/geo/ancient/adaf385/moriah,1,74
+The LORD Will Provide_1,The LORD Will Provide,unique,Mount Moriah?,First mention: GEN 22:14,a559399,https://www.openbible.info/geo/ancient/a559399/the-lord-will-provide,1,75
+Machpelah_1,Machpelah,unique,Cave of the Patriarchs,First mention: GEN 23:9.  Worth 400 shekels of silver (GEN 23:15),ae00861,https://www.openbible.info/geo/ancient/ae00861/machpelah,1,76
+Mesopotamia_1,Mesopotamia,region,Aram-naharaim,First mention: GEN 24:10,a43f60f,https://www.openbible.info/geo/ancient/a43f60f/mesopotamia,1,77
+Nahor_1,Nahor,settlement,Nahuru,First mention: GEN 24:10,aff43ac,https://www.openbible.info/geo/ancient/aff43ac/nahor,1,78
+Land of the East_1,Land of the East,geographic region,Amman,First mention: GEN 25:6,ab0b2dd,https://www.openbible.info/geo/ancient/ab0b2dd/east,1,79
+Havilah_2,Havilah,geographic region,Arabian Peninsula,First mention: GEN 25:18,ac5e5c4,https://www.openbible.info/geo/ancient/ac5e5c4/havilah-2,2,80
+Paddan-aram_1,Paddan-aram,settlement,in the region of Aram-naharaim,First mention: GEN 25:20,a8ec7ba,https://www.openbible.info/geo/ancient/a8ec7ba/paddan-aram,1,81
+Esek_1,Esek,well,in the region between Gerar and Beersheba,First mention: GEN 26:20,a43608b,https://www.openbible.info/geo/ancient/a43608b/esek,1,82
+Sitnah_1,Sitnah,well,within 15 km of Ruheibeh,First mention: GEN 26:21,aa454f7,https://www.openbible.info/geo/ancient/aa454f7/sitnah,1,83
+Rehoboth_1,Rehoboth,well,Ruheibeh,First mention: GEN 26:22,ab1d954,https://www.openbible.info/geo/ancient/ab1d954/rehoboth-1,1,84
+Shiba_1,Shiba,well,Bir es Seba,First mention: GEN 26:33,m14a95e,https://www.openbible.info/geo/modern/m14a95e/bir-es-seba,1,85
+Gilead_1,Gilead,geographic region,hill country west-northwest of modern Amman and loosely associated with the Jabbok River,First mention: GEN 31:21,ae73b90,https://www.openbible.info/geo/ancient/ae73b90/gilead-1,1,86
+Mahanaim_1,Mahanaim,settlement,Tell edh Dhahab el Gharbi,First mention: GEN 32:2,ae5bfe9,https://www.openbible.info/geo/ancient/ae5bfe9/mahanaim,1,87
+Edom_1,Edom,region,A region between the Dead Sea and the Gulf of Aqaba,First mention: GEN 32:3,a2735ff,https://www.openbible.info/geo/ancient/a2735ff/edom,1,88
+Jabbok_1,Jabbok,river,Zarqa River,First mention: GEN 32:22,aca7bd9,https://www.openbible.info/geo/ancient/aca7bd9/jabbok,1,89
+Peniel_1,Peniel,settlement,Tell edh Dhahab esh Sherqiyeh,First mention: GEN 32:30,a8a9ff9,https://www.openbible.info/geo/ancient/a8a9ff9/penuel,1,90
+Succoth_1,Succoth,settlement,Tell Deir Alla,First mention: GEN 33:17,a0905b5,https://www.openbible.info/geo/ancient/a0905b5/succoth-1,1,91
+El-bethel_1,El-bethel,altar,"Possibly Beitin, Al Bira, or Burj Beitin",First mention: GEN 35:7,a30b045,https://www.openbible.info/geo/ancient/a30b045/el-bethel,1,92
+Allon-bacuth_1,Allon-bacuth,tree,"Possibly near Beitin, Al Bira, or Burj Beitin",First mention: GEN 35:8,af9a894,https://www.openbible.info/geo/ancient/af9a894/allon-bacuth,1,93
+Bethlehem_1,Bethlehem,settlement,Bethlehem,First mention: GEN 35:19,a112427,https://www.openbible.info/geo/ancient/a112427/bethlehem-1,1,94
+Migdal Eder_1,Migdal Eder,settlement,Khirbet es Siyar el Ghanam,First mention: GEN 35:21,ab80fa1,https://www.openbible.info/geo/ancient/ab80fa1/eder-1,1,95
+Dinhabah_1,Dinhabah,settlement,"Uncertain, possibly Khirbet el Muhatta or Dannea",First mention: GEN 36:32,ae28fc7,https://www.openbible.info/geo/ancient/ae28fc7/dinhabah,1,96
+Bozrah_1,Bozrah,settlement,Buseira,First mention: GEN 36:33,a871210,https://www.openbible.info/geo/ancient/a871210/bozrah-1,1,97
+Moab_1,Moab,region,Area east of the Dead Sea,First mention: GEN 36:35,aa0b1d6,https://www.openbible.info/geo/ancient/aa0b1d6/moab-1,1,98
+Avith_1,Avith,settlement,Possibly Rujum al Juththa,First mention: GEN 36:35,aae8a95,https://www.openbible.info/geo/ancient/aae8a95/avith,1,99
+Masrekah_1,Masrekah,settlement,within 5 km of Jebel el Musraq (modern),First mention: GEN 36:36,a57e0a0,https://www.openbible.info/geo/ancient/a57e0a0/masrekah,1,100
+Rehoboth_2,Rehoboth,settlement,Possibly Ras Rihab or near Wadi Ghuwayr,First mention: GEN 36:37,a17e154,https://www.openbible.info/geo/ancient/a17e154/rehoboth-2,2,101
+Pau_1,Pau,settlement,Possibly along Wadi Fai,First mention: GEN 36:39,a880de2,https://www.openbible.info/geo/ancient/a880de2/pau,1,102
+Valley of Hebron_1,Valley of Hebron,valley,Valley of Hebron,First mention: GEN 37:14,a375f5a,https://www.openbible.info/geo/ancient/a375f5a/valley-of-hebron,1,103
+Dothan_1,Dothan,settlement,Tel Dothan,First mention: GEN 37:17,ab635e4,https://www.openbible.info/geo/ancient/ab635e4/dothan,1,104
+Chezib_1,Chezib,settlement,Achzib,First mention: GEN 38:5,ab41e6b,https://www.openbible.info/geo/ancient/ab41e6b/chezib,1,105
+Timnah_1,Timnah,settlement,within 15km of Tel Main,First mention: GEN 38:12,a17c178,https://www.openbible.info/geo/ancient/a17c178/timnah-3,1,106
+Enaim_1,Enaim,settlement,near Khirbet Beit Ika,First mention: GEN 38:14,a59fdf2,https://www.openbible.info/geo/ancient/a59fdf2/enaim,1,107
+On_1,On,settlement,Heliopolis,First mention: GEN 41:45,acd9137,https://www.openbible.info/geo/ancient/acd9137/heliopolis,1,108
+Goshen_1,Goshen,region,Northern Egypt,First mention: GEN 45:10,a60f092,https://www.openbible.info/geo/ancient/a60f092/goshen-1,1,109
+Rameses_1,Rameses,settlement,Qantir (or possibly Tell el Daba),First mention: GEN 47:11,a079b21,https://www.openbible.info/geo/ancient/a079b21/rameses,1,110
+Shiloh_1,Shiloh,settlement,Khirbet Seilun,First mention: GEN 49:10,aa4680a,https://www.openbible.info/geo/ancient/aa4680a/shiloh,1,111
+Atad_1,Atad,settlement,near the mouth of the Jordan River,First mention: GEN 50:10,a2f186d,https://www.openbible.info/geo/ancient/a2f186d/atad,1,112
