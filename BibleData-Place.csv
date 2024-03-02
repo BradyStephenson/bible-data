@@ -57,7 +57,7 @@ Salt Sea_1,Salt Sea,body of water,Dead Sea,First mention: GEN 14:3,abed304,https
 Ashteroth-karnaim_1,Ashteroth-karnaim,settlement,Tell Ashtara,First mention: GEN 14:5,afe4be0,https://www.openbible.info/geo/ancient/afe4be0/ashteroth-karnaim,1,56
 Ham_1,Ham,settlement,Tell Ham,First mention: GEN 14:5,a7a5f29,https://www.openbible.info/geo/ancient/a7a5f29/ham-1,1,57
 Shaveh-kiriathaim_1,Shaveh-kiriathaim,geographic region,near Khirbet al Mukhayyat,First mention: GEN 14:5,a86d49f,https://www.openbible.info/geo/ancient/a86d49f/shaveh-kiriathaim,1,58
-Mount Seir_1,Mount Seir,mountain range,region around Jebel esh Shera,First mention: GEN 14:6,ae981db,https://www.openbible.info/geo/ancient/ae981db/mount-seir-1,1,59
+Mount Seir_1,Mount Seir,mountain,region around Jebel esh Shera,First mention: GEN 14:6,ae981db,https://www.openbible.info/geo/ancient/ae981db/mount-seir-1,1,59
 El-paran_1,El-paran,settlement,Aqaba,First mention: GEN 14:6,a738bf1,https://www.openbible.info/geo/ancient/a738bf1/el-paran,1,60
 Kadesh_1,Kadesh,settlement,Ain el Qudeirat,First mention: GEN 14:7,ac2cef0,https://www.openbible.info/geo/ancient/ac2cef0/kadesh-barnea,1,61
 Hazazon-tamar_1,Hazazon-tamar,settlement,En Hazeva,First mention: GEN 14:7,a4d6a38,https://www.openbible.info/geo/ancient/a4d6a38/hazazon-tamar-1,1,62
@@ -111,3 +111,9 @@ Goshen_1,Goshen,region,Northern Egypt,First mention: GEN 45:10,a60f092,https://w
 Rameses_1,Rameses,settlement,Qantir (or possibly Tell el Daba),First mention: GEN 47:11,a079b21,https://www.openbible.info/geo/ancient/a079b21/rameses,1,110
 Shiloh_1,Shiloh,settlement,Khirbet Seilun,First mention: GEN 49:10,aa4680a,https://www.openbible.info/geo/ancient/aa4680a/shiloh,1,111
 Atad_1,Atad,settlement,near the mouth of the Jordan River,First mention: GEN 50:10,a2f186d,https://www.openbible.info/geo/ancient/a2f186d/atad,1,112
+Pithom_1,Pithom,settlement,possibly Tell er Retaba or Tell el Maskhuta,First and only mention: EXO 1:11,a3870fe,https://www.openbible.info/geo/ancient/a3870fe/pithom,1,113
+Midian_1,Midian,region,East of the Gulf of Aqaba,First mention: EXO 2:15,acc6d8e,https://www.openbible.info/geo/ancient/acc6d8e/midian,1,114
+Horeb_1,Horeb,mountain,Jabal al Lawz,First mention: EXO 3:1,a9bb03e,https://www.openbible.info/geo/ancient/a9bb03e/mount-horeb,1,115
+Red Sea_1,Red Sea,body of water,Gulf of Aqaba,First mention: EXO 10:19,a3ba698,https://www.openbible.info/geo/ancient/a3ba698/red-sea-3,1,116
+Succoth_2,Succoth,settlement,possibly Tell el Maskhuta or Jabal Maryam,First mention: EXO 12:37,aa28709,https://www.openbible.info/geo/ancient/aa28709/succoth-2,2,117
+Etham_1,Etham,settlement,possibly Ismailia,First mention: EXO 13:20,a27d0e0,https://www.openbible.info/geo/ancient/a27d0e0/etham,1,118
