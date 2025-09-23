@@ -20,19 +20,6 @@ these (and more!) possible.
 
 # DATASETS COMPLETED
 
--   BibleData-Reference (each book, chapter, and verse reference in the Bible) 
--   BibleData-Commandments (data about the traditionally enumerated 613 
-    commandments given in Scripture)
--   BibleData-Person (every named individual in the Bible)
--   BibleData-PersonLabel (every person's name or title, including the Hebrew or
-    Greek, related Strongs' numbers, and meanings)
--   BibleData-PersonRelationship (data about the relationships [father, mother, 
-    son, daughter, killer, concubine, etc.] between Biblical individuals)
--   BibleData-PersonVerse (data about each person mentioned in every verse of the
-    Bible)
--   HebrewStrongs (Strongs' Hebrew Concordance as data)
--   Naves Topical Dictionary (as data)
--   Hitchcock's Bible Names Dictionary (as data)
 -   The Alamo Polyglot (a single, parallel view of texts of Scripture including:
    -   World English Bible [WEB]
    -   King James Version [KJV]
@@ -44,14 +31,32 @@ these (and more!) possible.
    -   Samaritan Pentateuch In English [SPE]
    -   Targum Onkelos
    -   Targum Onkelos in English [TOE])
+-   BibleData-Commandments (data about the traditionally enumerated 613 
+-   BibleData-Person (every named individual in the Bible)
+-   BibleData-PersonLabel (every person's name or title, including the Hebrew or
+    Greek, related Strongs' numbers, and meanings)
+-   BibleData-PersonRelationship (data about the relationships [father, mother, 
+    son, daughter, killer, concubine, etc.] between Biblical individuals)
+-   BibleData-PersonVerse (data about each person mentioned in every verse of the
+    Bible)
+-   BibleData-PersonVerseApostolic (data about each person mentioned in every 
+    verse of the apostolic writings aka the "New Testament")
+-   BibleData-PersonVerseTanakh (data about each person mentioned in every 
+    verse of the Tanakh aka the "Old Testament")
+-   BibleData-Reference (each book, chapter, and verse reference in the Bible) 
+    commandments given in Scripture)
+-   HebrewStrongs (Strongs' Hebrew Concordance as data)
+-   Hitchcock's Bible Names Dictionary (as data)
+-   Naves Topical Dictionary (as data)
+-   Ussher's Annals of the World (as data)
 
 # DATASETS CURRENTLY IN PROGRESS
 
 -   BibleData-Book (books of the Bible: # chapters, # verses, author, location 
     and date written, etc.)
--   BibleData-Event (single, moment-in-time events that occur in the Bible)
 -   BibleData-Epoch (periods of time like the lifetime of individuals, the reign
     of kings, etc.)
+-   BibleData-Event (single, moment-in-time events that occur in the Bible)
 -   BibleData-Place (every place/location in the Bible)
 -   BibleData-PlaceLabel (every place's name or title, including the Hebrew or
     Greek, related Strongs' numbers, and meanings)
@@ -69,19 +74,22 @@ these (and more!) possible.
 > removal of duplicates, *anything*), please include your information as a 
 > contributor **at the bottom** of the list below (name, file, and date).
 
--  Brady Stephenson  BibleData-Reference.csv                 4/1/2021
--  Brady Stephenson  BibleData-Commandments.csv              4/1/2021
--  Brady Stephenson  HebrewStrongs.csv                       4/1/2021
--  Brady Stephenson  BibleData-Book.csv                      4/1/2021
--  Brady Stephenson  BibleData-Person.csv                    4/1/2021
--  Brady Stephenson  BibleData-PersonLabel.csv               4/1/2021
--  Brady Stephenson  BibleData-PersonRelationship.csv        4/1/2021
--  Brady Stephenson  BibleData-PersonVerse.csv               4/1/2021
--  Brady Stephenson  BibleData-Place.csv                    2/24/2021
--  Brady Stephenson  BibleData-PlaceLabel.csv               2/24/2021
--  Brady Stephenson  BibleData-PlaceVerse.csv               2/24/2021
--  Brady Stephenson  BibleData-Event.csv                     4/1/2021
--  Brady Stephenson  BibleData-Epoch.csv                     4/1/2021
--  Brady Stephenson  NavesTopicalDictionary.csv              4/1/2021
--  Brady Stephenson  HitchcocksBibleNamesDictionary.csv      4/1/2021
--  Brady Stephenson  The Alamo Polyglot.csv                  4/1/2021
+-  Brady Stephenson  BibleData-Reference.csv                 04/01/2021
+-  Brady Stephenson  BibleData-Commandments.csv              04/01/2021
+-  Brady Stephenson  HebrewStrongs.csv                       04/01/2021
+-  Brady Stephenson  BibleData-Book.csv                      04/01/2021
+-  Brady Stephenson  BibleData-Person.csv                    04/01/2021
+-  Brady Stephenson  BibleData-PersonLabel.csv               04/01/2021
+-  Brady Stephenson  BibleData-PersonRelationship.csv        04/01/2021
+-  Brady Stephenson  BibleData-PersonVerse.csv               04/01/2021
+-  Brady Stephenson  BibleData-Place.csv                     02/24/2021
+-  Brady Stephenson  BibleData-PlaceLabel.csv                02/24/2021
+-  Brady Stephenson  BibleData-PlaceVerse.csv                02/24/2021
+-  Brady Stephenson  BibleData-Event.csv                     04/01/2021
+-  Brady Stephenson  BibleData-Epoch.csv                     04/01/2021
+-  Brady Stephenson  NavesTopicalDictionary.csv              04/01/2021
+-  Brady Stephenson  HitchcocksBibleNamesDictionary.csv      04/01/2021
+-  Brady Stephenson  The Alamo Polyglot.csv                  04/01/2021
+-  Brady Stephenson  BibleData-PersonVerseApostolic.csv      07/22/2023
+-  Brady Stephenson  BibleData-PersonVerseTanakh.csv         07/22/2023
+-  Brady Stephenson  Ussher-AnnalsOfTheWorld.csv             09/13/2025
