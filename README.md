@@ -1,6 +1,9 @@
 # bible-data
 Information from the Bible as structured data
 
+© 2021–2026 Brady Stephenson  
+Licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 These datasets are also available via the data.world website at 
 https://data.world/bradys
 
