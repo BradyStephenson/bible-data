@@ -1,98 +1,100 @@
-# bible-data
-Information from the Bible as structured data
+# BibleData
+
+**Structured data from the Holy Bible** — turning millennia of Scripture into clean, queryable, machine-readable datasets.
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 © 2021–2026 Brady Stephenson  
-Licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+These datasets are also available on [data.world](https://data.world/bradys).
 
-These datasets are also available via the data.world website at 
-https://data.world/bradys
+---
 
-# SUMMARY
-Read by students, scholars, critics, and the curious for millennia, the Holy 
-Bible is the most translated, most widely published, and most examined text in 
-history.  Unfortunately, the *information* in Scripture largely has remained 
-unstructured and not easily parsed, examined, processed, or enriched with modern 
-technology.  
+## Why BibleData?
 
-Want to create a graph database and identify how many descendants of Aaron are 
-named in the Bible or how many generations are named between Adam and King 
-David?  Want to run a query to discover how many years it was between the Flood 
-and the creation of Solomon's temple?  Need a list of all the Biblical events 
-that occurred at a specific geographic location?  Structured data makes all of 
-these (and more!) possible.
+For thousands of years the Bible has been the most translated, most widely published, and most examined text in human history.  
+Yet the information inside it has largely remained unstructured — difficult to parse, analyze, or enrich with modern tools.
 
-# DATASETS COMPLETED
+BibleData addresses this need by providing carefully structured datasets drawn from Scripture.
 
--   The Alamo Polyglot (a single, parallel view of texts of Scripture including:
-   -   World English Bible [WEB]
-   -   King James Version [KJV]
-   -   Leningrad Codex [BHS]
-   -   Jewish Publication Society [JPS 1917]
-   -   Codex Alexandrinus
-   -   Brenton's English Translation of Alexandrinus [BET]
-   -   Samaritan Pentateuch [SP]
-   -   Samaritan Pentateuch In English [SPE]
-   -   Targum Onkelos
-   -   Targum Onkelos in English [TOE])
--   BibleData-Commandments (data about the traditionally enumerated 613 
--   BibleData-Person (every named individual in the Bible)
--   BibleData-PersonLabel (every person's name or title, including the Hebrew or
-    Greek, related Strongs' numbers, and meanings)
--   BibleData-PersonRelationship (data about the relationships [father, mother, 
-    son, daughter, killer, concubine, etc.] between Biblical individuals)
--   BibleData-PersonVerse (data about each person mentioned in every verse of the
-    Bible)
--   BibleData-PersonVerseApostolic (data about each person mentioned in every 
-    verse of the apostolic writings aka the "New Testament")
--   BibleData-PersonVerseTanakh (data about each person mentioned in every 
-    verse of the Tanakh aka the "Old Testament")
--   BibleData-Reference (each book, chapter, and verse reference in the Bible) 
-    commandments given in Scripture)
--   HebrewStrongs (Strongs' Hebrew Concordance as data)
--   Hitchcock's Bible Names Dictionary (as data)
--   Naves Topical Dictionary (as data)
--   Ussher's Annals of the World (as data)
+Whether you wish to trace every descendant of Aaron, count the generations between Adam and King David, calculate the years between the Flood and Solomon’s Temple, or identify every event associated with a specific location, these datasets make such inquiries straightforward.
 
-# DATASETS CURRENTLY IN PROGRESS
+## Table of Contents
+- [Datasets](#datasets)
+- [How to Use the Data](#how-to-use-the-data)
+- [Contributing](#contributing)
+- [License](#license)
 
--   BibleData-Book (books of the Bible: # chapters, # verses, author, location 
-    and date written, etc.)
--   BibleData-Epoch (periods of time like the lifetime of individuals, the reign
-    of kings, etc.)
--   BibleData-Event (single, moment-in-time events that occur in the Bible)
--   BibleData-Place (every place/location in the Bible)
--   BibleData-PlaceLabel (every place's name or title, including the Hebrew or
-    Greek, related Strongs' numbers, and meanings)
--   BibleData-PlaceVerse (data about each place mentioned in every verse of the
-    Bible)
+## Datasets
 
-# DATASETS PLANNED
+### ✅ Completed
+- **The Alamo Polyglot** — A single parallel view of Scripture texts including:  
+  World English Bible (WEB), King James Version (KJV), Leningrad Codex (BHS), Jewish Publication Society (JPS 1917), Codex Alexandrinus, Brenton's English Translation of Alexandrinus (BET), Samaritan Pentateuch (SP), Samaritan Pentateuch in English (SPE), Targum Onkelos, and Targum Onkelos in English (TOE).
+- BibleData-Commandments — The traditionally enumerated 613 commandments given in Scripture
+- BibleData-Person — Every named individual in the Bible
+- BibleData-PersonLabel — Names and titles with Hebrew or Greek originals, related Strong’s numbers, and meanings
+- BibleData-PersonRelationship — Family and other relationships (father, mother, son, daughter, killer, concubine, and more)
+- BibleData-PersonVerse — Every person mentioned in every verse of the Bible
+- BibleData-PersonVerseApostolic — Person-verse data for the New Testament (Apostolic Writings)
+- BibleData-PersonVerseTanakh — Person-verse data for the Old Testament (Tanakh)
+- BibleData-Reference — Every book, chapter, and verse reference
+- HebrewStrongs — Strong’s Hebrew Concordance as structured data
+- Hitchcock’s Bible Names Dictionary
+- Naves Topical Dictionary
+- Ussher’s Annals of the World
 
--   BibleData-Thing (data about special things mentioned in the Bible, like 
-    Solomon's Temple, the ark of the covenant, etc.)
-	
+### 🚧 In Progress
+- BibleData-Book — Books of the Bible, including number of chapters and verses, traditional authorship, location, and date
+- BibleData-Epoch — Time periods such as lifetimes of individuals and reigns of kings
+- BibleData-Event — Discrete events recorded in Scripture
+- BibleData-Place — Every location mentioned in the Bible
+- BibleData-PlaceLabel — Place names and titles with Hebrew or Greek originals, related Strong’s numbers, and meanings
+- BibleData-PlaceVerse — Every place mentioned in every verse of the Bible
 
-# CONTRIBUTORS
-> If you contribute ANYTHING to these datasets (corrections, new entries, 
-> removal of duplicates, *anything*), please include your information as a 
-> contributor **at the bottom** of the list below (name, file, and date).
+### 📅 Planned
+- BibleData-Thing — Significant objects and items mentioned in Scripture (Solomon’s Temple, the Ark of the Covenant, and others)
 
--  Brady Stephenson  BibleData-Reference.csv                 04/01/2021
--  Brady Stephenson  BibleData-Commandments.csv              04/01/2021
--  Brady Stephenson  HebrewStrongs.csv                       04/01/2021
--  Brady Stephenson  BibleData-Book.csv                      04/01/2021
--  Brady Stephenson  BibleData-Person.csv                    04/01/2021
--  Brady Stephenson  BibleData-PersonLabel.csv               04/01/2021
--  Brady Stephenson  BibleData-PersonRelationship.csv        04/01/2021
--  Brady Stephenson  BibleData-PersonVerse.csv               04/01/2021
--  Brady Stephenson  BibleData-Place.csv                     02/24/2021
--  Brady Stephenson  BibleData-PlaceLabel.csv                02/24/2021
--  Brady Stephenson  BibleData-PlaceVerse.csv                02/24/2021
--  Brady Stephenson  BibleData-Event.csv                     04/01/2021
--  Brady Stephenson  BibleData-Epoch.csv                     04/01/2021
--  Brady Stephenson  NavesTopicalDictionary.csv              04/01/2021
--  Brady Stephenson  HitchcocksBibleNamesDictionary.csv      04/01/2021
--  Brady Stephenson  The Alamo Polyglot.csv                  04/01/2021
--  Brady Stephenson  BibleData-PersonVerseApostolic.csv      07/22/2023
--  Brady Stephenson  BibleData-PersonVerseTanakh.csv         07/22/2023
--  Brady Stephenson  Ussher-AnnalsOfTheWorld.csv             09/13/2025
+## How to Use the Data
+
+All files are provided as CSV format for broad compatibility.
+
+```python
+import pandas as pd
+
+# Example: Load people data
+df = pd.read_csv('BibleData-Person.csv')
+
+# Quick example query
+descendants_of_aaron = df[df['related_to'].str.contains('Aaron', na=False)]
+print(len(descendants_of_aaron))
+```
+
+The datasets can be loaded into spreadsheets, relational databases, graph databases, or any analysis environment of your choosing.  
+
+## Contributing
+
+Contributions of any kind are warmly welcomed — whether corrections, new entries, removal of duplicates, additional fields, or improved documentation.
+
+> **How to contribute:**
+> 1. Fork the repository or open an issue describing your suggestion
+> 2. Make your changes
+> 3. Add your name to the contributors list below (with the file(s) and date)
+
+**Contributors** (with sincere thanks):
+
+- Brady Stephenson — BibleData-Reference.csv, BibleData-Commandments.csv, HebrewStrongs.csv, BibleData-Book.csv, BibleData-Person.csv, BibleData-PersonLabel.csv, BibleData-PersonRelationship.csv, BibleData-PersonVerse.csv, BibleData-Place.csv, BibleData-PlaceLabel.csv, BibleData-PlaceVerse.csv, BibleData-Event.csv, BibleData-Epoch.csv, NavesTopicalDictionary.csv, HitchcocksBibleNamesDictionary.csv, The Alamo Polyglot.csv, BibleData-PersonVerseApostolic.csv, BibleData-PersonVerseTanakh.csv, Ussher-AnnalsOfTheWorld.csv (various dates 2021–2025)
+- Dan Raby — BibleData-PersonalLabel.csv
+- Fernando Falci — BibleData-PersonRelationship.csv
+
+## License
+
+This project is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+You are free to share and adapt the data for non-commercial purposes, provided appropriate credit is given and any adaptations are released under the same license.
+
+---
+
+Prepared with care for students, scholars, researchers, and all who approach the Scriptures with curiosity and respect.  
+
+Questions or suggestions are always welcome. Please open an issue or reach out via [data.world](https://data.world/bradys).
+
+Last updated: April 2026
