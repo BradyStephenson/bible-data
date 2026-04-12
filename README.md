@@ -7,6 +7,10 @@
 © 2021–2026 Brady Stephenson  
 These datasets are also available on [data.world](https://data.world/bradys).
 
+**How to cite this work:**
+
+Brady Stephenson. (2026). *BibleData: Structured Datasets from the Holy Bible* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19539956
+
 ---
 
 ## Why BibleData?
