@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "BibleData: Structured Datasets from the Holy Bible"
+authors:
+  - family-names: "Stephenson"
+    given-names: "Brady"
+version: "1.0"
+date-released: "2026-04-12"
+doi: "10.5281/zenodo.19539956"
+repository-code: "https://github.com/BradyStephenson/bible-data"
+license: "CC-BY-NC-SA-4.0"
