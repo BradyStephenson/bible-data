@@ -2,7 +2,7 @@
 
 **Structured data from the Holy Bible** — turning millennia of Scripture into clean, queryable, machine-readable datasets.
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19539956.svg)](https://doi.org/10.5281/zenodo.19539956)
 
 © 2021–2026 Brady Stephenson  
@@ -92,9 +92,9 @@ Contributions of any kind are warmly welcomed — whether corrections, new entri
 
 ## License
 
-This project is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+This project is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
-You are free to share and adapt the data for non-commercial purposes, provided appropriate credit is given and any adaptations are released under the same license.
+You are free to share, adapt, and use the data (including for commercial purposes) as long as appropriate credit is given.
 
 ---
 
@@ -102,4 +102,4 @@ Prepared with care for students, scholars, researchers, and all who approach the
 
 Questions or suggestions are always welcome. Please open an issue or reach out via [data.world](https://data.world/bradys).
 
-Last updated: April 2026
+Last updated: 26 April 2026
