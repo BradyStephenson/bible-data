@@ -1,4 +1,4 @@
-﻿person_id,person_name,surname,unique_attribute,sex,tribe,person_notes,name_instance,person_sequence
+person_id,person_name,surname,unique_attribute,sex,tribe,person_notes,name_instance,person_sequence
 YHVH_1,YHVH,,"Holy, Holy, Holy (ISA 6:3) and too many others to fit here",male,,,1,1
 Adam_1,Adam,,first man (1CO 15:45),male,,,1,2
 Eve_1,Eve,,"first woman, created from Adam (GEN 2:22)",female,,,1,3
@@ -1019,7 +1019,7 @@ Tanhumeth_1,Tanhumeth,,"the Netophathite, father of Seraiah, one of the captains
 Jaazaniah_1,Jaazaniah,,"son of the Maacathite, a captain of Judean forces during the Babylonian captivity (2KI 25:23)",male,,,1,1018
 Elishama_3,Elishama,,father of Nethaniah (2KI 25:25),male,,"From Judah? 2KI 25:25 says he was ""of the royal family [literally: seed]""",3,1019
 Evil-merodach_1,Evil-merodach,,King of Babylon (2KI 25:27),male,,,1,1020
-Bath-shua_1,Bath-shua,,"the Canaanitess, mother of Judah's first three sons (1CH 2:3)",male,,,1,1021
+Bath-shua_1,Bath-shua,,"the Canaanitess, mother of Judah's first three sons (1CH 2:3)",female,,,1,1021
 Azariah_4,Azariah,,son of Ethan (1CH 2:8),male,Judah,,4,1022
 Jerahmeel_1,Jerahmeel,,"son of Hezron, son of Perez (1CH 2:9)",male,Judah,,1,1023
 Chelubai_1,Chelubai,,"son of Hezron, son of Perez (1CH 2:9)",male,Judah,,1,1024
