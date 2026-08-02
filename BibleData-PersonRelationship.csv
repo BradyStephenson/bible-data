@@ -239,18 +239,18 @@ Haran_1:Milcah_1:237,237,Haran_1,father,Milcah_1,explicit,GEN 11:29,
 Milcah_1:Haran_1:238,238,Milcah_1,daughter,Haran_1,inferred,GEN 11:29,
 Haran_1:Iscah_1:239,239,Haran_1,father,Iscah_1,explicit,GEN 11:29,
 Iscah_1:Haran_1:240,240,Iscah_1,daughter,Haran_1,inferred,GEN 11:29,
-Mamre_1:Amor_1:241,241,Mamre_1,descendant,Amor_1,explicit,GEN 14:13,
-Amor_1:Mamre_1:242,242,Amor_1,ancestor,Mamre_1,inferred,GEN 14:13,
-Mamre_1:Eshcol_1:243,243,Mamre_1,brother,Eshcol_1,explicit,GEN 14:13,
-Eshcol_1:Mamre_1:244,244,Eshcol_1,brother,Mamre_1,inferred,GEN 14:13,
-Aner_1:Mamre_1:245,245,Aner_1,brother,Mamre_1,explicit,GEN 14:13,
-Mamre_1:Aner_1:246,246,Mamre_1,brother,Aner_1,inferred,GEN 14:13,
+Mamre_1:Amor_1:241,241,Mamre_1,descendant,Amor_1,explicit,GEN 14:13,Amorite = descendant of Amor
+Amor_1:Mamre_1:242,242,Amor_1,ancestor,Mamre_1,inferred,GEN 14:13,Amorite = descendant of Amor
+Mamre_1:Eshcol_1:243,243,Mamre_1,brother,Eshcol_1,explicit,GEN 14:13,Amorite = descendant of Amor
+Eshcol_1:Mamre_1:244,244,Eshcol_1,brother,Mamre_1,inferred,GEN 14:13,Amorite = descendant of Amor
+Aner_1:Mamre_1:245,245,Aner_1,brother,Mamre_1,explicit,GEN 14:13,Amorite = descendant of Amor
+Mamre_1:Aner_1:246,246,Mamre_1,brother,Aner_1,inferred,GEN 14:13,Amorite = descendant of Amor
 Aner_1:Eshcol_1:247,247,Aner_1,brother,Eshcol_1,explicit,GEN 14:13,
 Eshcol_1:Aner_1:248,248,Eshcol_1,brother,Aner_1,inferred,GEN 14:13,
-Eshcol_1:Amor_1:249,249,Eshcol_1,descendant,Amor_1,inferred,GEN 14:13,
-Aner_1:Amor_1:250,250,Aner_1,descendant,Amor_1,inferred,GEN 14:13,
-Amor_1:Eshcol_1:251,251,Amor_1,ancestor,Eshcol_1,inferred,GEN 14:13,
-Amor_1:Aner_1:252,252,Amor_1,ancestor,Aner_1,inferred,GEN 14:13,
+Eshcol_1:Amor_1:249,249,Eshcol_1,descendant,Amor_1,inferred,GEN 14:13,Amorite = descendant of Amor
+Aner_1:Amor_1:250,250,Aner_1,descendant,Amor_1,inferred,GEN 14:13,Amorite = descendant of Amor
+Amor_1:Eshcol_1:251,251,Amor_1,ancestor,Eshcol_1,inferred,GEN 14:13,Amorite = descendant of Amor
+Amor_1:Aner_1:252,252,Amor_1,ancestor,Aner_1,inferred,GEN 14:13,Amorite = descendant of Amor
 Mamre_1:Abram_1:253,253,Mamre_1,ally,Abram_1,explicit,GEN 14:13,
 Aner_1:Abram_1:254,254,Aner_1,ally,Abram_1,explicit,GEN 14:13,
 Eshcol_1:Abram_1:255,255,Eshcol_1,ally,Abram_1,explicit,GEN 14:13,
@@ -647,8 +647,8 @@ Joseph_1:Zebulun_1:645,645,Joseph_1,half-brother,Zebulun_1,inferred,GEN 30:23,
 Joseph_1:Dinah_1:646,646,Joseph_1,half-brother,Dinah_1,inferred,GEN 30:23,
 Hamor_1:Shechem_1:647,647,Hamor_1,father,Shechem_1,inferred,GEN 34:2,
 Shechem_1:Hamor_1:648,648,Shechem_1,son,Hamor_1,explicit,GEN 34:2,
-Hivi_1:Hamor_1:649,649,Hivi_1,ancestor,Hamor_1,inferred,GEN 34:2,
-Hamor_1:Hivi_1:650,650,Hamor_1,descendant,Hivi_1,explicit,GEN 34:2,
+Hivi_1:Hamor_1:649,649,Hivi_1,ancestor,Hamor_1,inferred,GEN 34:2,Hivite = descendant of Hivi
+Hamor_1:Hivi_1:650,650,Hamor_1,descendant,Hivi_1,explicit,GEN 34:2,Hivite = descendant of Hivi
 Shechem_1:Dinah_1:651,651,Shechem_1,raper,Dinah_1,explicit,GEN 34:2,
 Dinah_1:Shechem_1:652,652,Dinah_1,victim,Shechem_1,inferred,GEN 34:2,
 Simeon_1:Hamor_1:653,653,Simeon_1,killer,Hamor_1,explicit,GEN 34:26,
@@ -1073,29 +1073,29 @@ Hur_1:Uri_1:1071,1071,Hur_1,father,Uri_1,inferred,EXO 31:2,
 Uri_1:Hur_1:1072,1072,Uri_1,son,Hur_1,explicit,EXO 31:2,
 Ahisamach_1:Oholiab_1:1073,1073,Ahisamach_1,father,Oholiab_1,inferred,EXO 31:6,
 Oholiab_1:Ahisamach_1:1074,1074,Oholiab_1,son,Ahisamach_1,explicit,EXO 31:6,
-Dan_1:Ahisamach_1:1075,1075,Dan_1,ancestor,Ahisamach_1,inferred,EXO 31:6,
+Dan_1:Ahisamach_1:1075,1075,Dan_1,ancestor,Ahisamach_1,inferred,EXO 31:6,"implied from Ahisamach's tribe field, which matches Dan"
 Ahisamach_1:Dan_1:1076,1076,Ahisamach_1,descendant,Dan_1,explicit,EXO 31:6,
 Nun_1:Joshua_1:1077,1077,Nun_1,father,Joshua_1,inferred,EXO 33:11,
 Joshua_1:Nun_1:1078,1078,Joshua_1,son,Nun_1,explicit,EXO 33:11,
 Dibri_1:Shelomith_1:1079,1079,Dibri_1,father,Shelomith_1,inferred,LEV 24:11,
 Shelomith_1:Dibri_1:1080,1080,Shelomith_1,daughter,Dibri_1,explicit,LEV 24:11,
-Dan_1:Dibri_1:1081,1081,Dan_1,ancestor,Dibri_1,inferred,LEV 24:11,
+Dan_1:Dibri_1:1081,1081,Dan_1,ancestor,Dibri_1,inferred,LEV 24:11,"implied from Dibri's tribe field, which matches Dan"
 Dibri_1:Dan_1:1082,1082,Dibri_1,descendant,Dan_1,explicit,LEV 24:11,
 Shedeur_1:Elizur_1:1083,1083,Shedeur_1,father,Elizur_1,inferred,NUM 1:5,
 Elizur_1:Shedeur_1:1084,1084,Elizur_1,son,Shedeur_1,explicit,NUM 1:5,
-Reuben_1:Shedeur_1:1085,1085,Reuben_1,ancestor,Shedeur_1,inferred,NUM 1:5,
+Reuben_1:Shedeur_1:1085,1085,Reuben_1,ancestor,Shedeur_1,inferred,NUM 1:5,"implied from Shedeur's tribe field, which matches Reuben"
 Shedeur_1:Reuben_1:1086,1086,Shedeur_1,descendant,Reuben_1,explicit,NUM 1:5,
 Zurishaddai_1:Shelumiel_1:1087,1087,Zurishaddai_1,father,Shelumiel_1,inferred,NUM 1:6,
 Shelumiel_1:Zurishaddai_1:1088,1088,Shelumiel_1,son,Zurishaddai_1,explicit,NUM 1:6,
-Simeon_1:Zurishaddai_1:1089,1089,Simeon_1,ancestor,Zurishaddai_1,inferred,NUM 1:6,
+Simeon_1:Zurishaddai_1:1089,1089,Simeon_1,ancestor,Zurishaddai_1,inferred,NUM 1:6,"implied from Zurishaddai's tribe field, which matches Simeon"
 Zurishaddai_1:Simeon_1:1090,1090,Zurishaddai_1,descendant,Simeon_1,explicit,NUM 1:6,
 Zuar_1:Nethanel_1:1091,1091,Zuar_1,father,Nethanel_1,inferred,NUM 1:8,
 Nethanel_1:Zuar_1:1092,1092,Nethanel_1,son,Zuar_1,explicit,NUM 1:8,
-Issachar_1:Zuar_1:1093,1093,Issachar_1,ancestor,Zuar_1,inferred,NUM 1:8,
+Issachar_1:Zuar_1:1093,1093,Issachar_1,ancestor,Zuar_1,inferred,NUM 1:8,"implied from Zuar's tribe field, which matches Issachar"
 Zuar_1:Issachar_1:1094,1094,Zuar_1,descendant,Issachar_1,explicit,NUM 1:8,
 Helon_1:Eliab_1:1095,1095,Helon_1,father,Eliab_1,inferred,NUM 1:9,
 Eliab_1:Helon_1:1096,1096,Eliab_1,son,Helon_1,explicit,NUM 1:9,
-Zebulun_1:Helon_1:1097,1097,Zebulun_1,ancestor,Helon_1,inferred,NUM 1:9,
+Zebulun_1:Helon_1:1097,1097,Zebulun_1,ancestor,Helon_1,inferred,NUM 1:9,"implied from Helon's tribe field, which matches Zebulun"
 Helon_1:Zebulun_1:1098,1098,Helon_1,descendant,Zebulun_1,explicit,NUM 1:9,
 Ammihud_1:Elishama_1:1099,1099,Ammihud_1,father,Elishama_1,inferred,NUM 1:10,
 Elishama_1:Ammihud_1:1100,1100,Elishama_1,son,Ammihud_1,explicit,NUM 1:10,
@@ -1103,27 +1103,27 @@ Ephraim_1:Ammihud_1:1101,1101,Ephraim_1,ancestor,Ammihud_1,inferred,NUM 1:10,
 Ammihud_1:Ephraim_1:1102,1102,Ammihud_1,descendant,Ephraim_1,explicit,NUM 1:10,
 Pedahzur_1:Gamaliel_1:1103,1103,Pedahzur_1,father,Gamaliel_1,inferred,NUM 1:10,
 Gamaliel_1:Pedahzur_1:1104,1104,Gamaliel_1,son,Pedahzur_1,explicit,NUM 1:10,
-Manasseh_1:Pedahzur_1:1105,1105,Manasseh_1,ancestor,Pedahzur_1,inferred,NUM 1:10,
+Manasseh_1:Pedahzur_1:1105,1105,Manasseh_1,ancestor,Pedahzur_1,inferred,NUM 1:10,"implied from Pedahzur's tribe field, which matches Manasseh"
 Pedahzur_1:Manasseh_1:1106,1106,Pedahzur_1,descendant,Manasseh_1,explicit,NUM 1:10,
 Gideoni_1:Abidan_1:1107,1107,Gideoni_1,father,Abidan_1,inferred,NUM 1:11,
 Abidan_1:Gideoni_1:1108,1108,Abidan_1,son,Gideoni_1,explicit,NUM 1:11,
-Benjamin_1:Gideoni_1:1109,1109,Benjamin_1,ancestor,Gideoni_1,inferred,NUM 1:11,
+Benjamin_1:Gideoni_1:1109,1109,Benjamin_1,ancestor,Gideoni_1,inferred,NUM 1:11,"implied from Gideoni's tribe field, which matches Benjamin"
 Gideoni_1:Benjamin_1:1110,1110,Gideoni_1,descendant,Benjamin_1,explicit,NUM 1:11,
 Ammishaddai_1:Ahiezer_1:1111,1111,Ammishaddai_1,father,Ahiezer_1,inferred,NUM 1:12,
 Ahiezer_1:Ammishaddai_1:1112,1112,Ahiezer_1,son,Ammishaddai_1,explicit,NUM 1:12,
-Dan_1:Ammishaddai_1:1113,1113,Dan_1,ancestor,Ammishaddai_1,inferred,NUM 1:12,
+Dan_1:Ammishaddai_1:1113,1113,Dan_1,ancestor,Ammishaddai_1,inferred,NUM 1:12,"implied from Ammishaddai's tribe field, which matches Dan"
 Ammishaddai_1:Dan_1:1114,1114,Ammishaddai_1,descendant,Dan_1,explicit,NUM 1:12,
 Ochran_1:Pagiel_1:1115,1115,Ochran_1,father,Pagiel_1,inferred,NUM 1:13,
 Pagiel_1:Ochran_1:1116,1116,Pagiel_1,son,Ochran_1,explicit,NUM 1:13,
-Asher_1:Ochran_1:1117,1117,Asher_1,ancestor,Ochran_1,inferred,NUM 1:13,
+Asher_1:Ochran_1:1117,1117,Asher_1,ancestor,Ochran_1,inferred,NUM 1:13,"implied from Ochran's tribe field, which matches Asher"
 Ochran_1:Asher_1:1118,1118,Ochran_1,descendant,Asher_1,explicit,NUM 1:13,
 Deuel_1:Eliasaph_1:1119,1119,Deuel_1,father,Eliasaph_1,inferred,NUM 1:14,
 Eliasaph_1:Deuel_1:1120,1120,Eliasaph_1,son,Deuel_1,explicit,NUM 1:14,
-Gad_1:Deuel_1:1121,1121,Gad_1,ancestor,Deuel_1,inferred,NUM 1:14,
+Gad_1:Deuel_1:1121,1121,Gad_1,ancestor,Deuel_1,inferred,NUM 1:14,"implied from Deuel's tribe field, which matches Gad"
 Deuel_1:Gad_1:1122,1122,Deuel_1,descendant,Gad_1,explicit,NUM 1:14,
 Enan_1:Ahira_1:1123,1123,Enan_1,father,Ahira_1,inferred,NUM 1:15,
 Ahira_1:Enan_1:1124,1124,Ahira_1,son,Enan_1,explicit,NUM 1:15,
-Naphtali_1:Enan_1:1125,1125,Naphtali_1,ancestor,Enan_1,inferred,NUM 1:15,
+Naphtali_1:Enan_1:1125,1125,Naphtali_1,ancestor,Enan_1,inferred,NUM 1:15,"implied from Enan's tribe field, which matches Naphtali"
 Enan_1:Naphtali_1:1126,1126,Enan_1,descendant,Naphtali_1,explicit,NUM 1:15,
 Lael_1:Eliasaph_2:1127,1127,Lael_1,father,Eliasaph_2,inferred,NUM 3:24,
 Eliasaph_2:Lael_1:1128,1128,Eliasaph_2,son,Lael_1,explicit,NUM 3:24,
@@ -1142,49 +1142,49 @@ Moses_1:YHVH_1:1140,1140,Moses_1,servant,YHVH_1,explicit,NUM 12:7,
 Zaccur_1:Shammua_1:1141,1141,Zaccur_1,father,Shammua_1,inferred,NUM 13:4,
 Shammua_1:Zaccur_1:1142,1142,Shammua_1,son,Zaccur_1,explicit,NUM 13:4,
 Reuben_1:Zaccur_1:1143,1143,Reuben_1,ancestor,Zaccur_1,explicit,NUM 13:4,
-Zaccur_1:Reuben_1:1144,1144,Zaccur_1,descendant,Reuben_1,inferred,NUM 13:4,
+Zaccur_1:Reuben_1:1144,1144,Zaccur_1,descendant,Reuben_1,inferred,NUM 13:4,"implied from Zaccur's tribe field, which matches Reuben"
 Hori_2:Shaphat_1:1145,1145,Hori_2,father,Shaphat_1,inferred,NUM 13:5,
 Shaphat_1:Hori_2:1146,1146,Shaphat_1,son,Hori_2,explicit,NUM 13:5,
 Simeon_1:Hori_2:1147,1147,Simeon_1,ancestor,Hori_2,explicit,NUM 13:5,
-Hori_2:Simeon_1:1148,1148,Hori_2,descendant,Simeon_1,inferred,NUM 13:5,
+Hori_2:Simeon_1:1148,1148,Hori_2,descendant,Simeon_1,inferred,NUM 13:5,"implied from Hori's tribe field, which matches Simeon"
 Jephunneh_1:Caleb_1:1149,1149,Jephunneh_1,father,Caleb_1,inferred,NUM 13:6,
 Caleb_1:Jephunneh_1:1150,1150,Caleb_1,son,Jephunneh_1,explicit,NUM 13:6,
 Judah_1:Jephunneh_1:1151,1151,Judah_1,ancestor,Jephunneh_1,explicit,NUM 13:6,
-Jephunneh_1:Judah_1:1152,1152,Jephunneh_1,descendant,Judah_1,inferred,NUM 13:6,
+Jephunneh_1:Judah_1:1152,1152,Jephunneh_1,descendant,Judah_1,inferred,NUM 13:6,"implied from Jephunneh's tribe field, which matches Judah"
 Joseph_2:Igal_1:1153,1153,Joseph_2,father,Igal_1,inferred,NUM 13:7,
 Igal_1:Joseph_2:1154,1154,Igal_1,son,Joseph_2,explicit,NUM 13:7,
 Issachar_1:Joseph_2:1155,1155,Issachar_1,ancestor,Joseph_2,explicit,NUM 13:7,
-Joseph_2:Issachar_1:1156,1156,Joseph_2,descendant,Issachar_1,inferred,NUM 13:7,
+Joseph_2:Issachar_1:1156,1156,Joseph_2,descendant,Issachar_1,inferred,NUM 13:7,"implied from Joseph's tribe field, which matches Issachar"
 Ephraim_1:Nun_1:1157,1157,Ephraim_1,ancestor,Nun_1,explicit,NUM 13:8,
-Nun_1:Ephraim_1:1158,1158,Nun_1,descendant,Ephraim_1,inferred,NUM 13:8,
+Nun_1:Ephraim_1:1158,1158,Nun_1,descendant,Ephraim_1,inferred,NUM 13:8,"implied from Nun's tribe field, which matches Ephraim"
 Raphu_1:Palti_1:1159,1159,Raphu_1,father,Palti_1,inferred,NUM 13:9,
 Palti_1:Raphu_1:1160,1160,Palti_1,son,Raphu_1,explicit,NUM 13:9,
 Benjamin_1:Raphu_1:1161,1161,Benjamin_1,ancestor,Raphu_1,explicit,NUM 13:9,
-Raphu_1:Benjamin_1:1162,1162,Raphu_1,descendant,Benjamin_1,inferred,NUM 13:9,
+Raphu_1:Benjamin_1:1162,1162,Raphu_1,descendant,Benjamin_1,inferred,NUM 13:9,"implied from Raphu's tribe field, which matches Benjamin"
 Sodi_1:Gaddiel_1:1163,1163,Sodi_1,father,Gaddiel_1,inferred,NUM 13:10,
 Gaddiel_1:Sodi_1:1164,1164,Gaddiel_1,son,Sodi_1,explicit,NUM 13:10,
 Zebulun_1:Sodi_1:1165,1165,Zebulun_1,ancestor,Sodi_1,explicit,NUM 13:10,
-Sodi_1:Zebulun_1:1166,1166,Sodi_1,descendant,Zebulun_1,inferred,NUM 13:10,
+Sodi_1:Zebulun_1:1166,1166,Sodi_1,descendant,Zebulun_1,inferred,NUM 13:10,"implied from Sodi's tribe field, which matches Zebulun"
 Susi_1:Gaddi_1:1167,1167,Susi_1,father,Gaddi_1,inferred,NUM 13:11,
 Gaddi_1:Susi_1:1168,1168,Gaddi_1,son,Susi_1,explicit,NUM 13:11,
 Manasseh_1:Susi_1:1169,1169,Manasseh_1,ancestor,Susi_1,explicit,NUM 13:11,
-Susi_1:Manasseh_1:1170,1170,Susi_1,descendant,Manasseh_1,inferred,NUM 13:11,
+Susi_1:Manasseh_1:1170,1170,Susi_1,descendant,Manasseh_1,inferred,NUM 13:11,"implied from Susi's tribe field, which matches Manasseh"
 Gemalli_1:Ammiel_1:1171,1171,Gemalli_1,father,Ammiel_1,inferred,NUM 13:12,
 Ammiel_1:Gemalli_1:1172,1172,Ammiel_1,son,Gemalli_1,explicit,NUM 13:12,
 Dan_1:Gemalli_1:1173,1173,Dan_1,ancestor,Gemalli_1,explicit,NUM 13:12,
-Gemalli_1:Dan_1:1174,1174,Gemalli_1,descendant,Dan_1,inferred,NUM 13:12,
+Gemalli_1:Dan_1:1174,1174,Gemalli_1,descendant,Dan_1,inferred,NUM 13:12,"implied from Gemalli's tribe field, which matches Dan"
 Michael_1:Sethur_1:1175,1175,Michael_1,father,Sethur_1,inferred,NUM 13:13,
 Sethur_1:Michael_1:1176,1176,Sethur_1,son,Michael_1,explicit,NUM 13:13,
 Asher_1:Michael_1:1177,1177,Asher_1,ancestor,Michael_1,explicit,NUM 13:13,
-Michael_1:Asher_1:1178,1178,Michael_1,descendant,Asher_1,inferred,NUM 13:13,
+Michael_1:Asher_1:1178,1178,Michael_1,descendant,Asher_1,inferred,NUM 13:13,"implied from Michael's tribe field, which matches Asher"
 Vophsi_1:Nahbi_1:1179,1179,Vophsi_1,father,Nahbi_1,inferred,NUM 13:14,
 Nahbi_1:Vophsi_1:1180,1180,Nahbi_1,son,Vophsi_1,explicit,NUM 13:14,
 Naphtali_1:Vophsi_1:1181,1181,Naphtali_1,ancestor,Vophsi_1,explicit,NUM 13:14,
-Vophsi_1:Naphtali_1:1182,1182,Vophsi_1,descendant,Naphtali_1,inferred,NUM 13:14,
+Vophsi_1:Naphtali_1:1182,1182,Vophsi_1,descendant,Naphtali_1,inferred,NUM 13:14,"implied from Vophsi's tribe field, which matches Naphtali"
 Machi_1:Geuel_1:1183,1183,Machi_1,father,Geuel_1,inferred,NUM 13:15,
 Geuel_1:Machi_1:1184,1184,Geuel_1,son,Machi_1,explicit,NUM 13:15,
 Gad_1:Machi_1:1185,1185,Gad_1,ancestor,Machi_1,explicit,NUM 13:15,
-Machi_1:Gad_1:1186,1186,Machi_1,descendant,Gad_1,inferred,NUM 13:15,
+Machi_1:Gad_1:1186,1186,Machi_1,descendant,Gad_1,inferred,NUM 13:15,"implied from Machi's tribe field, which matches Gad"
 Anak_1:Ahiman_1:1187,1187,Anak_1,father,Ahiman_1,inferred,NUM 13:22,
 Ahiman_1:Anak_1:1188,1188,Ahiman_1,son,Anak_1,explicit,NUM 13:22,
 Anak_1:Sheshai_1:1189,1189,Anak_1,father,Sheshai_1,inferred,NUM 13:22,
@@ -1203,7 +1203,7 @@ Reuben_1:Eliab_2:1201,1201,Reuben_1,ancestor,Eliab_2,inferred,NUM 16:1,
 Eliab_2:Reuben_1:1202,1202,Eliab_2,descendant,Reuben_1,explicit,"NUM 16:1, NUM 26:8",
 Peleth_1:On_1:1203,1203,Peleth_1,father,On_1,inferred,NUM 16:1,
 On_1:Peleth_1:1204,1204,On_1,son,Peleth_1,explicit,NUM 16:1,
-Reuben_1:Peleth_1:1205,1205,Reuben_1,ancestor,Peleth_1,inferred,NUM 16:1,
+Reuben_1:Peleth_1:1205,1205,Reuben_1,ancestor,Peleth_1,inferred,NUM 16:1,"implied from Peleth's tribe field, which matches Reuben"
 Peleth_1:Reuben_1:1206,1206,Peleth_1,descendant,Reuben_1,explicit,NUM 16:1,
 Esau_1:King of Edom_1:1207,1207,Esau_1,ancestor,King of Edom_1,inferred,NUM 20:14,Edomite = descendant of Esau
 King of Edom_1:Esau_1:1208,1208,King of Edom_1,descendant,Esau_1,inferred,NUM 20:14,Edomite = descendant of Esau
@@ -1263,43 +1263,43 @@ Bela_2:Naaman_1:1261,1261,Bela_2,father,Naaman_1,inferred,NUM 26:40,
 Naaman_1:Bela_2:1262,1262,Naaman_1,son,Bela_2,explicit,NUM 26:40,
 Kenaz_1:Jephunneh_1:1263,1263,Kenaz_1,ancestor,Jephunneh_1,inferred,NUM 32:12,
 Jephunneh_1:Kenaz_1:1264,1264,Jephunneh_1,descendant,Kenaz_1,explicit,NUM 32:12,
-Manasseh_1:Jair_1:1265,1265,Manasseh_1,ancestor,Jair_1,inferred,NUM 32:41,
+Manasseh_1:Jair_1:1265,1265,Manasseh_1,ancestor,Jair_1,inferred,NUM 32:41,"implied from Jair's tribe field, which matches Manasseh"
 Jair_1:Manasseh_1:1266,1266,Jair_1,descendant,Manasseh_1,explicit,NUM 32:41,
 Ammihud_2:Samuel_1:1267,1267,Ammihud_2,father,Samuel_1,inferred,NUM 34:20,
 Samuel_1:Ammihud_2:1268,1268,Samuel_1,son,Ammihud_2,explicit,NUM 34:20,
-Simeon_1:Ammihud_2:1269,1269,Simeon_1,ancestor,Ammihud_2,inferred,NUM 34:20,
+Simeon_1:Ammihud_2:1269,1269,Simeon_1,ancestor,Ammihud_2,inferred,NUM 34:20,"implied from Ammihud's tribe field, which matches Simeon"
 Ammihud_2:Simeon_1:1270,1270,Ammihud_2,descendant,Simeon_1,explicit,NUM 34:20,
 Chislon_1:Elidad_1:1271,1271,Chislon_1,father,Elidad_1,inferred,NUM 34:21,
 Elidad_1:Chislon_1:1272,1272,Elidad_1,son,Chislon_1,explicit,NUM 34:21,
-Benjamin_1:Chislon_1:1273,1273,Benjamin_1,ancestor,Chislon_1,inferred,NUM 34:21,
+Benjamin_1:Chislon_1:1273,1273,Benjamin_1,ancestor,Chislon_1,inferred,NUM 34:21,"implied from Chislon's tribe field, which matches Benjamin"
 Chislon_1:Benjamin_1:1274,1274,Chislon_1,descendant,Benjamin_1,explicit,NUM 34:21,
 Jogli_1:Bukki_1:1275,1275,Jogli_1,father,Bukki_1,inferred,NUM 34:22,
 Bukki_1:Jogli_1:1276,1276,Bukki_1,son,Jogli_1,explicit,NUM 34:22,
-Dan_1:Jogli_1:1277,1277,Dan_1,ancestor,Jogli_1,inferred,NUM 34:22,
+Dan_1:Jogli_1:1277,1277,Dan_1,ancestor,Jogli_1,inferred,NUM 34:22,"implied from Jogli's tribe field, which matches Dan"
 Jogli_1:Dan_1:1278,1278,Jogli_1,descendant,Dan_1,explicit,NUM 34:22,
 Ephod_1:Hanniel_1:1279,1279,Ephod_1,father,Hanniel_1,inferred,NUM 34:23,
 Hanniel_1:Ephod_1:1280,1280,Hanniel_1,son,Ephod_1,explicit,NUM 34:23,
-Manasseh_1:Ephod_1:1281,1281,Manasseh_1,ancestor,Ephod_1,inferred,NUM 34:23,
+Manasseh_1:Ephod_1:1281,1281,Manasseh_1,ancestor,Ephod_1,inferred,NUM 34:23,"implied from Ephod's tribe field, which matches Manasseh"
 Ephod_1:Manasseh_1:1282,1282,Ephod_1,descendant,Manasseh_1,explicit,NUM 34:23,
 Shiphtan_1:Kemuel_2:1283,1283,Shiphtan_1,father,Kemuel_2,inferred,NUM 34:24,
 Kemuel_2:Shiphtan_1:1284,1284,Kemuel_2,son,Shiphtan_1,explicit,NUM 34:24,
-Ephraim_1:Shiphtan_1:1285,1285,Ephraim_1,ancestor,Shiphtan_1,inferred,NUM 34:24,
+Ephraim_1:Shiphtan_1:1285,1285,Ephraim_1,ancestor,Shiphtan_1,inferred,NUM 34:24,"implied from Shiphtan's tribe field, which matches Ephraim"
 Shiphtan_1:Ephraim_1:1286,1286,Shiphtan_1,descendant,Ephraim_1,explicit,NUM 34:24,
 Parnach_1:Elizaphan_1:1287,1287,Parnach_1,father,Elizaphan_1,inferred,NUM 34:25,
 Elizaphan_1:Parnach_1:1288,1288,Elizaphan_1,son,Parnach_1,explicit,NUM 34:25,
-Zebulun_1:Parnach_1:1289,1289,Zebulun_1,ancestor,Parnach_1,inferred,NUM 34:25,
+Zebulun_1:Parnach_1:1289,1289,Zebulun_1,ancestor,Parnach_1,inferred,NUM 34:25,"implied from Parnach's tribe field, which matches Zebulun"
 Parnach_1:Zebulun_1:1290,1290,Parnach_1,descendant,Zebulun_1,explicit,NUM 34:25,
 Azzan_1:Paltiel_1:1291,1291,Azzan_1,father,Paltiel_1,inferred,NUM 34:26,
 Paltiel_1:Azzan_1:1292,1292,Paltiel_1,son,Azzan_1,explicit,NUM 34:26,
-Issachar_1:Azzan_1:1293,1293,Issachar_1,ancestor,Azzan_1,inferred,NUM 34:26,
+Issachar_1:Azzan_1:1293,1293,Issachar_1,ancestor,Azzan_1,inferred,NUM 34:26,"implied from Azzan's tribe field, which matches Issachar"
 Azzan_1:Issachar_1:1294,1294,Azzan_1,descendant,Issachar_1,explicit,NUM 34:26,
 Shelomi_1:Ahihud_1:1295,1295,Shelomi_1,father,Ahihud_1,inferred,NUM 34:27,
 Ahihud_1:Shelomi_1:1296,1296,Ahihud_1,son,Shelomi_1,explicit,NUM 34:27,
-Asher_1:Shelomi_1:1297,1297,Asher_1,ancestor,Shelomi_1,inferred,NUM 34:27,
+Asher_1:Shelomi_1:1297,1297,Asher_1,ancestor,Shelomi_1,inferred,NUM 34:27,"implied from Shelomi's tribe field, which matches Asher"
 Shelomi_1:Asher_1:1298,1298,Shelomi_1,descendant,Asher_1,explicit,NUM 34:27,
 Ammihud_3:Pedahel_1:1299,1299,Ammihud_3,father,Pedahel_1,inferred,NUM 34:28,
 Pedahel_1:Ammihud_3:1300,1300,Pedahel_1,son,Ammihud_3,explicit,NUM 34:28,
-Naphtali_1:Ammihud_3:1301,1301,Naphtali_1,ancestor,Ammihud_3,inferred,NUM 34:28,
+Naphtali_1:Ammihud_3:1301,1301,Naphtali_1,ancestor,Ammihud_3,inferred,NUM 34:28,"implied from Ammihud's tribe field, which matches Naphtali"
 Ammihud_3:Naphtali_1:1302,1302,Ammihud_3,descendant,Naphtali_1,explicit,NUM 34:28,
 YHVH_1:the captain of the host of the LORD_1:1303,1303,YHVH_1,king,the captain of the host of the LORD_1,inferred,JOS 5:14,
 the captain of the host of the LORD_1:YHVH_1:1304,1304,the captain of the host of the LORD_1,army captain,YHVH_1,explicit,JOS 5:14,
@@ -1319,7 +1319,7 @@ Kenaz_2:Caleb_1:1317,1317,Kenaz_2,brother,Caleb_1,explicit,JOS 15:17,
 Caleb_1:Kenaz_2:1318,1318,Caleb_1,brother,Kenaz_2,inferred,JOS 15:17,
 Othniel_1:Achsah_1:1319,1319,Othniel_1,husband,Achsah_1,inferred,JOS 15:17,
 Achsah_1:Othniel_1:1320,1320,Achsah_1,wife,Othniel_1,explicit,JOS 15:17,
-Reuben_1:Bohan_1:1321,1321,Reuben_1,ancestor,Bohan_1,inferred,JOS 18:17,
+Reuben_1:Bohan_1:1321,1321,Reuben_1,ancestor,Bohan_1,inferred,JOS 18:17,"implied from Bohan's tribe field, which matches Reuben"
 Bohan_1:Reuben_1:1322,1322,Bohan_1,descendant,Reuben_1,explicit,JOS 18:17,
 Gera_2:Ehud_1:1323,1323,Gera_2,father,Ehud_1,inferred,JDG 3:15,
 Ehud_1:Gera_2:1324,1324,Ehud_1,son,Gera_2,explicit,JDG 3:15,
@@ -1339,8 +1339,8 @@ Jael_1:Sisera_1:1337,1337,Jael_1,killer,Sisera_1,explicit,JDG 4:21,
 Sisera_1:Jael_1:1338,1338,Sisera_1,victim,Jael_1,inferred,JDG 4:21,
 Joash_1:Gideon_1:1339,1339,Joash_1,father,Gideon_1,inferred,JDG 6:11,
 Gideon_1:Joash_1:1340,1340,Gideon_1,son,Joash_1,explicit,JDG 6:11,
-Iezer_1:Joash_1:1341,1341,Iezer_1,ancestor,Joash_1,inferred,JDG 6:11,Iezer_1 is the only person given the label Abiezer to this point.  Iezer_1 is also of the tribe of Manasseh which aligns to Gideon's statement in Judges 6:15.
-Joash_1:Iezer_1:1342,1342,Joash_1,descendant,Iezer_1,explicit,JDG 6:11,Iezer_1 is the only person given the label Abiezer to this point.  Iezer_1 is also of the tribe of Manasseh which aligns to Gideon's statement in Judges 6:15.
+Iezer_1:Joash_1:1341,1341,Iezer_1,ancestor,Joash_1,inferred,JDG 6:11,Iezer_1 is the only person given the label Abiezer to this point. Iezer_1 is also of the tribe of Manasseh which aligns to Gideon's statement in Judges 6:15.
+Joash_1:Iezer_1:1342,1342,Joash_1,descendant,Iezer_1,explicit,JDG 6:11,Iezer_1 is the only person given the label Abiezer to this point. Iezer_1 is also of the tribe of Manasseh which aligns to Gideon's statement in Judges 6:15.
 Gideon_1:Purah_1:1343,1343,Gideon_1,master,Purah_1,inferred,JDG 7:10,
 Purah_1:Gideon_1:1344,1344,Purah_1,servant,Gideon_1,explicit,JDG 7:10,
 Gideon_1:Jether_1:1345,1345,Gideon_1,father,Jether_1,inferred,JDG 8:20,firstborn of seventy sons
@@ -1361,11 +1361,11 @@ Puah_2:Tola_2:1359,1359,Puah_2,father,Tola_2,inferred,JDG 10:1,
 Tola_2:Puah_2:1360,1360,Tola_2,son,Puah_2,explicit,JDG 10:1,
 Dodo_1:Puah_2:1361,1361,Dodo_1,father,Puah_2,inferred,JDG 10:1,
 Puah_2:Dodo_1:1362,1362,Puah_2,son,Dodo_1,explicit,JDG 10:1,
-Issachar_1:Dodo_1:1363,1363,Issachar_1,ancestor,Dodo_1,inferred,JDG 10:1,
+Issachar_1:Dodo_1:1363,1363,Issachar_1,ancestor,Dodo_1,inferred,JDG 10:1,"implied from Dodo's tribe field, which matches Issachar"
 Dodo_1:Issachar_1:1364,1364,Dodo_1,descendant,Issachar_1,explicit,JDG 10:1,
 Gilead_2:Jephthah_1:1365,1365,Gilead_2,father,Jephthah_1,inferred,JDG 11:1,
 Jephthah_1:Gilead_2:1366,1366,Jephthah_1,son,Gilead_2,explicit,JDG 11:1,
-Zebulun_1:Elon_3:1367,1367,Zebulun_1,ancestor,Elon_3,inferred,JDG 12:11,
+Zebulun_1:Elon_3:1367,1367,Zebulun_1,ancestor,Elon_3,inferred,JDG 12:11,"implied from Elon's tribe field, which matches Zebulun"
 Elon_3:Zebulun_1:1368,1368,Elon_3,descendant,Zebulun_1,explicit,JDG 12:11,
 Hillel_1:Abdon_1:1369,1369,Hillel_1,father,Abdon_1,inferred,JDG 12:13,
 Abdon_1:Hillel_1:1370,1370,Abdon_1,son,Hillel_1,explicit,JDG 12:13,
@@ -1447,12 +1447,12 @@ Becorath_1:Zeror_1:1445,1445,Becorath_1,father,Zeror_1,inferred,1SA 9:1,
 Zeror_1:Becorath_1:1446,1446,Zeror_1,son,Becorath_1,explicit,1SA 9:1,
 Aphiah_1:Becorath_1:1447,1447,Aphiah_1,father,Becorath_1,inferred,1SA 9:1,
 Becorath_1:Aphiah_1:1448,1448,Becorath_1,son,Aphiah_1,explicit,1SA 9:1,
-Benjamin_1:Aphiah_1:1449,1449,Benjamin_1,ancestor,Aphiah_1,inferred,1SA 9:1,
+Benjamin_1:Aphiah_1:1449,1449,Benjamin_1,ancestor,Aphiah_1,inferred,1SA 9:1,"implied from Aphiah's tribe field, which matches Benjamin"
 Aphiah_1:Benjamin_1:1450,1450,Aphiah_1,descendant,Benjamin_1,explicit,1SA 9:1,
 Kish_1:Saul_1:1451,1451,Kish_1,father,Saul_1,inferred,1SA 9:2,
 Saul_1:Kish_1:1452,1452,Saul_1,son,Kish_1,explicit,1SA 9:2,
-Ben-ammi_1:Nahash_1:1453,1453,Ben-ammi_1,ancestor,Nahash_1,inferred,1SA 11:2,
-Nahash_1:Ben-ammi_1:1454,1454,Nahash_1,descendant,Ben-ammi_1,explicit,1SA 11:2,
+Ben-ammi_1:Nahash_1:1453,1453,Ben-ammi_1,ancestor,Nahash_1,inferred,1SA 11:2,Ammonite = descendant of Ben-ammi (GEN 19:38)
+Nahash_1:Ben-ammi_1:1454,1454,Nahash_1,descendant,Ben-ammi_1,explicit,1SA 11:2,Ammonite = descendant of Ben-ammi (GEN 19:38)
 Saul_1:Jonathan_2:1455,1455,Saul_1,father,Jonathan_2,inferred,1SA 13:16,
 Jonathan_2:Saul_1:1456,1456,Jonathan_2,son,Saul_1,explicit,"1SA 13:16, 1SA 14:1",
 Ahitub_1:Ahijah_1:1457,1457,Ahitub_1,father,Ahijah_1,inferred,1SA 14:3,
@@ -1703,7 +1703,7 @@ Baanah_2:Heleb_1:1701,1701,Baanah_2,father,Heleb_1,inferred,2SA 23:29,
 Heleb_1:Baanah_2:1702,1702,Heleb_1,son,Baanah_2,explicit,2SA 23:29,
 Ribai_1:Ittai_1:1703,1703,Ribai_1,father,Ittai_1,inferred,2SA 23:29,
 Ittai_1:Ribai_1:1704,1704,Ittai_1,son,Ribai_1,explicit,2SA 23:29,
-Benjamin_1:Ribai_1:1705,1705,Benjamin_1,ancestor,Ribai_1,inferred,2SA 23:29,
+Benjamin_1:Ribai_1:1705,1705,Benjamin_1,ancestor,Ribai_1,inferred,2SA 23:29,"implied from Ribai's tribe field, which matches Benjamin"
 Ribai_1:Benjamin_1:1706,1706,Ribai_1,descendant,Benjamin_1,explicit,2SA 23:29,
 Eliahba_1:Jashen_1:1707,1707,Eliahba_1,father,Jashen_1,inferred,2SA 23:32,
 Jashen_1:Eliahba_1:1708,1708,Jashen_1,son,Eliahba_1,explicit,2SA 23:32,
@@ -1761,14 +1761,14 @@ Ela_1:Shimei_4:1759,1759,Ela_1,father,Shimei_4,inferred,1KI 4:18,
 Shimei_4:Ela_1:1760,1760,Shimei_4,son,Ela_1,explicit,1KI 4:18,
 Uri_2:Geber_1:1761,1761,Uri_2,father,Geber_1,inferred,1KI 4:19,
 Geber_1:Uri_2:1762,1762,Geber_1,son,Uri_2,explicit,1KI 4:19,
-Zerah_3:Ethan_1:1763,1763,Zerah_3,father,Ethan_1,inferred,1KI 4:31,"1CH 2:6 identifies Zerah, son of Judah, as the father.  Mahol (1KI 4:31) may be an alternate name or perhaps a label."
-Ethan_1:Zerah_3:1764,1764,Ethan_1,son,Zerah_3,explicit,1KI 4:31,"1CH 2:6 identifies Zerah, son of Judah, as the father.  Mahol (1KI 4:31) may be an alternate name or perhaps a label."
-Zerah_3:Heman_1:1765,1765,Zerah_3,father,Heman_1,inferred,1KI 4:31,"1CH 2:6 identifies Zerah, son of Judah, as the father.  Mahol (1KI 4:31) may be an alternate name or perhaps a label."
-Heman_1:Zerah_3:1766,1766,Heman_1,son,Zerah_3,explicit,1KI 4:31,"1CH 2:6 identifies Zerah, son of Judah, as the father.  Mahol (1KI 4:31) may be an alternate name or perhaps a label."
-Zerah_3:Calcol_1:1767,1767,Zerah_3,father,Calcol_1,inferred,1KI 4:31,"1CH 2:6 identifies Zerah, son of Judah, as the father.  Mahol (1KI 4:31) may be an alternate name or perhaps a label."
-Calcol_1:Zerah_3:1768,1768,Calcol_1,son,Zerah_3,explicit,1KI 4:31,"1CH 2:6 identifies Zerah, son of Judah, as the father.  Mahol (1KI 4:31) may be an alternate name or perhaps a label."
-Zerah_3:Darda_1:1769,1769,Zerah_3,father,Darda_1,inferred,1KI 4:31,"1CH 2:6 identifies Zerah, son of Judah, as the father.  Mahol (1KI 4:31) may be an alternate name or perhaps a label."
-Darda_1:Zerah_3:1770,1770,Darda_1,son,Zerah_3,explicit,1KI 4:31,"1CH 2:6 identifies Zerah, son of Judah, as the father.  Mahol (1KI 4:31) may be an alternate name or perhaps a label."
+Zerah_3:Ethan_1:1763,1763,Zerah_3,father,Ethan_1,inferred,1KI 4:31,"1CH 2:6 identifies Zerah, son of Judah, as the father. Mahol (1KI 4:31) may be an alternate name or perhaps a label."
+Ethan_1:Zerah_3:1764,1764,Ethan_1,son,Zerah_3,explicit,1KI 4:31,"1CH 2:6 identifies Zerah, son of Judah, as the father. Mahol (1KI 4:31) may be an alternate name or perhaps a label."
+Zerah_3:Heman_1:1765,1765,Zerah_3,father,Heman_1,inferred,1KI 4:31,"1CH 2:6 identifies Zerah, son of Judah, as the father. Mahol (1KI 4:31) may be an alternate name or perhaps a label."
+Heman_1:Zerah_3:1766,1766,Heman_1,son,Zerah_3,explicit,1KI 4:31,"1CH 2:6 identifies Zerah, son of Judah, as the father. Mahol (1KI 4:31) may be an alternate name or perhaps a label."
+Zerah_3:Calcol_1:1767,1767,Zerah_3,father,Calcol_1,inferred,1KI 4:31,"1CH 2:6 identifies Zerah, son of Judah, as the father. Mahol (1KI 4:31) may be an alternate name or perhaps a label."
+Calcol_1:Zerah_3:1768,1768,Calcol_1,son,Zerah_3,explicit,1KI 4:31,"1CH 2:6 identifies Zerah, son of Judah, as the father. Mahol (1KI 4:31) may be an alternate name or perhaps a label."
+Zerah_3:Darda_1:1769,1769,Zerah_3,father,Darda_1,inferred,1KI 4:31,"1CH 2:6 identifies Zerah, son of Judah, as the father. Mahol (1KI 4:31) may be an alternate name or perhaps a label."
+Darda_1:Zerah_3:1770,1770,Darda_1,son,Zerah_3,explicit,1KI 4:31,"1CH 2:6 identifies Zerah, son of Judah, as the father. Mahol (1KI 4:31) may be an alternate name or perhaps a label."
 Naphtali_1:Hiram_2:1771,1771,Naphtali_1,ancestor,Hiram_2,inferred,1KI 7:14,
 Hiram_2:Naphtali_1:1772,1772,Hiram_2,descendant,Naphtali_1,explicit,1KI 7:14,
 Pharaoh_5:Hadad_3:1773,1773,Pharaoh_5,brother-in-law,Hadad_3,inferred,1KI 1:19,
@@ -1783,7 +1783,7 @@ Nebat_1:Jeroboam_1:1781,1781,Nebat_1,father,Jeroboam_1,inferred,1KI 11:26,
 Jeroboam_1:Nebat_1:1782,1782,Jeroboam_1,son,Nebat_1,explicit,1KI 11:26,
 Zeruah_1:Jeroboam_1:1783,1783,Zeruah_1,mother,Jeroboam_1,inferred,1KI 11:26,
 Jeroboam_1:Zeruah_1:1784,1784,Jeroboam_1,son,Zeruah_1,explicit,1KI 11:26,
-Ephraim_1:Nebat_1:1785,1785,Ephraim_1,ancestor,Nebat_1,inferred,1KI 11:26,
+Ephraim_1:Nebat_1:1785,1785,Ephraim_1,ancestor,Nebat_1,inferred,1KI 11:26,"implied from Nebat's tribe field, which matches Ephraim"
 Nebat_1:Ephraim_1:1786,1786,Nebat_1,descendant,Ephraim_1,explicit,1KI 11:26,
 Solomon_1:Rehoboam_1:1787,1787,Solomon_1,father,Rehoboam_1,inferred,1KI 11:43,
 Rehoboam_1:Solomon_1:1788,1788,Rehoboam_1,son,Solomon_1,explicit,1KI 11:43,
@@ -1813,7 +1813,7 @@ Asa_1:Jehoshaphat_3:1811,1811,Asa_1,father,Jehoshaphat_3,inferred,1KI 15:24,
 Jehoshaphat_3:Asa_1:1812,1812,Jehoshaphat_3,son,Asa_1,explicit,1KI 15:24,
 Ahijah_3:Baasha_1:1813,1813,Ahijah_3,father,Baasha_1,inferred,1KI 15:27,
 Baasha_1:Ahijah_3:1814,1814,Baasha_1,son,Ahijah_3,explicit,1KI 15:27,
-Issachar_1:Ahijah_3:1815,1815,Issachar_1,ancestor,Ahijah_3,inferred,1KI 15:27,
+Issachar_1:Ahijah_3:1815,1815,Issachar_1,ancestor,Ahijah_3,inferred,1KI 15:27,"implied from Ahijah's tribe field, which matches Issachar"
 Ahijah_3:Issachar_1:1816,1816,Ahijah_3,descendant,Issachar_1,explicit,1KI 15:27,
 Baasha_1:Nadab_2:1817,1817,Baasha_1,killer,Nadab_2,explicit,1KI 15:27,
 Nadab_2:Baasha_1:1818,1818,Nadab_2,victim,Baasha_1,inferred,1KI 15:27,
@@ -1985,8 +1985,8 @@ Azaliah_1:Shaphan_1:1983,1983,Azaliah_1,father,Shaphan_1,inferred,2KI 22:3,
 Shaphan_1:Azaliah_1:1984,1984,Shaphan_1,son,Azaliah_1,explicit,2KI 22:3,
 Meshullam_1:Azaliah_1:1985,1985,Meshullam_1,father,Azaliah_1,inferred,2KI 22:3,
 Azaliah_1:Meshullam_1:1986,1986,Azaliah_1,son,Meshullam_1,explicit,2KI 22:3,
-Aaron_1:Hilkiah_2:1987,1987,Aaron_1,ancestor,Hilkiah_2,inferred,2KI 22:4,
-Hilkiah_2:Aaron_1:1988,1988,Hilkiah_2,descendant,Aaron_1,explicit,2KI 22:4,
+Aaron_1:Hilkiah_2:1987,1987,Aaron_1,ancestor,Hilkiah_2,inferred,2KI 22:4,"as a priest, Hilkiah would have been a descendant of Aaron"
+Hilkiah_2:Aaron_1:1988,1988,Hilkiah_2,descendant,Aaron_1,explicit,2KI 22:4,"as a priest, Hilkiah would have been a descendant of Aaron"
 Shaphan_1:Ahikam_1:1989,1989,Shaphan_1,father,Ahikam_1,inferred,2KI 22:12,
 Ahikam_1:Shaphan_1:1990,1990,Ahikam_1,son,Shaphan_1,explicit,2KI 22:12,
 Micaiah_2:Achbor_2:1991,1991,Micaiah_2,father,Achbor_2,inferred,2KI 22:12,
@@ -2623,18 +2623,18 @@ Gad_1:Shaphat_4:2621,2621,Gad_1,ancestor,Shaphat_4,explicit,1CH 5:12,
 Shaphat_4:Gad_1:2622,2622,Shaphat_4,descendant,Gad_1,explicit,1CH 5:12,
 Jeshishai_1:Michael_2:2623,2623,Jeshishai_1,father,Michael_2,inferred,1CH 5:14,
 Michael_2:Jeshishai_1:2624,2624,Michael_2,son,Jeshishai_1,inferred,1CH 5:14,
-Gad_1:Meshullam_3:2625,2625,Gad_1,ancestor,Meshullam_3,inferred,1CH 5:13,
-Meshullam_3:Gad_1:2626,2626,Meshullam_3,descendant,Gad_1,inferred,1CH 5:13,
-Gad_1:Sheba_5:2627,2627,Gad_1,ancestor,Sheba_5,inferred,1CH 5:13,
-Sheba_5:Gad_1:2628,2628,Sheba_5,descendant,Gad_1,inferred,1CH 5:13,
-Gad_1:Jorai_1:2629,2629,Gad_1,ancestor,Jorai_1,inferred,1CH 5:13,
-Jorai_1:Gad_1:2630,2630,Jorai_1,descendant,Gad_1,inferred,1CH 5:13,
-Gad_1:Jacan_1:2631,2631,Gad_1,ancestor,Jacan_1,inferred,1CH 5:13,
-Jacan_1:Gad_1:2632,2632,Jacan_1,descendant,Gad_1,inferred,1CH 5:13,
-Gad_1:Zia_1:2633,2633,Gad_1,ancestor,Zia_1,inferred,1CH 5:13,
-Zia_1:Gad_1:2634,2634,Zia_1,descendant,Gad_1,inferred,1CH 5:13,
-Gad_1:Eber_2:2635,2635,Gad_1,ancestor,Eber_2,inferred,1CH 5:13,
-Eber_2:Gad_1:2636,2636,Eber_2,descendant,Gad_1,inferred,1CH 5:13,
+Gad_1:Meshullam_3:2625,2625,Gad_1,ancestor,Meshullam_3,inferred,1CH 5:13,"implied from Meshullam's tribe field, which matches Gad"
+Meshullam_3:Gad_1:2626,2626,Meshullam_3,descendant,Gad_1,inferred,1CH 5:13,"implied from Meshullam's tribe field, which matches Gad"
+Gad_1:Sheba_5:2627,2627,Gad_1,ancestor,Sheba_5,inferred,1CH 5:13,"implied from Sheba's tribe field, which matches Gad"
+Sheba_5:Gad_1:2628,2628,Sheba_5,descendant,Gad_1,inferred,1CH 5:13,"implied from Sheba's tribe field, which matches Gad"
+Gad_1:Jorai_1:2629,2629,Gad_1,ancestor,Jorai_1,inferred,1CH 5:13,"implied from Jorai's tribe field, which matches Gad"
+Jorai_1:Gad_1:2630,2630,Jorai_1,descendant,Gad_1,inferred,1CH 5:13,"implied from Jorai's tribe field, which matches Gad"
+Gad_1:Jacan_1:2631,2631,Gad_1,ancestor,Jacan_1,inferred,1CH 5:13,"implied from Jacan's tribe field, which matches Gad"
+Jacan_1:Gad_1:2632,2632,Jacan_1,descendant,Gad_1,inferred,1CH 5:13,"implied from Jacan's tribe field, which matches Gad"
+Gad_1:Zia_1:2633,2633,Gad_1,ancestor,Zia_1,inferred,1CH 5:13,"implied from Zia's tribe field, which matches Gad"
+Zia_1:Gad_1:2634,2634,Zia_1,descendant,Gad_1,inferred,1CH 5:13,"implied from Zia's tribe field, which matches Gad"
+Gad_1:Eber_2:2635,2635,Gad_1,ancestor,Eber_2,inferred,1CH 5:13,"implied from Eber's tribe field, which matches Gad"
+Eber_2:Gad_1:2636,2636,Eber_2,descendant,Gad_1,inferred,1CH 5:13,"implied from Eber's tribe field, which matches Gad"
 Huri_1:Abihail_3:2637,2637,Huri_1,father,Abihail_3,inferred,1CH 5:14,
 Abihail_3:Huri_1:2638,2638,Abihail_3,son,Huri_1,explicit,1CH 5:14,
 Jaroah_1:Huri_1:2639,2639,Jaroah_1,father,Huri_1,inferred,1CH 5:14,
@@ -2647,28 +2647,28 @@ Jahdo_1:Jeshishai_1:2645,2645,Jahdo_1,father,Jeshishai_1,inferred,1CH 5:14,
 Jeshishai_1:Jahdo_1:2646,2646,Jeshishai_1,son,Jahdo_1,explicit,1CH 5:14,
 Buz_2:Jahdo_1:2647,2647,Buz_2,father,Jahdo_1,inferred,1CH 5:14,
 Jahdo_1:Buz_2:2648,2648,Jahdo_1,son,Buz_2,explicit,1CH 5:14,
-Gad_1:Buz_2:2649,2649,Gad_1,ancestor,Buz_2,inferred,1CH 5:14,
-Buz_2:Gad_1:2650,2650,Buz_2,descendant,Gad_1,inferred,1CH 5:14,
+Gad_1:Buz_2:2649,2649,Gad_1,ancestor,Buz_2,inferred,1CH 5:14,"implied from Buz's tribe field, which matches Gad"
+Buz_2:Gad_1:2650,2650,Buz_2,descendant,Gad_1,inferred,1CH 5:14,"implied from Buz's tribe field, which matches Gad"
 Abdiel_1:Ahi_1:2651,2651,Abdiel_1,father,Ahi_1,inferred,1CH 5:15,
 Ahi_1:Abdiel_1:2652,2652,Ahi_1,son,Abdiel_1,explicit,1CH 5:15,
 Guni_2:Abdiel_1:2653,2653,Guni_2,father,Abdiel_1,inferred,1CH 5:15,
 Abdiel_1:Guni_2:2654,2654,Abdiel_1,son,Guni_2,explicit,1CH 5:15,
-Gad_1:Guni_2:2655,2655,Gad_1,ancestor,Guni_2,inferred,1CH 5:15,
-Guni_2:Gad_1:2656,2656,Guni_2,descendant,Gad_1,inferred,1CH 5:15,
-Manasseh_1:Epher_3:2657,2657,Manasseh_1,ancestor,Epher_3,inferred,1CH 5:24,
-Epher_3:Manasseh_1:2658,2658,Epher_3,descendant,Manasseh_1,inferred,1CH 5:24,
-Manasseh_1:Ishi_3:2659,2659,Manasseh_1,ancestor,Ishi_3,inferred,1CH 5:24,
-Ishi_3:Manasseh_1:2660,2660,Ishi_3,descendant,Manasseh_1,inferred,1CH 5:24,
-Manasseh_1:Eliel_1:2661,2661,Manasseh_1,ancestor,Eliel_1,inferred,1CH 5:24,
-Eliel_1:Manasseh_1:2662,2662,Eliel_1,descendant,Manasseh_1,inferred,1CH 5:24,
-Manasseh_1:Azriel_1:2663,2663,Manasseh_1,ancestor,Azriel_1,inferred,1CH 5:24,
-Azriel_1:Manasseh_1:2664,2664,Azriel_1,descendant,Manasseh_1,inferred,1CH 5:24,
-Manasseh_1:Jeremiah_2:2665,2665,Manasseh_1,ancestor,Jeremiah_2,inferred,1CH 5:24,
-Jeremiah_2:Manasseh_1:2666,2666,Jeremiah_2,descendant,Manasseh_1,inferred,1CH 5:24,
-Manasseh_1:Hodaviah_2:2667,2667,Manasseh_1,ancestor,Hodaviah_2,inferred,1CH 5:24,
-Hodaviah_2:Manasseh_1:2668,2668,Hodaviah_2,descendant,Manasseh_1,inferred,1CH 5:24,
-Manasseh_1:Jahdiel_1:2669,2669,Manasseh_1,ancestor,Jahdiel_1,inferred,1CH 5:24,
-Jahdiel_1:Manasseh_1:2670,2670,Jahdiel_1,descendant,Manasseh_1,inferred,1CH 5:24,
+Gad_1:Guni_2:2655,2655,Gad_1,ancestor,Guni_2,inferred,1CH 5:15,"implied from Guni's tribe field, which matches Gad"
+Guni_2:Gad_1:2656,2656,Guni_2,descendant,Gad_1,inferred,1CH 5:15,"implied from Guni's tribe field, which matches Gad"
+Manasseh_1:Epher_3:2657,2657,Manasseh_1,ancestor,Epher_3,inferred,1CH 5:24,"implied from Epher's tribe field, which matches Manasseh"
+Epher_3:Manasseh_1:2658,2658,Epher_3,descendant,Manasseh_1,inferred,1CH 5:24,"implied from Epher's tribe field, which matches Manasseh"
+Manasseh_1:Ishi_3:2659,2659,Manasseh_1,ancestor,Ishi_3,inferred,1CH 5:24,"implied from Ishi's tribe field, which matches Manasseh"
+Ishi_3:Manasseh_1:2660,2660,Ishi_3,descendant,Manasseh_1,inferred,1CH 5:24,"implied from Ishi's tribe field, which matches Manasseh"
+Manasseh_1:Eliel_1:2661,2661,Manasseh_1,ancestor,Eliel_1,inferred,1CH 5:24,"implied from Eliel's tribe field, which matches Manasseh"
+Eliel_1:Manasseh_1:2662,2662,Eliel_1,descendant,Manasseh_1,inferred,1CH 5:24,"implied from Eliel's tribe field, which matches Manasseh"
+Manasseh_1:Azriel_1:2663,2663,Manasseh_1,ancestor,Azriel_1,inferred,1CH 5:24,"implied from Azriel's tribe field, which matches Manasseh"
+Azriel_1:Manasseh_1:2664,2664,Azriel_1,descendant,Manasseh_1,inferred,1CH 5:24,"implied from Azriel's tribe field, which matches Manasseh"
+Manasseh_1:Jeremiah_2:2665,2665,Manasseh_1,ancestor,Jeremiah_2,inferred,1CH 5:24,"implied from Jeremiah's tribe field, which matches Manasseh"
+Jeremiah_2:Manasseh_1:2666,2666,Jeremiah_2,descendant,Manasseh_1,inferred,1CH 5:24,"implied from Jeremiah's tribe field, which matches Manasseh"
+Manasseh_1:Hodaviah_2:2667,2667,Manasseh_1,ancestor,Hodaviah_2,inferred,1CH 5:24,"implied from Hodaviah's tribe field, which matches Manasseh"
+Hodaviah_2:Manasseh_1:2668,2668,Hodaviah_2,descendant,Manasseh_1,inferred,1CH 5:24,"implied from Hodaviah's tribe field, which matches Manasseh"
+Manasseh_1:Jahdiel_1:2669,2669,Manasseh_1,ancestor,Jahdiel_1,inferred,1CH 5:24,"implied from Jahdiel's tribe field, which matches Manasseh"
+Jahdiel_1:Manasseh_1:2670,2670,Jahdiel_1,descendant,Manasseh_1,inferred,1CH 5:24,"implied from Jahdiel's tribe field, which matches Manasseh"
 Phinehas_1:Abishua_1:2671,2671,Phinehas_1,father,Abishua_1,explicit,1CH 6:4,
 Abishua_1:Phinehas_1:2672,2672,Abishua_1,son,Phinehas_1,inferred,1CH 6:4,
 Abishua_1:Bukki_2:2673,2673,Abishua_1,father,Bukki_2,explicit,1CH 6:5,
@@ -3245,11 +3245,11 @@ Bani_3:Imri_1:3243,3243,Bani_3,father,Imri_1,inferred,1CH 9:4,
 Imri_1:Bani_3:3244,3244,Imri_1,son,Bani_3,explicit,1CH 9:4,
 Perez_1:Bani_3:3245,3245,Perez_1,ancestor,Bani_3,inferred,1CH 9:4,
 Bani_3:Perez_1:3246,3246,Bani_3,descendant,Perez_1,explicit,1CH 9:4,
-Judah_1:Asaiah_4:3247,3247,Judah_1,ancestor,Asaiah_4,inferred,1CH 9:5,
+Judah_1:Asaiah_4:3247,3247,Judah_1,ancestor,Asaiah_4,inferred,1CH 9:5,"implied from Asaiah's tribe field, which matches Judah"
 Asaiah_4:Judah_1:3248,3248,Asaiah_4,descendant,Judah_1,explicit,1CH 9:5,
 Zerah_3:Jeuel_1:3249,3249,Zerah_3,ancestor,Jeuel_1,inferred,1CH 9:6,
 Jeuel_1:Zerah_3:3250,3250,Jeuel_1,descendant,Zerah_3,explicit,1CH 9:6,
-Benjamin_1:Sallu_1:3251,3251,Benjamin_1,ancestor,Sallu_1,inferred,1CH 9:7,
+Benjamin_1:Sallu_1:3251,3251,Benjamin_1,ancestor,Sallu_1,inferred,1CH 9:7,"implied from Sallu's tribe field, which matches Benjamin"
 Sallu_1:Benjamin_1:3252,3252,Sallu_1,descendant,Benjamin_1,explicit,1CH 9:7,
 Meshuallam_1:Sallu_1:3253,3253,Meshuallam_1,father,Sallu_1,inferred,1CH 9:7,
 Sallu_1:Meshuallam_1:3254,3254,Sallu_1,son,Meshuallam_1,explicit,1CH 9:7,
@@ -3257,17 +3257,17 @@ Hodaviah_4:Meshuallam_1:3255,3255,Hodaviah_4,father,Meshuallam_1,inferred,1CH 9:
 Meshuallam_1:Hodaviah_4:3256,3256,Meshuallam_1,son,Hodaviah_4,explicit,1CH 9:7,
 Hassenuah_1:Hodaviah_4:3257,3257,Hassenuah_1,father,Hodaviah_4,inferred,1CH 9:7,
 Hodaviah_4:Hassenuah_1:3258,3258,Hodaviah_4,son,Hassenuah_1,explicit,1CH 9:7,
-Benjamin_1:Hassenuah_1:3259,3259,Benjamin_1,ancestor,Hassenuah_1,inferred,1CH 9:7,
+Benjamin_1:Hassenuah_1:3259,3259,Benjamin_1,ancestor,Hassenuah_1,inferred,1CH 9:7,"implied from Hassenuah's tribe field, which matches Benjamin"
 Hassenuah_1:Benjamin_1:3260,3260,Hassenuah_1,descendant,Benjamin_1,explicit,1CH 9:7,
 Jeroham_2:Ibneiah_1:3261,3261,Jeroham_2,father,Ibneiah_1,inferred,1CH 9:8,
 Ibneiah_1:Jeroham_2:3262,3262,Ibneiah_1,son,Jeroham_2,explicit,1CH 9:8,
-Benjamin_1:Jeroham_2:3263,3263,Benjamin_1,ancestor,Jeroham_2,inferred,1CH 9:8,
+Benjamin_1:Jeroham_2:3263,3263,Benjamin_1,ancestor,Jeroham_2,inferred,1CH 9:8,"implied from Jeroham's tribe field, which matches Benjamin"
 Jeroham_2:Benjamin_1:3264,3264,Jeroham_2,descendant,Benjamin_1,explicit,1CH 9:8,
 Uzzi_4:Elah_5:3265,3265,Uzzi_4,father,Elah_5,inferred,1CH 9:8,
 Elah_5:Uzzi_4:3266,3266,Elah_5,son,Uzzi_4,explicit,1CH 9:8,
 Michri_1:Uzzi_4:3267,3267,Michri_1,father,Uzzi_4,inferred,1CH 9:8,
 Uzzi_4:Michri_1:3268,3268,Uzzi_4,son,Michri_1,explicit,1CH 9:8,
-Benjamin_1:Michri_1:3269,3269,Benjamin_1,ancestor,Michri_1,inferred,1CH 9:8,
+Benjamin_1:Michri_1:3269,3269,Benjamin_1,ancestor,Michri_1,inferred,1CH 9:8,"implied from Michri's tribe field, which matches Benjamin"
 Michri_1:Benjamin_1:3270,3270,Michri_1,descendant,Benjamin_1,explicit,1CH 9:8,
 Shephatiah_2:Meshullam_5:3271,3271,Shephatiah_2,father,Meshullam_5,inferred,1CH 9:8,
 Meshullam_5:Shephatiah_2:3272,3272,Meshullam_5,son,Shephatiah_2,explicit,1CH 9:8,
@@ -3275,14 +3275,14 @@ Reuel_3:Shephatiah_2:3273,3273,Reuel_3,father,Shephatiah_2,inferred,1CH 9:8,
 Shephatiah_2:Reuel_3:3274,3274,Shephatiah_2,son,Reuel_3,explicit,1CH 9:8,
 Ibnijah_1:Reuel_3:3275,3275,Ibnijah_1,father,Reuel_3,inferred,1CH 9:8,
 Reuel_3:Ibnijah_1:3276,3276,Reuel_3,son,Ibnijah_1,explicit,1CH 9:8,
-Benjamin_1:Ibnijah_1:3277,3277,Benjamin_1,ancestor,Ibnijah_1,inferred,1CH 9:8,
+Benjamin_1:Ibnijah_1:3277,3277,Benjamin_1,ancestor,Ibnijah_1,inferred,1CH 9:8,"implied from Ibnijah's tribe field, which matches Benjamin"
 Ibnijah_1:Benjamin_1:3278,3278,Ibnijah_1,descendant,Benjamin_1,explicit,1CH 9:8,
-Aaron_1:Jedaiah_2:3279,3279,Aaron_1,ancestor,Jedaiah_2,inferred,1CH 9:10,
-Jedaiah_2:Aaron_1:3280,3280,Jedaiah_2,descendant,Aaron_1,explicit,1CH 9:10,
-Aaron_1:Jehoiarib_1:3281,3281,Aaron_1,ancestor,Jehoiarib_1,inferred,1CH 9:10,
-Jehoiarib_1:Aaron_1:3282,3282,Jehoiarib_1,descendant,Aaron_1,explicit,1CH 9:10,
-Aaron_1:Jachin_2:3283,3283,Aaron_1,ancestor,Jachin_2,inferred,1CH 9:10,
-Jachin_2:Aaron_1:3284,3284,Jachin_2,descendant,Aaron_1,explicit,1CH 9:10,
+Aaron_1:Jedaiah_2:3279,3279,Aaron_1,ancestor,Jedaiah_2,inferred,1CH 9:10,"as a priest, Jedaiah would have been a descendant of Aaron"
+Jedaiah_2:Aaron_1:3280,3280,Jedaiah_2,descendant,Aaron_1,explicit,1CH 9:10,"as a priest, Jedaiah would have been a descendant of Aaron"
+Aaron_1:Jehoiarib_1:3281,3281,Aaron_1,ancestor,Jehoiarib_1,inferred,1CH 9:10,"as a priest, Jehoiarib would have been a descendant of Aaron"
+Jehoiarib_1:Aaron_1:3282,3282,Jehoiarib_1,descendant,Aaron_1,explicit,1CH 9:10,"as a priest, Jehoiarib would have been a descendant of Aaron"
+Aaron_1:Jachin_2:3283,3283,Aaron_1,ancestor,Jachin_2,inferred,1CH 9:10,"as a priest, Jachin would have been a descendant of Aaron"
+Jachin_2:Aaron_1:3284,3284,Jachin_2,descendant,Aaron_1,explicit,1CH 9:10,"as a priest, Jachin would have been a descendant of Aaron"
 Meraioth_2:Zadok_3:3285,3285,Meraioth_2,father,Zadok_3,inferred,1CH 9:11,
 Zadok_3:Meraioth_2:3286,3286,Zadok_3,son,Meraioth_2,explicit,1CH 9:11,
 Ahitub_3:Meraioth_2:3287,3287,Ahitub_3,father,Meraioth_2,inferred,1CH 9:11,
@@ -3305,8 +3305,8 @@ Meshillemith_1:Meshullam_6:3303,3303,Meshillemith_1,father,Meshullam_6,inferred,
 Meshullam_6:Meshillemith_1:3304,3304,Meshullam_6,son,Meshillemith_1,explicit,1CH 9:12,
 Immer_1:Meshillemith_1:3305,3305,Immer_1,father,Meshillemith_1,inferred,1CH 9:12,
 Meshillemith_1:Immer_1:3306,3306,Meshillemith_1,son,Immer_1,explicit,1CH 9:12,
-Aaron_1:Immer_1:3307,3307,Aaron_1,ancestor,Immer_1,inferred,1CH 9:12,
-Immer_1:Aaron_1:3308,3308,Immer_1,descendant,Aaron_1,inferred,1CH 9:12,
+Aaron_1:Immer_1:3307,3307,Aaron_1,ancestor,Immer_1,inferred,1CH 9:12,"as a priest, Immer would have been a descendant of Aaron"
+Immer_1:Aaron_1:3308,3308,Immer_1,descendant,Aaron_1,inferred,1CH 9:12,"as a priest, Immer would have been a descendant of Aaron"
 Hasshub_1:Shemaiah_5:3309,3309,Hasshub_1,father,Shemaiah_5,inferred,1CH 9:14,
 Shemaiah_5:Hasshub_1:3310,3310,Shemaiah_5,son,Hasshub_1,explicit,1CH 9:14,
 Azrikam_3:Hasshub_1:3311,3311,Azrikam_3,father,Hasshub_1,inferred,1CH 9:14,
@@ -3315,9 +3315,9 @@ Hashabiah_2:Azrikam_3:3313,3313,Hashabiah_2,father,Azrikam_3,inferred,1CH 9:14,
 Azrikam_3:Hashabiah_2:3314,3314,Azrikam_3,son,Hashabiah_2,explicit,1CH 9:14,
 Merari_1:Hashabiah_2:3315,3315,Merari_1,ancestor,Hashabiah_2,inferred,1CH 9:14,
 Hashabiah_2:Merari_1:3316,3316,Hashabiah_2,descendant,Merari_1,explicit,1CH 9:14,
-Levi_1:Bakbakkar_1:3317,3317,Levi_1,ancestor,Bakbakkar_1,inferred,1CH 9:15,
+Levi_1:Bakbakkar_1:3317,3317,Levi_1,ancestor,Bakbakkar_1,inferred,1CH 9:15,"implied from Bakbakkar's tribe field, which matches Levi"
 Bakbakkar_1:Levi_1:3318,3318,Bakbakkar_1,descendant,Levi_1,explicit,1CH 9:15,
-Levi_1:Heresh_1:3319,3319,Levi_1,ancestor,Heresh_1,inferred,1CH 9:15,
+Levi_1:Heresh_1:3319,3319,Levi_1,ancestor,Heresh_1,inferred,1CH 9:15,"implied from Heresh's tribe field, which matches Levi"
 Heresh_1:Levi_1:3320,3320,Heresh_1,descendant,Levi_1,explicit,1CH 9:15,
 Jeduthun_1:Galal_1:3321,3321,Jeduthun_1,father,Galal_1,inferred,1CH 9:16,
 Galal_1:Jeduthun_1:3322,3322,Galal_1,son,Jeduthun_1,explicit,1CH 9:16,
@@ -3327,19 +3327,19 @@ Zichri_5:Mica_2:3325,3325,Zichri_5,father,Mica_2,inferred,1CH 9:15,
 Mica_2:Zichri_5:3326,3326,Mica_2,son,Zichri_5,explicit,1CH 9:15,
 Asaph_3:Zichri_5:3327,3327,Asaph_3,father,Zichri_5,inferred,1CH 9:15,
 Zichri_5:Asaph_3:3328,3328,Zichri_5,son,Asaph_3,explicit,1CH 9:15,
-Levi_1:Asaph_3:3329,3329,Levi_1,ancestor,Asaph_3,inferred,1CH 9:15,
+Levi_1:Asaph_3:3329,3329,Levi_1,ancestor,Asaph_3,inferred,1CH 9:15,"implied from Asaph's tribe field, which matches Levi"
 Asaph_3:Levi_1:3330,3330,Asaph_3,descendant,Levi_1,explicit,1CH 9:15,
 Shemaiah_6:Obadiah_5:3331,3331,Shemaiah_6,father,Obadiah_5,inferred,1CH 9:16,
 Obadiah_5:Shemaiah_6:3332,3332,Obadiah_5,son,Shemaiah_6,explicit,1CH 9:16,
 Galal_1:Shemaiah_6:3333,3333,Galal_1,father,Shemaiah_6,inferred,1CH 9:16,
 Shemaiah_6:Galal_1:3334,3334,Shemaiah_6,son,Galal_1,explicit,1CH 9:16,
-Levi_1:Jeduthun_1:3335,3335,Levi_1,ancestor,Jeduthun_1,inferred,1CH 9:16,
+Levi_1:Jeduthun_1:3335,3335,Levi_1,ancestor,Jeduthun_1,inferred,1CH 9:16,"implied from Jeduthun's tribe field, which matches Levi"
 Jeduthun_1:Levi_1:3336,3336,Jeduthun_1,descendant,Levi_1,explicit,1CH 9:16,
 Asa_2:Berechiah_3:3337,3337,Asa_2,father,Berechiah_3,inferred,1CH 9:16,
 Berechiah_3:Asa_2:3338,3338,Berechiah_3,son,Asa_2,explicit,1CH 9:16,
 Elkanah_6:Asa_2:3339,3339,Elkanah_6,father,Asa_2,inferred,1CH 9:16,
 Asa_2:Elkanah_6:3340,3340,Asa_2,son,Elkanah_6,explicit,1CH 9:16,
-Levi_1:Elkanah_6:3341,3341,Levi_1,ancestor,Elkanah_6,inferred,1CH 9:16,
+Levi_1:Elkanah_6:3341,3341,Levi_1,ancestor,Elkanah_6,inferred,1CH 9:16,"implied from Elkanah's tribe field, which matches Levi"
 Elkanah_6:Levi_1:3342,3342,Elkanah_6,descendant,Levi_1,explicit,1CH 9:16,
 Kore_1:Shallum_7:3343,3343,Kore_1,father,Shallum_7,inferred,1CH 9:19,
 Shallum_7:Kore_1:3344,3344,Shallum_7,son,Kore_1,explicit,1CH 9:19,
@@ -3364,7 +3364,7 @@ Zabad_3:Ahlai_2:3362,3362,Zabad_3,son,Ahlai_2,explicit,1CH 11:41,
 Shiza_1:Adina_1:3363,3363,Shiza_1,father,Adina_1,inferred,1CH 11:42,
 Adina_1:Shiza_1:3364,3364,Adina_1,son,Shiza_1,explicit,1CH 11:42,
 Reuben_1:Shiza_1:3365,3365,Reuben_1,ancestor,Shiza_1,explicit,1CH 11:42,
-Shiza_1:Reuben_1:3366,3366,Shiza_1,descendant,Reuben_1,inferred,1CH 11:42,
+Shiza_1:Reuben_1:3366,3366,Shiza_1,descendant,Reuben_1,inferred,1CH 11:42,"implied from Shiza's tribe field, which matches Reuben"
 Maacah_7:Hanan_3:3367,3367,Maacah_7,mother,Hanan_3,inferred,1CH 11:43,
 Hanan_3:Maacah_7:3368,3368,Hanan_3,son,Maacah_7,explicit,1CH 11:43,
 Joshaphat_1:Hanan_3:3369,3369,Joshaphat_1,father,Hanan_3,inferred,1CH 11:43,
@@ -3381,29 +3381,29 @@ Elnaam_1:Jeribai_1:3379,3379,Elnaam_1,father,Jeribai_1,inferred,1CH 11:46,
 Jeribai_1:Elnaam_1:3380,3380,Jeribai_1,son,Elnaam_1,explicit,1CH 11:46,
 Elnaam_1:Joshaviah_1:3381,3381,Elnaam_1,father,Joshaviah_1,inferred,1CH 11:46,
 Joshaviah_1:Elnaam_1:3382,3382,Joshaviah_1,son,Elnaam_1,explicit,1CH 11:46,
-Moab_1:Ithmah_1:3383,3383,Moab_1,ancestor,Ithmah_1,inferred,1CH 11:46,
-Ithmah_1:Moab_1:3384,3384,Ithmah_1,descendant,Moab_1,explicit,1CH 11:46,
+Moab_1:Ithmah_1:3383,3383,Moab_1,ancestor,Ithmah_1,inferred,1CH 11:46,Moabite = descendant of Moab
+Ithmah_1:Moab_1:3384,3384,Ithmah_1,descendant,Moab_1,explicit,1CH 11:46,Moabite = descendant of Moab
 Shemaah_1:Ahiezer_2:3385,3385,Shemaah_1,father,Ahiezer_2,inferred,1CH 12:3,
 Ahiezer_2:Shemaah_1:3386,3386,Ahiezer_2,son,Shemaah_1,explicit,1CH 12:3,
 Shemaah_1:Joash_7:3387,3387,Shemaah_1,father,Joash_7,inferred,1CH 12:3,
 Joash_7:Shemaah_1:3388,3388,Joash_7,son,Shemaah_1,explicit,1CH 12:3,
-Benjamin_1:Shemaah_1:3389,3389,Benjamin_1,ancestor,Shemaah_1,inferred,1CH 12:3,
+Benjamin_1:Shemaah_1:3389,3389,Benjamin_1,ancestor,Shemaah_1,inferred,1CH 12:3,"implied from Shemaah's tribe field, which matches Benjamin"
 Shemaah_1:Benjamin_1:3390,3390,Shemaah_1,descendant,Benjamin_1,explicit,1CH 12:3,
 Azmaveth_2:Jeziel_1:3391,3391,Azmaveth_2,father,Jeziel_1,inferred,1CH 12:3,
 Jeziel_1:Azmaveth_2:3392,3392,Jeziel_1,son,Azmaveth_2,explicit,1CH 12:3,
 Azmaveth_2:Pelet_2:3393,3393,Azmaveth_2,father,Pelet_2,inferred,1CH 12:3,
 Pelet_2:Azmaveth_2:3394,3394,Pelet_2,son,Azmaveth_2,explicit,1CH 12:3,
-Benjamin_1:Beracah_1:3395,3395,Benjamin_1,ancestor,Beracah_1,inferred,1CH 12:3,
+Benjamin_1:Beracah_1:3395,3395,Benjamin_1,ancestor,Beracah_1,inferred,1CH 12:3,"implied from Beracah's tribe field, which matches Benjamin"
 Beracah_1:Benjamin_1:3396,3396,Beracah_1,descendant,Benjamin_1,explicit,1CH 12:3,
-Benjamin_1:Jehu_5:3397,3397,Benjamin_1,ancestor,Jehu_5,inferred,1CH 12:3,
+Benjamin_1:Jehu_5:3397,3397,Benjamin_1,ancestor,Jehu_5,inferred,1CH 12:3,"implied from Jehu's tribe field, which matches Benjamin"
 Jehu_5:Benjamin_1:3398,3398,Jehu_5,descendant,Benjamin_1,explicit,1CH 12:3,
-Benjamin_1:Jeremiah_3:3399,3399,Benjamin_1,ancestor,Jeremiah_3,inferred,1CH 12:4,
+Benjamin_1:Jeremiah_3:3399,3399,Benjamin_1,ancestor,Jeremiah_3,inferred,1CH 12:4,"implied from Jeremiah's tribe field, which matches Benjamin"
 Jeremiah_3:Benjamin_1:3400,3400,Jeremiah_3,descendant,Benjamin_1,explicit,1CH 12:4,
-Benjamin_1:Jahaziel_1:3401,3401,Benjamin_1,ancestor,Jahaziel_1,inferred,1CH 12:4,
+Benjamin_1:Jahaziel_1:3401,3401,Benjamin_1,ancestor,Jahaziel_1,inferred,1CH 12:4,"implied from Jahaziel's tribe field, which matches Benjamin"
 Jahaziel_1:Benjamin_1:3402,3402,Jahaziel_1,descendant,Benjamin_1,explicit,1CH 12:4,
-Benjamin_1:Johanan_4:3403,3403,Benjamin_1,ancestor,Johanan_4,inferred,1CH 12:4,
+Benjamin_1:Johanan_4:3403,3403,Benjamin_1,ancestor,Johanan_4,inferred,1CH 12:4,"implied from Johanan's tribe field, which matches Benjamin"
 Johanan_4:Benjamin_1:3404,3404,Johanan_4,descendant,Benjamin_1,explicit,1CH 12:4,
-Benjamin_1:Jozabad_1:3405,3405,Benjamin_1,ancestor,Jozabad_1,inferred,1CH 12:4,
+Benjamin_1:Jozabad_1:3405,3405,Benjamin_1,ancestor,Jozabad_1,inferred,1CH 12:4,"implied from Jozabad's tribe field, which matches Benjamin"
 Jozabad_1:Benjamin_1:3406,3406,Jozabad_1,descendant,Benjamin_1,explicit,1CH 12:4,
 Benjamin_1:Eluzai_1:3407,3407,Benjamin_1,ancestor,Eluzai_1,inferred,1CH 12:5,
 Eluzai_1:Benjamin_1:3408,3408,Eluzai_1,descendant,Benjamin_1,explicit,1CH 12:5,
@@ -3429,41 +3429,41 @@ Jeroham_4:Joelah_1:3427,3427,Jeroham_4,father,Joelah_1,inferred,1CH 12:7,
 Joelah_1:Jeroham_4:3428,3428,Joelah_1,son,Jeroham_4,explicit,1CH 12:7,
 Jeroham_4:Zebadiah_3:3429,3429,Jeroham_4,father,Zebadiah_3,inferred,1CH 12:7,
 Zebadiah_3:Jeroham_4:3430,3430,Zebadiah_3,son,Jeroham_4,explicit,1CH 12:7,
-Gad_1:Ezer_4:3431,3431,Gad_1,ancestor,Ezer_4,inferred,1CH 12:9,
+Gad_1:Ezer_4:3431,3431,Gad_1,ancestor,Ezer_4,inferred,1CH 12:9,"implied from Ezer's tribe field, which matches Gad"
 Ezer_4:Gad_1:3432,3432,Ezer_4,descendant,Gad_1,explicit,1CH 12:9,
-Gad_1:Obadiah_6:3433,3433,Gad_1,ancestor,Obadiah_6,inferred,1CH 12:9,
+Gad_1:Obadiah_6:3433,3433,Gad_1,ancestor,Obadiah_6,inferred,1CH 12:9,"implied from Obadiah's tribe field, which matches Gad"
 Obadiah_6:Gad_1:3434,3434,Obadiah_6,descendant,Gad_1,explicit,1CH 12:9,
-Gad_1:Eliab_4:3435,3435,Gad_1,ancestor,Eliab_4,inferred,1CH 12:9,
+Gad_1:Eliab_4:3435,3435,Gad_1,ancestor,Eliab_4,inferred,1CH 12:9,"implied from Eliab's tribe field, which matches Gad"
 Eliab_4:Gad_1:3436,3436,Eliab_4,descendant,Gad_1,explicit,1CH 12:9,
-Gad_1:Mishmannah_1:3437,3437,Gad_1,ancestor,Mishmannah_1,inferred,1CH 12:10,
+Gad_1:Mishmannah_1:3437,3437,Gad_1,ancestor,Mishmannah_1,inferred,1CH 12:10,"implied from Mishmannah's tribe field, which matches Gad"
 Mishmannah_1:Gad_1:3438,3438,Mishmannah_1,descendant,Gad_1,explicit,1CH 12:10,
-Gad_1:Jeremiah_4:3439,3439,Gad_1,ancestor,Jeremiah_4,inferred,1CH 12:10,
+Gad_1:Jeremiah_4:3439,3439,Gad_1,ancestor,Jeremiah_4,inferred,1CH 12:10,"implied from Jeremiah's tribe field, which matches Gad"
 Jeremiah_4:Gad_1:3440,3440,Jeremiah_4,descendant,Gad_1,explicit,1CH 12:10,
-Gad_1:Attai_2:3441,3441,Gad_1,ancestor,Attai_2,inferred,1CH 12:11,
+Gad_1:Attai_2:3441,3441,Gad_1,ancestor,Attai_2,inferred,1CH 12:11,"implied from Attai's tribe field, which matches Gad"
 Attai_2:Gad_1:3442,3442,Attai_2,descendant,Gad_1,explicit,1CH 12:11,
-Gad_1:Eliel_6:3443,3443,Gad_1,ancestor,Eliel_6,inferred,1CH 12:11,
+Gad_1:Eliel_6:3443,3443,Gad_1,ancestor,Eliel_6,inferred,1CH 12:11,"implied from Eliel's tribe field, which matches Gad"
 Eliel_6:Gad_1:3444,3444,Eliel_6,descendant,Gad_1,explicit,1CH 12:11,
-Gad_1:Johanan_5:3445,3445,Gad_1,ancestor,Johanan_5,inferred,1CH 12:12,
+Gad_1:Johanan_5:3445,3445,Gad_1,ancestor,Johanan_5,inferred,1CH 12:12,"implied from Johanan's tribe field, which matches Gad"
 Johanan_5:Gad_1:3446,3446,Johanan_5,descendant,Gad_1,explicit,1CH 12:12,
-Gad_1:Elzabad_1:3447,3447,Gad_1,ancestor,Elzabad_1,inferred,1CH 12:12,
+Gad_1:Elzabad_1:3447,3447,Gad_1,ancestor,Elzabad_1,inferred,1CH 12:12,"implied from Elzabad's tribe field, which matches Gad"
 Elzabad_1:Gad_1:3448,3448,Elzabad_1,descendant,Gad_1,explicit,1CH 12:12,
-Gad_1:Jeremiah_5:3449,3449,Gad_1,ancestor,Jeremiah_5,inferred,1CH 12:13,
+Gad_1:Jeremiah_5:3449,3449,Gad_1,ancestor,Jeremiah_5,inferred,1CH 12:13,"implied from Jeremiah's tribe field, which matches Gad"
 Jeremiah_5:Gad_1:3450,3450,Jeremiah_5,descendant,Gad_1,explicit,1CH 12:13,
-Gad_1:Machbannai_1:3451,3451,Gad_1,ancestor,Machbannai_1,inferred,1CH 12:13,
+Gad_1:Machbannai_1:3451,3451,Gad_1,ancestor,Machbannai_1,inferred,1CH 12:13,"implied from Machbannai's tribe field, which matches Gad"
 Machbannai_1:Gad_1:3452,3452,Machbannai_1,descendant,Gad_1,explicit,1CH 12:13,
-Manasseh_1:Adnah_1:3453,3453,Manasseh_1,ancestor,Adnah_1,inferred,1CH 12:20,
+Manasseh_1:Adnah_1:3453,3453,Manasseh_1,ancestor,Adnah_1,inferred,1CH 12:20,"implied from Adnah's tribe field, which matches Manasseh"
 Adnah_1:Manasseh_1:3454,3454,Adnah_1,descendant,Manasseh_1,explicit,1CH 12:20,
-Manasseh_1:Jozabad_2:3455,3455,Manasseh_1,ancestor,Jozabad_2,inferred,1CH 12:20,
+Manasseh_1:Jozabad_2:3455,3455,Manasseh_1,ancestor,Jozabad_2,inferred,1CH 12:20,"implied from Jozabad's tribe field, which matches Manasseh"
 Jozabad_2:Manasseh_1:3456,3456,Jozabad_2,descendant,Manasseh_1,explicit,1CH 12:20,
-Manasseh_1:Jediael_2:3457,3457,Manasseh_1,ancestor,Jediael_2,inferred,1CH 12:20,
+Manasseh_1:Jediael_2:3457,3457,Manasseh_1,ancestor,Jediael_2,inferred,1CH 12:20,"implied from Jediael's tribe field, which matches Manasseh"
 Jediael_2:Manasseh_1:3458,3458,Jediael_2,descendant,Manasseh_1,explicit,1CH 12:20,
-Manasseh_1:Michael_6:3459,3459,Manasseh_1,ancestor,Michael_6,inferred,1CH 12:20,
+Manasseh_1:Michael_6:3459,3459,Manasseh_1,ancestor,Michael_6,inferred,1CH 12:20,"implied from Michael's tribe field, which matches Manasseh"
 Michael_6:Manasseh_1:3460,3460,Michael_6,descendant,Manasseh_1,explicit,1CH 12:20,
-Manasseh_1:Jozabad_3:3461,3461,Manasseh_1,ancestor,Jozabad_3,inferred,1CH 12:20,
+Manasseh_1:Jozabad_3:3461,3461,Manasseh_1,ancestor,Jozabad_3,inferred,1CH 12:20,"implied from Jozabad's tribe field, which matches Manasseh"
 Jozabad_3:Manasseh_1:3462,3462,Jozabad_3,descendant,Manasseh_1,explicit,1CH 12:20,
-Manasseh_1:Elihu_2:3463,3463,Manasseh_1,ancestor,Elihu_2,inferred,1CH 12:20,
+Manasseh_1:Elihu_2:3463,3463,Manasseh_1,ancestor,Elihu_2,inferred,1CH 12:20,"implied from Elihu's tribe field, which matches Manasseh"
 Elihu_2:Manasseh_1:3464,3464,Elihu_2,descendant,Manasseh_1,explicit,1CH 12:20,
-Manasseh_1:Zillethai_2:3465,3465,Manasseh_1,ancestor,Zillethai_2,inferred,1CH 12:20,
+Manasseh_1:Zillethai_2:3465,3465,Manasseh_1,ancestor,Zillethai_2,inferred,1CH 12:20,"implied from Zillethai's tribe field, which matches Manasseh"
 Zillethai_2:Manasseh_1:3466,3466,Zillethai_2,descendant,Manasseh_1,explicit,1CH 12:20,
 Gershon_1:Joel_6:3467,3467,Gershon_1,ancestor,Joel_6,inferred,1CH 15:7,
 Joel_6:Gershon_1:3468,3468,Joel_6,descendant,Gershon_1,explicit,1CH 15:7,
@@ -3473,60 +3473,60 @@ Hebron_1:Eliel_7:3471,3471,Hebron_1,ancestor,Eliel_7,inferred,1CH 15:9,
 Eliel_7:Hebron_1:3472,3472,Eliel_7,descendant,Hebron_1,explicit,1CH 15:9,
 Uzziel_1:Amminadab_2:3473,3473,Uzziel_1,ancestor,Amminadab_2,inferred,1CH 15:10,
 Amminadab_2:Uzziel_1:3474,3474,Amminadab_2,descendant,Uzziel_1,explicit,1CH 15:10,
-Levi_1:Zechariah_5:3475,3475,Levi_1,ancestor,Zechariah_5,inferred,1CH 15:18,
+Levi_1:Zechariah_5:3475,3475,Levi_1,ancestor,Zechariah_5,inferred,1CH 15:18,"implied from Zechariah's tribe field, which matches Levi"
 Zechariah_5:Levi_1:3476,3476,Zechariah_5,descendant,Levi_1,explicit,1CH 15:18,
-Levi_1:Ben_1:3477,3477,Levi_1,ancestor,Ben_1,inferred,1CH 15:18,
+Levi_1:Ben_1:3477,3477,Levi_1,ancestor,Ben_1,inferred,1CH 15:18,"implied from Ben's tribe field, which matches Levi"
 Ben_1:Levi_1:3478,3478,Ben_1,descendant,Levi_1,explicit,1CH 15:18,
-Levi_1:Jaaziel_1:3479,3479,Levi_1,ancestor,Jaaziel_1,inferred,1CH 15:18,
+Levi_1:Jaaziel_1:3479,3479,Levi_1,ancestor,Jaaziel_1,inferred,1CH 15:18,"implied from Jaaziel's tribe field, which matches Levi"
 Jaaziel_1:Levi_1:3480,3480,Jaaziel_1,descendant,Levi_1,explicit,1CH 15:18,
-Levi_1:Shemiramoth_1:3481,3481,Levi_1,ancestor,Shemiramoth_1,inferred,1CH 15:18,
+Levi_1:Shemiramoth_1:3481,3481,Levi_1,ancestor,Shemiramoth_1,inferred,1CH 15:18,"implied from Shemiramoth's tribe field, which matches Levi"
 Shemiramoth_1:Levi_1:3482,3482,Shemiramoth_1,descendant,Levi_1,explicit,1CH 15:18,
 Levi_1:Jehiel_1:3483,3483,Levi_1,ancestor,Jehiel_1,inferred,1CH 15:18,
 Jehiel_1:Levi_1:3484,3484,Jehiel_1,descendant,Levi_1,explicit,1CH 15:18,
-Levi_1:Unni_1:3485,3485,Levi_1,ancestor,Unni_1,inferred,1CH 15:18,
+Levi_1:Unni_1:3485,3485,Levi_1,ancestor,Unni_1,inferred,1CH 15:18,"implied from Unni's tribe field, which matches Levi"
 Unni_1:Levi_1:3486,3486,Unni_1,descendant,Levi_1,explicit,1CH 15:18,
-Levi_1:Eliab_5:3487,3487,Levi_1,ancestor,Eliab_5,inferred,1CH 15:18,
+Levi_1:Eliab_5:3487,3487,Levi_1,ancestor,Eliab_5,inferred,1CH 15:18,"implied from Eliab's tribe field, which matches Levi"
 Eliab_5:Levi_1:3488,3488,Eliab_5,descendant,Levi_1,explicit,1CH 15:18,
-Levi_1:Benaiah_4:3489,3489,Levi_1,ancestor,Benaiah_4,inferred,1CH 15:18,
+Levi_1:Benaiah_4:3489,3489,Levi_1,ancestor,Benaiah_4,inferred,1CH 15:18,"implied from Benaiah's tribe field, which matches Levi"
 Benaiah_4:Levi_1:3490,3490,Benaiah_4,descendant,Levi_1,explicit,1CH 15:18,
 Levi_1:Maaseiah_1:3491,3491,Levi_1,ancestor,Maaseiah_1,inferred,1CH 15:18,
 Maaseiah_1:Levi_1:3492,3492,Maaseiah_1,descendant,Levi_1,explicit,1CH 15:18,
-Levi_1:Mattithiah_2:3493,3493,Levi_1,ancestor,Mattithiah_2,inferred,1CH 15:18,
+Levi_1:Mattithiah_2:3493,3493,Levi_1,ancestor,Mattithiah_2,inferred,1CH 15:18,"implied from Mattithiah's tribe field, which matches Levi"
 Mattithiah_2:Levi_1:3494,3494,Mattithiah_2,descendant,Levi_1,explicit,1CH 15:18,
-Levi_1:Eliphelehu_1:3495,3495,Levi_1,ancestor,Eliphelehu_1,inferred,1CH 15:18,
+Levi_1:Eliphelehu_1:3495,3495,Levi_1,ancestor,Eliphelehu_1,inferred,1CH 15:18,"implied from Eliphelehu's tribe field, which matches Levi"
 Eliphelehu_1:Levi_1:3496,3496,Eliphelehu_1,descendant,Levi_1,explicit,1CH 15:18,
-Levi_1:Mikneiah_1:3497,3497,Levi_1,ancestor,Mikneiah_1,inferred,1CH 15:18,
+Levi_1:Mikneiah_1:3497,3497,Levi_1,ancestor,Mikneiah_1,inferred,1CH 15:18,"implied from Mikneiah's tribe field, which matches Levi"
 Mikneiah_1:Levi_1:3498,3498,Mikneiah_1,descendant,Levi_1,explicit,1CH 15:18,
-Levi_1:Obed-edom_2:3499,3499,Levi_1,ancestor,Obed-edom_2,inferred,1CH 15:18,
+Levi_1:Obed-edom_2:3499,3499,Levi_1,ancestor,Obed-edom_2,inferred,1CH 15:18,"implied from Obed-edom's tribe field, which matches Levi"
 Obed-edom_2:Levi_1:3500,3500,Obed-edom_2,descendant,Levi_1,explicit,1CH 15:18,
-Levi_1:Jeiel_4:3501,3501,Levi_1,ancestor,Jeiel_4,inferred,1CH 15:18,
+Levi_1:Jeiel_4:3501,3501,Levi_1,ancestor,Jeiel_4,inferred,1CH 15:18,"implied from Jeiel's tribe field, which matches Levi"
 Jeiel_4:Levi_1:3502,3502,Jeiel_4,descendant,Levi_1,explicit,1CH 15:18,
-Levi_1:Aziel_1:3503,3503,Levi_1,ancestor,Aziel_1,inferred,1CH 15:20,
+Levi_1:Aziel_1:3503,3503,Levi_1,ancestor,Aziel_1,inferred,1CH 15:20,"implied from Aziel's tribe field, which matches Levi"
 Aziel_1:Levi_1:3504,3504,Aziel_1,descendant,Levi_1,explicit,1CH 15:20,
-Levi_1:Azaziah_1:3505,3505,Levi_1,ancestor,Azaziah_1,inferred,1CH 15:21,
+Levi_1:Azaziah_1:3505,3505,Levi_1,ancestor,Azaziah_1,inferred,1CH 15:21,"implied from Azaziah's tribe field, which matches Levi"
 Azaziah_1:Levi_1:3506,3506,Azaziah_1,descendant,Levi_1,explicit,1CH 15:21,
-Levi_1:Chenaniah_1:3507,3507,Levi_1,ancestor,Chenaniah_1,inferred,1CH 15:22,
+Levi_1:Chenaniah_1:3507,3507,Levi_1,ancestor,Chenaniah_1,inferred,1CH 15:22,"implied from Chenaniah's tribe field, which matches Levi"
 Chenaniah_1:Levi_1:3508,3508,Chenaniah_1,descendant,Levi_1,explicit,1CH 15:22,
-Levi_1:Shebaniah_1:3509,3509,Levi_1,ancestor,Shebaniah_1,inferred,1CH 15:24,
+Levi_1:Shebaniah_1:3509,3509,Levi_1,ancestor,Shebaniah_1,inferred,1CH 15:24,"implied from Shebaniah's tribe field, which matches Levi"
 Shebaniah_1:Levi_1:3510,3510,Shebaniah_1,descendant,Levi_1,explicit,1CH 15:24,
-Levi_1:Joshaphat_2:3511,3511,Levi_1,ancestor,Joshaphat_2,inferred,1CH 15:24,
+Levi_1:Joshaphat_2:3511,3511,Levi_1,ancestor,Joshaphat_2,inferred,1CH 15:24,"implied from Joshaphat's tribe field, which matches Levi"
 Joshaphat_2:Levi_1:3512,3512,Joshaphat_2,descendant,Levi_1,explicit,1CH 15:24,
-Levi_1:Nethanel_3:3513,3513,Levi_1,ancestor,Nethanel_3,inferred,1CH 15:24,
+Levi_1:Nethanel_3:3513,3513,Levi_1,ancestor,Nethanel_3,inferred,1CH 15:24,"implied from Nethanel's tribe field, which matches Levi"
 Nethanel_3:Levi_1:3514,3514,Nethanel_3,descendant,Levi_1,explicit,1CH 15:24,
-Levi_1:Eliezer_4:3515,3515,Levi_1,ancestor,Eliezer_4,inferred,1CH 15:24,
+Levi_1:Eliezer_4:3515,3515,Levi_1,ancestor,Eliezer_4,inferred,1CH 15:24,"implied from Eliezer's tribe field, which matches Levi"
 Eliezer_4:Levi_1:3516,3516,Eliezer_4,descendant,Levi_1,explicit,1CH 15:24,
-Levi_1:Jehiah_1:3517,3517,Levi_1,ancestor,Jehiah_1,inferred,1CH 15:24,
+Levi_1:Jehiah_1:3517,3517,Levi_1,ancestor,Jehiah_1,inferred,1CH 15:24,"implied from Jehiah's tribe field, which matches Levi"
 Jehiah_1:Levi_1:3518,3518,Jehiah_1,descendant,Levi_1,explicit,1CH 15:24,
-Levi_1:Hosah_1:3519,3519,Levi_1,ancestor,Hosah_1,inferred,1CH 16:38,
+Levi_1:Hosah_1:3519,3519,Levi_1,ancestor,Hosah_1,inferred,1CH 16:38,"implied from Hosah's tribe field, which matches Levi"
 Hosah_1:Levi_1:3520,3520,Hosah_1,descendant,Levi_1,explicit,1CH 16:38,
 Lahmi_1:Goliath_1:3521,3521,Lahmi_1,brother,Goliath_1,explicit,1CH 20:5,
 Goliath_1:Lahmi_1:3522,3522,Goliath_1,brother,Lahmi_1,inferred,1CH 20:5,
 Libni_1:Jehiel_1:3523,3523,Libni_1,father,Jehiel_1,inferred,1CH 23:8,
 Jehiel_1:Libni_1:3524,3524,Jehiel_1,son,Libni_1,explicit,1CH 23:8,
-Libni_1:Zetham_1:3525,3525,Libni_1,ancestor,Zetham_1,inferred,1CH 23:8,Called Ladan here (see EXO 6:17).  Ancestor instead of father based on 1CH 26:22.
-Zetham_1:Libni_1:3526,3526,Zetham_1,descendant,Libni_1,explicit,1CH 23:8,Called Ladan here (see EXO 6:17).  Descendant instead of son based on 1CH 26:22.
-Libni_1:Joel_6:3527,3527,Libni_1,ancestor,Joel_6,inferred,1CH 23:8,Called Ladan here (see EXO 6:17).  Ancestor instead of father based on 1CH 26:22.
-Joel_6:Libni_1:3528,3528,Joel_6,descendant,Libni_1,explicit,1CH 23:8,Called Ladan here (see EXO 6:17).  Descendant instead of son based on 1CH 26:22.
+Libni_1:Zetham_1:3525,3525,Libni_1,ancestor,Zetham_1,inferred,1CH 23:8,Called Ladan here (see EXO 6:17). Ancestor instead of father based on 1CH 26:22.
+Zetham_1:Libni_1:3526,3526,Zetham_1,descendant,Libni_1,explicit,1CH 23:8,Called Ladan here (see EXO 6:17). Descendant instead of son based on 1CH 26:22.
+Libni_1:Joel_6:3527,3527,Libni_1,ancestor,Joel_6,inferred,1CH 23:8,Called Ladan here (see EXO 6:17). Ancestor instead of father based on 1CH 26:22.
+Joel_6:Libni_1:3528,3528,Joel_6,descendant,Libni_1,explicit,1CH 23:8,Called Ladan here (see EXO 6:17). Descendant instead of son based on 1CH 26:22.
 Shimei_9:Shelomoth_1:3529,3529,Shimei_9,father,Shelomoth_1,inferred,1CH 23:9,"A descendant of Shimei_9 because he is included in ""the fathers' households of Ladan"" (1CH 23:9)"
 Shelomoth_1:Shimei_9:3530,3530,Shelomoth_1,son,Shimei_9,explicit,1CH 23:9,"A descendant of Shimei_9 because he is included in ""the fathers' households of Ladan"" (1CH 23:9)"
 Shimei_9:Haziel_1:3531,3531,Shimei_9,father,Haziel_1,inferred,1CH 23:9,"A descendant of Shimei_9 because he is included in ""the fathers' households of Ladan"" (1CH 23:9)"
@@ -3741,8 +3741,8 @@ Hosah_1:Tebaliah_1:3739,3739,Hosah_1,father,Tebaliah_1,inferred,1CH 26:11,
 Tebaliah_1:Hosah_1:3740,3740,Tebaliah_1,son,Hosah_1,explicit,1CH 26:11,
 Hosah_1:Zechariah_7:3741,3741,Hosah_1,father,Zechariah_7,inferred,1CH 26:11,
 Zechariah_7:Hosah_1:3742,3742,Zechariah_7,son,Hosah_1,explicit,1CH 26:11,
-Levi_1:Shuppim_1:3743,3743,Levi_1,ancestor,Shuppim_1,inferred,1CH 26:16,
-Shuppim_1:Levi_1:3744,3744,Shuppim_1,descendant,Levi_1,inferred,1CH 26:16,
+Levi_1:Shuppim_1:3743,3743,Levi_1,ancestor,Shuppim_1,inferred,1CH 26:16,"implied from Shuppim's tribe field, which matches Levi"
+Shuppim_1:Levi_1:3744,3744,Shuppim_1,descendant,Levi_1,inferred,1CH 26:16,"implied from Shuppim's tribe field, which matches Levi"
 Jehiel_1:Zetham_1:3745,3745,Jehiel_1,father,Zetham_1,inferred,1CH 25:22,
 Zetham_1:Jehiel_1:3746,3746,Zetham_1,son,Jehiel_1,explicit,1CH 25:22,
 Jehiel_1:Joel_6:3747,3747,Jehiel_1,father,Joel_6,inferred,1CH 25:22,
@@ -3771,15 +3771,15 @@ Benaiah_2:Ephraim_1:3769,3769,Benaiah_2,ancestor,Ephraim_1,inferred,1CH 27:14,of
 Ephraim_1:Benaiah_2:3770,3770,Ephraim_1,descendant,Benaiah_2,explicit,1CH 27:14,of the sons of Ephraim
 Zichri_7:Eliezer_5:3771,3771,Zichri_7,father,Eliezer_5,inferred,1CH 27:16,
 Eliezer_5:Zichri_7:3772,3772,Eliezer_5,son,Zichri_7,explicit,1CH 27:16,
-Reuben_1:Zichri_7:3773,3773,Reuben_1,ancestor,Zichri_7,inferred,1CH 27:16,
+Reuben_1:Zichri_7:3773,3773,Reuben_1,ancestor,Zichri_7,inferred,1CH 27:16,"implied from Zichri's tribe field, which matches Reuben"
 Zichri_7:Reuben_1:3774,3774,Zichri_7,descendant,Reuben_1,explicit,1CH 27:16,
 Maacah_8:Shephatiah_4:3775,3775,Maacah_8,father,Shephatiah_4,inferred,1CH 27:16,
 Shephatiah_4:Maacah_8:3776,3776,Shephatiah_4,son,Maacah_8,explicit,1CH 27:16,
-Simeon_1:Maacah_8:3777,3777,Simeon_1,ancestor,Maacah_8,inferred,1CH 27:16,
+Simeon_1:Maacah_8:3777,3777,Simeon_1,ancestor,Maacah_8,inferred,1CH 27:16,"implied from Maacah's tribe field, which matches Simeon"
 Maacah_8:Simeon_1:3778,3778,Maacah_8,descendant,Simeon_1,explicit,1CH 27:16,
 Kemuel_3:Hashabiah_3:3779,3779,Kemuel_3,father,Hashabiah_3,inferred,1CH 27:17,
 Hashabiah_3:Kemuel_3:3780,3780,Hashabiah_3,son,Kemuel_3,explicit,1CH 27:17,
-Levi_1:Kemuel_3:3781,3781,Levi_1,ancestor,Kemuel_3,inferred,1CH 27:17,
+Levi_1:Kemuel_3:3781,3781,Levi_1,ancestor,Kemuel_3,inferred,1CH 27:17,"implied from Kemuel's tribe field, which matches Levi"
 Kemuel_3:Levi_1:3782,3782,Kemuel_3,descendant,Levi_1,explicit,1CH 27:17,
 David_1:Elihu_4:3783,3783,David_1,brother,Elihu_4,inferred,1CH 27:18,
 Elihu_4:David_1:3784,3784,Elihu_4,brother,David_1,explicit,1CH 27:18,
@@ -3787,29 +3787,29 @@ Michael_4:Omri_4:3785,3785,Michael_4,father,Omri_4,inferred,1CH 27:18,
 Omri_4:Michael_4:3786,3786,Omri_4,son,Michael_4,explicit,1CH 27:18,
 Obadiah_7:Ishmaiah_1:3787,3787,Obadiah_7,father,Ishmaiah_1,inferred,1CH 27:19,
 Ishmaiah_1:Obadiah_7:3788,3788,Ishmaiah_1,son,Obadiah_7,explicit,1CH 27:19,
-Zebulun_1:Obadiah_7:3789,3789,Zebulun_1,ancestor,Obadiah_7,inferred,1CH 27:19,
+Zebulun_1:Obadiah_7:3789,3789,Zebulun_1,ancestor,Obadiah_7,inferred,1CH 27:19,"implied from Obadiah's tribe field, which matches Zebulun"
 Obadiah_7:Zebulun_1:3790,3790,Obadiah_7,descendant,Zebulun_1,explicit,1CH 27:19,
 Azriel_2:Jeremoth_4:3791,3791,Azriel_2,father,Jeremoth_4,inferred,1CH 27:19,
 Jeremoth_4:Azriel_2:3792,3792,Jeremoth_4,son,Azriel_2,explicit,1CH 27:19,
-Naphtali_1:Azriel_2:3793,3793,Naphtali_1,ancestor,Azriel_2,inferred,1CH 27:19,
+Naphtali_1:Azriel_2:3793,3793,Naphtali_1,ancestor,Azriel_2,inferred,1CH 27:19,"implied from Azriel's tribe field, which matches Naphtali"
 Azriel_2:Naphtali_1:3794,3794,Azriel_2,descendant,Naphtali_1,explicit,1CH 27:19,
 Azaziah_2:Hoshea_2:3795,3795,Azaziah_2,father,Hoshea_2,inferred,1CH 27:20,
 Hoshea_2:Azaziah_2:3796,3796,Hoshea_2,son,Azaziah_2,explicit,1CH 27:20,
-Ephraim_1:Azaziah_2:3797,3797,Ephraim_1,ancestor,Azaziah_2,inferred,1CH 27:20,
+Ephraim_1:Azaziah_2:3797,3797,Ephraim_1,ancestor,Azaziah_2,inferred,1CH 27:20,"implied from Azaziah's tribe field, which matches Ephraim"
 Azaziah_2:Ephraim_1:3798,3798,Azaziah_2,descendant,Ephraim_1,explicit,1CH 27:20,
 Pedaiah_3:Joel_7:3799,3799,Pedaiah_3,father,Joel_7,inferred,1CH 27:20,
 Joel_7:Pedaiah_3:3800,3800,Joel_7,son,Pedaiah_3,explicit,1CH 27:20,
-Manasseh_1:Pedaiah_3:3801,3801,Manasseh_1,ancestor,Pedaiah_3,inferred,1CH 27:20,
+Manasseh_1:Pedaiah_3:3801,3801,Manasseh_1,ancestor,Pedaiah_3,inferred,1CH 27:20,"implied from Pedaiah's tribe field, which matches Manasseh"
 Pedaiah_3:Manasseh_1:3802,3802,Pedaiah_3,descendant,Manasseh_1,explicit,1CH 27:20,
 Zechariah_8:Iddo_3:3803,3803,Zechariah_8,father,Iddo_3,inferred,1CH 27:21,
 Iddo_3:Zechariah_8:3804,3804,Iddo_3,son,Zechariah_8,explicit,1CH 27:21,
-Manasseh_1:Zechariah_8:3805,3805,Manasseh_1,ancestor,Zechariah_8,inferred,1CH 27:21,
+Manasseh_1:Zechariah_8:3805,3805,Manasseh_1,ancestor,Zechariah_8,inferred,1CH 27:21,"implied from Zechariah's tribe field, which matches Manasseh"
 Zechariah_8:Manasseh_1:3806,3806,Zechariah_8,descendant,Manasseh_1,explicit,1CH 27:21,
 Abner_1:Jaasiel_2:3807,3807,Abner_1,father,Jaasiel_2,inferred,1CH 27:21,
 Jaasiel_2:Abner_1:3808,3808,Jaasiel_2,son,Abner_1,explicit,1CH 27:21,
 Jeroham_5:Azarel_2:3809,3809,Jeroham_5,father,Azarel_2,inferred,1CH 27:22,
 Azarel_2:Jeroham_5:3810,3810,Azarel_2,son,Jeroham_5,explicit,1CH 27:22,
-Dan_1:Jeroham_5:3811,3811,Dan_1,ancestor,Jeroham_5,inferred,1CH 27:22,
+Dan_1:Jeroham_5:3811,3811,Dan_1,ancestor,Jeroham_5,inferred,1CH 27:22,"implied from Jeroham's tribe field, which matches Dan"
 Jeroham_5:Dan_1:3812,3812,Jeroham_5,descendant,Dan_1,explicit,1CH 27:22,
 Adiel_2:Azmaveth_3:3813,3813,Adiel_2,father,Azmaveth_3,inferred,1CH 27:25,
 Azmaveth_3:Adiel_2:3814,3814,Azmaveth_3,son,Adiel_2,explicit,1CH 27:25,
@@ -3819,7 +3819,7 @@ Chelub_1:Ezri_1:3817,3817,Chelub_1,father,Ezri_1,inferred,1CH 27:26,
 Ezri_1:Chelub_1:3818,3818,Ezri_1,son,Chelub_1,explicit,1CH 27:26,
 Adlai_1:Shaphat_5:3819,3819,Adlai_1,father,Shaphat_5,inferred,1CH 27:29,
 Shaphat_5:Adlai_1:3820,3820,Shaphat_5,son,Adlai_1,explicit,1CH 27:29,
-Ishmael_1:Obil_1:3821,3821,Ishmael_1,ancestor,Obil_1,inferred,1CH 27:30,
+Ishmael_1:Obil_1:3821,3821,Ishmael_1,ancestor,Obil_1,inferred,1CH 27:30,"implied from Obil's tribe field, which matches Ishmael"
 Obil_1:Ishmael_1:3822,3822,Obil_1,descendant,Ishmael_1,explicit,1CH 27:30,
 Hachmoni_1:Jehiel_2:3823,3823,Hachmoni_1,father,Jehiel_2,inferred,1CH 27:32,
 Jehiel_2:Hachmoni_1:3824,3824,Jehiel_2,son,Hachmoni_1,explicit,1CH 27:32,
@@ -3859,31 +3859,31 @@ Maacah_3:Shelomith_4:3857,3857,Maacah_3,mother,Shelomith_4,inferred,2CH 11:20,
 Shelomith_4:Maacah_3:3858,3858,Shelomith_4,son,Maacah_3,explicit,2CH 11:20,
 Oded_1:Azariah_8:3859,3859,Oded_1,father,Azariah_8,inferred,2CH 15:1,
 Azariah_8:Oded_1:3860,3860,Azariah_8,son,Oded_1,explicit,2CH 15:1,
-Levi_1:Shemaiah_10:3861,3861,Levi_1,ancestor,Shemaiah_10,inferred,2CH 17:8,
+Levi_1:Shemaiah_10:3861,3861,Levi_1,ancestor,Shemaiah_10,inferred,2CH 17:8,"implied from Shemaiah's tribe field, which matches Levi"
 Shemaiah_10:Levi_1:3862,3862,Shemaiah_10,descendant,Levi_1,explicit,2CH 17:8,
-Levi_1:Nethaniah_3:3863,3863,Levi_1,ancestor,Nethaniah_3,inferred,2CH 17:8,
+Levi_1:Nethaniah_3:3863,3863,Levi_1,ancestor,Nethaniah_3,inferred,2CH 17:8,"implied from Nethaniah's tribe field, which matches Levi"
 Nethaniah_3:Levi_1:3864,3864,Nethaniah_3,descendant,Levi_1,explicit,2CH 17:8,
-Levi_1:Zebadiah_6:3865,3865,Levi_1,ancestor,Zebadiah_6,inferred,2CH 17:8,
+Levi_1:Zebadiah_6:3865,3865,Levi_1,ancestor,Zebadiah_6,inferred,2CH 17:8,"implied from Zebadiah's tribe field, which matches Levi"
 Zebadiah_6:Levi_1:3866,3866,Zebadiah_6,descendant,Levi_1,explicit,2CH 17:8,
-Levi_1:Asahel_2:3867,3867,Levi_1,ancestor,Asahel_2,inferred,2CH 17:8,
+Levi_1:Asahel_2:3867,3867,Levi_1,ancestor,Asahel_2,inferred,2CH 17:8,"implied from Asahel's tribe field, which matches Levi"
 Asahel_2:Levi_1:3868,3868,Asahel_2,descendant,Levi_1,explicit,2CH 17:8,
-Levi_1:Shemiramoth_2:3869,3869,Levi_1,ancestor,Shemiramoth_2,inferred,2CH 17:8,
+Levi_1:Shemiramoth_2:3869,3869,Levi_1,ancestor,Shemiramoth_2,inferred,2CH 17:8,"implied from Shemiramoth's tribe field, which matches Levi"
 Shemiramoth_2:Levi_1:3870,3870,Shemiramoth_2,descendant,Levi_1,explicit,2CH 17:8,
-Levi_1:Jehonathan_1:3871,3871,Levi_1,ancestor,Jehonathan_1,inferred,2CH 17:8,
+Levi_1:Jehonathan_1:3871,3871,Levi_1,ancestor,Jehonathan_1,inferred,2CH 17:8,"implied from Jehonathan's tribe field, which matches Levi"
 Jehonathan_1:Levi_1:3872,3872,Jehonathan_1,descendant,Levi_1,explicit,2CH 17:8,
-Levi_1:Adonijah_2:3873,3873,Levi_1,ancestor,Adonijah_2,inferred,2CH 17:8,
+Levi_1:Adonijah_2:3873,3873,Levi_1,ancestor,Adonijah_2,inferred,2CH 17:8,"implied from Adonijah's tribe field, which matches Levi"
 Adonijah_2:Levi_1:3874,3874,Adonijah_2,descendant,Levi_1,explicit,2CH 17:8,
-Levi_1:Tobijah_1:3875,3875,Levi_1,ancestor,Tobijah_1,inferred,2CH 17:8,
+Levi_1:Tobijah_1:3875,3875,Levi_1,ancestor,Tobijah_1,inferred,2CH 17:8,"implied from Tobijah's tribe field, which matches Levi"
 Tobijah_1:Levi_1:3876,3876,Tobijah_1,descendant,Levi_1,explicit,2CH 17:8,
-Levi_1:Tobadonijah_1:3877,3877,Levi_1,ancestor,Tobadonijah_1,inferred,2CH 17:8,
+Levi_1:Tobadonijah_1:3877,3877,Levi_1,ancestor,Tobadonijah_1,inferred,2CH 17:8,"implied from Tobadonijah's tribe field, which matches Levi"
 Tobadonijah_1:Levi_1:3878,3878,Tobadonijah_1,descendant,Levi_1,explicit,2CH 17:8,
-Aaron_1:Elishama_5:3879,3879,Aaron_1,ancestor,Elishama_5,inferred,2CH 17:8,
-Elishama_5:Aaron_1:3880,3880,Elishama_5,descendant,Aaron_1,explicit,2CH 17:8,
-Aaron_1:Jehoram_3:3881,3881,Aaron_1,ancestor,Jehoram_3,inferred,2CH 17:8,
-Jehoram_3:Aaron_1:3882,3882,Jehoram_3,descendant,Aaron_1,explicit,2CH 17:8,
+Aaron_1:Elishama_5:3879,3879,Aaron_1,ancestor,Elishama_5,inferred,2CH 17:8,"as a priest, Elishama would have been a descendant of Aaron"
+Elishama_5:Aaron_1:3880,3880,Elishama_5,descendant,Aaron_1,explicit,2CH 17:8,"as a priest, Elishama would have been a descendant of Aaron"
+Aaron_1:Jehoram_3:3881,3881,Aaron_1,ancestor,Jehoram_3,inferred,2CH 17:8,"as a priest, Jehoram would have been a descendant of Aaron"
+Jehoram_3:Aaron_1:3882,3882,Jehoram_3,descendant,Aaron_1,explicit,2CH 17:8,"as a priest, Jehoram would have been a descendant of Aaron"
 Zichri_8:Amasiah_1:3883,3883,Zichri_8,father,Amasiah_1,inferred,2CH 17:16,
 Amasiah_1:Zichri_8:3884,3884,Amasiah_1,son,Zichri_8,explicit,2CH 17:16,
-Benjamin_1:Eliada_3:3885,3885,Benjamin_1,ancestor,Eliada_3,inferred,2CH 17:17,
+Benjamin_1:Eliada_3:3885,3885,Benjamin_1,ancestor,Eliada_3,inferred,2CH 17:17,"implied from Eliada's tribe field, which matches Benjamin"
 Eliada_3:Benjamin_1:3886,3886,Eliada_3,descendant,Benjamin_1,explicit,2CH 17:17,
 Ishmael_4:Zebadiah_7:3887,3887,Ishmael_4,father,Zebadiah_7,inferred,2CH 19:11,
 Zebadiah_7:Ishmael_4:3888,3888,Zebadiah_7,son,Ishmael_4,explicit,2CH 19:11,
@@ -3935,25 +3935,25 @@ Zichri_9:Elishaphat_1:3933,3933,Zichri_9,father,Elishaphat_1,inferred,2CH 23:1,
 Elishaphat_1:Zichri_9:3934,3934,Elishaphat_1,son,Zichri_9,explicit,2CH 23:1,
 Jehoiada_2:Zechariah_12:3935,3935,Jehoiada_2,father,Zechariah_12,inferred,2CH 24:20,
 Zechariah_12:Jehoiada_2:3936,3936,Zechariah_12,son,Jehoiada_2,explicit,2CH 24:20,
-Ephraim_1:Zichri_10:3937,3937,Ephraim_1,ancestor,Zichri_10,inferred,2CH 28:7,
+Ephraim_1:Zichri_10:3937,3937,Ephraim_1,ancestor,Zichri_10,inferred,2CH 28:7,"implied from Zichri's tribe field, which matches Ephraim"
 Zichri_10:Ephraim_1:3938,3938,Zichri_10,descendant,Ephraim_1,explicit,2CH 28:7,
 Ahaz_1:Maaseiah_4:3939,3939,Ahaz_1,father,Maaseiah_4,inferred,2CH 28:7,
 Maaseiah_4:Ahaz_1:3940,3940,Maaseiah_4,son,Ahaz_1,explicit,2CH 28:7,
 Johanan_9:Azariah_12:3941,3941,Johanan_9,father,Azariah_12,inferred,2CH 28:12,
 Azariah_12:Johanan_9:3942,3942,Azariah_12,son,Johanan_9,explicit,2CH 28:12,
-Ephraim_1:Johanan_9:3943,3943,Ephraim_1,ancestor,Johanan_9,inferred,2CH 28:12,
+Ephraim_1:Johanan_9:3943,3943,Ephraim_1,ancestor,Johanan_9,inferred,2CH 28:12,"implied from Johanan's tribe field, which matches Ephraim"
 Johanan_9:Ephraim_1:3944,3944,Johanan_9,descendant,Ephraim_1,explicit,2CH 28:12,
 Meshillemoth_1:Berechiah_4:3945,3945,Meshillemoth_1,father,Berechiah_4,inferred,2CH 28:12,
 Berechiah_4:Meshillemoth_1:3946,3946,Berechiah_4,son,Meshillemoth_1,explicit,2CH 28:12,
-Ephraim_1:Meshillemoth_1:3947,3947,Ephraim_1,ancestor,Meshillemoth_1,inferred,2CH 28:12,
+Ephraim_1:Meshillemoth_1:3947,3947,Ephraim_1,ancestor,Meshillemoth_1,inferred,2CH 28:12,"implied from Meshillemoth's tribe field, which matches Ephraim"
 Meshillemoth_1:Ephraim_1:3948,3948,Meshillemoth_1,descendant,Ephraim_1,explicit,2CH 28:12,
 Shallum_8:Jehikhiah_1:3949,3949,Shallum_8,father,Jehikhiah_1,inferred,2CH 28:12,
 Jehikhiah_1:Shallum_8:3950,3950,Jehikhiah_1,son,Shallum_8,explicit,2CH 28:12,
-Ephraim_1:Shallum_8:3951,3951,Ephraim_1,ancestor,Shallum_8,inferred,2CH 28:12,
+Ephraim_1:Shallum_8:3951,3951,Ephraim_1,ancestor,Shallum_8,inferred,2CH 28:12,"implied from Shallum's tribe field, which matches Ephraim"
 Shallum_8:Ephraim_1:3952,3952,Shallum_8,descendant,Ephraim_1,explicit,2CH 28:12,
 Hadlai_1:Amasa_2:3953,3953,Hadlai_1,father,Amasa_2,inferred,2CH 28:12,
 Amasa_2:Hadlai_1:3954,3954,Amasa_2,son,Hadlai_1,explicit,2CH 28:12,
-Ephraim_1:Hadlai_1:3955,3955,Ephraim_1,ancestor,Hadlai_1,inferred,2CH 28:12,
+Ephraim_1:Hadlai_1:3955,3955,Ephraim_1,ancestor,Hadlai_1,inferred,2CH 28:12,"implied from Hadlai's tribe field, which matches Ephraim"
 Hadlai_1:Ephraim_1:3956,3956,Hadlai_1,descendant,Ephraim_1,explicit,2CH 28:12,
 Azariah_13:Joel_8:3957,3957,Azariah_13,father,Joel_8,inferred,2CH 29:12,
 Joel_8:Azariah_13:3958,3958,Joel_8,son,Azariah_13,explicit,2CH 29:12,
@@ -3983,33 +3983,33 @@ Jeduthun_1:Uzziel_5:3981,3981,Jeduthun_1,ancestor,Uzziel_5,inferred,2CH 29:13,
 Uzziel_5:Jeduthun_1:3982,3982,Uzziel_5,descendant,Jeduthun_1,explicit,2CH 29:13,
 Zadok_1:Azariah_15:3983,3983,Zadok_1,ancestor,Azariah_15,inferred,2CH 31:10,
 Azariah_15:Zadok_1:3984,3984,Azariah_15,descendant,Zadok_1,explicit,2CH 31:10,
-Levi_1:Conaniah_1:3985,3985,Levi_1,ancestor,Conaniah_1,inferred,2CH 31:13,
+Levi_1:Conaniah_1:3985,3985,Levi_1,ancestor,Conaniah_1,inferred,2CH 31:13,"implied from Conaniah's tribe field, which matches Levi"
 Conaniah_1:Levi_1:3986,3986,Conaniah_1,descendant,Levi_1,explicit,2CH 31:13,
-Levi_1:Shimei_13:3987,3987,Levi_1,ancestor,Shimei_13,inferred,2CH 31:13,
+Levi_1:Shimei_13:3987,3987,Levi_1,ancestor,Shimei_13,inferred,2CH 31:13,"implied from Shimei's tribe field, which matches Levi"
 Shimei_13:Levi_1:3988,3988,Shimei_13,descendant,Levi_1,explicit,2CH 31:13,
 Conaniah_1:Shimei_13:3989,3989,Conaniah_1,brother,Shimei_13,inferred,2CH 31:13,
 Shimei_13:Conaniah_1:3990,3990,Shimei_13,brother,Conaniah_1,explicit,2CH 31:13,
-Levi_1:Azaziah_3:3991,3991,Levi_1,ancestor,Azaziah_3,inferred,2CH 31:13,
-Azaziah_3:Levi_1:3992,3992,Azaziah_3,descendant,Levi_1,inferred,2CH 31:13,
-Levi_1:Nahath_2:3993,3993,Levi_1,ancestor,Nahath_2,inferred,2CH 31:13,
-Nahath_2:Levi_1:3994,3994,Nahath_2,descendant,Levi_1,inferred,2CH 31:13,
-Levi_1:Asahel_3:3995,3995,Levi_1,ancestor,Asahel_3,inferred,2CH 31:13,
-Asahel_3:Levi_1:3996,3996,Asahel_3,descendant,Levi_1,inferred,2CH 31:13,
-Levi_1:Jerimoth_5:3997,3997,Levi_1,ancestor,Jerimoth_5,inferred,2CH 31:13,
-Jerimoth_5:Levi_1:3998,3998,Jerimoth_5,descendant,Levi_1,inferred,2CH 31:13,
-Levi_1:Jozabad_4:3999,3999,Levi_1,ancestor,Jozabad_4,inferred,2CH 31:13,
-Jozabad_4:Levi_1:4000,4000,Jozabad_4,descendant,Levi_1,inferred,2CH 31:13,
-Levi_1:Eliel_8:4001,4001,Levi_1,ancestor,Eliel_8,inferred,2CH 31:13,
-Eliel_8:Levi_1:4002,4002,Eliel_8,descendant,Levi_1,inferred,2CH 31:13,
-Levi_1:Ismachiah_1:4003,4003,Levi_1,ancestor,Ismachiah_1,inferred,2CH 31:13,
-Ismachiah_1:Levi_1:4004,4004,Ismachiah_1,descendant,Levi_1,inferred,2CH 31:13,
-Levi_1:Mahath_2:4005,4005,Levi_1,ancestor,Mahath_2,inferred,2CH 31:13,
-Mahath_2:Levi_1:4006,4006,Mahath_2,descendant,Levi_1,inferred,2CH 31:13,
-Levi_1:Benaiah_6:4007,4007,Levi_1,ancestor,Benaiah_6,inferred,2CH 31:13,
-Benaiah_6:Levi_1:4008,4008,Benaiah_6,descendant,Levi_1,inferred,2CH 31:13,
+Levi_1:Azaziah_3:3991,3991,Levi_1,ancestor,Azaziah_3,inferred,2CH 31:13,"implied from Azaziah's tribe field, which matches Levi"
+Azaziah_3:Levi_1:3992,3992,Azaziah_3,descendant,Levi_1,inferred,2CH 31:13,"implied from Azaziah's tribe field, which matches Levi"
+Levi_1:Nahath_2:3993,3993,Levi_1,ancestor,Nahath_2,inferred,2CH 31:13,"implied from Nahath's tribe field, which matches Levi"
+Nahath_2:Levi_1:3994,3994,Nahath_2,descendant,Levi_1,inferred,2CH 31:13,"implied from Nahath's tribe field, which matches Levi"
+Levi_1:Asahel_3:3995,3995,Levi_1,ancestor,Asahel_3,inferred,2CH 31:13,"implied from Asahel's tribe field, which matches Levi"
+Asahel_3:Levi_1:3996,3996,Asahel_3,descendant,Levi_1,inferred,2CH 31:13,"implied from Asahel's tribe field, which matches Levi"
+Levi_1:Jerimoth_5:3997,3997,Levi_1,ancestor,Jerimoth_5,inferred,2CH 31:13,"implied from Jerimoth's tribe field, which matches Levi"
+Jerimoth_5:Levi_1:3998,3998,Jerimoth_5,descendant,Levi_1,inferred,2CH 31:13,"implied from Jerimoth's tribe field, which matches Levi"
+Levi_1:Jozabad_4:3999,3999,Levi_1,ancestor,Jozabad_4,inferred,2CH 31:13,"implied from Jozabad's tribe field, which matches Levi"
+Jozabad_4:Levi_1:4000,4000,Jozabad_4,descendant,Levi_1,inferred,2CH 31:13,"implied from Jozabad's tribe field, which matches Levi"
+Levi_1:Eliel_8:4001,4001,Levi_1,ancestor,Eliel_8,inferred,2CH 31:13,"implied from Eliel's tribe field, which matches Levi"
+Eliel_8:Levi_1:4002,4002,Eliel_8,descendant,Levi_1,inferred,2CH 31:13,"implied from Eliel's tribe field, which matches Levi"
+Levi_1:Ismachiah_1:4003,4003,Levi_1,ancestor,Ismachiah_1,inferred,2CH 31:13,"implied from Ismachiah's tribe field, which matches Levi"
+Ismachiah_1:Levi_1:4004,4004,Ismachiah_1,descendant,Levi_1,inferred,2CH 31:13,"implied from Ismachiah's tribe field, which matches Levi"
+Levi_1:Mahath_2:4005,4005,Levi_1,ancestor,Mahath_2,inferred,2CH 31:13,"implied from Mahath's tribe field, which matches Levi"
+Mahath_2:Levi_1:4006,4006,Mahath_2,descendant,Levi_1,inferred,2CH 31:13,"implied from Mahath's tribe field, which matches Levi"
+Levi_1:Benaiah_6:4007,4007,Levi_1,ancestor,Benaiah_6,inferred,2CH 31:13,"implied from Benaiah's tribe field, which matches Levi"
+Benaiah_6:Levi_1:4008,4008,Benaiah_6,descendant,Levi_1,inferred,2CH 31:13,"implied from Benaiah's tribe field, which matches Levi"
 Korah_3:Kore_1:4009,4009,Korah_3,ancestor,Kore_1,inferred,1CH 9:19,Ebiasaph is the father of Kore (2CH 31:14) who is a decsendant of Korah (1CH 9:19)
 Kore_1:Korah_3:4010,4010,Kore_1,descendant,Korah_3,inferred,1CH 9:19,Ebiasaph is the father of Kore (2CH 31:14) who is a decsendant of Korah (1CH 9:19)
-Levi_1:Imnah_2:4011,4011,Levi_1,ancestor,Imnah_2,inferred,2CH 31:14,
+Levi_1:Imnah_2:4011,4011,Levi_1,ancestor,Imnah_2,inferred,2CH 31:14,"implied from Imnah's tribe field, which matches Levi"
 Imnah_2:Levi_1:4012,4012,Imnah_2,descendant,Levi_1,explicit,2CH 31:14,
 Imnah_2:Kore_2:4013,4013,Imnah_2,father,Kore_2,inferred,2CH 31:14,
 Kore_2:Imnah_2:4014,4014,Kore_2,son,Imnah_2,explicit,2CH 31:14,
@@ -4033,7 +4033,7 @@ Kohath_1:Zechariah_15:4031,4031,Kohath_1,ancestor,Zechariah_15,inferred,2CH 34:1
 Zechariah_15:Kohath_1:4032,4032,Zechariah_15,descendant,Kohath_1,explicit,2CH 34:12,
 Kohath_1:Meshullam_7:4033,4033,Kohath_1,ancestor,Meshullam_7,inferred,2CH 34:12,
 Meshullam_7:Kohath_1:4034,4034,Meshullam_7,descendant,Kohath_1,explicit,2CH 34:12,
-Judah_1:Sheshbazzar_1:4035,4035,Judah_1,ancestor,Sheshbazzar_1,inferred,EZR 1:8,
+Judah_1:Sheshbazzar_1:4035,4035,Judah_1,ancestor,Sheshbazzar_1,inferred,EZR 1:8,"implied from Sheshbazzar's tribe field, which matches Judah"
 Sheshbazzar_1:Judah_1:4036,4036,Sheshbazzar_1,descendant,Judah_1,explicit,EZR 1:8,
 Jacob_1:Zerubbabel_2:4037,4037,Jacob_1,ancestor,Zerubbabel_2,explicit,EZR 2:2,
 Zerubbabel_2:Jacob_1:4038,4038,Zerubbabel_2,descendant,Jacob_1,inferred,EZR 2:2,
@@ -4114,7 +4114,7 @@ Jeshua_5:Hodaviah_5:4112,4112,Jeshua_5,descendant,Hodaviah_5,inferred,EZR 2:40,
 Hodaviah_5:Kadmiel_1:4113,4113,Hodaviah_5,ancestor,Kadmiel_1,explicit,EZR 2:40,
 Kadmiel_1:Hodaviah_5:4114,4114,Kadmiel_1,descendant,Hodaviah_5,inferred,EZR 2:40,
 Levi_1:Hodaviah_5:4115,4115,Levi_1,ancestor,Hodaviah_5,explicit,EZR 2:40,
-Hodaviah_5:Levi_1:4116,4116,Hodaviah_5,descendant,Levi_1,inferred,EZR 2:40,
+Hodaviah_5:Levi_1:4116,4116,Hodaviah_5,descendant,Levi_1,inferred,EZR 2:40,"implied from Hodaviah's tribe field, which matches Levi"
 Levi_1:Ater_2:4117,4117,Levi_1,ancestor,Ater_2,explicit,EZR 2:42,Levitical gatekeepers
 Ater_2:Levi_1:4118,4118,Ater_2,descendant,Levi_1,inferred,EZR 2:42,Levitical gatekeepers
 Levi_1:Hatita_1:4119,4119,Levi_1,ancestor,Hatita_1,explicit,EZR 2:42,Levitical gatekeepers
@@ -4199,8 +4199,8 @@ Aaron_1:Jozadak_1:4197,4197,Aaron_1,ancestor,Jozadak_1,inferred,EZR 3:2,"""the p
 Jozadak_1:Aaron_1:4198,4198,Jozadak_1,descendant,Aaron_1,inferred,EZR 3:2,"""the priests"" rather than ""Levites"" (EZR 3:2)"
 Shealtiel_2:Zerubbabel_2:4199,4199,Shealtiel_2,father,Zerubbabel_2,inferred,EZR 3:2,
 Zerubbabel_2:Shealtiel_2:4200,4200,Zerubbabel_2,son,Shealtiel_2,explicit,EZR 3:2,
-Levi_1:Shealtiel_2:4201,4201,Levi_1,ancestor,Shealtiel_2,inferred,EZR 3:2,
-Shealtiel_2:Levi_1:4202,4202,Shealtiel_2,descendant,Levi_1,inferred,EZR 3:2,
+Levi_1:Shealtiel_2:4201,4201,Levi_1,ancestor,Shealtiel_2,inferred,EZR 3:2,"implied from Shealtiel's tribe field, which matches Levi"
+Shealtiel_2:Levi_1:4202,4202,Shealtiel_2,descendant,Levi_1,inferred,EZR 3:2,"implied from Shealtiel's tribe field, which matches Levi"
 Jacob_1:Haggai_1:4203,4203,Jacob_1,ancestor,Haggai_1,inferred,EZR 5:1,
 Haggai_1:Jacob_1:4204,4204,Haggai_1,descendant,Jacob_1,inferred,EZR 5:1,
 Iddo_5:Zechariah_13:4205,4205,Iddo_5,grandfather,Zechariah_13,inferred,EZR 5:1,"EZR 5:1 indicates ""son"", however, ZEC 1:1 indicates ""grandson"""
@@ -4259,27 +4259,27 @@ Bigvai_1:Uthai_2:4257,4257,Bigvai_1,ancestor,Uthai_2,inferred,EZR 8:14,
 Uthai_2:Bigvai_1:4258,4258,Uthai_2,descendant,Bigvai_1,explicit,EZR 8:14,
 Bigvai_1:Zabbud_1:4259,4259,Bigvai_1,ancestor,Zabbud_1,inferred,EZR 8:14,
 Zabbud_1:Bigvai_1:4260,4260,Zabbud_1,descendant,Bigvai_1,explicit,EZR 8:14,
-Levi_1:Eliezer_7:4261,4261,Levi_1,ancestor,Eliezer_7,inferred,EZR 8:16,
-Eliezer_7:Levi_1:4262,4262,Eliezer_7,descendant,Levi_1,explicit,EZR 8:16,
-Levi_1:Ariel_2:4263,4263,Levi_1,ancestor,Ariel_2,inferred,EZR 8:16,
+Levi_1:Eliezer_7:4261,4261,Levi_1,ancestor,Eliezer_7,inferred,EZR 8:16,"as a priest, Eliezer would have been a descendant of Levi"
+Eliezer_7:Levi_1:4262,4262,Eliezer_7,descendant,Levi_1,explicit,EZR 8:16,"as a priest, Eliezer would have been a descendant of Levi"
+Levi_1:Ariel_2:4263,4263,Levi_1,ancestor,Ariel_2,inferred,EZR 8:16,"implied from Ariel's tribe field, which matches Levi"
 Ariel_2:Levi_1:4264,4264,Ariel_2,descendant,Levi_1,explicit,EZR 8:16,
 Levi_1:Shemaiah_14:4265,4265,Levi_1,ancestor,Shemaiah_14,inferred,EZR 8:16,
 Shemaiah_14:Levi_1:4266,4266,Shemaiah_14,descendant,Levi_1,explicit,EZR 8:16,
-Levi_1:Elnathan_2:4267,4267,Levi_1,ancestor,Elnathan_2,inferred,EZR 8:16,
+Levi_1:Elnathan_2:4267,4267,Levi_1,ancestor,Elnathan_2,inferred,EZR 8:16,"implied from Elnathan's tribe field, which matches Levi"
 Elnathan_2:Levi_1:4268,4268,Elnathan_2,descendant,Levi_1,explicit,EZR 8:16,
 Aaron_1:Jarib_1:4269,4269,Aaron_1,ancestor,Jarib_1,inferred,EZR 8:16,Listed among the priests who married foreign wives (EZR 10:18)
 Jarib_1:Aaron_1:4270,4270,Jarib_1,descendant,Aaron_1,explicit,EZR 8:16,Listed among the priests who married foreign wives (EZR 10:18)
-Levi_1:Elnathan_3:4271,4271,Levi_1,ancestor,Elnathan_3,inferred,EZR 8:16,
+Levi_1:Elnathan_3:4271,4271,Levi_1,ancestor,Elnathan_3,inferred,EZR 8:16,"implied from Elnathan's tribe field, which matches Levi"
 Elnathan_3:Levi_1:4272,4272,Elnathan_3,descendant,Levi_1,explicit,EZR 8:16,
-Levi_1:Nathan_7:4273,4273,Levi_1,ancestor,Nathan_7,inferred,EZR 8:16,
+Levi_1:Nathan_7:4273,4273,Levi_1,ancestor,Nathan_7,inferred,EZR 8:16,"implied from Nathan's tribe field, which matches Levi"
 Nathan_7:Levi_1:4274,4274,Nathan_7,descendant,Levi_1,explicit,EZR 8:16,
-Levi_1:Meshullam_8:4275,4275,Levi_1,ancestor,Meshullam_8,inferred,EZR 8:16,
+Levi_1:Meshullam_8:4275,4275,Levi_1,ancestor,Meshullam_8,inferred,EZR 8:16,"implied from Meshullam's tribe field, which matches Levi"
 Meshullam_8:Levi_1:4276,4276,Meshullam_8,descendant,Levi_1,explicit,EZR 8:16,
-Levi_1:Joiarib_1:4277,4277,Levi_1,ancestor,Joiarib_1,inferred,EZR 8:16,
+Levi_1:Joiarib_1:4277,4277,Levi_1,ancestor,Joiarib_1,inferred,EZR 8:16,"implied from Joiarib's tribe field, which matches Levi"
 Joiarib_1:Levi_1:4278,4278,Joiarib_1,descendant,Levi_1,explicit,EZR 8:16,
-Levi_1:Elnathan_4:4279,4279,Levi_1,ancestor,Elnathan_4,inferred,EZR 8:16,
+Levi_1:Elnathan_4:4279,4279,Levi_1,ancestor,Elnathan_4,inferred,EZR 8:16,"implied from Elnathan's tribe field, which matches Levi"
 Elnathan_4:Levi_1:4280,4280,Elnathan_4,descendant,Levi_1,explicit,EZR 8:16,
-Levi_1:Iddo_6:4281,4281,Levi_1,ancestor,Iddo_6,inferred,EZR 8:17,
+Levi_1:Iddo_6:4281,4281,Levi_1,ancestor,Iddo_6,inferred,EZR 8:17,"implied from Iddo's tribe field, which matches Levi"
 Iddo_6:Levi_1:4282,4282,Iddo_6,descendant,Levi_1,explicit,EZR 8:17,
 Mahli_1:Sherebiah_1:4283,4283,Mahli_1,ancestor,Sherebiah_1,inferred,EZR 8:18,
 Sherebiah_1:Mahli_1:4284,4284,Sherebiah_1,descendant,Mahli_1,explicit,EZR 8:18,
@@ -4289,15 +4289,15 @@ Merari_1:Jeshaiah_4:4287,4287,Merari_1,ancestor,Jeshaiah_4,inferred,EZR 8:19,
 Jeshaiah_4:Merari_1:4288,4288,Jeshaiah_4,descendant,Merari_1,explicit,EZR 8:19,
 Uriah_2:Meremoth_1:4289,4289,Uriah_2,father,Meremoth_1,inferred,EZR 8:33,
 Meremoth_1:Uriah_2:4290,4290,Meremoth_1,son,Uriah_2,explicit,EZR 8:33,
-Aaron_1:Uriah_2:4291,4291,Aaron_1,ancestor,Uriah_2,inferred,EZR 8:33,
-Uriah_2:Aaron_1:4292,4292,Uriah_2,descendant,Aaron_1,explicit,EZR 8:33,
+Aaron_1:Uriah_2:4291,4291,Aaron_1,ancestor,Uriah_2,inferred,EZR 8:33,"as a priest, Uriah would have been a descendant of Aaron"
+Uriah_2:Aaron_1:4292,4292,Uriah_2,descendant,Aaron_1,explicit,EZR 8:33,"as a priest, Uriah would have been a descendant of Aaron"
 Phinehas_1:Eleazar_6:4293,4293,Phinehas_1,ancestor,Eleazar_6,inferred,EZR 8:33,
 Eleazar_6:Phinehas_1:4294,4294,Eleazar_6,descendant,Phinehas_1,explicit,EZR 8:33,
 Jeshua_5:Jozabad_5:4295,4295,Jeshua_5,father,Jozabad_5,inferred,EZR 8:33,
 Jozabad_5:Jeshua_5:4296,4296,Jozabad_5,son,Jeshua_5,explicit,EZR 8:33,
 Binnui_1:Noadiah_1:4297,4297,Binnui_1,father,Noadiah_1,inferred,EZR 8:33,
 Noadiah_1:Binnui_1:4298,4298,Noadiah_1,son,Binnui_1,explicit,EZR 8:33,
-Levi_1:Binnui_1:4299,4299,Levi_1,ancestor,Binnui_1,inferred,EZR 8:33,
+Levi_1:Binnui_1:4299,4299,Levi_1,ancestor,Binnui_1,inferred,EZR 8:33,"implied from Binnui's tribe field, which matches Levi"
 Binnui_1:Levi_1:4300,4300,Binnui_1,descendant,Levi_1,explicit,EZR 8:33,
 Jehiel_6:Shecaniah_5:4301,4301,Jehiel_6,father,Shecaniah_5,inferred,EZR 10:2,
 Shecaniah_5:Jehiel_6:4302,4302,Shecaniah_5,son,Jehiel_6,explicit,EZR 10:2,
@@ -4339,23 +4339,23 @@ Pashhur_1:Jozabad_6:4337,4337,Pashhur_1,ancestor,Jozabad_6,inferred,EZR 10:22,
 Jozabad_6:Pashhur_1:4338,4338,Jozabad_6,descendant,Pashhur_1,explicit,EZR 10:22,
 Pashhur_1:Elasah_1:4339,4339,Pashhur_1,ancestor,Elasah_1,inferred,EZR 10:22,
 Elasah_1:Pashhur_1:4340,4340,Elasah_1,descendant,Pashhur_1,explicit,EZR 10:22,
-Levi_1:Jozabad_7:4341,4341,Levi_1,ancestor,Jozabad_7,inferred,EZR 10:23,
+Levi_1:Jozabad_7:4341,4341,Levi_1,ancestor,Jozabad_7,inferred,EZR 10:23,"implied from Jozabad's tribe field, which matches Levi"
 Jozabad_7:Levi_1:4342,4342,Jozabad_7,descendant,Levi_1,explicit,EZR 10:23,
-Levi_1:Shimei_14:4343,4343,Levi_1,ancestor,Shimei_14,inferred,EZR 10:23,
+Levi_1:Shimei_14:4343,4343,Levi_1,ancestor,Shimei_14,inferred,EZR 10:23,"implied from Shimei's tribe field, which matches Levi"
 Shimei_14:Levi_1:4344,4344,Shimei_14,descendant,Levi_1,explicit,EZR 10:23,
-Levi_1:Kelaiah_1:4345,4345,Levi_1,ancestor,Kelaiah_1,inferred,EZR 10:23,
+Levi_1:Kelaiah_1:4345,4345,Levi_1,ancestor,Kelaiah_1,inferred,EZR 10:23,"implied from Kelaiah's tribe field, which matches Levi"
 Kelaiah_1:Levi_1:4346,4346,Kelaiah_1,descendant,Levi_1,explicit,EZR 10:23,
-Levi_1:Pethahiah_2:4347,4347,Levi_1,ancestor,Pethahiah_2,inferred,EZR 10:23,
+Levi_1:Pethahiah_2:4347,4347,Levi_1,ancestor,Pethahiah_2,inferred,EZR 10:23,"implied from Pethahiah's tribe field, which matches Levi"
 Pethahiah_2:Levi_1:4348,4348,Pethahiah_2,descendant,Levi_1,explicit,EZR 10:23,
-Levi_1:Judah_2:4349,4349,Levi_1,ancestor,Judah_2,inferred,EZR 10:23,
+Levi_1:Judah_2:4349,4349,Levi_1,ancestor,Judah_2,inferred,EZR 10:23,"implied from Judah's tribe field, which matches Levi"
 Judah_2:Levi_1:4350,4350,Judah_2,descendant,Levi_1,explicit,EZR 10:23,
-Levi_1:Eliashib_4:4351,4351,Levi_1,ancestor,Eliashib_4,inferred,EZR 10:23,
+Levi_1:Eliashib_4:4351,4351,Levi_1,ancestor,Eliashib_4,inferred,EZR 10:23,"implied from Eliashib's tribe field, which matches Levi"
 Eliashib_4:Levi_1:4352,4352,Eliashib_4,descendant,Levi_1,explicit,EZR 10:23,
-Levi_1:Shallum_9:4353,4353,Levi_1,ancestor,Shallum_9,inferred,EZR 10:24,
+Levi_1:Shallum_9:4353,4353,Levi_1,ancestor,Shallum_9,inferred,EZR 10:24,"implied from Shallum's tribe field, which matches Levi"
 Shallum_9:Levi_1:4354,4354,Shallum_9,descendant,Levi_1,explicit,EZR 10:24,
-Levi_1:Telem_1:4355,4355,Levi_1,ancestor,Telem_1,inferred,EZR 10:24,
+Levi_1:Telem_1:4355,4355,Levi_1,ancestor,Telem_1,inferred,EZR 10:24,"implied from Telem's tribe field, which matches Levi"
 Telem_1:Levi_1:4356,4356,Telem_1,descendant,Levi_1,explicit,EZR 10:24,
-Levi_1:Uri_3:4357,4357,Levi_1,ancestor,Uri_3,inferred,EZR 10:24,
+Levi_1:Uri_3:4357,4357,Levi_1,ancestor,Uri_3,inferred,EZR 10:24,"implied from Uri's tribe field, which matches Levi"
 Uri_3:Levi_1:4358,4358,Uri_3,descendant,Levi_1,explicit,EZR 10:24,
 Parosh_1:Ramiah_1:4359,4359,Parosh_1,ancestor,Ramiah_1,inferred,EZR 10:25,
 Ramiah_1:Parosh_1:4360,4360,Ramiah_1,descendant,Parosh_1,explicit,EZR 10:25,
@@ -4615,59 +4615,59 @@ Pahath-moab_1:Joab_3:4613,4613,Pahath-moab_1,ancestor,Joab_3,inferred,NEH 7:11,
 Joab_3:Pahath-moab_1:4614,4614,Joab_3,descendant,Pahath-moab_1,explicit,NEH 7:11,
 Pahath-moab_1:Jeshua_4:4615,4615,Pahath-moab_1,ancestor,Jeshua_4,inferred,NEH 7:11,
 Jeshua_4:Pahath-moab_1:4616,4616,Jeshua_4,descendant,Pahath-moab_1,explicit,NEH 7:11,
-Levi_1:Mattithiah_5:4617,4617,Levi_1,ancestor,Mattithiah_5,inferred,NEH 8:4,
-Mattithiah_5:Levi_1:4618,4618,Mattithiah_5,descendant,Levi_1,inferred,NEH 8:4,
-Levi_1:Shema_4:4619,4619,Levi_1,ancestor,Shema_4,inferred,NEH 8:4,
-Shema_4:Levi_1:4620,4620,Shema_4,descendant,Levi_1,inferred,NEH 8:4,
-Levi_1:Anaiah_1:4621,4621,Levi_1,ancestor,Anaiah_1,inferred,NEH 8:4,
-Anaiah_1:Levi_1:4622,4622,Anaiah_1,descendant,Levi_1,inferred,NEH 8:4,
-Levi_1:Uriah_3:4623,4623,Levi_1,ancestor,Uriah_3,inferred,NEH 8:4,
-Uriah_3:Levi_1:4624,4624,Uriah_3,descendant,Levi_1,inferred,NEH 8:4,
+Levi_1:Mattithiah_5:4617,4617,Levi_1,ancestor,Mattithiah_5,inferred,NEH 8:4,"implied from Mattithiah's tribe field, which matches Levi"
+Mattithiah_5:Levi_1:4618,4618,Mattithiah_5,descendant,Levi_1,inferred,NEH 8:4,"implied from Mattithiah's tribe field, which matches Levi"
+Levi_1:Shema_4:4619,4619,Levi_1,ancestor,Shema_4,inferred,NEH 8:4,"implied from Shema's tribe field, which matches Levi"
+Shema_4:Levi_1:4620,4620,Shema_4,descendant,Levi_1,inferred,NEH 8:4,"implied from Shema's tribe field, which matches Levi"
+Levi_1:Anaiah_1:4621,4621,Levi_1,ancestor,Anaiah_1,inferred,NEH 8:4,"implied from Anaiah's tribe field, which matches Levi"
+Anaiah_1:Levi_1:4622,4622,Anaiah_1,descendant,Levi_1,inferred,NEH 8:4,"implied from Anaiah's tribe field, which matches Levi"
+Levi_1:Uriah_3:4623,4623,Levi_1,ancestor,Uriah_3,inferred,NEH 8:4,"implied from Uriah's tribe field, which matches Levi"
+Uriah_3:Levi_1:4624,4624,Uriah_3,descendant,Levi_1,inferred,NEH 8:4,"implied from Uriah's tribe field, which matches Levi"
 Levi_1:Maaseiah_10:4625,4625,Levi_1,ancestor,Maaseiah_10,inferred,NEH 8:4,
 Maaseiah_10:Levi_1:4626,4626,Maaseiah_10,descendant,Levi_1,inferred,NEH 8:4,
-Levi_1:Pedaiah_5:4627,4627,Levi_1,ancestor,Pedaiah_5,inferred,NEH 8:4,
-Pedaiah_5:Levi_1:4628,4628,Pedaiah_5,descendant,Levi_1,inferred,NEH 8:4,
-Levi_1:Mishael_2:4629,4629,Levi_1,ancestor,Mishael_2,inferred,NEH 8:4,
-Mishael_2:Levi_1:4630,4630,Mishael_2,descendant,Levi_1,inferred,NEH 8:4,
+Levi_1:Pedaiah_5:4627,4627,Levi_1,ancestor,Pedaiah_5,inferred,NEH 8:4,"implied from Pedaiah's tribe field, which matches Levi"
+Pedaiah_5:Levi_1:4628,4628,Pedaiah_5,descendant,Levi_1,inferred,NEH 8:4,"implied from Pedaiah's tribe field, which matches Levi"
+Levi_1:Mishael_2:4629,4629,Levi_1,ancestor,Mishael_2,inferred,NEH 8:4,"implied from Mishael's tribe field, which matches Levi"
+Mishael_2:Levi_1:4630,4630,Mishael_2,descendant,Levi_1,inferred,NEH 8:4,"implied from Mishael's tribe field, which matches Levi"
 Levi_1:Hashum_1:4631,4631,Levi_1,ancestor,Hashum_1,inferred,NEH 8:4,
 Hashum_1:Levi_1:4632,4632,Hashum_1,descendant,Levi_1,inferred,NEH 8:4,
-Levi_1:Hashbaddanah_1:4633,4633,Levi_1,ancestor,Hashbaddanah_1,inferred,NEH 8:4,
-Hashbaddanah_1:Levi_1:4634,4634,Hashbaddanah_1,descendant,Levi_1,inferred,NEH 8:4,
-Levi_1:Zechariah_13:4635,4635,Levi_1,ancestor,Zechariah_13,inferred,NEH 8:4,
-Zechariah_13:Levi_1:4636,4636,Zechariah_13,descendant,Levi_1,inferred,NEH 8:4,
-Levi_1:Meshullam_13:4637,4637,Levi_1,ancestor,Meshullam_13,inferred,NEH 8:4,
-Meshullam_13:Levi_1:4638,4638,Meshullam_13,descendant,Levi_1,inferred,NEH 8:4,
-Levi_1:Jeshua_7:4639,4639,Levi_1,ancestor,Jeshua_7,inferred,NEH 8:7,
+Levi_1:Hashbaddanah_1:4633,4633,Levi_1,ancestor,Hashbaddanah_1,inferred,NEH 8:4,"implied from Hashbaddanah's tribe field, which matches Levi"
+Hashbaddanah_1:Levi_1:4634,4634,Hashbaddanah_1,descendant,Levi_1,inferred,NEH 8:4,"implied from Hashbaddanah's tribe field, which matches Levi"
+Levi_1:Zechariah_13:4635,4635,Levi_1,ancestor,Zechariah_13,inferred,NEH 8:4,"as a priest, Zechariah would have been a descendant of Levi"
+Zechariah_13:Levi_1:4636,4636,Zechariah_13,descendant,Levi_1,inferred,NEH 8:4,"as a priest, Zechariah would have been a descendant of Levi"
+Levi_1:Meshullam_13:4637,4637,Levi_1,ancestor,Meshullam_13,inferred,NEH 8:4,"as a priest, Meshullam would have been a descendant of Levi"
+Meshullam_13:Levi_1:4638,4638,Meshullam_13,descendant,Levi_1,inferred,NEH 8:4,"as a priest, Meshullam would have been a descendant of Levi"
+Levi_1:Jeshua_7:4639,4639,Levi_1,ancestor,Jeshua_7,inferred,NEH 8:7,"implied from Jeshua's tribe field, which matches Levi"
 Jeshua_7:Levi_1:4640,4640,Jeshua_7,descendant,Levi_1,explicit,NEH 8:7,
-Levi_1:Bani_7:4641,4641,Levi_1,ancestor,Bani_7,inferred,NEH 8:7,
+Levi_1:Bani_7:4641,4641,Levi_1,ancestor,Bani_7,inferred,NEH 8:7,"implied from Bani's tribe field, which matches Levi"
 Bani_7:Levi_1:4642,4642,Bani_7,descendant,Levi_1,explicit,NEH 8:7,
-Levi_1:Sherebiah_2:4643,4643,Levi_1,ancestor,Sherebiah_2,inferred,NEH 8:7,
+Levi_1:Sherebiah_2:4643,4643,Levi_1,ancestor,Sherebiah_2,inferred,NEH 8:7,"implied from Sherebiah's tribe field, which matches Levi"
 Sherebiah_2:Levi_1:4644,4644,Sherebiah_2,descendant,Levi_1,explicit,NEH 8:7,
-Levi_1:Jamin_3:4645,4645,Levi_1,ancestor,Jamin_3,inferred,NEH 8:7,
+Levi_1:Jamin_3:4645,4645,Levi_1,ancestor,Jamin_3,inferred,NEH 8:7,"implied from Jamin's tribe field, which matches Levi"
 Jamin_3:Levi_1:4646,4646,Jamin_3,descendant,Levi_1,explicit,NEH 8:7,
-Levi_1:Shabbethai_2:4647,4647,Levi_1,ancestor,Shabbethai_2,inferred,NEH 8:7,
+Levi_1:Shabbethai_2:4647,4647,Levi_1,ancestor,Shabbethai_2,inferred,NEH 8:7,"implied from Shabbethai's tribe field, which matches Levi"
 Shabbethai_2:Levi_1:4648,4648,Shabbethai_2,descendant,Levi_1,explicit,NEH 8:7,
-Levi_1:Hodiah_2:4649,4649,Levi_1,ancestor,Hodiah_2,inferred,NEH 8:7,
+Levi_1:Hodiah_2:4649,4649,Levi_1,ancestor,Hodiah_2,inferred,NEH 8:7,"implied from Hodiah's tribe field, which matches Levi"
 Hodiah_2:Levi_1:4650,4650,Hodiah_2,descendant,Levi_1,explicit,NEH 8:7,
-Levi_1:Kelita_1:4651,4651,Levi_1,ancestor,Kelita_1,inferred,NEH 8:7,
+Levi_1:Kelita_1:4651,4651,Levi_1,ancestor,Kelita_1,inferred,NEH 8:7,"implied from Kelita's tribe field, which matches Levi"
 Kelita_1:Levi_1:4652,4652,Kelita_1,descendant,Levi_1,explicit,NEH 8:7,
-Levi_1:Jozabad_8:4653,4653,Levi_1,ancestor,Jozabad_8,inferred,NEH 8:7,
+Levi_1:Jozabad_8:4653,4653,Levi_1,ancestor,Jozabad_8,inferred,NEH 8:7,"implied from Jozabad's tribe field, which matches Levi"
 Jozabad_8:Levi_1:4654,4654,Jozabad_8,descendant,Levi_1,explicit,NEH 8:7,
-Levi_1:Pelaiah_2:4655,4655,Levi_1,ancestor,Pelaiah_2,inferred,NEH 8:7,
+Levi_1:Pelaiah_2:4655,4655,Levi_1,ancestor,Pelaiah_2,inferred,NEH 8:7,"implied from Pelaiah's tribe field, which matches Levi"
 Pelaiah_2:Levi_1:4656,4656,Pelaiah_2,descendant,Levi_1,explicit,NEH 8:7,
-Levi_1:Kadmiel_2:4657,4657,Levi_1,ancestor,Kadmiel_2,inferred,NEH 9:4,
+Levi_1:Kadmiel_2:4657,4657,Levi_1,ancestor,Kadmiel_2,inferred,NEH 9:4,"implied from Kadmiel's tribe field, which matches Levi"
 Kadmiel_2:Levi_1:4658,4658,Kadmiel_2,descendant,Levi_1,explicit,NEH 9:4,
-Levi_1:Shebaniah_2:4659,4659,Levi_1,ancestor,Shebaniah_2,inferred,NEH 9:4,
+Levi_1:Shebaniah_2:4659,4659,Levi_1,ancestor,Shebaniah_2,inferred,NEH 9:4,"implied from Shebaniah's tribe field, which matches Levi"
 Shebaniah_2:Levi_1:4660,4660,Shebaniah_2,descendant,Levi_1,explicit,NEH 9:4,
-Levi_1:Bunni_1:4661,4661,Levi_1,ancestor,Bunni_1,inferred,NEH 9:4,
+Levi_1:Bunni_1:4661,4661,Levi_1,ancestor,Bunni_1,inferred,NEH 9:4,"implied from Bunni's tribe field, which matches Levi"
 Bunni_1:Levi_1:4662,4662,Bunni_1,descendant,Levi_1,explicit,NEH 9:4,
-Levi_1:Bani_8:4663,4663,Levi_1,ancestor,Bani_8,inferred,NEH 9:4,
+Levi_1:Bani_8:4663,4663,Levi_1,ancestor,Bani_8,inferred,NEH 9:4,"implied from Bani's tribe field, which matches Levi"
 Bani_8:Levi_1:4664,4664,Bani_8,descendant,Levi_1,explicit,NEH 9:4,
-Levi_1:Chenani_1:4665,4665,Levi_1,ancestor,Chenani_1,inferred,NEH 9:4,
+Levi_1:Chenani_1:4665,4665,Levi_1,ancestor,Chenani_1,inferred,NEH 9:4,"implied from Chenani's tribe field, which matches Levi"
 Chenani_1:Levi_1:4666,4666,Chenani_1,descendant,Levi_1,explicit,NEH 9:4,
-Levi_1:Hashabneiah_2:4667,4667,Levi_1,ancestor,Hashabneiah_2,inferred,NEH 9:5,
+Levi_1:Hashabneiah_2:4667,4667,Levi_1,ancestor,Hashabneiah_2,inferred,NEH 9:5,"implied from Hashabneiah's tribe field, which matches Levi"
 Hashabneiah_2:Levi_1:4668,4668,Hashabneiah_2,descendant,Levi_1,explicit,NEH 9:5,
-Levi_1:Pethahiah_3:4669,4669,Levi_1,ancestor,Pethahiah_3,inferred,NEH 9:5,
+Levi_1:Pethahiah_3:4669,4669,Levi_1,ancestor,Pethahiah_3,inferred,NEH 9:5,"implied from Pethahiah's tribe field, which matches Levi"
 Pethahiah_3:Levi_1:4670,4670,Pethahiah_3,descendant,Levi_1,explicit,NEH 9:5,
 Aaron_1:Zedekiah_3:4671,4671,Aaron_1,ancestor,Zedekiah_3,inferred,NEH 10:1,Aaronic priest (NEH 10:8)
 Zedekiah_3:Aaron_1:4672,4672,Zedekiah_3,descendant,Aaron_1,inferred,NEH 10:1,Aaronic priest (NEH 10:8)
@@ -4689,17 +4689,17 @@ Aaron_1:Bilgai_1:4687,4687,Aaron_1,ancestor,Bilgai_1,inferred,NEH 10:8,Aaronic p
 Bilgai_1:Aaron_1:4688,4688,Bilgai_1,descendant,Aaron_1,inferred,NEH 10:8,Aaronic priest (NEH 10:8)
 Azaniah_1:Jeshua_8:4689,4689,Azaniah_1,father,Jeshua_8,inferred,NEH 10:9,"""the Levites"" NEH 10:9"
 Jeshua_8:Azaniah_1:4690,4690,Jeshua_8,son,Azaniah_1,explicit,NEH 10:9,"""the Levites"" NEH 10:9"
-Levi_1:Rehob_2:4691,4691,Levi_1,ancestor,Rehob_2,inferred,NEH 10:11,
+Levi_1:Rehob_2:4691,4691,Levi_1,ancestor,Rehob_2,inferred,NEH 10:11,"implied from Rehob's tribe field, which matches Levi"
 Rehob_2:Levi_1:4692,4692,Rehob_2,descendant,Levi_1,explicit,NEH 10:11,
-Levi_1:Hashabiah_6:4693,4693,Levi_1,ancestor,Hashabiah_6,inferred,NEH 10:11,
+Levi_1:Hashabiah_6:4693,4693,Levi_1,ancestor,Hashabiah_6,inferred,NEH 10:11,"implied from Hashabiah's tribe field, which matches Levi"
 Hashabiah_6:Levi_1:4694,4694,Hashabiah_6,descendant,Levi_1,explicit,NEH 10:11,
 Levi_1:Zaccur_6:4695,4695,Levi_1,ancestor,Zaccur_6,inferred,NEH 10:12,
 Zaccur_6:Levi_1:4696,4696,Zaccur_6,descendant,Levi_1,explicit,NEH 10:12,
-Levi_1:Shebaniah_4:4697,4697,Levi_1,ancestor,Shebaniah_4,inferred,NEH 10:12,
+Levi_1:Shebaniah_4:4697,4697,Levi_1,ancestor,Shebaniah_4,inferred,NEH 10:12,"implied from Shebaniah's tribe field, which matches Levi"
 Shebaniah_4:Levi_1:4698,4698,Shebaniah_4,descendant,Levi_1,explicit,NEH 10:12,
-Levi_1:Hodiah_3:4699,4699,Levi_1,ancestor,Hodiah_3,inferred,NEH 10:13,
+Levi_1:Hodiah_3:4699,4699,Levi_1,ancestor,Hodiah_3,inferred,NEH 10:13,"implied from Hodiah's tribe field, which matches Levi"
 Hodiah_3:Levi_1:4700,4700,Hodiah_3,descendant,Levi_1,explicit,NEH 10:13,
-Levi_1:Beninu_1:4701,4701,Levi_1,ancestor,Beninu_1,inferred,NEH 10:13,
+Levi_1:Beninu_1:4701,4701,Levi_1,ancestor,Beninu_1,inferred,NEH 10:13,"implied from Beninu's tribe field, which matches Levi"
 Beninu_1:Levi_1:4702,4702,Beninu_1,descendant,Levi_1,explicit,NEH 10:13,
 Jacob_1:Adonijah_3:4703,4703,Jacob_1,ancestor,Adonijah_3,inferred,NEH 10:16,
 Adonijah_3:Jacob_1:4704,4704,Adonijah_3,descendant,Jacob_1,explicit,NEH 10:16,
@@ -4779,26 +4779,26 @@ Ithiel_1:Maaseiah_12:4777,4777,Ithiel_1,father,Maaseiah_12,inferred,NEH 11:7,
 Maaseiah_12:Ithiel_1:4778,4778,Maaseiah_12,son,Ithiel_1,explicit,NEH 11:7,
 Jeshaiah_5:Ithiel_1:4779,4779,Jeshaiah_5,father,Ithiel_1,inferred,NEH 11:7,
 Ithiel_1:Jeshaiah_5:4780,4780,Ithiel_1,son,Jeshaiah_5,explicit,NEH 11:7,
-Benjamin_1:Jeshaiah_5:4781,4781,Benjamin_1,ancestor,Jeshaiah_5,inferred,NEH 11:7,
+Benjamin_1:Jeshaiah_5:4781,4781,Benjamin_1,ancestor,Jeshaiah_5,inferred,NEH 11:7,"implied from Jeshaiah's tribe field, which matches Benjamin"
 Jeshaiah_5:Benjamin_1:4782,4782,Jeshaiah_5,descendant,Benjamin_1,explicit,NEH 11:7,
-Benjamin_1:Gabbai_1:4783,4783,Benjamin_1,ancestor,Gabbai_1,inferred,NEH 11:8,
+Benjamin_1:Gabbai_1:4783,4783,Benjamin_1,ancestor,Gabbai_1,inferred,NEH 11:8,"implied from Gabbai's tribe field, which matches Benjamin"
 Gabbai_1:Benjamin_1:4784,4784,Gabbai_1,descendant,Benjamin_1,explicit,NEH 11:8,
-Benjamin_1:Sallai_1:4785,4785,Benjamin_1,ancestor,Sallai_1,inferred,NEH 11:8,
+Benjamin_1:Sallai_1:4785,4785,Benjamin_1,ancestor,Sallai_1,inferred,NEH 11:8,"implied from Sallai's tribe field, which matches Benjamin"
 Sallai_1:Benjamin_1:4786,4786,Sallai_1,descendant,Benjamin_1,explicit,NEH 11:8,
 Zichri_11:Joel_10:4787,4787,Zichri_11,father,Joel_10,inferred,NEH 11:9,
 Joel_10:Zichri_11:4788,4788,Joel_10,son,Zichri_11,explicit,NEH 11:9,
-Benjamin_1:Zichri_11:4789,4789,Benjamin_1,ancestor,Zichri_11,inferred,NEH 11:9,
+Benjamin_1:Zichri_11:4789,4789,Benjamin_1,ancestor,Zichri_11,inferred,NEH 11:9,"implied from Zichri's tribe field, which matches Benjamin"
 Zichri_11:Benjamin_1:4790,4790,Zichri_11,descendant,Benjamin_1,explicit,NEH 11:9,
 Hassenuah_2:Judah_3:4791,4791,Hassenuah_2,father,Judah_3,inferred,NEH 11:9,
 Judah_3:Hassenuah_2:4792,4792,Judah_3,son,Hassenuah_2,explicit,NEH 11:9,
-Benjamin_1:Hassenuah_2:4793,4793,Benjamin_1,ancestor,Hassenuah_2,inferred,NEH 11:9,
+Benjamin_1:Hassenuah_2:4793,4793,Benjamin_1,ancestor,Hassenuah_2,inferred,NEH 11:9,"implied from Hassenuah's tribe field, which matches Benjamin"
 Hassenuah_2:Benjamin_1:4794,4794,Hassenuah_2,descendant,Benjamin_1,explicit,NEH 11:9,
 Joiarib_3:Jedaiah_5:4795,4795,Joiarib_3,father,Jedaiah_5,inferred,NEH 11:10,
 Jedaiah_5:Joiarib_3:4796,4796,Jedaiah_5,son,Joiarib_3,explicit,NEH 11:10,
-Aaron_1:Joiarib_3:4797,4797,Aaron_1,ancestor,Joiarib_3,inferred,NEH 11:10,
-Joiarib_3:Aaron_1:4798,4798,Joiarib_3,descendant,Aaron_1,explicit,NEH 11:10,
-Aaron_1:Jachin_4:4799,4799,Aaron_1,ancestor,Jachin_4,inferred,NEH 11:10,
-Jachin_4:Aaron_1:4800,4800,Jachin_4,descendant,Aaron_1,explicit,NEH 11:10,
+Aaron_1:Joiarib_3:4797,4797,Aaron_1,ancestor,Joiarib_3,inferred,NEH 11:10,"as a priest, Joiarib would have been a descendant of Aaron"
+Joiarib_3:Aaron_1:4798,4798,Joiarib_3,descendant,Aaron_1,explicit,NEH 11:10,"as a priest, Joiarib would have been a descendant of Aaron"
+Aaron_1:Jachin_4:4799,4799,Aaron_1,ancestor,Jachin_4,inferred,NEH 11:10,"as a priest, Jachin would have been a descendant of Aaron"
+Jachin_4:Aaron_1:4800,4800,Jachin_4,descendant,Aaron_1,explicit,NEH 11:10,"as a priest, Jachin would have been a descendant of Aaron"
 Hilkiah_6:Seraiah_8:4801,4801,Hilkiah_6,father,Seraiah_8,inferred,NEH 11:11,
 Seraiah_8:Hilkiah_6:4802,4802,Seraiah_8,son,Hilkiah_6,explicit,NEH 11:11,
 Meshullam_15:Hilkiah_6:4803,4803,Meshullam_15,father,Hilkiah_6,inferred,NEH 11:11,
@@ -4839,7 +4839,7 @@ Mica_2:Mattaniah_9:4837,4837,Mica_2,ancestor,Mattaniah_9,inferred,NEH 11:17,
 Mattaniah_9:Mica_2:4838,4838,Mattaniah_9,descendant,Mica_2,explicit,NEH 11:17,
 Bakbukiah_1:Levi_1:4839,4839,Bakbukiah_1,ancestor,Levi_1,inferred,NEH 11:17,
 Levi_1:Bakbukiah_1:4840,4840,Levi_1,descendant,Bakbukiah_1,explicit,NEH 11:17,
-Levi_1:Gishpa_1:4841,4841,Levi_1,ancestor,Gishpa_1,inferred,NEH 11:21,
+Levi_1:Gishpa_1:4841,4841,Levi_1,ancestor,Gishpa_1,inferred,NEH 11:21,"implied from Gishpa's tribe field, which matches Levi"
 Gishpa_1:Levi_1:4842,4842,Gishpa_1,descendant,Levi_1,explicit,NEH 11:21,
 Bani_9:Uzzi_5:4843,4843,Bani_9,father,Uzzi_5,inferred,NEH 11:22,
 Uzzi_5:Bani_9:4844,4844,Uzzi_5,son,Bani_9,explicit,NEH 11:22,
@@ -4851,21 +4851,21 @@ Meshezabel_2:Pethahiah_4:4849,4849,Meshezabel_2,father,Pethahiah_4,inferred,NEH 
 Pethahiah_4:Meshezabel_2:4850,4850,Pethahiah_4,son,Meshezabel_2,explicit,NEH 11:24,
 Zerah_3:Meshezabel_2:4851,4851,Zerah_3,ancestor,Meshezabel_2,inferred,NEH 11:24,
 Meshezabel_2:Zerah_3:4852,4852,Meshezabel_2,descendant,Zerah_3,explicit,NEH 11:24,
-Aaron_1:Shecaniah_8:4853,4853,Aaron_1,ancestor,Shecaniah_8,inferred,NEH 12:3,
-Shecaniah_8:Aaron_1:4854,4854,Shecaniah_8,descendant,Aaron_1,explicit,NEH 12:3,
-Aaron_1:Rehum_4:4855,4855,Aaron_1,ancestor,Rehum_4,inferred,NEH 12:3,
-Rehum_4:Aaron_1:4856,4856,Rehum_4,descendant,Aaron_1,explicit,NEH 12:3,
-Aaron_1:Iddo_5:4857,4857,Aaron_1,ancestor,Iddo_5,inferred,NEH 12:4,"Iddo is listed among the ""heads of the priests"" "
-Iddo_5:Aaron_1:4858,4858,Iddo_5,descendant,Aaron_1,explicit,NEH 12:4,"Iddo is listed among the ""heads of the priests"" "
-Aaron_1:Bilgah_2:4859,4859,Aaron_1,ancestor,Bilgah_2,inferred,NEH 12:5,
-Bilgah_2:Aaron_1:4860,4860,Bilgah_2,descendant,Aaron_1,explicit,NEH 12:5,
-Aaron_1:Sallu_3:4861,4861,Aaron_1,ancestor,Sallu_3,inferred,NEH 12:7,
-Sallu_3:Aaron_1:4862,4862,Sallu_3,descendant,Aaron_1,explicit,NEH 12:7,
-Aaron_1:Amok_1:4863,4863,Aaron_1,ancestor,Amok_1,inferred,NEH 12:7,
-Amok_1:Aaron_1:4864,4864,Amok_1,descendant,Aaron_1,explicit,NEH 12:7,
-Levi_1:Judah_4:4865,4865,Levi_1,ancestor,Judah_4,inferred,NEH 12:8,
+Aaron_1:Shecaniah_8:4853,4853,Aaron_1,ancestor,Shecaniah_8,inferred,NEH 12:3,"as a priest, Shecaniah would have been a descendant of Aaron"
+Shecaniah_8:Aaron_1:4854,4854,Shecaniah_8,descendant,Aaron_1,explicit,NEH 12:3,"as a priest, Shecaniah would have been a descendant of Aaron"
+Aaron_1:Rehum_4:4855,4855,Aaron_1,ancestor,Rehum_4,inferred,NEH 12:3,"as a priest, Rehum would have been a descendant of Aaron"
+Rehum_4:Aaron_1:4856,4856,Rehum_4,descendant,Aaron_1,explicit,NEH 12:3,"as a priest, Rehum would have been a descendant of Aaron"
+Aaron_1:Iddo_5:4857,4857,Aaron_1,ancestor,Iddo_5,inferred,NEH 12:4,"Iddo is listed among the ""heads of the priests"""
+Iddo_5:Aaron_1:4858,4858,Iddo_5,descendant,Aaron_1,explicit,NEH 12:4,"Iddo is listed among the ""heads of the priests"""
+Aaron_1:Bilgah_2:4859,4859,Aaron_1,ancestor,Bilgah_2,inferred,NEH 12:5,"as a priest, Bilgah would have been a descendant of Aaron"
+Bilgah_2:Aaron_1:4860,4860,Bilgah_2,descendant,Aaron_1,explicit,NEH 12:5,"as a priest, Bilgah would have been a descendant of Aaron"
+Aaron_1:Sallu_3:4861,4861,Aaron_1,ancestor,Sallu_3,inferred,NEH 12:7,"as a priest, Sallu would have been a descendant of Aaron"
+Sallu_3:Aaron_1:4862,4862,Sallu_3,descendant,Aaron_1,explicit,NEH 12:7,"as a priest, Sallu would have been a descendant of Aaron"
+Aaron_1:Amok_1:4863,4863,Aaron_1,ancestor,Amok_1,inferred,NEH 12:7,"as a priest, Amok would have been a descendant of Aaron"
+Amok_1:Aaron_1:4864,4864,Amok_1,descendant,Aaron_1,explicit,NEH 12:7,"as a priest, Amok would have been a descendant of Aaron"
+Levi_1:Judah_4:4865,4865,Levi_1,ancestor,Judah_4,inferred,NEH 12:8,"implied from Judah's tribe field, which matches Levi"
 Judah_4:Levi_1:4866,4866,Judah_4,descendant,Levi_1,explicit,NEH 12:8,
-Levi_1:Unni_2:4867,4867,Levi_1,ancestor,Unni_2,inferred,NEH 12:9,
+Levi_1:Unni_2:4867,4867,Levi_1,ancestor,Unni_2,inferred,NEH 12:9,"implied from Unni's tribe field, which matches Levi"
 Unni_2:Levi_1:4868,4868,Unni_2,descendant,Levi_1,explicit,NEH 12:9,
 Jeshua_7:Joiakim_1:4869,4869,Jeshua_7,father,Joiakim_1,explicit,NEH 12:10,
 Joiakim_1:Jeshua_7:4870,4870,Joiakim_1,son,Jeshua_7,inferred,NEH 12:10,
@@ -4899,10 +4899,10 @@ Ginnethon_1:Meshullam_13:4897,4897,Ginnethon_1,father,Meshullam_13,inferred,NEH 
 Meshullam_13:Ginnethon_1:4898,4898,Meshullam_13,son,Ginnethon_1,explicit,NEH 12:16,
 Abijah_6:Zichri_12:4899,4899,Abijah_6,father,Zichri_12,inferred,NEH 12:17,
 Zichri_12:Abijah_6:4900,4900,Zichri_12,son,Abijah_6,explicit,NEH 12:17,
-Aaron_1:Miniamin_2:4901,4901,Aaron_1,ancestor,Miniamin_2,inferred,NEH 12:17,
-Miniamin_2:Aaron_1:4902,4902,Miniamin_2,descendant,Aaron_1,explicit,NEH 12:17,
-Aaron_1:Moadiah_1:4903,4903,Aaron_1,ancestor,Moadiah_1,inferred,NEH 12:17,
-Moadiah_1:Aaron_1:4904,4904,Moadiah_1,descendant,Aaron_1,explicit,NEH 12:17,
+Aaron_1:Miniamin_2:4901,4901,Aaron_1,ancestor,Miniamin_2,inferred,NEH 12:17,"as a priest, Miniamin would have been a descendant of Aaron"
+Miniamin_2:Aaron_1:4902,4902,Miniamin_2,descendant,Aaron_1,explicit,NEH 12:17,"as a priest, Miniamin would have been a descendant of Aaron"
+Aaron_1:Moadiah_1:4903,4903,Aaron_1,ancestor,Moadiah_1,inferred,NEH 12:17,"as a priest, Moadiah would have been a descendant of Aaron"
+Moadiah_1:Aaron_1:4904,4904,Moadiah_1,descendant,Aaron_1,explicit,NEH 12:17,"as a priest, Moadiah would have been a descendant of Aaron"
 Miniamin_2:Piltai_1:4905,4905,Miniamin_2,father,Piltai_1,inferred,NEH 12:17,
 Piltai_1:Miniamin_2:4906,4906,Piltai_1,son,Miniamin_2,explicit,NEH 12:17,
 Bilgah_1:Shammua_3:4907,4907,Bilgah_1,ancestor,Shammua_3,inferred,NEH 12:18,
@@ -4913,8 +4913,8 @@ Joiarib_3:Mattenai_3:4911,4911,Joiarib_3,father,Mattenai_3,inferred,NEH 12:19,
 Mattenai_3:Joiarib_3:4912,4912,Mattenai_3,son,Joiarib_3,explicit,NEH 12:19,
 Jedaiah_2:Uzzi_6:4913,4913,Jedaiah_2,father,Uzzi_6,inferred,NEH 12:19,
 Uzzi_6:Jedaiah_2:4914,4914,Uzzi_6,son,Jedaiah_2,explicit,NEH 12:19,
-Aaron_1:Sallai_2:4915,4915,Aaron_1,ancestor,Sallai_2,inferred,NEH 12:20,
-Sallai_2:Aaron_1:4916,4916,Sallai_2,descendant,Aaron_1,explicit,NEH 12:20,
+Aaron_1:Sallai_2:4915,4915,Aaron_1,ancestor,Sallai_2,inferred,NEH 12:20,"as a priest, Sallai would have been a descendant of Aaron"
+Sallai_2:Aaron_1:4916,4916,Sallai_2,descendant,Aaron_1,explicit,NEH 12:20,"as a priest, Sallai would have been a descendant of Aaron"
 Sallai_2:Kallai_1:4917,4917,Sallai_2,father,Kallai_1,inferred,NEH 12:20,
 Kallai_1:Sallai_2:4918,4918,Kallai_1,son,Sallai_2,explicit,NEH 12:20,
 Amok_1:Eber_5:4919,4919,Amok_1,father,Eber_5,inferred,NEH 12:20,
@@ -4925,7 +4925,7 @@ Jedaiah_5:Nethanel_7:4923,4923,Jedaiah_5,father,Nethanel_7,inferred,NEH 12:21,
 Nethanel_7:Jedaiah_5:4924,4924,Nethanel_7,son,Jedaiah_5,explicit,NEH 12:21,
 Kadmiel_1:Jeshua_7:4925,4925,Kadmiel_1,father,Jeshua_7,inferred,NEH 12:24,
 Jeshua_7:Kadmiel_1:4926,4926,Jeshua_7,son,Kadmiel_1,explicit,NEH 12:24,
-Levi_1:Obadiah_11:4927,4927,Levi_1,ancestor,Obadiah_11,inferred,NEH 12:25,
+Levi_1:Obadiah_11:4927,4927,Levi_1,ancestor,Obadiah_11,inferred,NEH 12:25,"implied from Obadiah's tribe field, which matches Levi"
 Obadiah_11:Levi_1:4928,4928,Obadiah_11,descendant,Levi_1,explicit,NEH 12:25,
 Jeshua_3:Joiakim_2:4929,4929,Jeshua_3,father,Joiakim_2,inferred,NEH 12:26,
 Joiakim_2:Jeshua_3:4930,4930,Joiakim_2,son,Jeshua_3,explicit,NEH 12:26,
@@ -4945,20 +4945,20 @@ Levi_1:Gilalai_1:4943,4943,Levi_1,ancestor,Gilalai_1,inferred,NEH 12:36,"""and h
 Gilalai_1:Levi_1:4944,4944,Gilalai_1,descendant,Levi_1,inferred,NEH 12:36,"""and his kinsmen"" (NEH 12:36) usually refers to Levite ""brothers"" of the priests"
 Levi_1:Maai_1:4945,4945,Levi_1,ancestor,Maai_1,inferred,NEH 12:36,"""and his kinsmen"" (NEH 12:36) usually refers to Levite ""brothers"" of the priests"
 Maai_1:Levi_1:4946,4946,Maai_1,descendant,Levi_1,inferred,NEH 12:36,"""and his kinsmen"" (NEH 12:36) usually refers to Levite ""brothers"" of the priests"
-Aaron_1:Eliakim_3:4947,4947,Aaron_1,ancestor,Eliakim_3,inferred,NEH 12:41,
-Eliakim_3:Aaron_1:4948,4948,Eliakim_3,descendant,Aaron_1,inferred,NEH 12:41,
-Aaron_1:Maaseiah_13:4949,4949,Aaron_1,ancestor,Maaseiah_13,inferred,NEH 12:41,
-Maaseiah_13:Aaron_1:4950,4950,Maaseiah_13,descendant,Aaron_1,inferred,NEH 12:41,
-Aaron_1:Miniamin_3:4951,4951,Aaron_1,ancestor,Miniamin_3,inferred,NEH 12:41,
-Miniamin_3:Aaron_1:4952,4952,Miniamin_3,descendant,Aaron_1,inferred,NEH 12:41,
-Aaron_1:Micaiah_5:4953,4953,Aaron_1,ancestor,Micaiah_5,inferred,NEH 12:41,
-Micaiah_5:Aaron_1:4954,4954,Micaiah_5,descendant,Aaron_1,inferred,NEH 12:41,
-Aaron_1:Elioenai_6:4955,4955,Aaron_1,ancestor,Elioenai_6,inferred,NEH 12:41,
-Elioenai_6:Aaron_1:4956,4956,Elioenai_6,descendant,Aaron_1,inferred,NEH 12:41,
-Levi_1:Jezrahiah_1:4957,4957,Levi_1,ancestor,Jezrahiah_1,inferred,NEH 12:42,
-Jezrahiah_1:Levi_1:4958,4958,Jezrahiah_1,descendant,Levi_1,inferred,NEH 12:42,
-Aaron_1:Shelemiah_4:4959,4959,Aaron_1,ancestor,Shelemiah_4,inferred,NEH 13:13,
-Shelemiah_4:Aaron_1:4960,4960,Shelemiah_4,descendant,Aaron_1,inferred,NEH 13:13,
+Aaron_1:Eliakim_3:4947,4947,Aaron_1,ancestor,Eliakim_3,inferred,NEH 12:41,"as a priest, Eliakim would have been a descendant of Aaron"
+Eliakim_3:Aaron_1:4948,4948,Eliakim_3,descendant,Aaron_1,inferred,NEH 12:41,"as a priest, Eliakim would have been a descendant of Aaron"
+Aaron_1:Maaseiah_13:4949,4949,Aaron_1,ancestor,Maaseiah_13,inferred,NEH 12:41,"as a priest, Maaseiah would have been a descendant of Aaron"
+Maaseiah_13:Aaron_1:4950,4950,Maaseiah_13,descendant,Aaron_1,inferred,NEH 12:41,"as a priest, Maaseiah would have been a descendant of Aaron"
+Aaron_1:Miniamin_3:4951,4951,Aaron_1,ancestor,Miniamin_3,inferred,NEH 12:41,"as a priest, Miniamin would have been a descendant of Aaron"
+Miniamin_3:Aaron_1:4952,4952,Miniamin_3,descendant,Aaron_1,inferred,NEH 12:41,"as a priest, Miniamin would have been a descendant of Aaron"
+Aaron_1:Micaiah_5:4953,4953,Aaron_1,ancestor,Micaiah_5,inferred,NEH 12:41,"as a priest, Micaiah would have been a descendant of Aaron"
+Micaiah_5:Aaron_1:4954,4954,Micaiah_5,descendant,Aaron_1,inferred,NEH 12:41,"as a priest, Micaiah would have been a descendant of Aaron"
+Aaron_1:Elioenai_6:4955,4955,Aaron_1,ancestor,Elioenai_6,inferred,NEH 12:41,"as a priest, Elioenai would have been a descendant of Aaron"
+Elioenai_6:Aaron_1:4956,4956,Elioenai_6,descendant,Aaron_1,inferred,NEH 12:41,"as a priest, Elioenai would have been a descendant of Aaron"
+Levi_1:Jezrahiah_1:4957,4957,Levi_1,ancestor,Jezrahiah_1,inferred,NEH 12:42,"implied from Jezrahiah's tribe field, which matches Levi"
+Jezrahiah_1:Levi_1:4958,4958,Jezrahiah_1,descendant,Levi_1,inferred,NEH 12:42,"implied from Jezrahiah's tribe field, which matches Levi"
+Aaron_1:Shelemiah_4:4959,4959,Aaron_1,ancestor,Shelemiah_4,inferred,NEH 13:13,"as a priest, Shelemiah would have been a descendant of Aaron"
+Shelemiah_4:Aaron_1:4960,4960,Shelemiah_4,descendant,Aaron_1,inferred,NEH 13:13,"as a priest, Shelemiah would have been a descendant of Aaron"
 Zaccur_6:Hanan_7:4961,4961,Zaccur_6,father,Hanan_7,inferred,NEH 13:13,
 Hanan_7:Zaccur_6:4962,4962,Hanan_7,son,Zaccur_6,explicit,NEH 13:13,
 Mattaniah_10:Zaccur_6:4963,4963,Mattaniah_10,father,Zaccur_6,inferred,NEH 13:13,
@@ -5129,26 +5129,26 @@ Mattaniah_1:Malchijah_10:5127,5127,Mattaniah_1,father,Malchijah_10,inferred,JER 
 Malchijah_10:Mattaniah_1:5128,5128,Malchijah_10,son,Mattaniah_1,explicit,JER 38:6,Mattaniah's name was changed to Zedekiah (2Kings 24:17)
 Kareah_1:Jonathan_14:5129,5129,Kareah_1,father,Jonathan_14,inferred,JER 40:8,
 Jonathan_14:Kareah_1:5130,5130,Jonathan_14,son,Kareah_1,explicit,JER 40:8,
-Hoshaiah_2:Jaazaniah_1:5131,5131,Hoshaiah_2,father,Jaazaniah_1,inferred,JER 42:1,"This is the first place where Hoshaiah is named.  Elsewhere he is called ""the Maacathite""."
-Jaazaniah_1:Hoshaiah_2:5132,5132,Jaazaniah_1,son,Hoshaiah_2,explicit,JER 42:1,"This is the first place where Hoshaiah is named.  Elsewhere he is called ""the Maacathite""."
+Hoshaiah_2:Jaazaniah_1:5131,5131,Hoshaiah_2,father,Jaazaniah_1,inferred,JER 42:1,"This is the first place where Hoshaiah is named. Elsewhere he is called ""the Maacathite""."
+Jaazaniah_1:Hoshaiah_2:5132,5132,Jaazaniah_1,son,Hoshaiah_2,explicit,JER 42:1,"This is the first place where Hoshaiah is named. Elsewhere he is called ""the Maacathite""."
 Hoshaiah_2:Azariah_17:5133,5133,Hoshaiah_2,father,Azariah_17,inferred,JER 43:2,
 Azariah_17:Hoshaiah_2:5134,5134,Azariah_17,son,Hoshaiah_2,explicit,JER 43:2,
 Neriah_1:Seraiah_10:5135,5135,Neriah_1,father,Seraiah_10,inferred,JER 51:59,
 Seraiah_10:Neriah_1:5136,5136,Seraiah_10,son,Neriah_1,explicit,JER 51:59,
-Buzi_1:Ezekiel_1:5137,5137,Buzi_1,father,Ezekiel_1,inferred,EZK  1:3,
-Ezekiel_1:Buzi_1:5138,5138,Ezekiel_1,son,Buzi_1,explicit,EZK  1:3,
-Shaphan_3:Jaazaniah_3:5139,5139,Shaphan_3,father,Jaazaniah_3,inferred,EZK  8:11,
-Jaazaniah_3:Shaphan_3:5140,5140,Jaazaniah_3,son,Shaphan_3,explicit,EZK  8:11,
-Azzur_3:Jaazaniah_4:5141,5141,Azzur_3,father,Jaazaniah_4,inferred,EZK  11:1,
-Jaazaniah_4:Azzur_3:5142,5142,Jaazaniah_4,son,Azzur_3,explicit,EZK  11:1,
-Benaiah_11:Pelatiah_4:5143,5143,Benaiah_11,father,Pelatiah_4,inferred,EZK  11:1,
-Pelatiah_4:Benaiah_11:5144,5144,Pelatiah_4,son,Benaiah_11,explicit,EZK  11:1,
+Buzi_1:Ezekiel_1:5137,5137,Buzi_1,father,Ezekiel_1,inferred,EZK 1:3,
+Ezekiel_1:Buzi_1:5138,5138,Ezekiel_1,son,Buzi_1,explicit,EZK 1:3,
+Shaphan_3:Jaazaniah_3:5139,5139,Shaphan_3,father,Jaazaniah_3,inferred,EZK 8:11,
+Jaazaniah_3:Shaphan_3:5140,5140,Jaazaniah_3,son,Shaphan_3,explicit,EZK 8:11,
+Azzur_3:Jaazaniah_4:5141,5141,Azzur_3,father,Jaazaniah_4,inferred,EZK 11:1,
+Jaazaniah_4:Azzur_3:5142,5142,Jaazaniah_4,son,Azzur_3,explicit,EZK 11:1,
+Benaiah_11:Pelatiah_4:5143,5143,Benaiah_11,father,Pelatiah_4,inferred,EZK 11:1,
+Pelatiah_4:Benaiah_11:5144,5144,Pelatiah_4,son,Benaiah_11,explicit,EZK 11:1,
 Nebuchadnezzar_1:Ashpenaz_1:5145,5145,Nebuchadnezzar_1,king,Ashpenaz_1,inferred,DAN 1:3,
 Ashpenaz_1:Nebuchadnezzar_1:5146,5146,Ashpenaz_1,chief official,Nebuchadnezzar_1,explicit,DAN 1:3,
 Nebuchadnezzar_1:Belshazzar_1:5147,5147,Nebuchadnezzar_1,father,Belshazzar_1,explicit,DAN 5:1,
 Belshazzar_1:Nebuchadnezzar_1:5148,5148,Belshazzar_1,son,Nebuchadnezzar_1,inferred,DAN 5:1,
-Ahasuerus_1:Darius_2:5149,5149,Ahasuerus_1,ancestor,Darius_2,inferred,DAN 9:1,"The Hebrew has בֶּן (son) which can refer to any male descendant.  Uncertain if a son, grandson, etc."
-Darius_2:Ahasuerus_1:5150,5150,Darius_2,descendant,Ahasuerus_1,explicit,DAN 9:1,"The Hebrew has בֶּן (son) which can refer to any male descendant.  Uncertain if a son, grandson, etc."
+Ahasuerus_1:Darius_2:5149,5149,Ahasuerus_1,ancestor,Darius_2,inferred,DAN 9:1,"The Hebrew has בֶּן (son) which can refer to any male descendant. Uncertain if a son, grandson, etc."
+Darius_2:Ahasuerus_1:5150,5150,Darius_2,descendant,Ahasuerus_1,explicit,DAN 9:1,"The Hebrew has בֶּן (son) which can refer to any male descendant. Uncertain if a son, grandson, etc."
 King of the South_1:daughter of the King of the South_1:5151,5151,King of the South_1,father,daughter of the King of the South_1,inferred,DAN 11:6,
 daughter of the King of the South_1:King of the South_1:5152,5152,daughter of the King of the South_1,daughter,King of the South_1,explicit,DAN 11:6,
 Beeri_2:Hosea_1:5153,5153,Beeri_2,father,Hosea_1,inferred,HOS 1:1,
@@ -5205,8 +5205,8 @@ Jacob_2:Joseph_6:5203,5203,Jacob_2,father,Joseph_6,explicit,MAT 1:16,
 Joseph_6:Jacob_2:5204,5204,Joseph_6,son,Jacob_2,inferred,MAT 1:16,
 Joseph_6:Mary_1:5205,5205,Joseph_6,husband,Mary_1,explicit,MAT 1:16,
 Mary_1:Joseph_6:5206,5206,Mary_1,wife,Joseph_6,inferred,MAT 1:16,
-Mary_1:YHVH_1:5207,5207,Mary_1,bearer,YHVH_1,inferred,MAT 1:16,"The Nestle-Aland (27th Edition) has ἐξ ἧς ἐγεννήθη (by whom was born) rather than μήτηρ (mother).  This affirms that Mary was the ""surrogate"" of the incarnation of G-d rather than His biological mother."
-YHVH_1:Mary_1:5208,5208,YHVH_1,born by,Mary_1,explicit,MAT 1:16,"The Nestle-Aland (27th Edition) has ἐξ ἧς ἐγεννήθη (by whom was born) rather than μήτηρ (mother).  This affirms that Mary was the ""surrogate"" of the incarnation of G-d rather than His biological mother."
+Mary_1:YHVH_1:5207,5207,Mary_1,bearer,YHVH_1,inferred,MAT 1:16,"The Nestle-Aland (27th Edition) has ἐξ ἧς ἐγεννήθη (by whom was born) rather than μήτηρ (mother). This affirms that Mary was the ""surrogate"" of the incarnation of G-d rather than His biological mother."
+YHVH_1:Mary_1:5208,5208,YHVH_1,born by,Mary_1,explicit,MAT 1:16,"The Nestle-Aland (27th Edition) has ἐξ ἧς ἐγεννήθη (by whom was born) rather than μήτηρ (mother). This affirms that Mary was the ""surrogate"" of the incarnation of G-d rather than His biological mother."
 Herod_1:Archelaus_1:5209,5209,Herod_1,father,Archelaus_1,explicit,MAT 2:22,
 Archelaus_1:Herod_1:5210,5210,Archelaus_1,son,Herod_1,inferred,MAT 2:22,
 Simon_1:Andrew_1:5211,5211,Simon_1,brother,Andrew_1,inferred,MAT 4:18,
@@ -5243,29 +5243,29 @@ YHVH_1:Simon_2:5241,5241,YHVH_1,rabbi,Simon_2,inferred,MAT 10:4,disciple relatio
 Simon_2:YHVH_1:5242,5242,Simon_2,disciple,YHVH_1,explicit,MAT 10:4,disciple relationship noted in MAT 10:1
 YHVH_1:Judas_1:5243,5243,YHVH_1,rabbi,Judas_1,inferred,MAT 10:4,disciple relationship noted in MAT 10:1
 Judas_1:YHVH_1:5244,5244,Judas_1,disciple,YHVH_1,explicit,MAT 10:4,disciple relationship noted in MAT 10:1
-YHVH_1:Simon_1:5245,5245,YHVH_1,master,Simon_1,inferred,MAT 10:2,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+YHVH_1:Simon_1:5245,5245,YHVH_1,master,Simon_1,inferred,MAT 10:2,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"". Someone ""sent"" must have a ""sender""."
 Simon_1:YHVH_1:5246,5246,Simon_1,apostle,YHVH_1,explicit,MAT 10:2,
-YHVH_1:Andrew_1:5247,5247,YHVH_1,master,Andrew_1,inferred,MAT 10:2,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+YHVH_1:Andrew_1:5247,5247,YHVH_1,master,Andrew_1,inferred,MAT 10:2,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"". Someone ""sent"" must have a ""sender""."
 Andrew_1:YHVH_1:5248,5248,Andrew_1,apostle,YHVH_1,explicit,MAT 10:2,
-YHVH_1:James_1:5249,5249,YHVH_1,master,James_1,inferred,MAT 10:2,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+YHVH_1:James_1:5249,5249,YHVH_1,master,James_1,inferred,MAT 10:2,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"". Someone ""sent"" must have a ""sender""."
 James_1:YHVH_1:5250,5250,James_1,apostle,YHVH_1,explicit,MAT 10:2,
-YHVH_1:John_2:5251,5251,YHVH_1,master,John_2,inferred,MAT 10:2,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+YHVH_1:John_2:5251,5251,YHVH_1,master,John_2,inferred,MAT 10:2,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"". Someone ""sent"" must have a ""sender""."
 John_2:YHVH_1:5252,5252,John_2,apostle,YHVH_1,explicit,MAT 10:2,
-YHVH_1:Philip_1:5253,5253,YHVH_1,master,Philip_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+YHVH_1:Philip_1:5253,5253,YHVH_1,master,Philip_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"". Someone ""sent"" must have a ""sender""."
 Philip_1:YHVH_1:5254,5254,Philip_1,apostle,YHVH_1,explicit,MAT 10:3,
-YHVH_1:Bartholomew_1:5255,5255,YHVH_1,master,Bartholomew_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+YHVH_1:Bartholomew_1:5255,5255,YHVH_1,master,Bartholomew_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"". Someone ""sent"" must have a ""sender""."
 Bartholomew_1:YHVH_1:5256,5256,Bartholomew_1,apostle,YHVH_1,explicit,MAT 10:3,
-YHVH_1:Thomas_1:5257,5257,YHVH_1,master,Thomas_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+YHVH_1:Thomas_1:5257,5257,YHVH_1,master,Thomas_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"". Someone ""sent"" must have a ""sender""."
 Thomas_1:YHVH_1:5258,5258,Thomas_1,apostle,YHVH_1,explicit,MAT 10:3,
-YHVH_1:Matthew_1:5259,5259,YHVH_1,master,Matthew_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+YHVH_1:Matthew_1:5259,5259,YHVH_1,master,Matthew_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"". Someone ""sent"" must have a ""sender""."
 Matthew_1:YHVH_1:5260,5260,Matthew_1,apostle,YHVH_1,explicit,MAT 10:3,
-YHVH_1:James_2:5261,5261,YHVH_1,master,James_2,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+YHVH_1:James_2:5261,5261,YHVH_1,master,James_2,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"". Someone ""sent"" must have a ""sender""."
 James_2:YHVH_1:5262,5262,James_2,apostle,YHVH_1,explicit,MAT 10:3,
-YHVH_1:Thaddaeus_1:5263,5263,YHVH_1,master,Thaddaeus_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+YHVH_1:Thaddaeus_1:5263,5263,YHVH_1,master,Thaddaeus_1,inferred,MAT 10:3,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"". Someone ""sent"" must have a ""sender""."
 Thaddaeus_1:YHVH_1:5264,5264,Thaddaeus_1,apostle,YHVH_1,explicit,MAT 10:3,
-YHVH_1:Simon_2:5265,5265,YHVH_1,master,Simon_2,inferred,MAT 10:4,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+YHVH_1:Simon_2:5265,5265,YHVH_1,master,Simon_2,inferred,MAT 10:4,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"". Someone ""sent"" must have a ""sender""."
 Simon_2:YHVH_1:5266,5266,Simon_2,apostle,YHVH_1,explicit,MAT 10:4,
-YHVH_1:Judas_1:5267,5267,YHVH_1,master,Judas_1,inferred,MAT 10:4,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"".  Someone ""sent"" must have a ""sender""."
+YHVH_1:Judas_1:5267,5267,YHVH_1,master,Judas_1,inferred,MAT 10:4,"ἀπόστολος (apostles) and שְּׁלִיחִים (sh'lichiym) both mean ""sent ones"" or ""messengers"". Someone ""sent"" must have a ""sender""."
 Judas_1:YHVH_1:5268,5268,Judas_1,apostle,YHVH_1,explicit,MAT 10:4,
 James_3:YHVH_1:5269,5269,James_3,brother,YHVH_1,explicit,MAT 13:55,"""brother"" here would be ""born of the same womb"", not a biological relation"
 YHVH_1:James_3:5270,5270,YHVH_1,brother,James_3,inferred,MAT 13:55,"""brother"" here would be ""born of the same womb"", not a biological relation"
@@ -5313,7 +5313,7 @@ Elizabeth_1:John_1:5311,5311,Elizabeth_1,mother,John_1,inferred,LUK 1:13,
 John_1:Elizabeth_1:5312,5312,John_1,son,Elizabeth_1,explicit,LUK 1:13,
 Phanuel_1:Anna_1:5313,5313,Phanuel_1,father,Anna_1,inferred,LUK 2:36,
 Anna_1:Phanuel_1:5314,5314,Anna_1,daughter,Phanuel_1,explicit,LUK 2:36,
-Asher_1:Phanuel_1:5315,5315,Asher_1,ancestor,Phanuel_1,inferred,LUK 2:36,
+Asher_1:Phanuel_1:5315,5315,Asher_1,ancestor,Phanuel_1,inferred,LUK 2:36,"implied from Phanuel's tribe field, which matches Asher"
 Phanuel_1:Asher_1:5316,5316,Phanuel_1,descendant,Asher_1,explicit,LUK 2:36,
 Eli_2:Joseph_6:5317,5317,Eli_2,father,Joseph_6,inferred,LUK 3:23,
 Joseph_6:Eli_2:5318,5318,Joseph_6,son,Eli_2,explicit,LUK 3:23,
@@ -5423,11 +5423,11 @@ Lazarus_2:Mary_3:5421,5421,Lazarus_2,brother,Mary_3,explicit,JHN 11:1,
 Mary_3:Lazarus_2:5422,5422,Mary_3,sister,Lazarus_2,inferred,JHN 11:1,
 Clopas_1:Mary_4:5423,5423,Clopas_1,husband,Mary_4,inferred,JHN 19:25,
 Mary_4:Clopas_1:5424,5424,Mary_4,wife,Clopas_1,inferred,JHN 19:25,
-Aaron_1:John_4:5425,5425,Aaron_1,ancestor,John_4,inferred,ACT 4:6,
-John_4:Aaron_1:5426,5426,John_4,descendant,Aaron_1,explicit,ACT 4:6,
-Aaron_1:Alexander_2:5427,5427,Aaron_1,ancestor,Alexander_2,inferred,ACT 4:6,
-Alexander_2:Aaron_1:5428,5428,Alexander_2,descendant,Aaron_1,explicit,ACT 4:6,
-Levi_1:Joseph_12:5429,5429,Levi_1,ancestor,Joseph_12,inferred,ACT 4:36,
+Aaron_1:John_4:5425,5425,Aaron_1,ancestor,John_4,inferred,ACT 4:6,"as a priest, John would have been a descendant of Aaron"
+John_4:Aaron_1:5426,5426,John_4,descendant,Aaron_1,explicit,ACT 4:6,"as a priest, John would have been a descendant of Aaron"
+Aaron_1:Alexander_2:5427,5427,Aaron_1,ancestor,Alexander_2,inferred,ACT 4:6,"as a priest, Alexander would have been a descendant of Aaron"
+Alexander_2:Aaron_1:5428,5428,Alexander_2,descendant,Aaron_1,explicit,ACT 4:6,"as a priest, Alexander would have been a descendant of Aaron"
+Levi_1:Joseph_12:5429,5429,Levi_1,ancestor,Joseph_12,inferred,ACT 4:36,"implied from Joseph's tribe field, which matches Levi"
 Joseph_12:Levi_1:5430,5430,Joseph_12,descendant,Levi_1,explicit,ACT 4:36,
 Ananias_1:Sapphira_1:5431,5431,Ananias_1,husband,Sapphira_1,inferred,ACT 5:1,
 Sapphira_1:Ananias_1:5432,5432,Sapphira_1,wife,Ananias_1,explicit,ACT 5:1,
